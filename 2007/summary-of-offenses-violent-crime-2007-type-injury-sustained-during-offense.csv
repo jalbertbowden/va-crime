@@ -1,0 +1,11 @@
+Type Injury,Aggravated Assault,Forcible Rape,Forcible Sodomy,Sexual Assault with an Object,Forcible Fondliing,Robbery
+None,3398,1188,469,248,2354,6777
+Apparent Broken Bones,550,5,1,1,1,45
+Possible Internal Injury,550,115,26,11,44,86
+Severe Laceration,2446,13,3,3,3,237
+Apparent Minor Injury,3383,399,77,72,190,1761
+Other Major Injury,1342,50,13,10,35,161
+Loss of Teeth,162,0,0,0,1,16
+Unconsciousness,190,16,1,2,2,29
+Total,12021,1786,590,347,2630,9112
+"*Assaults are classified as ‘aggravated’ if a weapon is used, even if there is no injury to the victim. All other violent offenses include attempts.",,,,,,

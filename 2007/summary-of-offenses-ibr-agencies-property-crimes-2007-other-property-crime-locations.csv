@@ -1,0 +1,28 @@
+Locations,Bribery,Burglary,Counterfeit/Forgery,Destruction/Vandalism,Embezzlement,Extortion,Fraud,Stolen Property
+Air/Bus/Train Terminal,0,5,10,150,5,0,42,4
+Bank/Savings and Loan,0,26,1561,114,101,2,1465,9
+Bar/Night Club,0,104,26,274,11,1,561,2
+Church/Synagogue/Temple,0,435,6,850,8,0,17,3
+Commercial/Office Bldg,0,1619,317,2733,350,2,863,26
+Construction Site,0,390,13,1028,10,0,17,4
+Convenience Store,0,583,843,794,317,2,880,22
+Department/Discount Store,0,255,598,601,965,1,1718,75
+Drug Store/Dr Office/Hospital,0,212,284,322,74,4,846,10
+Field/Woods,0,43,7,917,12,0,24,24
+Government/Public Building,1,145,165,859,33,2,222,6
+Grocery/Supermarket,0,112,571,388,109,0,640,22
+Highway/Road/Alley,5,67,437,14901,35,5,1187,631
+Hotel/Motel/Etc.,0,200,45,617,60,3,260,18
+Jail/Prison,0,3,88,79,3,0,78,0
+Lake/Waterway,0,2,0,82,2,0,2,1
+Liquor Store,0,16,14,18,2,0,10,3
+Parking Lot/Garage,1,385,83,15149,48,4,402,275
+Rental Storage Facility,0,265,4,309,16,0,42,27
+Residence/Home,8,22608,859,42169,257,57,7983,310
+Restaurant,0,651,345,974,505,3,820,10
+School/College,0,673,81,3490,33,10,157,52
+Service/Gas Station,0,263,181,564,120,0,493,18
+Specialty Store,0,1014,297,1237,428,2,1077,49
+Other/Unknown,2,1455,638,5761,376,10,3616,195
+Total,17,31531,7473,94380,3880,108,23422,1796
+"*Location of offense for arson, larceny, motor vehicle theft, and robbery can be found in the sections pertaining to these individual offenses.",,,,,,,,
