@@ -1,0 +1,11 @@
+"Age, Gender, and Race of Offender",,,,,,
+Race,Male,,,Female,,
+,0-18,19-35,36+,0-18,19-35,36+
+White,651,1225,959,47,69,29
+Black,547,731,492,27,22,11
+American Indian/Alaskan Native,1,5,3,0,0,0
+Asian/Pacific Islander,11,23,25,0,1,0
+Unknown Race,73,35,22,6,1,0
+Total,1283,2019,1501,80,93,40
+NOTE: ,"Age, gender and race not reported = 158. ",,,,,
+,Age range 0-17 includes unknown age.,,,,,
