@@ -1,0 +1,27 @@
+Relationship of Victim to Offender (may include multiple relationships),Percent
+Spouse,1.7
+Common-Law Spouse,0.1
+Parent,0.6
+Sibling,1.2
+Child,1.8
+Grandparent,0.1
+Grandchild,0.3
+In-Law,0.2
+Stepparent,0.2
+Stepchild,0.6
+Stepsibling,0.2
+Other Family Member,1.8
+Victim Was Offender,1.7
+Acquaintance,14.4
+Friend,2.6
+Neighbor,0.6
+Babysittee (the baby),0.1
+Boyfriend/Girlfriend,4.1
+Child of Boyfriend/Girlfriend,0.2
+Homosexual Relationship,0.1
+Ex-Spouse,0.2
+Employee,0.2
+Employer,0.1
+Otherwise Known,6.6
+Stranger,26.1
+Unknown,34.3
