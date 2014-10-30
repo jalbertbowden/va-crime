@@ -1,0 +1,19 @@
+Point of Entry/Exit During Burglary,Entry,Exit
+Front,20,11
+Rear,11,9
+Side,6,5
+Attic,,
+Vent/AC,,
+Window,6,2
+Door,20,17
+Patio/Sliding Dr,1,
+Balcony/Fire Escape,,
+Attached Garage,1,
+Wall,,
+Vehicle,5,1
+Floor,,
+Roof/Skylight,,
+HiddenWithin,,
+Other,12,6
+Unkown,24,18
+(Up to 2 entry and exit points can be reported for each offense.),,
