@@ -1,0 +1,20 @@
+Weapon,Number of Offenses
+Firearm,2
+Automatic Firearm,0
+Handgun,14
+Automatic Handgun,0
+Rifle,2
+Automatic Rifle,0
+Shotgun,1
+Automatic Shotgun,0
+Other Automatic Firearm,1
+Knife or Cutting Instrument,17
+Blunt Object,9
+Motor Vehicle,56
+Personal Weapon,954
+Asphyxiation,0
+Fire/Incendiary Device,0
+Other Weapon,103
+Unknown/Not reported,5
+None,61
+(Up to 3 types of weapons can be reported for each offense.),
