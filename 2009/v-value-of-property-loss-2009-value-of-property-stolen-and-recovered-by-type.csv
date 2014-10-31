@@ -1,0 +1,45 @@
+Type of Property ,Stolen ,Recovered ,Recovered
+Aircraft,"14,822","$1,100",7.4
+Alcohol,"187,401","21,757",11.6
+Automobiles,"53,196,748","31,980,176",60
+Bicycles,"1,849,834","178,451",10
+Buses,"201,270","201,120",99.9
+Clothing/Furs,"4,257,494","801,141",19
+Computer Hardware/Software ,"16,252,182","849,429",5
+Consumable Goods ,"1,458,874","222,968",15
+Credit/Debit Cards* ,N/A ,N/A ,N/A
+Drugs/Narcotics** ,"1,204,999","882,201",73
+Drug/Narcotic Equipment ,"15,688",858,5.5
+Farm Equipment,"1,512,351","146,596",9.7
+Firearms,"2,864,913","243,706",9
+Gambling Equipment ,"29,625",628,2
+Heavy Construction/Industrial,,,
+Equipment,"4,080,550","579,655",14
+Household Goods,"3,282,732","121,015",4
+Jewelry/Precious Metals ,"31,516,498","2,019,135",6
+Livestock,"187,523","34,461",18
+Merchandise,"4,568,688","667,312",15
+Money,"42,652,906","609,744",1.4
+Negotiable Instruments ,"7,428,402","44,827",1
+Nonnegotiable Instruments* ,N/A ,N/A ,N/A
+Office-Type Equipment ,"499,477","35,181",7
+Other Motor Vehicles ,"8,830,826","2,792,647",32
+Purses/Handbags/Wallets ,"1,616,873","129,788",8
+Radios/TVs/VCRs ,"10,837,830","482,862",4.5
+Recordings-Audio/Visual ,"3,293,391","286,391",9
+Recreational Vehicles ,"2,153,767","1,181,806",55
+Structures-Single  Occupancy ,"145,820",50,<0.1
+Structures-Other Dwellings ,"36,195","12,050",33.3
+Structures-Other Commercial/Business ,"1,775",,--
+Structures-Industrial/Manufacturing,"1,350",0,--
+Structures-Public/Community ,685,0,--
+Structures-Storage ,"19,620",300,2
+Structures-Other,"38,948","1,225",3
+Tools,"12,676,436","515,991",4
+Trucks,"8,318,960","5,107,179",61
+Vehicle Parts/Accessories ,"8,032,362","319,305",4
+Watercraft,"1,031,752","$303,144",$29
+Other,"40,864,209","2,497,366",6.1
+Total,"275,163,776","53,271,565",19.4
+* Credit cards and nonnegotiable instruments have no $ value.,,,
+** $ value for drugs/narcotics are for offenses such as drugs stolen in a burglary or obtained with a fraudulent prescription.,,,
