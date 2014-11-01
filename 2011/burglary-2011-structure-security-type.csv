@@ -1,0 +1,17 @@
+Type Security of Structure,Number
+Alarm/Audio,1104
+Alarm/Silent,199
+Bars/Grate,84
+Camera,444
+Dog,170
+Dead Bolt,2092
+Locked,8907
+Unlocked,2036
+Exterior Lights,181
+Interior Lights,64
+Fence,209
+Guard,40
+Neighborhood Watch,13
+Other,261
+None,2685
+(Up to 2 security types can be reported for each offense.),
