@@ -1,0 +1,11 @@
+Type Injury Sustained By Violent Offense,Aggravated Assault*,Forcible Rape,Forcible Sodomy,Sexual Assault with an Object,Forcible Fondliing,Robbery
+None,2706,1040,489,248,2371,5133
+Apparent Broken Bones,586,2,1,0,0,40
+Possible Internal Injury,456,95,24,20,39,67
+Severe Laceration,2052,7,0,2,1,162
+Apparent Minor Injury,2223,357,84,58,146,1301
+Other Major Injury,1288,51,21,12,35,144
+Loss of Teeth,157,2,1,0,0,15
+Unconsciousness,174,12,2,2,0,32
+Total Injuries ,6936,526,133,94,221,1761
+"*Assaults are classified as ‘aggravated’ if a weapon is used, even if there is no injury to the victim. All other violent offenses include attempts.",,,,,,

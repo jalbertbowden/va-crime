@@ -1,0 +1,11 @@
+"Offender Age, Gender and Race",,,,,,
+Race,Male,,,Female,,
+,0 - 17 ,18 - 35 ,36+ ,0 - 17 ,18 - 35 ,36+
+White ,1650,3353,2045,175,618,318
+Black ,4634,4802,1441,386,934,352
+Am. Ind./Alskn ,2,2,2,0,2,0
+Asian/Pacfc Isl. ,59,62,35,0,3,7
+Unknown Race ,272,59,21,20,6,1
+TOTAL ,6617,8278,3544,581,1563,678
+Note: ,Gender unknown = 1555.,,,,,
+,Age range 0-17 includes unknown age.,,,,,
