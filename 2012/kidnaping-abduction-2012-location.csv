@@ -1,0 +1,27 @@
+Location,Number
+Air/Bus/Train Terminal,0
+Bank/Savings & Loan,5
+Bar/Night Club,2
+Church/Synagogue/Temple,3
+Commercial/Office Building,6
+Construction Site,1
+Convenience Store,11
+Department/Discount Store,10
+Drug Store/Dr Office/Hospital,6
+Field/Woods,14
+Government/Public Building,5
+Grocery/Supermarket,3
+Highway/Road/Alley,178
+Hotel/Motel/Etc.,46
+Jail/Penitentiary,3
+Lake/Waterway,0
+Liquor Store,0
+Parking Lot/Garage,81
+Rental/Storage Facility,2
+Residence/Home,823
+Restaurant,20
+School/College,29
+Service/Gas Station,3
+Specialty Store,6
+Other/Unknown,69
+Total,1326
