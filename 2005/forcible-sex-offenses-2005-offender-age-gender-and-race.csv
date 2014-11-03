@@ -1,0 +1,9 @@
+"Age, Gender, and Race of Offender",,,,,,
+Race,Male,,,Female,,
+,0-18,19-35,36+,0-18,19-35,36+
+White,674,1231,885,58,54,34
+Black,640,798,466,35,15,12
+American Indian/Alaskan Native,0,0,2,0,0,0
+Asian/Pacific Islander,10,21,14,1,0,1
+Unknown,87,32,8,5,1,1
+Total,1411,2082,1375,99,70,48
