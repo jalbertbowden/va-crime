@@ -1,0 +1,9 @@
+"Victim Age, Gender and Race",,,,,,
+Race,Male,,,Female,,
+,0-17,18-35,36+,0-17,18-35,36+
+White,1528,4021,2378,2223,2410,1552
+Black,1337,3271,2009,1322,2008,1065
+American Indian/Alaskan Native,1,18,15,0,5,3
+Asian/Pacific Islander,20,106,99,26,63,65
+Unknown,61,153,58,77,45,15
+Total,2947,7569,4559,3648,4531,2700
