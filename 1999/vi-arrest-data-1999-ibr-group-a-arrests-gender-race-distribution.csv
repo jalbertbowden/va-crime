@@ -1,0 +1,47 @@
+Offenses,Arrested Male,Arrested Female,Male % Crime Distribution,Female % Crime Distribution
+Murder/Nonnegligent Manslaughter ,113,21,0.2,0.12
+Negligent Manslaughter ,8,1,0.02,0.01
+Kidnapping ,259,34,0.47,0.2
+Forcible Rape ,337,3,0.61,0.02
+Forcible Sodomy ,125,5,0.23,0.03
+Sexual Assault with an Object ,80,2,0.15,0.01
+Forcible Fondling ,387,11,0.7,0.06
+Robbery ,711,49,1.28,0.28
+Aggravated Assault ,2998,967,5.4,5.6
+Simple Assault ,15833,5406,28.5,31.28
+Intimidation ,798,235,1.44,1.36
+Arson ,243,26,0.44,0.15
+Extortion/Blackmail ,20,8,0.04,0.05
+Burglary/Breaking & Entering ,2813,346,5.06,2
+Pocket-picking ,134,77,0.24,0.45
+Purse-snatching,20,5,0.04,0.03
+Shoplifting ,3833,2728,6.9,15.78
+Theft from Building ,482,208,0.87,1.2
+Theft from Coin-Operated Machine or Device ,49,4,0.09,0.02
+Theft from Motor Vehicle ,550,38,0.99,0.22
+Theft of Motor Vehicle Parts or Accessories ,109,6,0.2,0.04
+All Other Larceny ,4101,1802,7.38,10.43
+Motor Vehicle Theft ,1411,380,2.54,2.2
+Counterfeiting/Forgery ,1105,832,1.99,4.81
+False Pretenses/Swindle/Confidence Game ,671,528,1.21,3.06
+Credit Card/Automatic Teller Machine Fraud ,104,110,0.19,0.64
+Impersonation ,59,18,0.11,0.11
+Welfare Fraud ,8,32,0.02,0.19
+Wire Fraud ,1,,,
+Embezzlement ,259,385,0.47,2.23
+Stolen Property Offenses ,440,74,0.79,0.43
+DestructionDamage/Vandalism of Property ,2907,502,5.23,2.91
+Drug/Narcotic Violations ,11780,2084,21.21,12.06
+Drug Equipment Violations ,124,28,0.22,0.16
+Incest,4,,0.01,
+Statutory Rape ,68,2,0.12,0.01
+Pornography/Obscene Material ,15,5,0.03,0.03
+Betting/Wagering ,12,,0.02,
+Operating/Promoting/Assisting Gambling ,3,2,0.01,0.01
+Gambling Equipment Violations ,7,,0.01,
+Sports Tampering ,,,,
+Prostitution ,40,88,0.07,0.51
+Assisting or Promoting Prostitution ,19,10,0.04,0.06
+Bribery ,6,5,0.01,0.03
+Weapon Law Violations ,2505,217,4.51,1.26
+Total,55551,17284,100,100
