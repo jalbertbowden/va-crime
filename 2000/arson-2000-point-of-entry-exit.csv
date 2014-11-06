@@ -1,0 +1,17 @@
+Point of Entry/Exit During Arson,Entry,Exit
+Front,29,25
+Rear,25,14
+Side,10,5
+Attic,0,0
+Vent/AC,0,0
+Window,17,10
+Door,47,50
+Patio/Sliding Dr,1,2
+Balcony/Fire Escape,0,0
+Attached Garage Wall,1,1
+Vehicle,12,5
+Floor,0,0
+Roof/Skylight,0,0
+Hidden Within,2,
+Other,12,10
+Unknown,69,61
