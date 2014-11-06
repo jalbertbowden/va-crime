@@ -1,0 +1,18 @@
+Point of Entry/Exit During Vehicle Theft,Entry,Exit
+Front,288,171
+Rear,53,22
+Side,224,98
+Attic,1,2
+Vent/AC,3,0
+Window,159,28
+Door,572,330
+Patio/Sliding Dr,1,3
+Balcony/Fire Escape,2,1
+Attached Garage,7,10
+Wall,0,1
+Vehicle,371,119
+Floor,1,0
+Roof/Skylight,3,0
+Hidden Within,3,2
+Other,85,73
+Unknown,841,497
