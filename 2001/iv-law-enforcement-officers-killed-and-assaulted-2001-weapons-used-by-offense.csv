@@ -1,0 +1,18 @@
+Weapon,Number of Offenses
+Firearm,1
+Automatic Firearm,0
+Handgun,11
+Automatic Handgun,2
+Rifle,3
+Automatic Rifle,0
+Shotgun,3
+Other Automatic Firearm,1
+Knife or cutting instrument,22
+Blunt Object,16
+Motor Vehicle,69
+Personal Weapons,955
+Poison,5
+Drugs/Narcotics,1
+Other,160
+Unknown,109
+None,95
