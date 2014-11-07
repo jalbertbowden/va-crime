@@ -1,0 +1,22 @@
+Type of Weapon/Force,Murder/Nonnegligent Manslaughter,Aggravated Assault,Forcible Rape,Forcible Sodomy,Sexual Assault with an Object,Forcible Fondling,Robbery
+Firearm (type unk.),224,602,7,2,1,2,581
+Automatic Firearm,7,44,0,0,0,1,141
+Handgun,114,726,32,5,0,8,2034
+Automatic Handgun,11,80,6,1,0,0,380
+Rifle,5,51,0,0,0,0,43
+Automatic Rifle,0,4,0,0,0,0,5
+Shotgun,16,59,1,1,0,0,117
+Automatic Shotgun,0,2,0,0,0,0,1
+Other Firearm,5,115,0,1,0,0,29
+Other Auto. Firearm,0,1,0,0,0,0,3
+Knife/Cutting Instr.,42,2048,53,12,1,10,526
+Blunt Object,13,1254,10,4,2,4,172
+Motor Vehicle,6,353,0,0,0,0,9
+Personal Weapons,19,3121,1070,417,194,1448,1663
+Poison,0,16,0,0,0,0,0
+Explosives,0,6,0,0,0,0,0
+Fire/Incend. Device,7,17,1,0,0,0,1
+Drugs/Narc./Sleep Pills,4,7,6,0,1,1,2
+Asphyxiation,1,4,0,2,0,0,1
+Other,7,1223,148,67,24,233,302
+Unknown,48,382,106,32,26,157,381
