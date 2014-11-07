@@ -1,0 +1,43 @@
+Type of Property,Burned,Counterfeited/Forged,Destroyed/Damaged/Vandalized,Recovered,Seized,Stolen
+Aircraft,0,0,0,0,0,0
+Alcohol,0,,1,"53,553",0,"231,505"
+Automobiles,0,0,"2,509","56,351,510",,"88,633,727"
+Bicycles,0,0,2,"172,911",,"1,578,188"
+Buses,0,0,0,"138,832",,"167,882"
+Clothing/Furs,0,0,428,"530,350",,"3,079,798"
+Computer Hardware/Software,0,0,201,"604,503",,"10,373,495"
+Consumable Goods,0,0,33,"134,366",1,"2,655,611"
+Credit/Debit Cards,0,0,0,0,0,0
+Drugs/Narcotics,0,0,0,"23,687",5,"857,164"
+Drug/Narcotic Equipment,0,0,0,455,1,"16,142"
+Farm Equipment,0,0,350,"144,351",0,"1,156,694"
+Firearms,0,0,0,"225,369",0,"2,232,263"
+Gambling Equipment,0,0,0,681,0,"18,405"
+Heavy Construction/Industrial Equipment,0,0,,"788,443",0,"5,062,792"
+Household Goods,0,0,"2,314","125,260",0,"3,043,935"
+Jewelry/Precious Metals,0,0,0,"2,226,127",0,"20,303,867"
+Livestock,0,0,0,"34,656",0,"243,282"
+Merchandise,0,0,1,"754,052",0,"4,861,235"
+Money,0,1,30,"838,413",32,"33,061,434"
+Negotiable Instruments,0,"9,623",0,"163,954",0,"4,610,433"
+Nonnegotiable Instruments,0,0,0,0,0,0
+Office-type Equipment,0,0,"3,235","86,429",0,"702,018"
+Other Motor Vehicles,0,0,0,"3,381,582",0,"9,217,536"
+Purses/Handbags/Wallets,0,0,1,"82,008",0,"774,518"
+Radios/TVs/VCRs,0,0,952,"379,999",3,"8,380,380"
+Recordings-Audio/Visual,0,0,2,"596,395",1,"7,050,507"
+Recreational Vehicles,0,0,0,"1,441,053",0,"2,805,861"
+Structures-Single Occupancy,0,0,1,0,0,0
+Structures-Other Dwellings,0,0,0,0,0,0
+Structures-Other Commercial/Business,0,0,,0,0,0
+Structures-Industrial/Manufacturing,0,0,0,0,0,0
+Structures-Public/Community,0,0,0,0,0,0
+Structures-Storage,0,0,0,"5,026",0,"15,220"
+Structures-Other,0,0,1,"1,320",0,"165,687"
+Tools,0,0,700,"497,198",,"10,840,477"
+Trucks,0,0,1,"7,822,506",0,"12,202,888"
+Vehicle Part/Accessories,0,0,"19,562","235,230",0,"9,318,105"
+Watercraft,0,0,1,"127,077",0,"630,241"
+Other,0,165,"17,593","2,326,712",4,"31,330,659"
+TOTAL,0,"$9,789","$47,918","$80,294,008",$47,"$275,621,949"
+The number 1 is placed in the value of property field when the actual dollar value is not known.,,,,,,
