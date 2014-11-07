@@ -1,0 +1,30 @@
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Arson,146,103,153,160,164,146,154,143,109,161,178,171
+Assaults,6902,6069,7537,7591,7829,7757,7776,7475,7757,7875,6751,6280
+Bribery,0,0,0,5,0,1,1,1,2,2,0,0
+Burglary,2295,2058,2358,2251,2544,2567,2661,2823,2481,2717,2541,2682
+Counterfeiting,823,624,678,767,760,697,736,658,620,651,625,606
+Destruction,7054,5814,7144,7225,7298,7824,8552,8497,7318,8283,7925,7213
+Drug,2800,2755,3129,2980,2924,2909,2865,2828,2621,2573,2438,2388
+Embezzlement,296,229,255,265,295,278,301,289,227,252,231,220
+Extortion,4,4,6,5,10,10,4,8,4,10,4,2
+Fraud,1138,968,1018,1004,1064,1008,996,1081,919,1116,1063,999
+Gambling,5,1,3,2,6,0,3,6,7,4,3,1
+Homicide,31,17,28,27,27,25,33,31,30,31,29,36
+Kidnapping,93,58,74,70,80,109,98,111,107,131,95,104
+Larceny,13178,11400,13347,13447,14138,14934,15620,15962,14276,15442,14106,13610
+MV Theft,1338,1069,1344,1315,1465,1596,1736,2004,1611,1829,1562,1388
+Pornography,11,11,10,10,6,10,9,12,5,15,11,5
+Prostitution,68,37,73,56,68,89,67,81,68,61,54,31
+Robbery,561,442,481,540,516,520,487,550,556,703,608,645
+Forcible Sex,414,325,409,441,408,436,461,448,358,364,363,297
+Nonforcible Sex,29,24,22,16,27,32,25,25,17,12,19,12
+Stolen Property,127,98,83,91,102,101,97,121,94,97,102,119
+Weapon Laws,782,619,753,704,743,694,769,740,643,700,677,663
+Group A Offenses,38095,32725,38905,38972,40474,41743,43451,43794,39830,43029,39385,37472
+Group A Incidents,33321,28851,34368,34614,35699,36794,38278,38352,34988,37712,34331,32540
+"Assaults include aggravated and simple assaults, and intimidation.",,,,,,,,,,,,
+"Homicide includes, murder/nonnegligent manslaughter and negligent manslaughter.",,,,,,,,,,,,
+"Forcible Sex includes rape, sodomy, sexual assault with object, and forcible fondling.",,,,,,,,,,,,
+Nonforcible Sex includes incest and statutory rape.,,,,,,,,,,,,
+"These crime counts represent offenses reported in an incident, not victims of each offense",,,,,,,,,,,,
