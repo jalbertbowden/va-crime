@@ -1,0 +1,43 @@
+Type of Property,Burned,Counterfeited/Forged,Destroyed/Damaged/Vandalized,Recovered,Seized,Stolen
+Aircraft,0,0,0,0,0,"14,377"
+Alcohol,0,,0,"13,964",0,"163,867"
+Automobiles,0,0,"1,504","51,042,749",,"81,062,118"
+Bicycles,0,0,2,"154,329",,"1,475,140"
+Buses,0,0,0,"25,001",,"25,321"
+Clothing/Furs,0,0,1,"464,406",,"4,890,687"
+Computer Hardware/Software,0,0,"5,513","463,728",,"12,048,295"
+Consumable Goods,0,0,,"134,354",1,"2,172,691"
+Credit/Debit Cards,0,0,0,0,0,0
+Drugs/Narcotics,0,0,1,"14,112",2,"260,784"
+Drug/Narcotic Equipment,0,0,0,324,2,"7,794"
+Farm Equipment,0,0,0,"119,633",0,"1,008,191"
+Firearms,0,0,0,"195,921",0,"2,116,817"
+Gambling Equipment,0,0,0,,0,"10,591"
+Heavy Construction/Industrial Equipment,0,0,250,"1,053,935",0,"6,025,099"
+Household Goods,0,0,"5,271","97,569",1,"3,355,482"
+Jewelry/Precious Metals,0,1,1,"1,091,172",,"22,710,380"
+Livestock,0,0,0,"26,011",0,"213,428"
+Merchandise,0,0,1,"2,069,101",0,"6,340,588"
+Money,0,,,"1,598,348",0,"43,287,139"
+Negotiable Instruments,0,"3,609",0,"96,032",0,"6,044,431"
+Nonnegotiable Instruments,0,0,0,0,0,0
+Office-type Equipment,0,0,400,"29,084",0,"1,224,455"
+Other Motor Vehicles,0,0,0,"3,904,366",0,"10,487,509"
+Purses/Handbags/Wallets,0,0,0,"88,168",1,"833,573"
+Radios/TVs/VCRs,0,0,481,"340,433",0,"7,048,259"
+Recordings-Audio/Visual,0,0,102,"198,846",0,"4,860,169"
+Recreational Vehicles,0,0,0,"1,122,829",0,"2,611,572"
+Structures-Single Occupancy,0,0,1,0,0,0
+Structures-Other Dwellings,0,0,150,0,0,0
+Structures-Other Commercial/Business,0,0,,0,0,0
+Structures-Industrial/Manufacturing,0,0,0,0,0,0
+Structures-Public/Community,0,0,0,0,0,0
+Structures-Storage,0,0,0,,0,"3,839"
+Structures-Other,0,0,,"3,950",0,"84,890"
+Tools,0,0,418,"448,756",,"11,845,697"
+Trucks,0,0,1,"7,983,693",0,"15,224,076"
+Vehicle Part/Accessories,0,0,"18,742","443,320",0,"7,666,085"
+Watercraft,0,0,0,"457,565",0,"995,611"
+Other,0,44,"20,896","3,973,338",4,"30,154,500"
+TOTAL,0,"$3,654","$53,735","$77,655,037",$11,"$286,273,455"
+The number 1 is placed in the value of property field when the actual dollar value is not known.,,,,,,
