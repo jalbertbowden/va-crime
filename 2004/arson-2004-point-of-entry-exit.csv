@@ -1,0 +1,18 @@
+Point of Entry/Exit During Burglary,Entry,Exit
+Front,16,12
+Rear,10,5
+Side,5,2
+Attic,,
+Vent/AC,,
+Window,10,1
+Door,23,22
+Patio/Sliding Dr,,
+Balcony/Fire Escape,1,1
+Attached Garage,,
+Wall,1,1
+Vehicle,3,1
+Floor,,
+Roof/Skylight,,
+Hidden Within,,
+Other,11,7
+Unknown,54,50
