@@ -1,0 +1,19 @@
+Offense Category,Hate Bias Category,,,,
+,Racial,Religious,Ethnicity,Sexual Orientation,Disability
+Arson,1,3,,1,
+Assault,90,10,16,21,5
+Burglary,8,3,,,1
+Counterfeiting,,,2,,1
+Damage/Vandal,75,24,15,12,6
+Drug/Narc,3,,6,,2
+Embezzlement,3,,,,
+Extortion,1,,,,
+Fraud,1,2,,,
+Kidnapping,,,,1,
+Larceny,15,3,7,,1
+Motor Vehicle Theft,,1,1,1,
+Robbery,2,,,2,1
+Forcible Sex,1,,,2,1
+Stolen Property,,,1,,2
+All Other,5,,1,,2
+Total,205,46,49,40,22
