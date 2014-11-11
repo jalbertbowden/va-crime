@@ -1,0 +1,19 @@
+Point of Entry/Exit,Entry,Exit
+Front,3875,3308
+Rear,5373,4176
+Side,1760,1100
+Attic,19,11
+Vent/AC,105,39
+Window,3919,1238
+Door,6677,7136
+Patio/Sliding Dr,474,421
+Balcony/Fire Escape,30,12
+Attached Garage,397,286
+Wall,41,23
+Vehicle,4,7
+Floor,18,14
+Roof/Skylight,52,23
+Hidden Within,4,5
+Other,420,244
+Unknown,859,1295
+(Up to 2 entry and exit points can be reported for each offense.),,
