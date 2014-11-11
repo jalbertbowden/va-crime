@@ -1,0 +1,32 @@
+Location,Murder/Nonnegligent Manslaughter,Aggravated Assault,Forcible Rape,Forcible Sodomy,Sexual Assault with an Object,Forcible Fondling,Robbery
+Air/Bus/Train Terminal ,0,13,1,4,0,11,13
+Bank/Savings & Loan,0,2,0,0,0,0,164
+Bar/Night Club,3,151,4,2,0,9,9
+Camp/Campground,0,7,1,0,2,2,0
+Church/Synagogue/Temple,1,14,2,2,0,10,9
+Commercial/Office Building,0,39,7,2,3,21,42
+Construction Site,0,4,0,0,0,0,1
+Convenience Store,3,80,0,1,1,9,342
+Daycare Facility,0,2,0,2,0,12,0
+Department/Discount Store,0,32,1,1,3,15,73
+Drug Store/Dr Office/Hospital,1,47,9,3,4,41,45
+Field/Woods,10,80,46,10,9,23,91
+Government/Public Building,0,46,9,3,4,23,13
+Grocery/Supermarket,2,13,1,0,0,4,47
+Highway/Road/Alley,62,1672,46,18,10,125,1414
+Hotel/Motel/Etc.,9,112,70,21,6,36,159
+Jail/Penitentiary,0,49,1,5,0,13,1
+Lake/Waterway,0,11,2,2,0,3,2
+Liquor Store,0,0,0,0,0,0,1
+Park/Playground,3,61,9,3,4,17,62
+Parking Lot/Garage,22,565,48,13,3,45,612
+Rental/Storage Facility,0,6,3,1,0,2,2
+Residence/Home,161,4302,1019,403,215,1549,972
+Restaurant,3,96,7,3,1,27,125
+School - College,1,24,25,4,1,30,13
+School - Elem./Secondary,0,118,14,19,5,126,30
+Service/Gas Station,1,22,2,0,0,3,91
+Shopping Mall,0,6,0,0,1,3,25
+Specialty Store,0,19,1,2,0,14,90
+Other/Unknown,12,196,83,19,19,173,107
+TOTAL,294,7789,1411,543,291,2346,4555
