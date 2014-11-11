@@ -1,0 +1,18 @@
+Point of Entry/Exit,Entry,Exit
+Front,5082,4046
+Rear,4753,3457
+Side,1832,1063
+Attic,34,20
+Vent/AC,69,30
+Window,4018,1582
+Door,6575,7203
+Patio/Sliding Dr,290,301
+Balcony/Fire Escape,30,26
+Attached Garage,350,246
+Wall,73,49
+Vehicle,5,9
+Floor,11,11
+Roof/Skylight,74,34
+Hidden Within,4,3
+Other,405,210
+Unknown,1205,1508
