@@ -1,0 +1,11 @@
+"Victim Age, Gender and Race",,,,,,
+Race,Male,,,Female,,
+,0-17,18-35,36+,0-17,18-35,36+
+White ,467,1456,1009,237,839,659
+Black ,386,1445,836,218,884,440
+Am. Ind./Alskn ,0,5,1,0,2,3
+Asian/Pacfc Isl. ,7,27,15,2,20,10
+Unknown Race ,27,20,8,14,11,6
+TOTAL ,887,2953,1869,471,1756,1118
+Note: ,Gender unknown = 42.,,,,,
+,Age range 0-17 includes unknown age. ,,,,,
