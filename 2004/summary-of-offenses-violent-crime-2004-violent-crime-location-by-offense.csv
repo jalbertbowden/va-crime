@@ -1,0 +1,27 @@
+Location,Murder/Nonnegligent Manslaughter,Aggravated Assault,Forcible Rape,Forcible Sodomy,Sexual Assault with an Object,Forcible Fondling,Robbery
+Air/Bus/Train Terminal,0,21,1,0,0,14,13
+Bank/Savings & Loan,1,1,0,0,0,1,223
+Bar/Night Club,1,219,5,0,1,15,29
+Church/Synagogue/Temple,0,17,3,3,2,9,14
+Commercial/Office Building,1,63,5,4,2,17,100
+Construction Site,1,17,3,0,0,1,1
+Convenience Store,1,106,4,0,2,14,495
+Department/Discount Store,1,47,0,2,3,23,77
+Drug Store/Dr Office/Hospital,1,44,10,4,4,16,52
+Field/Woods,11,134,67,12,6,39,113
+Government/Public Building,0,54,13,9,2,15,24
+Grocery/Supermarket,0,33,1,0,2,4,106
+Highway/Road/Alley,110,2329,108,29,8,90,2247
+Hotel/Motel/Etc.,4,135,96,77,31,204,
+Jail/Penitentiary,2,107,3,13,2,11,2
+Lake/Waterway,1,11,6,0,0,5,12
+Liquor Store,0,2,0,0,0,1,11
+Parking Lot/Garage,31,770,45,13,7,60,998
+Rental/Storage Facility,0,3,1,0,0,3,3
+Residence/Home,170,4937,1167,435,217,1498,1306
+Restaurant,2,98,5,1,3,18,244
+School/College,2,275,45,14,21,202,62
+Service/Gas Station,2,47,1,0,1,9,180
+Specialty Store,2,18,0,2,2,6,164
+Other/Unknown,12,346,116,51,16,170,228
+TOTAL,356,9834,1705,669,332,2445,6704
