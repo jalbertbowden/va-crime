@@ -1,0 +1,42 @@
+Locations,Bribery,Burglary,Counterfeit/Forgery,Destruction/Vandalism,Embezzlement,Extortion,Fraud,Stolen Property
+Abandoned/Condemned Struc. ,0,37,0,69,1,0,1,2
+Air/Bus/Train Terminal ,0,3,7,108,2,0,32,2
+Amusement Park ,0,2,1,8,5,0,7,0
+Arena/Stadium ,0,10,16,28,2,0,8,0
+ATM Seperate from Bank ,0,0,26,4,1,0,56,0
+Auto Dealership ,0,40,12,89,16,0,65,2
+Bank/Savings & Loan ,0,11,1173,80,46,0,1858,7
+Bar/Night Club ,0,36,43,196,15,0,385,4
+Camp/Campground ,0,20,0,40,0,0,5,0
+Church/Synagogue/Temple ,0,286,6,539,11,0,21,2
+Commercial/Office Building ,1,931,131,1519,279,7,589,22
+Construction Site ,1,146,0,349,7,0,8,3
+Convenience Store ,0,279,597,563,192,3,1188,26
+Daycare Facility ,0,17,2,33,2,0,6,1
+Department/Discount Store ,0,161,476,386,701,2,2476,39
+Dock/Freight Terminal ,0,7,1,17,1,0,3,0
+Drug Store/Dr Office/Hospital ,0,120,241,265,66,4,846,6
+Farm Facility ,0,39,2,43,1,0,4,2
+Field/Woods ,0,20,4,588,3,0,33,16
+Gambling Facility ,0,1,1,2,1,0,1,0
+Government/Public Building ,6,105,338,564,35,5,375,4
+Grocery/Supermarket ,0,41,388,208,90,2,957,14
+Highway/Road/Alley ,7,54,503,9986,43,1,1259,552
+Hotel/Motel/Etc. ,0,109,37,565,35,1,283,15
+Industrial Site ,1,61,4,83,15,0,15,4
+Jail/Penitentiary ,2,1,77,101,9,1,51,1
+Lake/Waterway ,0,8,2,53,0,0,13,4
+Liquor Store ,0,21,19,21,6,0,39,2
+Park/Playground ,0,30,6,465,1,0,22,3
+Parking Lot/Garage ,1,221,126,9860,66,4,433,164
+Rental/Storage Facility ,0,177,5,188,4,0,45,6
+Residence/Home ,4,21122,644,29621,231,88,12748,301
+Rest Area ,0,1,0,5,0,0,1,0
+Restaurant ,0,351,344,673,297,3,992,11
+School-College ,0,213,43,647,7,3,78,11
+School-Elem./Secondary ,1,144,36,1047,11,4,35,24
+Service/Gas Station ,0,185,157,316,72,1,540,13
+Shopping Mall ,0,56,30,117,56,0,164,9
+Specialty Store ,0,616,184,690,239,2,1567,59
+Other/Unknown ,0,618,325,2192,188,13,2926,76
+Total ,24,26300,6007,62328,2757,144,30135,1407
