@@ -1,5 +1,4 @@
-Criminal Offenses - Reported by Local & State Police
-Survey year,Unitid,Institution name,Campus ID, Campus Name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Sex offenses - Non-forcible,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Murder/Non-Negligent Manslaughter,Negligent Manslaughter,Sex Offenses - Forcible,Sex Offenses - Non-Forcible,Robbery,Aggravated Assault,Burglary,Motor Vehicle Theft,Arson
 2001,231828,Bryant & Stratton College-Richmond,1,Richmond Campus,295,0,0,0,0,0,0,0,0,0
 2001,231785,Bryant & Stratton College-Virginia Beach,1,Main Campus,297,0,0,0,0,0,0,0,0,0
 2001,232186,George Mason University,1,Main Campus,24897,0,0,0,0,2,1,16,24,0
