@@ -21,7 +21,7 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2001,231554,Bluefield College,1,Main Campus,851,0,0,0
 2001,233356,Bon Secours Memorial College of Nursing,1,Main Campus,110,0,0,0
 2001,231572,Braxton School,1,Braxton School,47,0,0,0
-2001,231581,Bridgewater College,1,Main Campus,1260,0,0,0
+2001,231581,Bridgewater College,1,Main Campus,1260,0,3,0
 2001,231828,Bryant & Stratton College-Richmond,1,Richmond Campus,295,0,0,0
 2001,231785,Bryant & Stratton College-Virginia Beach,1,Main Campus,297,0,0,0
 2001,441858,Career Training Solutions,1,Main Campus,,0,0,0
@@ -35,7 +35,7 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2001,232016,Centura College-Virginia Beach,1,Centura College,245,0,0,0
 2001,427894,CET-Alexandria,1,Branch,97,0,0,0
 2001,231712,Christopher Newport University,1,Main Campus,5388,0,0,0
-2001,231624,College of William and Mary,1,Main Campus,7489,0,0,0
+2001,231624,College of William and Mary,1,Main Campus,7489,4,18,6
 2001,377403,Colonial Heights Beauty Academy,1,Main Campus,30,0,0,0
 2001,231873,Dabney S Lancaster Community College,1,Main Campus,1265,0,0,0
 2001,231882,Danville Community College,1,Main Campus,3473,0,0,0
@@ -53,44 +53,44 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2001,248934,ECPI University,5,ECPI University - Greenville,3132,0,0,0
 2001,248934,ECPI University,6,ECPI University - Manassas,3132,0,0,0
 2001,248934,ECPI University,7,ECPI - Dulles,3132,0,0,0
-2001,232025,Emory & Henry College,1,Main Campus,1079,0,0,0
-2001,437149,ESI TECHNOLOGY TRAINING CENTER,1,ESI TECHNOLOGY TRAINING CENTER,130,0,0,0
+2001,232025,Emory & Henry College,1,Main Campus,1079,0,0,1
+2001,437149,ESI Technology Training Center,1,ESI Technology Training Center,130,0,0,0
 2001,442310,Everest College-Arlington,1,Everest College,,0,0,0
 2001,438647,Everest College-Chesapeake,1,Branch Campus,1011,0,0,0
 2001,232502,Everest College-Newport News,1,Main Campus,766,0,0,0
-2001,232089,Ferrum College,1,Ferrum College,920,0,2,0
+2001,232089,Ferrum College,1,Ferrum College,920,0,2,6
 2001,233329,Fortis College-Norfolk,1,Main Campus,230,0,0,0
 2001,382957,Fortis College-Richmond,1,Fortis College - Richmond,96,0,0,0
-2001,232186,George Mason University,1,Main Campus,24897,0,0,0
+2001,232186,George Mason University,1,Main Campus,24897,4,23,28
 2001,232195,Germanna Community College,1,Locust Grove Campus,4270,0,0,0
 2001,232195,Germanna Community College,2,Fredericksburg Area Campus,4270,0,0,0
 2001,406495,Graham Webb International Academy of Hair,1,Main Campus,133,0,0,0
-2001,232256,Hampden-Sydney College,1,Main Campus,1026,0,0,0
-2001,232265,Hampton University,1,Main Campus,5787,0,0,0
+2001,232256,Hampden-Sydney College,1,Main Campus,1026,0,12,15
+2001,232265,Hampton University,1,Main Campus,5787,1,1,2
 2001,431266,Henrico County-Saint Marys Hospital School of Practical Nursing,1,Main Campus,101,0,0,0
 2001,233189,Heritage Institute,1,Main Campus,189,0,0,0
 2001,377421,Heritage Institute-Manassas,1,Heritage Institute Manassas,112,0,0,0
 2001,232292,Hicks Academy of Beauty Culture,1,Hicks Academy of Beauty Culture,48,0,0,0
-2001,232308,Hollins University,1,Hollins University,1091,0,0,0
+2001,232308,Hollins University,1,Hollins University,1091,0,0,13
 2001,418977,INTERNATIONAL BEAUTY SCHOOL,1,INTERNATIONAL BEAUTY SCHOOL,24,0,0,0
 2001,368601,ITT Technical Institute-Norfolk,1,Main Campus,381,0,0,0
 2001,437051,ITT Technical Institute-Richmond,1,Main Campus,222,0,0,0
 2001,232414,J Sargeant Reynolds Community College,1,Parham Road Campus,11079,0,0,0
 2001,232414,J Sargeant Reynolds Community College,2,Downtown Campus,11079,0,0,0
 2001,232414,J Sargeant Reynolds Community College,3,Goochland Campus,11079,0,0,0
-2001,232423,James Madison University,1,Main Campus-Harrisonburg,15562,0,0,1
+2001,232423,James Madison University,1,Main Campus-Harrisonburg,15562,0,54,93
 2001,232423,James Madison University,2,Madison House (London Semester - Branch Campus),15562,0,0,0
-2001,231837,Jefferson College of Health Sciences,1,JCHS Main Campus,648,0,0,0
+2001,231837,Jefferson College of Health Sciences,1,JCHS Main Campus,648,0,0,1
 2001,231837,Jefferson College of Health Sciences,2,Roanoke Higher Education Ctr,648,0,0,0
 2001,232450,John Tyler Community College,1,Main Campus,5548,0,0,0
 2001,232450,John Tyler Community College,2,Featherstone,5548,0,0,0
 2001,232450,John Tyler Community College,3,Midlothian,5548,0,0,0
-2001,232469,JOHNSON & WALES UNIVERSITY-NORFOLK,1,JOHNSON & WALES UNIVERSITY-NORFOLK,635,0,0,0
+2001,232469,Johnson & Wales University - Norfolk,1,Johnson & Wales University - Norfolk,635,0,0,0
 2001,232557,Liberty University,1,Main Campus,6162,0,0,0
-2001,232566,Longwood University,1,Main Campus,4114,0,0,6
+2001,232566,Longwood University,1,Main Campus,4114,0,1,59
 2001,232575,Lord Fairfax Community College,1,Middletown,4191,0,0,0
 2001,232575,Lord Fairfax Community College,2,Fauquier,4191,0,0,0
-2001,232609,Lynchburg College,1,Main Campus,1937,0,0,0
+2001,232609,Lynchburg College,1,Main Campus,1937,0,3,1
 2001,232618,Lynchburg General Hospital School of Nursing,1,Centra College of Nursing,202,0,0,0
 2001,232672,Mary Baldwin College,1,Main Campus,1564,0,0,0
 2001,232706,Marymount University,1,Marymount University,3475,0,0,0
@@ -102,34 +102,34 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2001,232788,Mountain Empire Community College,1,Main Campus,2916,0,0,0
 2001,419004,New Horizons Regional Education Center School of Practical Nursing,1,New Horizons Regional Education Center School of Practical Nursing,49,0,0,0
 2001,232867,New River Community College,1,Main Campus,3947,0,0,0
-2001,433299,NNPS RRMC SCHOOL OF PRACTICAL NURSING,1,NNPS RRMC SCHOOL OF PRACTICAL NURSING,34,0,0,0
-2001,233417,NNPS RRMC SCHOOL OF RADIOLOGIC TECHNOLOGY,1,NNPS RRMC SCHOOL OF RADIOLOGIC TECHNOLOGY,15,0,0,0
-2001,232937,Norfolk State University,1,Norfolk State University,6721,0,1,0
+2001,433299,NNPS RRMC School of Practical Nursing,1,NNPS RRMC School of Practical Nursing,34,0,0,0
+2001,233417,NNPS RRMC School of Radiologic Technology,1,NNPS RRMC School of Radiologic Technology,15,0,0,0
+2001,232937,Norfolk State University,1,Norfolk State University,6721,1,4,2
 2001,232946,Northern Virginia Community College,1,Annandale Campus,38159,0,0,0
 2001,232946,Northern Virginia Community College,2,Alexandria Campus,38159,0,0,0
-2001,232946,Northern Virginia Community College,3,Loudoun Campus,38159,0,0,0
+2001,232946,Northern Virginia Community College,3,Loudoun Campus,38159,0,1,0
 2001,232946,Northern Virginia Community College,4,Manassas Campus,38159,0,0,0
 2001,232946,Northern Virginia Community College,5,Woodbridge Campus,38159,0,0,0
-2001,232982,Old Dominion University,1,Old Dominion University,19627,0,0,0
+2001,232982,Old Dominion University,1,Old Dominion University,19627,1,2,5
 2001,233019,Patrick Henry Community College,1,Main Campus,3024,0,0,0
 2001,233037,Paul D Camp Community College,1,Franklin Campus,1492,0,0,0
 2001,233037,Paul D Camp Community College,2,Hobbs Suffolk Campus,1492,0,0,0
 2001,233116,Piedmont Virginia Community College,1,MAIN CAMPUS,4171,0,0,0
-2001,233277,Radford University,1,Main Campus,9142,0,0,0
+2001,233277,Radford University,1,Main Campus,9142,1,10,36
 2001,233301,Randolph College,1,RANDOLPH COLLEGE,727,0,0,0
-2001,233295,Randolph-Macon College,1,Main Campus,1150,0,0,2
+2001,233295,Randolph-Macon College,1,Main Campus,1150,0,0,0
 2001,233310,Rappahannock Community College,1,Glenns Campus,2058,0,0,0
 2001,231651,Regent University,1,Main Campus,2689,0,0,0
 2001,231651,Regent University,2,Regent University- DC Campus,2689,0,0,0
 2001,233338,Richard Bland College of the College of William and Mary,1,Richard Bland College of the College of William and Mary,1304,0,0,0
 2001,437769,Richmond School of Health and Technology,1,Chester Career College,,0,0,0
 2001,233408,Riverside School of Health Careers,1,Main Campus,136,0,0,0
-2001,233426,Roanoke College,1,Main Campus,1790,0,0,0
+2001,233426,Roanoke College,1,Main Campus,1790,0,29,0
 2001,441876,Rudy & Kelly Academy of Hair and Nails,1,RUDY & KELLY ACADEMY -Paul Mitchell Partner School,,0,0,0
-2001,233499,Saint Pauls College,1,Saint Paul's College,555,0,0,0
+2001,233499,Saint Pauls College,1,Saint Paul's College,555,2,4,2
 2001,234216,Sanford-Brown College-Tysons Corner,1,Sanford-Brown College,478,0,0,0
 2001,232885,Sentara College of Health Sciences,1,Main Campus,86,0,0,0
-2001,233541,Shenandoah University,1,Main Campus,2451,0,0,1
+2001,233541,Shenandoah University,1,Main Campus,2451,0,1,2
 2001,261931,Skyline College-Roanoke,1,Skyline College - Roanoke,354,0,0,0
 2001,233611,Southern Virginia University,1,Main Campus,445,0,0,0
 2001,233082,Southside Regional Medical Center Professional Schools,1,SRMC Professional Schools,84,0,0,0
@@ -137,28 +137,28 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2001,233648,Southwest Virginia Community College,1,Main Campus,4192,0,0,0
 2001,233657,Springfield Beauty Academy,1,Annandale Campus,95,0,0,0
 2001,233666,Staunton School of Cosmetology,1,Main Campus,25,0,0,0
-2001,438498,Stratford University,1,Main Campus,686,0,0,0
+2001,438498,Stratford University,1,Main Campus,686,0,1,0
 2001,233684,Strayer University-Virginia,1,Arlington,,0,0,0
 2001,231721,Suffolk Beauty Academy,1,Main Campus,35,0,0,0
 2001,232593,Suffolk Public Schools-Sentara Obici Hospital School of Practical Nursing,1,Main Campus,51,0,0,0
-2001,233718,Sweet Briar College,1,Main Campus,738,0,0,0
+2001,233718,Sweet Briar College,1,Main Campus,738,0,1,4
 2001,233286,Sylvain Melloul International Hair Academy,1,Main Campus,43,0,0,0
 2001,248970,TESST College of Technology-Alexandria,1,Main Campus,311,0,0,0
 2001,440341,The Art Institute of Washington,1,The Art Institute of Washington,146,0,0,0
-2001,233897,The University of Virginia's College at Wise,1,University of VA's College at Wise,1480,0,0,0
-2001,233754,Thomas Nelson Community College,1,Main Campus,7885,0,0,0
+2001,233897,The University of Virginia's College at Wise,1,University of VA's College at Wise,1480,0,3,8
+2001,233754,Thomas Nelson Community College,1,Main Campus,7885,0,3,0
 2001,233772,Tidewater Community College,1,Norfolk Campus,21279,0,0,0
 2001,233772,Tidewater Community College,2,Chesapeake Campus,21279,0,0,0
-2001,233772,Tidewater Community College,3,Regional Workforce Development Center,21279,0,0,0
+2001,233772,Tidewater Community College,3,Regional Workforce Development Center,21279,0,4,0
 2001,233772,Tidewater Community College,4,Virginia Beach Campus,21279,0,0,0
 2001,233772,Tidewater Community College,5,Visual Arts Center,21279,0,0,0
 2001,232919,Tidewater Tech-Trades,1,Main Campus,88,0,0,0
 2001,233842,Union Presbyterian Seminary,1,Main Campus,339,0,0,0
-2001,232681,University of Mary Washington,1,University of Mary Washington,4481,0,0,0
+2001,232681,University of Mary Washington,1,University of Mary Washington,4481,0,0,2
 2001,442189,University of Phoenix-Northern Virginia Campus,1,Reston Campus,,0,0,0
-2001,233374,University of Richmond,1,Main Campus,4369,0,0,3
+2001,233374,University of Richmond,1,Main Campus,4369,0,9,11
 2001,442639,University of the Potomac-VA Campus,1,University of the Potomac - VA Campus,,0,0,0
-2001,234076,University of Virginia-Main Campus,1,Main Campus,22739,0,1,0
+2001,234076,University of Virginia-Main Campus,1,Main Campus,22739,6,37,21
 2001,234076,University of Virginia-Main Campus,2,University of  Virginia Northern Virginia Center,22739,0,0,0
 2001,234076,University of Virginia-Main Campus,3,University of Virginia Roanoke Center,22739,0,0,0
 2001,234076,University of Virginia-Main Campus,4,University of Virginia Lynchburg Center,22739,0,0,0
@@ -167,12 +167,12 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2001,234076,University of Virginia-Main Campus,7,University of Virginia Newport News,22739,0,0,0
 2001,234076,University of Virginia-Main Campus,8,FBI Academy,22739,0,0,0
 2001,377485,Virginia Beach City Public Schools School of Practical Nursing,1,Main Campus,58,0,0,0
-2001,234030,Virginia Commonwealth University,1,Monroe Park Campus,25001,1,31,18
-2001,234030,Virginia Commonwealth University,2,MCV Campus,25001,1,1,0
+2001,234030,Virginia Commonwealth University,1,Monroe Park Campus,25001,3,78,18
+2001,234030,Virginia Commonwealth University,2,MCV Campus,25001,2,18,3
 2001,233903,Virginia Highlands Community College,1,Virginia Highlands Community College,2349,0,0,0
 2001,233912,Virginia Intermont College,1,Virginia Intermont College,969,0,0,0
-2001,234085,Virginia Military Institute,1,Virginia Military Institute,1311,0,0,0
-2001,233921,Virginia Polytechnic Institute and State University,1,Virginia Polytechnic Institute and State Univ,28203,0,0,1
+2001,234085,Virginia Military Institute,1,Virginia Military Institute,1311,0,0,8
+2001,233921,Virginia Polytechnic Institute and State University,1,Virginia Polytechnic Institute and State Univ,28203,0,25,97
 2001,233921,Virginia Polytechnic Institute and State University,3,Northern Virginia Center,28203,0,0,0
 2001,233921,Virginia Polytechnic Institute and State University,4,Southwest Virginia Higher Education Center,28203,0,0,0
 2001,233921,Virginia Polytechnic Institute and State University,5,Roanoke Valley Graduate Center,28203,0,0,0
@@ -182,12 +182,12 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2001,233921,Virginia Polytechnic Institute and State University,9,Center for European Studies and Architecture,28203,0,0,0
 2001,234119,Virginia School of Hair Design,1,Virginia School of Hair Design,151,0,0,0
 2001,430254,Virginia School of Massage,1,Main Campus,204,0,0,0
-2001,234155,Virginia State University,1,Main Campus,4638,2,0,0
-2001,234164,Virginia Union University,1,Main Campus,1712,0,0,0
-2001,234173,Virginia Wesleyan College,1,VIRGINIA WESLEYAN COLLEGE,1412,0,0,0
-2001,233949,Virginia Western Community College,1,Main Campus,7904,8,9,8
+2001,234155,Virginia State University,1,Main Campus,4638,5,7,4
+2001,234164,Virginia Union University,1,Main Campus,1712,1,6,4
+2001,234173,Virginia Wesleyan College,1,Virginia Wesleyan College,1412,1,13,80
+2001,233949,Virginia Western Community College,1,Main Campus,7904,0,0,0
 2001,234191,Wards Corner Beauty Academy-Norfolk,1,Main Campus,62,0,0,0
-2001,234207,Washington and Lee University,1,Main Campus,2072,0,2,0
+2001,234207,Washington and Lee University,1,Main Campus,2072,0,21,0
 2001,234225,Washington County Adult Skill Center,1,Washington County Adult Skill Center,229,0,0,0
-2001,234359,Woodrow Wilson Rehabilitation Center,1,Woodrow Wilson Rehabilitation Center,238,0,1,0
+2001,234359,Woodrow Wilson Rehabilitation Center,1,Woodrow Wilson Rehabilitation Center,238,0,0,0
 2001,234377,Wytheville Community College,1,Wytheville Community College Main Campus,2490,0,0,0
