@@ -1,5 +1,4 @@
-Criminal Offenses - Noncampus
-Survey year,Unitid,Institution name,Campus ID, Campus Name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Sex offenses - Non-forcible,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Murder/Non-Negligent Manslaughter,Negligent Manslaughter,Sex Offenses - Forcible,Sex Offenses - Non-Forcible,Robbery,Aggravated Assault,Burglary,Motor Vehicle Theft,Arson
 2003,231554,Bluefield College,1,Main Campus,731,0,0,0,0,0,0,0,0,0
 2003,231712,Christopher Newport University,1,Main Campus,4812,0,0,0,0,0,0,0,0,0
 2003,231624,College of William and Mary,1,Main Campus,7749,0,0,0,0,0,0,0,0,0
