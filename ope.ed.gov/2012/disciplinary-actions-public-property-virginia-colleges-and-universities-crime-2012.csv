@@ -15,7 +15,7 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,449922,Appalachian College of Pharmacy,1,Main Campus,223,0,0,0
 2012,432348,Appalachian School of Law,1,Main Campus,263,0,0,0
 2012,419457,Argosy University-Washington DC,1,Argosy University - Washington,1018,0,0,0
-2012,231420,Averett University,1,Main Campus,914,0,1,1
+2012,231420,Averett University,1,Main Campus,914,0,0,0
 2012,449931,Averett University-Non-traditional programs,1,GPS-Main Campus,1403,0,0,0
 2012,449931,Averett University-Non-traditional programs,2,GPS-Chesapeake,1403,0,0,0
 2012,449931,Averett University-Non-traditional programs,3,GPS-Quantico,1403,0,0,0
@@ -30,7 +30,7 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,231554,Bluefield College,1,Main Campus,831,0,0,0
 2012,233356,Bon Secours Memorial College of Nursing,1,Main Campus,290,0,0,0
 2012,233480,Bon Secours St Mary's Hospital School of Medical Imaging,1,Main Campus,35,0,0,0
-2012,231581,Bridgewater College,1,Main Campus,1759,1,2,0
+2012,231581,Bridgewater College,1,Main Campus,1759,0,3,0
 2012,459107,Bryant & Stratton College-Hampton,1,Bryant & Stratton College,567,0,0,0
 2012,231828,Bryant & Stratton College-Richmond,1,Richmond Campus,942,0,0,0
 2012,231785,Bryant & Stratton College-Virginia Beach,1,Main Campus,755,0,0,0
@@ -51,8 +51,8 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,232016,Centura College-Virginia Beach,1,Centura College,1484,0,0,0
 2012,427894,CET-Alexandria,1,Branch,176,0,0,0
 2012,460871,Chamberlain College of Nursing-Virginia,1,Chamberlain College of Nursing-Arlington Campus,348,0,0,0
-2012,231712,Christopher Newport University,1,Main Campus,5186,1,7,23
-2012,231624,College of William and Mary,1,Main Campus,8258,0,9,10
+2012,231712,Christopher Newport University,1,Main Campus,5186,0,27,44
+2012,231624,College of William and Mary,1,Main Campus,8258,0,0,10
 2012,231624,College of William and Mary,2,VIMS Campus,8258,0,0,0
 2012,231624,College of William and Mary,3,DC Campus,8258,0,0,0
 2012,231624,College of William and Mary,4,Newport News Campus,8258,0,0,0
@@ -61,7 +61,7 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,461449,Cosmopolitan Beauty and Tech School,1,Main Campus,101,0,0,0
 2012,446206,Culpeper Cosmetology Training Center,1,Main Campus,14,0,0,0
 2012,231873,Dabney S Lancaster Community College,1,Main Campus,1463,0,0,0
-2012,231882,Danville Community College,1,Main Campus,4420,0,1,0
+2012,231882,Danville Community College,1,Main Campus,4420,0,0,0
 2012,232724,Danville Regional Medical Center School of Health Professions,1,DRMC School of Health Professions,54,0,0,0
 2012,440536,DeVry University-Virginia,1,Arlington Campus,1012,0,0,0
 2012,440536,DeVry University-Virginia,3,South Hamptons Road Campus,1012,0,0,0
@@ -70,17 +70,17 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,482653,DeVry University-Virginia,3,South Hamptons Road Campus,,0,0,0
 2012,482653,DeVry University-Virginia,4,Manassas Center,,0,0,0
 2012,451617,Dominion School of Hair Design,1,Dominion School of Hair Design,37,0,0,0
-2012,232043,Eastern Mennonite University,1,Main Campus,1519,0,1,0
+2012,232043,Eastern Mennonite University,1,Main Campus,1519,0,0,0
 2012,232052,Eastern Shore Community College,1,Main Campus,990,0,0,0
 2012,231970,Eastern Virginia Medical School,1,Main Campus,993,0,0,0
-2012,248934,ECPI University,1,ECPI University - Virginia Beach,9840,0,6,0
+2012,248934,ECPI University,1,ECPI University - Virginia Beach,9840,0,0,0
 2012,248934,ECPI University,2,ECPI University - Newport News,9840,0,0,0
-2012,248934,ECPI University,3,ECPI University - Greensboro,9840,1,0,0
+2012,248934,ECPI University,3,ECPI University - Greensboro,9840,0,0,0
 2012,248934,ECPI University,4,ECPI University - Charlotte,9840,0,0,0
 2012,248934,ECPI University,5,ECPI University - Greenville,9840,0,0,0
-2012,248934,ECPI University,6,ECPI University - Manassas,9840,0,1,0
+2012,248934,ECPI University,6,ECPI University - Manassas,9840,0,0,0
 2012,248934,ECPI University,8,ECPI University - Raleigh,9840,0,0,0
-2012,248934,ECPI University,9,ECPI University - Charleston,9840,0,1,0
+2012,248934,ECPI University,9,ECPI University - Charleston,9840,0,0,0
 2012,248934,ECPI University,10,ECPI University - Columbia,9840,0,0,0
 2012,248934,ECPI University,11,ECPI University - Concord,9840,0,0,0
 2012,248934,ECPI University,12,ECPI University - Norfolk (Culinary Institute of Virginia),9840,0,0,0
@@ -96,21 +96,21 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,438647,Everest College-Chesapeake,1,Branch Campus,725,0,0,0
 2012,445470,Everest College-McLean,1,Branch Campus,335,0,0,0
 2012,232502,Everest College-Newport News,1,Main Campus,351,0,0,0
-2012,232089,Ferrum College,1,Ferrum College,1510,0,2,0
+2012,232089,Ferrum College,1,Ferrum College,1510,1,1,1
 2012,233329,Fortis College-Norfolk,1,Main Campus,392,0,0,0
 2012,382957,Fortis College-Richmond,1,Fortis College - Richmond,534,0,0,0
-2012,232186,George Mason University,1,Main Campus,32961,1,155,247
+2012,232186,George Mason University,1,Main Campus,32961,0,14,16
 2012,232195,Germanna Community College,1,Locust Grove Campus,7520,0,0,0
 2012,232195,Germanna Community College,2,Fredericksburg Area Campus,7520,0,0,0
 2012,232195,Germanna Community College,3,Daniel Technology Center,7520,0,0,0
 2012,232195,Germanna Community College,4,Stafford County Center,7520,0,0,0
 2012,455390,Global Health College,1,Main campus,265,0,0,0
 2012,406495,Graham Webb International Academy of Hair,1,Main Campus,195,0,0,0
-2012,232256,Hampden-Sydney College,1,Main Campus,1080,0,23,51
-2012,232265,Hampton University,1,Main Campus,4765,1,8,23
+2012,232256,Hampden-Sydney College,1,Main Campus,1080,0,0,3
+2012,232265,Hampton University,1,Main Campus,4765,0,0,0
 2012,232265,Hampton University,2,HAMPTON UNIVERSITY COLLEGE OF VA BEACH,4765,0,0,0
 2012,431266,Henrico County-Saint Marys Hospital School of Practical Nursing,1,Main Campus,84,0,0,0
-2012,232308,Hollins University,1,Hollins University,794,0,1,5
+2012,232308,Hollins University,1,Hollins University,794,0,0,0
 2012,445869,Institute for the Psychological Sciences,1,Main Campus,84,0,0,0
 2012,458122,Institute of Advanced Medical Esthetics,1,Main Campus,3,0,0,0
 2012,441964,ITT Technical Institute-Chantilly,1,Main Campus,607,0,0,0
@@ -119,9 +119,9 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,459602,ITT Technical Institute-Salem,1,Main Campus,207,0,0,0
 2012,441955,ITT Technical Institute-Springfield,1,Main Campus,720,0,0,0
 2012,232414,J Sargeant Reynolds Community College,1,Parham Road Campus,12846,0,0,0
-2012,232414,J Sargeant Reynolds Community College,2,Downtown Campus,12846,0,1,1
+2012,232414,J Sargeant Reynolds Community College,2,Downtown Campus,12846,0,0,0
 2012,232414,J Sargeant Reynolds Community College,3,Goochland Campus,12846,0,0,0
-2012,232423,James Madison University,1,Main Campus-Harrisonburg,19927,0,40,42
+2012,232423,James Madison University,1,Main Campus-Harrisonburg,19927,0,0,0
 2012,232423,James Madison University,2,Madison House (London Semester - Branch Campus),19927,0,0,0
 2012,232423,James Madison University,3,Antwerp Hall- JMU Semester in Antwerp- Belgium,19927,0,0,0
 2012,232423,James Madison University,4,Palazzo Capponi (JMU's Semester in Florence- Italy),19927,0,0,0
@@ -130,48 +130,48 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,232450,John Tyler Community College,2,Featherstone,10145,0,0,0
 2012,232450,John Tyler Community College,3,Midlothian,10145,0,0,0
 2012,232450,John Tyler Community College,4,Johnston-Willis Campus,10145,0,0,0
-2012,232557,Liberty University,1,Main Campus,74372,0,0,3
-2012,232566,Longwood University,1,Main Campus,4834,0,9,26
+2012,232557,Liberty University,1,Main Campus,74372,0,0,0
+2012,232566,Longwood University,1,Main Campus,4834,0,11,22
 2012,232566,Longwood University,2,Longwood University at Martinsville,4834,0,0,0
 2012,232566,Longwood University,3,Longwood  University at South Boston,4834,0,0,0
 2012,232575,Lord Fairfax Community College,1,Middletown,7288,0,0,0
-2012,232575,Lord Fairfax Community College,2,Fauquier,7288,0,0,1
+2012,232575,Lord Fairfax Community College,2,Fauquier,7288,0,0,0
 2012,232575,Lord Fairfax Community College,3,Luray-Page County Center,7288,0,0,0
-2012,232609,Lynchburg College,1,Main Campus,2756,0,12,19
+2012,232609,Lynchburg College,1,Main Campus,2756,0,0,1
 2012,232618,Lynchburg General Hospital School of Nursing,1,Centra College of Nursing,167,0,0,0
 2012,232672,Mary Baldwin College,1,Main Campus,1791,0,0,0
-2012,232706,Marymount University,1,Marymount University,3702,0,3,1
+2012,232706,Marymount University,1,Marymount University,3702,0,0,0
 2012,131742,Medtech Institute,1,Falls Church Campus,1545,0,0,0
 2012,131742,Medtech Institute,2,Medtech Institute - Silver Spring Campus,1545,0,0,0
 2012,131742,Medtech Institute,3,Medtech College - Washington- DC Campus,1545,0,0,0
 2012,233091,Miller-Motte Technical College-Lynchburg,1,Miller-Motte Technical College,445,0,0,0
 2012,232788,Mountain Empire Community College,1,Main Campus,3089,0,0,0
 2012,232867,New River Community College,1,Main Campus,5083,0,0,0
-2012,232937,Norfolk State University,1,Norfolk State University,7100,0,2,3
-2012,232946,Northern Virginia Community College,1,Annandale Campus,51864,0,1,1
-2012,232946,Northern Virginia Community College,2,Alexandria Campus,51864,0,3,0
-2012,232946,Northern Virginia Community College,3,Loudoun Campus,51864,0,2,2
-2012,232946,Northern Virginia Community College,4,Manassas Campus,51864,0,1,0
+2012,232937,Norfolk State University,1,Norfolk State University,7100,0,6,0
+2012,232946,Northern Virginia Community College,1,Annandale Campus,51864,0,0,0
+2012,232946,Northern Virginia Community College,2,Alexandria Campus,51864,0,0,0
+2012,232946,Northern Virginia Community College,3,Loudoun Campus,51864,0,0,0
+2012,232946,Northern Virginia Community College,4,Manassas Campus,51864,0,0,0
 2012,232946,Northern Virginia Community College,5,Woodbridge Campus,51864,0,0,0
 2012,232946,Northern Virginia Community College,6,Medical Education Campus,51864,0,0,0
 2012,232946,Northern Virginia Community College,7,Innovation Park,51864,0,0,0
 2012,232946,Northern Virginia Community College,8,Reston Center,51864,0,0,0
-2012,232946,Northern Virginia Community College,9,Arlington Center,51864,0,0,4
+2012,232946,Northern Virginia Community College,9,Arlington Center,51864,0,0,0
 2012,232946,Northern Virginia Community College,10,ELI/ Fairfax,51864,0,0,0
 2012,232946,Northern Virginia Community College,11,Pitney Bowes Building,51864,0,0,0
 2012,232946,Northern Virginia Community College,12,Fort Belvoir- Barden Education Center,51864,0,0,0
-2012,232946,Northern Virginia Community College,13,Fort Myer/ Henderson Hall,51864,0,1,0
+2012,232946,Northern Virginia Community College,13,Fort Myer/ Henderson Hall,51864,0,0,0
 2012,232946,Northern Virginia Community College,14,Quantico Marine Base Education Center,51864,0,0,0
 2012,461412,Northern Virginia School of Therapeutic Massage,1,Main Campus,78,0,0,0
-2012,232982,Old Dominion University,1,Old Dominion University,24670,0,21,59
+2012,232982,Old Dominion University,1,Old Dominion University,24670,0,0,1
 2012,233019,Patrick Henry Community College,1,Main Campus,3079,0,0,0
 2012,233037,Paul D Camp Community College,1,Franklin Campus,1493,0,0,0
 2012,233037,Paul D Camp Community College,2,Hobbs Suffolk Campus,1493,0,0,0
 2012,449995,Paul Mitchell the School-Mclean,1,Paul Mitchell The School Tysons Corner,214,0,0,0
 2012,233116,Piedmont Virginia Community College,1,MAIN CAMPUS,5693,0,0,0
-2012,233277,Radford University,1,Main Campus,9573,0,47,82
-2012,233301,Randolph College,1,RANDOLPH COLLEGE,645,0,2,0
-2012,233295,Randolph-Macon College,1,Main Campus,1312,0,4,9
+2012,233277,Radford University,1,Main Campus,9573,0,0,3
+2012,233301,Randolph College,1,RANDOLPH COLLEGE,645,0,0,0
+2012,233295,Randolph-Macon College,1,Main Campus,1312,0,0,0
 2012,233310,Rappahannock Community College,1,Glenns Campus,3711,0,0,0
 2012,233310,Rappahannock Community College,2,Warsaw Campus,3711,0,0,0
 2012,233310,Rappahannock Community College,3,Kilmarnock Center,3711,0,0,0
@@ -179,18 +179,18 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,476133,Regency Beauty Institute-Newport News,1,Regency Beauty Institute,118,0,0,0
 2012,467650,Regency Beauty Institute-Roanoke,1,Regency Beauty Institute,81,0,0,0
 2012,231651,Regent University,1,Main Campus,5635,0,0,0
-2012,233338,Richard Bland College of the College of William and Mary,1,Richard Bland College of the College of William and Mary,1532,0,4,0
+2012,233338,Richard Bland College of the College of William and Mary,1,Richard Bland College of the College of William and Mary,1532,0,0,0
 2012,437769,Richmond School of Health and Technology,1,Chester Career College,196,0,0,0
 2012,233408,Riverside School of Health Careers,1,Main Campus,326,0,0,0
-2012,233426,Roanoke College,1,Main Campus,2060,0,27,0
+2012,233426,Roanoke College,1,Main Campus,2060,0,1,5
 2012,441876,Rudy & Kelly Academy of Hair and Nails,1,RUDY & KELLY ACADEMY -Paul Mitchell Partner School,272,0,0,0
 2012,234216,Sanford-Brown College-Tysons Corner,1,Sanford-Brown College,733,0,0,0
 2012,232885,Sentara College of Health Sciences,1,Main Campus,365,0,0,0
-2012,233541,Shenandoah University,1,Main Campus,4176,0,3,5
+2012,233541,Shenandoah University,1,Main Campus,4176,0,0,0
 2012,261931,Skyline College-Roanoke,1,Skyline College - Roanoke,214,0,0,0
 2012,459259,South University?Richmond,1,South University?Richmond,633,0,0,0
 2012,459268,South University?Virginia Beach,1,South University - Virginia Beach,635,0,0,0
-2012,233611,Southern Virginia University,1,Main Campus,730,0,1,0
+2012,233611,Southern Virginia University,1,Main Campus,730,0,0,0
 2012,233082,Southside Regional Medical Center Professional Schools,1,SRMC Professional Schools,127,0,0,0
 2012,233639,Southside Virginia Community College,1,Christanna campus,6042,0,0,0
 2012,233648,Southwest Virginia Community College,1,Main Campus,2766,0,0,0
@@ -210,12 +210,12 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,233684,Strayer University-Virginia,11,Virginia Beach,8991,0,0,0
 2012,231721,Suffolk Beauty Academy,1,Main Campus,43,0,0,0
 2012,233718,Sweet Briar College,1,Main Campus,739,0,0,0
-2012,233286,Sylvain Melloul International Hair Academy,1,Main Campus,62,3,4,0
+2012,233286,Sylvain Melloul International Hair Academy,1,Main Campus,62,0,0,0
 2012,458496,The Art Institute of Virginia Beach,1,The Art Institute of Virginia Beach,550,0,0,0
 2012,440341,The Art Institute of Washington,1,The Art Institute of Washington,1557,0,0,0
 2012,456010,The Art Institute of Washington-Dulles,1,The Art Institute of Washington-Dulles,234,0,0,0
-2012,233897,The University of Virginia's College at Wise,1,University of VA's College at Wise,2420,0,0,6
-2012,233754,Thomas Nelson Community College,1,Main Campus,10942,0,1,0
+2012,233897,The University of Virginia's College at Wise,1,University of VA's College at Wise,2420,0,0,0
+2012,233754,Thomas Nelson Community College,1,Main Campus,10942,0,0,0
 2012,233772,Tidewater Community College,1,Norfolk Campus,30134,0,0,0
 2012,233772,Tidewater Community College,2,Chesapeake Campus,30134,0,0,0
 2012,233772,Tidewater Community College,3,Regional Workforce Development Center,30134,0,0,0
@@ -227,14 +227,14 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,476568,Tomorrow's Image Barber Academy of Virginia,1,Main Campus,18,0,0,0
 2012,233842,Union Presbyterian Seminary,1,Main Campus,211,0,0,0
 2012,233842,Union Presbyterian Seminary,2,UNION PRESBYTERIAN SEMINARY,211,0,0,0
-2012,232681,University of Mary Washington,1,University of Mary Washington,5093,0,5,3
+2012,232681,University of Mary Washington,1,University of Mary Washington,5093,0,1,5
 2012,232681,University of Mary Washington,2,Stafford Campus,5093,0,0,0
 2012,232681,University of Mary Washington,3,Dahlgren Campus,5093,0,0,0
 2012,442189,University of Phoenix-Northern Virginia Campus,1,Reston Campus,989,0,0,0
 2012,446756,University of Phoenix-Richmond-Virginia Beach Campus,1,Richmond-Virginia Beach Campus,748,0,0,0
-2012,233374,University of Richmond,1,Main Campus,4361,0,24,3
+2012,233374,University of Richmond,1,Main Campus,4361,0,0,0
 2012,442639,University of the Potomac-VA Campus,1,University of the Potomac - VA Campus,19,0,0,0
-2012,234076,University of Virginia-Main Campus,1,Main Campus,23907,1,34,22
+2012,234076,University of Virginia-Main Campus,1,Main Campus,23907,0,0,10
 2012,234076,University of Virginia-Main Campus,2,University of  Virginia Northern Virginia Center,23907,0,0,0
 2012,234076,University of Virginia-Main Campus,3,University of Virginia Roanoke Center,23907,0,0,0
 2012,234076,University of Virginia-Main Campus,5,University of Virginia Richmond Center,23907,0,0,0
@@ -242,14 +242,14 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,234076,University of Virginia-Main Campus,7,University of Virginia Newport News,23907,0,0,0
 2012,377485,Virginia Beach City Public Schools School of Practical Nursing,1,Main Campus,42,0,0,0
 2012,460923,Virginia College-Richmond,1,Virginia College in Richmond,413,0,0,0
-2012,234030,Virginia Commonwealth University,1,Monroe Park Campus,31445,2,78,93
-2012,234030,Virginia Commonwealth University,2,MCV Campus,31445,0,23,8
+2012,234030,Virginia Commonwealth University,1,Monroe Park Campus,31445,0,0,0
+2012,234030,Virginia Commonwealth University,2,MCV Campus,31445,0,0,0
 2012,234030,Virginia Commonwealth University,3,Qatar Campus,31445,0,0,0
-2012,234030,Virginia Commonwealth University,4,VCU Inova,31445,1,4,3
+2012,234030,Virginia Commonwealth University,4,VCU Inova,31445,0,0,0
 2012,233903,Virginia Highlands Community College,1,Virginia Highlands Community College,2570,0,0,0
 2012,233912,Virginia Intermont College,1,Virginia Intermont College,496,0,0,0
-2012,234085,Virginia Military Institute,1,Virginia Military Institute,1664,0,1,1
-2012,233921,Virginia Polytechnic Institute and State University,1,Virginia Polytechnic Institute and State Univ,31087,0,51,165
+2012,234085,Virginia Military Institute,1,Virginia Military Institute,1664,0,0,0
+2012,233921,Virginia Polytechnic Institute and State University,1,Virginia Polytechnic Institute and State Univ,31087,0,0,0
 2012,233921,Virginia Polytechnic Institute and State University,3,Northern Virginia Center,31087,0,0,0
 2012,233921,Virginia Polytechnic Institute and State University,4,Southwest Virginia Higher Education Center,31087,0,0,0
 2012,233921,Virginia Polytechnic Institute and State University,5,Roanoke Valley Graduate Center,31087,0,0,0
@@ -264,10 +264,10 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,233921,Virginia Polytechnic Institute and State University,14,Virginia Tech Research Center Arlington,31087,0,0,0
 2012,234119,Virginia School of Hair Design,1,Virginia School of Hair Design,124,0,0,0
 2012,430254,Virginia School of Massage,1,Main Campus,33,0,0,0
-2012,234155,Virginia State University,1,Main Campus,6208,0,24,7
-2012,234164,Virginia Union University,1,Main Campus,1751,0,9,5
+2012,234155,Virginia State University,1,Main Campus,6208,2,0,0
+2012,234164,Virginia Union University,1,Main Campus,1751,0,0,0
 2012,234137,Virginia University of Lynchburg,1,Main Campus,540,0,0,0
-2012,234173,Virginia Wesleyan College,1,VIRGINIA WESLEYAN COLLEGE,1431,0,6,2
+2012,234173,Virginia Wesleyan College,1,VIRGINIA WESLEYAN COLLEGE,1431,0,0,0
 2012,233949,Virginia Western Community College,1,Main Campus,8440,0,0,0
 2012,234191,Wards Corner Beauty Academy-Norfolk,1,Main Campus,136,0,0,0
 2012,445683,Wards Corner Beauty Academy-Virginia Beach,1,Branch Campus,35,0,0,0
@@ -275,5 +275,5 @@ Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Illeg
 2012,234225,Washington County Adult Skill Center,1,Washington County Adult Skill Center,73,0,0,0
 2012,448628,Westwood College-Annandale,1,Westwood College-Annandale,431,0,0,0
 2012,447069,Westwood College-Arlington Ballston,1,Main Campus,476,0,0,0
-2012,234359,Woodrow Wilson Rehabilitation Center,1,Woodrow Wilson Rehabilitation Center,151,0,0,1
+2012,234359,Woodrow Wilson Rehabilitation Center,1,Woodrow Wilson Rehabilitation Center,151,0,2,0
 2012,234377,Wytheville Community College,1,Wytheville Community College Main Campus,3717,0,0,0
