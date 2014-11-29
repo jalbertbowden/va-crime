@@ -1,5 +1,4 @@
-Fires by On-campus Student Housing Facility
-Survey year,Unitid,Institution name,Campus ID, Campus Name,Institution Size,Name of Facility,Street Address,Total Fires,Category of Fire,Cause of Fire,Fire-related injuries,Fire-related deaths,Property damage 
+Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Name of Facility,Street Address,Total Fires,Category of Fire,Cause of Fire,Fire-related Injuries,Fire-related Deaths,Property Damage
 2009,231420,Averett University,1,Main Campus,917,Main Hall,420 West Main st.,0,,,,,
 2009,231420,Averett University,1,Main Campus,917,Bishop Hall,420 West Main st.,0,,,,,
 2009,231420,Averett University,1,Main Campus,917,Davenport Hall,420 West Main st.,0,,,,,
