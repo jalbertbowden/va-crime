@@ -1,5 +1,4 @@
-Criminal Offenses - Public Property
-Survey year,Unitid,Institution name,Campus ID, Campus Name,Institution Size,Murder/Non-negligent manslaughter,Negligent manslaughter,Sex offenses - Forcible,Sex offenses - Non-forcible,Robbery,Aggravated assault,Burglary,Motor vehicle theft,Arson
+Survey Year,UnitID,Institution Name,Campus ID,Campus Name,Institution Size,Murder/Non-Negligent Manslaughter,Negligent Manslaughter,Sex Offenses - Forcible,Sex Offenses - Non-Forcible,Robbery,Aggravated Assault,Burglary,Motor Vehicle Theft,Arson
 2005,419022,ACT College,1,Arlington Campus,482,0,0,1,0,7,2,3,1,0
 2005,419022,ACT College,2,Alexandria Campus,482,0,0,0,0,0,0,1,1,0
 2005,419022,ACT College,3,Manassas Campus,482,0,0,0,0,0,0,1,0,0
