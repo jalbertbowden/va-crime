@@ -1,0 +1,41 @@
+Arrests by Offense,Craig,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,2,0
+"Sex Offenses, Forcible",4,0
+Robbery,0,0
+Aggravated Assault,8,0
+Simple Assault/Intimidation,33,1
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,5,
+Larceny,9,
+Motor Vehicle Theft,3,2
+Counterfeiting/Forgery,4,0
+Fraud,0,0
+Embezzlement,0,0
+Stolen Property,0,0
+Vandalism,4,0
+Drug/Narcotic Offenses,6,0
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,3,0
+TOTAL GROUP A,81,3
+Bad Checks,15,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,,
+Driving Under Influence,39,1
+Drunkenness,19,0
+"Family Offenses, Nonforcible",,
+Liquor Laws Violations,,
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,11,2
+Conspiracy,2,0
+All Other (except Traffic),81,0
+TOTAL GROUP B,167,3
+GRAND TOTAL,248,6
