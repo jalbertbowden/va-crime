@@ -1,0 +1,41 @@
+Arrests by Offense,Augusta,
+,Juvenile,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,1
+"Sex Offenses, Forcible",2,8
+Robbery,0,9
+Aggravated Assault,2,15
+Simple Assault/Intimidation,19,102
+Arson,0,5
+Extortion/Blackmail,0,1
+Burglary,18,15
+Larceny,14,327
+Motor Vehicle Theft,1,15
+Counterfeiting/Forgery,3,1
+Fraud,0,79
+Embezzlement,0,4
+Stolen Property,0,2
+Vandalism,5,36
+Drug/Narcotic Offenses,4,53
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,,4
+TOTAL GROUP A,68,677
+Bad Checks,,0
+Curfew/Loitering/Vagrancy,,1
+Disorderly Conduct,3,19
+Driving Under Influence,4,8
+Drunkenness,0,4
+"Family Offenses, Nonforcible",,1
+Liquor Laws Violations,11,24
+Peeping Tom,0,1
+Runaway,17,156
+Trespass of Real Property,2,20
+Conspiracy,0,0
+All Other (except Traffic),88,93
+TOTAL GROUP B,125,327
+GRAND TOTAL,193,1004
