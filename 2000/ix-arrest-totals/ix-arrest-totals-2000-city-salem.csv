@@ -1,0 +1,41 @@
+Arrests by Offense,Salem,
+,Juvenile,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",1,4
+Robbery,1,1
+Aggravated Assault,0,13
+Simple Assault/Intimidation,21,44
+Arson,2,4
+Extortion/Blackmail,0,0
+Burglary,7,16
+Larceny,49,30
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,5,0
+Fraud,0,0
+Embezzlement,2,1
+Stolen Property,0,0
+Vandalism,9,5
+Drug/Narcotic Offenses,14,18
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,4,17
+TOTAL GROUP A,116,153
+Bad Checks,,0
+Curfew/Loitering/Vagrancy,,16
+Disorderly Conduct,10,13
+Driving Under Influence,1,1
+Drunkenness,2,1
+"Family Offenses, Nonforcible",,
+Liquor Laws Violations,1,
+Peeping Tom,0,0
+Runaway,4,0
+Trespass of Real Property,3,6
+Conspiracy,0,0
+All Other (except Traffic),57,26
+TOTAL GROUP B,78,63
+GRAND TOTAL,194,216
