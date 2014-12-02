@@ -1,0 +1,41 @@
+Arrests by Offense,Northumberland,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",0,0
+Robbery,0,0
+Aggravated Assault,2,0
+Simple Assault/Intimidation,13,2
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,6,1
+Larceny,26,5
+Motor Vehicle Theft,3,0
+Counterfeiting/Forgery,0,0
+Fraud,5,0
+Embezzlement,0,0
+Stolen Property,0,0
+Vandalism,6,1
+Drug/Narcotic Offenses,4,0
+"Sex Offenses, Nonforcible",1,0
+Pornography,1,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,2,0
+TOTAL GROUP A,71,9
+Bad Checks,39,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,4,
+Driving Under Influence,40,3
+Drunkenness,30,1
+"Family Offenses, Nonforcible",5,
+Liquor Laws Violations,10,2
+Peeping Tom,1,0
+Runaway,0,0
+Trespass of Real Property,9,0
+Conspiracy,0,0
+All Other (except Traffic),135,5
+TOTAL GROUP B,273,11
+GRAND TOTAL,344,20
