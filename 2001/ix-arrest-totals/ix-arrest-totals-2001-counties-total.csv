@@ -1,0 +1,41 @@
+Arrests by Offense,Total County,
+,Adult,Juvenile
+Murder,126,5
+Manslaughter,2,1
+Kidnaping,227,17
+"Sex Offenses, Forcible",713,175
+Robbery,488,132
+Aggravated Assault,2432,343
+Simple Assault/Intimidation,"16,921",2827
+Arson,107,123
+Extortion/Blackmail,19,7
+Burglary,"1,811",770
+Larceny,"9,152","2,582"
+Motor Vehicle Theft,599,215
+Counterfeiting/Forgery,1489,78
+Fraud,1574,135
+Embezzlement,750,51
+Stolen Property,287,62
+Vandalism,1911,926
+Drug/Narcotic Offenses,11374,1591
+"Sex Offenses, Nonforcible",92,8
+Pornography,20,2
+Gambling,5,1
+Prostitution,93,1
+Bribery,8,0
+Weapon Law Violations,"1,674",339
+TOTAL GROUP A,"51,874",10391
+Bad Checks,"6,125",13
+Curfew/Loitering/Vagrancy,18,724
+Disorderly Conduct,"1,822",734
+Driving Under Influence,16041,253
+Drunkenness,11208,185
+"Family Offenses, Nonforcible",308,10
+Liquor Laws Violations,"2,346","1,032"
+Peeping Tom,54,2
+Runaway,0,2282
+Trespass of Real Property,2408,433
+Conspiracy,67,8
+All Other (except Traffic),33390,2868
+TOTAL GROUP B,73787,8544
+GRAND TOTAL,125661,18935
