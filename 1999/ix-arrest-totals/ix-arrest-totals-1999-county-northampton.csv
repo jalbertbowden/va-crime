@@ -1,0 +1,34 @@
+Arrests by Offense,Northampton,
+,Adult,Juvenile
+Murder,2,
+Manslaughter,,
+Forcible Rape,3,
+Robbery,2,1
+Aggravated Assault,12,2
+Burglary,17,17
+Larceny,60,8
+Motor Vehicle Theft,7,3
+Arson,,
+SUBTOTAL FOR PART I OFFENSES,103,31
+Other Assaults,121,10
+Forgery & Counterfeiting,5,
+Fraud,7,
+Embezzlement,4,2
+"Stolen Property: Buy, Receiving, Poss.",2,1
+Vandalism,20,7
+"Weapons: Possessing, Etc.",8,1
+Prostitution & Commercialized Vice,,
+Sex Offenses (except Rape & Prostitution),5,
+Narcotic Drug Laws: Sale/Manufacture,18,1
+Narcotic Drug Laws: Possession,27,7
+Gambling,,
+Offenses Against the Family,3,
+Driving Under the Influence,30,1
+Liquor Laws,6,3
+Public Drunkenness,20,
+Disorderly Conduct,12,5
+All Other (except Traffic),151,35
+Curfew & Loitering,,
+"Runaways, Juveniles Apprehended",1,
+SUBTOTAL FOR PART II OFFENSES,439,73
+TOTAL,542,104
