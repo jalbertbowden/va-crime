@@ -1,0 +1,41 @@
+Arrests by Offense,Louisa,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",6,0
+Robbery,1,0
+Aggravated Assault,3,1
+Simple Assault/Intimidation,102,6
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,1,1
+Larceny,11,
+Motor Vehicle Theft,2,0
+Counterfeiting/Forgery,1,0
+Fraud,3,0
+Embezzlement,0,0
+Stolen Property,0,0
+Vandalism,8,4
+Drug/Narcotic Offenses,36,0
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,8,0
+TOTAL GROUP A,185,12
+Bad Checks,1,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,18,2
+Driving Under Influence,67,1
+Drunkenness,20,0
+"Family Offenses, Nonforcible",,
+Liquor Laws Violations,7,3
+Peeping Tom,0,0
+Runaway,0,1
+Trespass of Real Property,29,0
+Conspiracy,0,0
+All Other (except Traffic),32,3
+TOTAL GROUP B,174,10
+GRAND TOTAL,359,22
