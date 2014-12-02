@@ -1,0 +1,34 @@
+Arrests by Offense,Galax,
+,Adult,Juvenile
+Murder,1,
+Manslaughter,,
+Forcible Rape,1,
+Robbery,1,
+Aggravated Assault,10,
+Burglary,4,4
+Larceny,66,10
+Motor Vehicle Theft,6,2
+Arson,,
+SUBTOTAL FOR PART I OFFENSES,89,16
+Other Assaults,68,2
+Forgery & Counterfeiting,20,
+Fraud,2,
+Embezzlement,1,
+"Stolen Property: Buy, Receiving, Poss.",2,
+Vandalism,18,3
+"Weapons: Possessing, Etc.",3,1
+Prostitution & Commercialized Vice,,
+Sex Offenses (except Rape & Prostitution),2,
+Narcotic Drug Laws: Sale/Manufacture,7,1
+Narcotic Drug Laws: Possession,26,2
+Gambling,,
+Offenses Against the Family,4,
+Driving Under the Influence,81,1
+Liquor Laws,24,5
+Public Drunkenness,123,
+Disorderly Conduct,21,3
+All Other (except Traffic),120,8
+Curfew & Loitering,,3
+"Runaways, Juveniles Apprehended",,
+SUBTOTAL FOR PART II OFFENSES,522,29
+TOTAL,611,45
