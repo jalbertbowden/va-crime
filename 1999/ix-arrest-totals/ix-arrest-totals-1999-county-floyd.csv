@@ -1,0 +1,34 @@
+Arrests by Offense,Floyd,
+,Adult,Juvenile
+Murder,,
+Manslaughter,,
+Forcible Rape,,
+Robbery,,
+Aggravated Assault,,
+Burglary,6,
+Larceny,12,2
+Motor Vehicle Theft,4,
+Arson,,1
+SUBTOTAL FOR PART I OFFENSES,22,3
+Other Assaults,,
+Forgery & Counterfeiting,,
+Fraud,3,
+Embezzlement,,
+"Stolen Property: Buy, Receiving, Poss.",,
+Vandalism,12,9
+"Weapons: Possessing, Etc.",2,
+Prostitution & Commercialized Vice,,
+Sex Offenses (except Rape & Prostitution),1,1
+Narcotic Drug Laws: Sale/Manufacture,3,
+Narcotic Drug Laws: Possession,,
+Gambling,,
+Offenses Against the Family,1,
+Driving Under the Influence,29,2
+Liquor Laws,4,5
+Public Drunkenness,42,1
+Disorderly Conduct,1,1
+All Other (except Traffic),176,16
+Curfew & Loitering,,
+"Runaways, Juveniles Apprehended",,
+SUBTOTAL FOR PART II OFFENSES,274,35
+TOTAL,296,38
