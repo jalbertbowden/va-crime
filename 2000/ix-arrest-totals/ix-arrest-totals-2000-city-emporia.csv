@@ -1,0 +1,41 @@
+Arrests by Offense,Emporia,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,3,1
+"Sex Offenses, Forcible",5,1
+Robbery,3,1
+Aggravated Assault,31,9
+Simple Assault/Intimidation,97,27
+Arson,1,3
+Extortion/Blackmail,0,0
+Burglary,6,3
+Larceny,56,48
+Motor Vehicle Theft,9,12
+Counterfeiting/Forgery,20,1
+Fraud,5,1
+Embezzlement,1,0
+Stolen Property,2,1
+Vandalism,10,12
+Drug/Narcotic Offenses,58,4
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,13,4
+TOTAL GROUP A,320,128
+Bad Checks,23,2
+Curfew/Loitering/Vagrancy,2,99
+Disorderly Conduct,58,18
+Driving Under Influence,113,1
+Drunkenness,102,0
+"Family Offenses, Nonforcible",3,
+Liquor Laws Violations,17,8
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,50,14
+Conspiracy,0,0
+All Other (except Traffic),182,31
+TOTAL GROUP B,550,173
+GRAND TOTAL,870,301
