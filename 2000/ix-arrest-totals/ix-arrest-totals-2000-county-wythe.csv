@@ -1,0 +1,41 @@
+Arrests by Offense,Wythe,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,6,2
+"Sex Offenses, Forcible",6,3
+Robbery,2,0
+Aggravated Assault,24,3
+Simple Assault/Intimidation,121,20
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,15,8
+Larceny,73,8
+Motor Vehicle Theft,9,0
+Counterfeiting/Forgery,23,3
+Fraud,4,1
+Embezzlement,2,0
+Stolen Property,9,0
+Vandalism,16,8
+Drug/Narcotic Offenses,77,19
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,3,0
+Bribery,0,0
+Weapon Law Violations,18,3
+TOTAL GROUP A,408,78
+Bad Checks,16,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,10,9
+Driving Under Influence,170,1
+Drunkenness,227,2
+"Family Offenses, Nonforcible",,
+Liquor Laws Violations,20,
+Peeping Tom,1,0
+Runaway,0,4
+Trespass of Real Property,28,6
+Conspiracy,0,0
+All Other (except Traffic),292,13
+TOTAL GROUP B,764,35
+GRAND TOTAL,1172,113

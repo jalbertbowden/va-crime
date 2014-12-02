@@ -1,0 +1,41 @@
+Arrests by Offense,York,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,2,0
+"Sex Offenses, Forcible",7,3
+Robbery,7,5
+Aggravated Assault,80,11
+Simple Assault/Intimidation,129,26
+Arson,0,3
+Extortion/Blackmail,0,0
+Burglary,21,15
+Larceny,113,40
+Motor Vehicle Theft,15,3
+Counterfeiting/Forgery,14,0
+Fraud,26,0
+Embezzlement,13,0
+Stolen Property,1,0
+Vandalism,10,8
+Drug/Narcotic Offenses,204,30
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,23,10
+TOTAL GROUP A,667,154
+Bad Checks,,0
+Curfew/Loitering/Vagrancy,,7
+Disorderly Conduct,1,3
+Driving Under Influence,261,5
+Drunkenness,59,3
+"Family Offenses, Nonforcible",3,
+Liquor Laws Violations,10,16
+Peeping Tom,1,0
+Runaway,0,9
+Trespass of Real Property,8,3
+Conspiracy,0,0
+All Other (except Traffic),75,5
+TOTAL GROUP B,418,51
+GRAND TOTAL,1085,205

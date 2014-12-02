@@ -1,0 +1,41 @@
+Arrests by Offense,Middlesex,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",0,0
+Robbery,1,0
+Aggravated Assault,7,0
+Simple Assault/Intimidation,12,1
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,5,
+Larceny,9,
+Motor Vehicle Theft,0,2
+Counterfeiting/Forgery,0,0
+Fraud,0,0
+Embezzlement,1,0
+Stolen Property,0,0
+Vandalism,1,0
+Drug/Narcotic Offenses,25,7
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,,0
+TOTAL GROUP A,61,10
+Bad Checks,2,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,,
+Driving Under Influence,35,2
+Drunkenness,29,0
+"Family Offenses, Nonforcible",,
+Liquor Laws Violations,,4
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,5,0
+Conspiracy,0,0
+All Other (except Traffic),27,1
+TOTAL GROUP B,98,7
+GRAND TOTAL,159,17

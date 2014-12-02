@@ -1,0 +1,41 @@
+Arrests by Offense,King George,
+,Adult,Juvenile
+Murder,2,0
+Manslaughter,0,0
+Kidnaping,5,0
+"Sex Offenses, Forcible",10,0
+Robbery,3,0
+Aggravated Assault,5,5
+Simple Assault/Intimidation,110,25
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,4,12
+Larceny,29,13
+Motor Vehicle Theft,4,0
+Counterfeiting/Forgery,1,2
+Fraud,1,0
+Embezzlement,0,0
+Stolen Property,2,0
+Vandalism,9,4
+Drug/Narcotic Offenses,35,3
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,6,3
+TOTAL GROUP A,227,67
+Bad Checks,109,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,3,5
+Driving Under Influence,104,2
+Drunkenness,47,0
+"Family Offenses, Nonforcible",,
+Liquor Laws Violations,12,8
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,7,0
+Conspiracy,0,0
+All Other (except Traffic),143,31
+TOTAL GROUP B,425,46
+GRAND TOTAL,652,113

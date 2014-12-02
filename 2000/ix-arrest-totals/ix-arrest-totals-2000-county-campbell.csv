@@ -1,0 +1,41 @@
+Arrests by Offense,Campbell ,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,1,0
+Kidnaping,5,0
+"Sex Offenses, Forcible",8,9
+Robbery,5,0
+Aggravated Assault,27,2
+Simple Assault/Intimidation,349,22
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,5,2
+Larceny,56,19
+Motor Vehicle Theft,6,6
+Counterfeiting/Forgery,11,0
+Fraud,16,0
+Embezzlement,2,1
+Stolen Property,0,0
+Vandalism,26,2
+Drug/Narcotic Offenses,42,10
+"Sex Offenses, Nonforcible",5,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,15,1
+TOTAL GROUP A,580,74
+Bad Checks,75,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,2,1
+Driving Under Influence,137,0
+Drunkenness,53,4
+"Family Offenses, Nonforcible",4,
+Liquor Laws Violations,6,7
+Peeping Tom,0,0
+Runaway,0,8
+Trespass of Real Property,17,8
+Conspiracy,0,0
+All Other (except Traffic),228,15
+TOTAL GROUP B,522,43
+GRAND TOTAL,1102,117

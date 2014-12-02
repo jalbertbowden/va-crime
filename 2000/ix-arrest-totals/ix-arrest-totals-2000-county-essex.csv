@@ -1,0 +1,41 @@
+Arrests by Offense,Essex,
+,Adult,Juvenile
+Murder,3,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",1,0
+Robbery,0,0
+Aggravated Assault,6,0
+Simple Assault/Intimidation,61,9
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,2,1
+Larceny,32,23
+Motor Vehicle Theft,7,6
+Counterfeiting/Forgery,6,1
+Fraud,1,0
+Embezzlement,1,0
+Stolen Property,4,0
+Vandalism,4,0
+Drug/Narcotic Offenses,29,8
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,16,0
+TOTAL GROUP A,173,48
+Bad Checks,80,1
+Curfew/Loitering/Vagrancy,,5
+Disorderly Conduct,12,4
+Driving Under Influence,44,0
+Drunkenness,15,0
+"Family Offenses, Nonforcible",2,
+Liquor Laws Violations,11,1
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,7,0
+Conspiracy,0,0
+All Other (except Traffic),218,4
+TOTAL GROUP B,389,15
+GRAND TOTAL,562,63

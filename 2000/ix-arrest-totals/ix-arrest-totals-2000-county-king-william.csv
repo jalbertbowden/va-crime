@@ -1,0 +1,41 @@
+Arrests by Offense,King William,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",3,1
+Robbery,2,0
+Aggravated Assault,7,3
+Simple Assault/Intimidation,89,4
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,15,6
+Larceny,27,3
+Motor Vehicle Theft,2,2
+Counterfeiting/Forgery,37,1
+Fraud,14,0
+Embezzlement,0,0
+Stolen Property,4,2
+Vandalism,6,2
+Drug/Narcotic Offenses,38,7
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,9,3
+TOTAL GROUP A,254,34
+Bad Checks,4,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,3,1
+Driving Under Influence,76,0
+Drunkenness,43,0
+"Family Offenses, Nonforcible",5,
+Liquor Laws Violations,12,5
+Peeping Tom,1,0
+Runaway,0,0
+Trespass of Real Property,27,2
+Conspiracy,0,0
+All Other (except Traffic),85,23
+TOTAL GROUP B,256,31
+GRAND TOTAL,510,65

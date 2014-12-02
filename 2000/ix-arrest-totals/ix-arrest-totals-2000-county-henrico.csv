@@ -1,0 +1,41 @@
+Arrests by Offense,Henrico,
+,Adult,Juvenile
+Murder,10,1
+Manslaughter,0,1
+Kidnaping,2,0
+"Sex Offenses, Forcible",21,7
+Robbery,88,50
+Aggravated Assault,161,27
+Simple Assault/Intimidation,"1,133",200
+Arson,5,19
+Extortion/Blackmail,0,0
+Burglary,106,98
+Larceny,"1,239",456
+Motor Vehicle Theft,61,31
+Counterfeiting/Forgery,56,3
+Fraud,26,2
+Embezzlement,3,4
+Stolen Property,15,7
+Vandalism,58,60
+Drug/Narcotic Offenses,873,147
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,0
+Gambling,,0
+Prostitution,5,0
+Bribery,0,0
+Weapon Law Violations,133,26
+TOTAL GROUP A,"3,996",1139
+Bad Checks,29,1
+Curfew/Loitering/Vagrancy,,48
+Disorderly Conduct,29,13
+Driving Under Influence,799,17
+Drunkenness,715,16
+"Family Offenses, Nonforcible",17,
+Liquor Laws Violations,164,81
+Peeping Tom,4,0
+Runaway,0,770
+Trespass of Real Property,273,43
+Conspiracy,24,3
+All Other (except Traffic),3155,84
+TOTAL GROUP B,5209,1076
+GRAND TOTAL,9205,2215

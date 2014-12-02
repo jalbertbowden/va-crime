@@ -1,0 +1,41 @@
+Arrests by Offense,Lee,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,5,0
+"Sex Offenses, Forcible",1,0
+Robbery,1,0
+Aggravated Assault,30,0
+Simple Assault/Intimidation,218,0
+Arson,1,1
+Extortion/Blackmail,0,0
+Burglary,21,
+Larceny,38,3
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,1,0
+Fraud,0,0
+Embezzlement,0,0
+Stolen Property,0,0
+Vandalism,9,0
+Drug/Narcotic Offenses,49,0
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,2,0
+TOTAL GROUP A,378,4
+Bad Checks,144,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,3,
+Driving Under Influence,157,3
+Drunkenness,196,1
+"Family Offenses, Nonforcible",,
+Liquor Laws Violations,11,4
+Peeping Tom,1,0
+Runaway,0,0
+Trespass of Real Property,45,0
+Conspiracy,0,0
+All Other (except Traffic),599,9
+TOTAL GROUP B,1156,17
+GRAND TOTAL,1534,21

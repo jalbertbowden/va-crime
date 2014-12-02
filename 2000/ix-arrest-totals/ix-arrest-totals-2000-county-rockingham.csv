@@ -1,0 +1,41 @@
+Arrests by Offense,Rockingham,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,2,0
+"Sex Offenses, Forcible",13,2
+Robbery,4,0
+Aggravated Assault,9,0
+Simple Assault/Intimidation,89,12
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,33,5
+Larceny,51,15
+Motor Vehicle Theft,1,1
+Counterfeiting/Forgery,12,1
+Fraud,50,0
+Embezzlement,8,0
+Stolen Property,4,1
+Vandalism,16,9
+Drug/Narcotic Offenses,156,15
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,21,1
+TOTAL GROUP A,471,62
+Bad Checks,5,0
+Curfew/Loitering/Vagrancy,,11
+Disorderly Conduct,9,6
+Driving Under Influence,132,3
+Drunkenness,54,4
+"Family Offenses, Nonforcible",4,
+Liquor Laws Violations,36,12
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,5,0
+Conspiracy,0,0
+All Other (except Traffic),398,54
+TOTAL GROUP B,643,90
+GRAND TOTAL,1114,152

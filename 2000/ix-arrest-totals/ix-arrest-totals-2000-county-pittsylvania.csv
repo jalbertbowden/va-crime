@@ -1,0 +1,41 @@
+Arrests by Offense,Pittsylvania,
+,Juvenile,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",6,0
+Robbery,3,2
+Aggravated Assault,4,2
+Simple Assault/Intimidation,17,3
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,10,4
+Larceny,11,8
+Motor Vehicle Theft,2,1
+Counterfeiting/Forgery,1,1
+Fraud,0,0
+Embezzlement,0,0
+Stolen Property,0,0
+Vandalism,3,1
+Drug/Narcotic Offenses,9,4
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,4,2
+TOTAL GROUP A,70,28
+Bad Checks,,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,4,
+Driving Under Influence,4,1
+Drunkenness,2,0
+"Family Offenses, Nonforcible",,
+Liquor Laws Violations,5,
+Peeping Tom,0,0
+Runaway,2,0
+Trespass of Real Property,1,0
+Conspiracy,0,0
+All Other (except Traffic),58,3
+TOTAL GROUP B,76,4
+GRAND TOTAL,146,32

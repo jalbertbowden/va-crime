@@ -1,0 +1,41 @@
+Arrests by Offense,Gloucester,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,4,0
+"Sex Offenses, Forcible",8,2
+Robbery,7,1
+Aggravated Assault,14,2
+Simple Assault/Intimidation,183,30
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,11,10
+Larceny,38,24
+Motor Vehicle Theft,6,0
+Counterfeiting/Forgery,13,2
+Fraud,2,0
+Embezzlement,3,0
+Stolen Property,4,1
+Vandalism,8,7
+Drug/Narcotic Offenses,115,13
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,11,2
+TOTAL GROUP A,430,94
+Bad Checks,2,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,3,2
+Driving Under Influence,127,2
+Drunkenness,56,1
+"Family Offenses, Nonforcible",5,
+Liquor Laws Violations,15,11
+Peeping Tom,0,0
+Runaway,0,3
+Trespass of Real Property,15,9
+Conspiracy,0,0
+All Other (except Traffic),72,4
+TOTAL GROUP B,295,32
+GRAND TOTAL,725,126

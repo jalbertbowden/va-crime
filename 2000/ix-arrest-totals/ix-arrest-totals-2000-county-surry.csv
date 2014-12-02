@@ -1,0 +1,41 @@
+Arrests by Offense,Surry,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",3,2
+Robbery,2,0
+Aggravated Assault,14,3
+Simple Assault/Intimidation,49,11
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,7,1
+Larceny,8,4
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,6,0
+Fraud,3,0
+Embezzlement,0,0
+Stolen Property,1,0
+Vandalism,7,0
+Drug/Narcotic Offenses,16,0
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,4,0
+TOTAL GROUP A,123,21
+Bad Checks,12,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,6,
+Driving Under Influence,33,0
+Drunkenness,8,0
+"Family Offenses, Nonforcible",8,
+Liquor Laws Violations,5,12
+Peeping Tom,0,0
+Runaway,0,2
+Trespass of Real Property,4,1
+Conspiracy,3,0
+All Other (except Traffic),51,8
+TOTAL GROUP B,130,23
+GRAND TOTAL,253,44
