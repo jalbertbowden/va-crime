@@ -1,0 +1,34 @@
+Arrests by Offense,Orange,
+,Adult,Juvenile
+Murder,,
+Manslaughter,,
+Forcible Rape,,
+Robbery,,
+Aggravated Assault,30,3
+Burglary,5,2
+Larceny,38,20
+Motor Vehicle Theft,4,2
+Arson,1,2
+SUBTOTAL FOR PART I OFFENSES,78,29
+Other Assaults,73,2
+Forgery & Counterfeiting,27,
+Fraud,2,
+Embezzlement,2,1
+"Stolen Property: Buy, Receiving, Poss.",,
+Vandalism,11,2
+"Weapons: Possessing, Etc.",9,2
+Prostitution & Commercialized Vice,,
+Sex Offenses (except Rape & Prostitution),2,2
+Narcotic Drug Laws: Sale/Manufacture,5,
+Narcotic Drug Laws: Possession,25,5
+Gambling,,
+Offenses Against the Family,,
+Driving Under the Influence,112,2
+Liquor Laws,9,4
+Public Drunkenness,115,1
+Disorderly Conduct,5,1
+All Other (except Traffic),98,8
+Curfew & Loitering,,
+"Runaways, Juveniles Apprehended",,
+SUBTOTAL FOR PART II OFFENSES,495,30
+TOTAL,573,59
