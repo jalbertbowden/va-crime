@@ -1,0 +1,41 @@
+Arrests by Offense,Sussex,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",1,1
+Robbery,0,0
+Aggravated Assault,7,2
+Simple Assault/Intimidation,53,1
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,5,3
+Larceny,14,1
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,7,0
+Fraud,3,0
+Embezzlement,0,0
+Stolen Property,2,0
+Vandalism,9,1
+Drug/Narcotic Offenses,39,3
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,11,1
+TOTAL GROUP A,153,13
+Bad Checks,1,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,10,4
+Driving Under Influence,67,0
+Drunkenness,28,0
+"Family Offenses, Nonforcible",,
+Liquor Laws Violations,7,4
+Peeping Tom,0,0
+Runaway,0,3
+Trespass of Real Property,9,0
+Conspiracy,0,0
+All Other (except Traffic),137,8
+TOTAL GROUP B,259,19
+GRAND TOTAL,412,32
