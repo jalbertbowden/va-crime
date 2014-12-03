@@ -1,0 +1,41 @@
+Arrests by Offense,Richmond,
+,Adult,Juvenile
+Murder,22,0
+Manslaughter,0,0
+Kidnaping,44,1
+"Sex Offenses, Forcible",64,29
+Robbery,178,15
+Aggravated Assault,402,56
+Simple Assault/Intimidation,"1,407",484
+Arson,10,18
+Extortion/Blackmail,0,0
+Burglary,202,40
+Larceny,523,75
+Motor Vehicle Theft,151,85
+Counterfeiting/Forgery,73,0
+Fraud,19,1
+Embezzlement,6,0
+Stolen Property,3,1
+Vandalism,169,58
+Drug/Narcotic Offenses,1184,125
+"Sex Offenses, Nonforcible",6,0
+Pornography,0,0
+Gambling,1,0
+Prostitution,200,0
+Bribery,0,0
+Weapon Law Violations,199,37
+TOTAL GROUP A,"4,863",1025
+Bad Checks,98,0
+Curfew/Loitering/Vagrancy,3,38
+Disorderly Conduct,106,94
+Driving Under Influence,337,3
+Drunkenness,658,1
+"Family Offenses, Nonforcible",31,1
+Liquor Laws Violations,,
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,29,8
+Conspiracy,7,0
+All Other (except Traffic),4303,51
+TOTAL GROUP B,5572,196
+GRAND TOTAL,10435,1221

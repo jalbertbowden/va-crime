@@ -1,0 +1,41 @@
+Arrests by Offense,Williamsburg,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,3,0
+"Sex Offenses, Forcible",3,1
+Robbery,0,5
+Aggravated Assault,7,0
+Simple Assault/Intimidation,53,7
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,6,
+Larceny,27,3
+Motor Vehicle Theft,4,8
+Counterfeiting/Forgery,2,0
+Fraud,5,0
+Embezzlement,2,0
+Stolen Property,1,2
+Vandalism,9,2
+Drug/Narcotic Offenses,39,2
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,2,1
+TOTAL GROUP A,163,31
+Bad Checks,2,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,2,
+Driving Under Influence,40,0
+Drunkenness,66,0
+"Family Offenses, Nonforcible",,
+Liquor Laws Violations,19,5
+Peeping Tom,1,0
+Runaway,0,0
+Trespass of Real Property,3,0
+Conspiracy,0,0
+All Other (except Traffic),22,3
+TOTAL GROUP B,155,8
+GRAND TOTAL,318,39
