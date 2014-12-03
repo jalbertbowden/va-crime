@@ -1,0 +1,41 @@
+Arrests by Offense,Bedford,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",14,0
+Robbery,2,0
+Aggravated Assault,9,1
+Simple Assault/Intimidation,78,11
+Arson,0,0
+Extortion/Blackmail,1,0
+Burglary,12,6
+Larceny,21,15
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,38,2
+Fraud,7,1
+Embezzlement,0,0
+Stolen Property,3,0
+Vandalism,13,7
+Drug/Narcotic Offenses,28,7
+"Sex Offenses, Nonforcible",4,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,4,0
+TOTAL GROUP A,236,50
+Bad Checks,34,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,5,4
+Driving Under Influence,39,0
+Drunkenness,69,0
+"Family Offenses, Nonforcible",2,
+Liquor Laws Violations,10,9
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,40,8
+Conspiracy,0,0
+All Other (except Traffic),117,23
+TOTAL GROUP B,316,44
+GRAND TOTAL,552,94

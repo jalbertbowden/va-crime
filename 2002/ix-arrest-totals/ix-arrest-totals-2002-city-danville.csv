@@ -1,0 +1,41 @@
+Arrests by Offense,Danville,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",1,0
+Robbery,4,0
+Aggravated Assault,14,1
+Simple Assault/Intimidation,800,26
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,3,1
+Larceny,281,17
+Motor Vehicle Theft,2,0
+Counterfeiting/Forgery,18,0
+Fraud,50,1
+Embezzlement,4,0
+Stolen Property,2,0
+Vandalism,77,5
+Drug/Narcotic Offenses,120,4
+"Sex Offenses, Nonforcible",0,1
+Pornography,0,0
+Gambling,,0
+Prostitution,5,0
+Bribery,0,0
+Weapon Law Violations,43,5
+TOTAL GROUP A,"1,427",61
+Bad Checks,181,0
+Curfew/Loitering/Vagrancy,,90
+Disorderly Conduct,78,33
+Driving Under Influence,276,2
+Drunkenness,546,7
+"Family Offenses, Nonforcible",4,
+Liquor Laws Violations,28,2
+Peeping Tom,1,0
+Runaway,0,0
+Trespass of Real Property,252,43
+Conspiracy,0,0
+All Other (except Traffic),2181,197
+TOTAL GROUP B,3547,374
+GRAND TOTAL,4974,435
