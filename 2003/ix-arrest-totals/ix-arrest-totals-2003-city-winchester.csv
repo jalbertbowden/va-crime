@@ -1,0 +1,41 @@
+Arrests by Offense,Winchester,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",7,1
+Robbery,8,1
+Aggravated Assault,15,2
+Simple Assault/Intimidation,135,45
+Arson,0,7
+Extortion/Blackmail,0,0
+Burglary,32,7
+Larceny,193,135
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,22,1
+Fraud,17,1
+Embezzlement,8,2
+Stolen Property,10,3
+Vandalism,11,10
+Drug/Narcotic Offenses,348,29
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,21,2
+TOTAL GROUP A,830,246
+Bad Checks,268,1
+Curfew/Loitering/Vagrancy,,2
+Disorderly Conduct,17,4
+Driving Under Influence,208,4
+Drunkenness,67,4
+"Family Offenses, Nonforcible",22,
+Liquor Laws Violations,23,20
+Peeping Tom,1,0
+Runaway,0,7
+Trespass of Real Property,29,7
+Conspiracy,0,0
+All Other (except Traffic),880,29
+TOTAL GROUP B,1515,78
+GRAND TOTAL,2345,324
