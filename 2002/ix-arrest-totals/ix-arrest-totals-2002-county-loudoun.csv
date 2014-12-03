@@ -1,0 +1,41 @@
+Arrests by Offense,Loudoun,
+,Adult,Juvenile
+Murder,5,0
+Manslaughter,1,0
+Kidnaping,16,2
+"Sex Offenses, Forcible",16,4
+Robbery,17,14
+Aggravated Assault,116,28
+Simple Assault/Intimidation,514,84
+Arson,4,8
+Extortion/Blackmail,0,0
+Burglary,39,12
+Larceny,372,89
+Motor Vehicle Theft,38,13
+Counterfeiting/Forgery,64,4
+Fraud,62,2
+Embezzlement,55,3
+Stolen Property,4,0
+Vandalism,52,52
+Drug/Narcotic Offenses,282,55
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,0
+Gambling,,0
+Prostitution,1,0
+Bribery,0,0
+Weapon Law Violations,38,22
+TOTAL GROUP A,"1,697",392
+Bad Checks,50,0
+Curfew/Loitering/Vagrancy,,29
+Disorderly Conduct,18,3
+Driving Under Influence,818,8
+Drunkenness,548,8
+"Family Offenses, Nonforcible",1,
+Liquor Laws Violations,154,119
+Peeping Tom,2,0
+Runaway,0,1
+Trespass of Real Property,63,4
+Conspiracy,0,0
+All Other (except Traffic),2102,375
+TOTAL GROUP B,3756,547
+GRAND TOTAL,5453,939
