@@ -1,0 +1,41 @@
+Arrests by Offense,Clarke,
+,Adult,Juvenile
+Murder,2,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",1,0
+Robbery,0,0
+Aggravated Assault,12,0
+Simple Assault/Intimidation,14,0
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,1,
+Larceny,8,
+Motor Vehicle Theft,2,1
+Counterfeiting/Forgery,2,0
+Fraud,1,0
+Embezzlement,2,0
+Stolen Property,1,0
+Vandalism,9,0
+Drug/Narcotic Offenses,24,0
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,4,0
+TOTAL GROUP A,84,1
+Bad Checks,7,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,1,
+Driving Under Influence,42,0
+Drunkenness,39,0
+"Family Offenses, Nonforcible",2,
+Liquor Laws Violations,1,
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,7,0
+Conspiracy,0,0
+All Other (except Traffic),99,7
+TOTAL GROUP B,198,7
+GRAND TOTAL,282,8

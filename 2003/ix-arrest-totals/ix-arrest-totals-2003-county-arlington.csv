@@ -1,0 +1,41 @@
+Arrests by Offense,Arlington,
+,Adult,Juvenile
+Murder,5,0
+Manslaughter,0,0
+Kidnaping,6,1
+"Sex Offenses, Forcible",25,6
+Robbery,26,12
+Aggravated Assault,50,6
+Simple Assault/Intimidation,466,94
+Arson,0,2
+Extortion/Blackmail,1,0
+Burglary,28,3
+Larceny,564,172
+Motor Vehicle Theft,18,9
+Counterfeiting/Forgery,107,0
+Fraud,93,3
+Embezzlement,52,0
+Stolen Property,52,2
+Vandalism,50,30
+Drug/Narcotic Offenses,471,40
+"Sex Offenses, Nonforcible",0,0
+Pornography,2,0
+Gambling,14,0
+Prostitution,19,0
+Bribery,1,0
+Weapon Law Violations,39,16
+TOTAL GROUP A,"2,089",396
+Bad Checks,4,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,24,14
+Driving Under Influence,713,2
+Drunkenness,831,9
+"Family Offenses, Nonforcible",,1
+Liquor Laws Violations,36,14
+Peeping Tom,2,0
+Runaway,0,124
+Trespass of Real Property,113,10
+Conspiracy,0,0
+All Other (except Traffic),405,67
+TOTAL GROUP B,2128,241
+GRAND TOTAL,4217,637
