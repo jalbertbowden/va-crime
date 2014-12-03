@@ -1,0 +1,41 @@
+Arrests by Offense,Hanover,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,5,0
+"Sex Offenses, Forcible",12,4
+Robbery,10,5
+Aggravated Assault,19,5
+Simple Assault/Intimidation,235,50
+Arson,2,0
+Extortion/Blackmail,0,0
+Burglary,41,10
+Larceny,296,103
+Motor Vehicle Theft,18,4
+Counterfeiting/Forgery,47,0
+Fraud,33,1
+Embezzlement,7,1
+Stolen Property,6,6
+Vandalism,24,25
+Drug/Narcotic Offenses,362,104
+"Sex Offenses, Nonforcible",1,1
+Pornography,1,1
+Gambling,,0
+Prostitution,1,0
+Bribery,0,0
+Weapon Law Violations,32,11
+TOTAL GROUP A,"1,153",331
+Bad Checks,49,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,7,14
+Driving Under Influence,325,2
+Drunkenness,262,4
+"Family Offenses, Nonforcible",4,
+Liquor Laws Violations,58,12
+Peeping Tom,0,0
+Runaway,0,1
+Trespass of Real Property,32,4
+Conspiracy,0,0
+All Other (except Traffic),477,28
+TOTAL GROUP B,1214,65
+GRAND TOTAL,2367,396
