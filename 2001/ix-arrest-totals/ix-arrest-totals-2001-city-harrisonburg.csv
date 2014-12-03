@@ -1,0 +1,41 @@
+Arrests by Offense,Harrisonburg,
+,Adult,Juvenile
+Murder,6,0
+Manslaughter,1,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",9,2
+Robbery,17,7
+Aggravated Assault,30,0
+Simple Assault/Intimidation,168,9
+Arson,4,6
+Extortion/Blackmail,0,0
+Burglary,15,4
+Larceny,67,17
+Motor Vehicle Theft,8,3
+Counterfeiting/Forgery,27,1
+Fraud,37,1
+Embezzlement,13,1
+Stolen Property,10,3
+Vandalism,25,3
+Drug/Narcotic Offenses,234,8
+"Sex Offenses, Nonforcible",2,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,8,0
+TOTAL GROUP A,681,65
+Bad Checks,2,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,3,
+Driving Under Influence,35,0
+Drunkenness,18,2
+"Family Offenses, Nonforcible",6,
+Liquor Laws Violations,18,3
+Peeping Tom,0,0
+Runaway,0,1
+Trespass of Real Property,4,2
+Conspiracy,4,0
+All Other (except Traffic),127,8
+TOTAL GROUP B,217,16
+GRAND TOTAL,898,81
