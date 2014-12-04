@@ -1,0 +1,41 @@
+Arrests by Offense,Dickenson,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,2,0
+"Sex Offenses, Forcible",1,1
+Robbery,0,0
+Aggravated Assault,11,0
+Simple Assault/Intimidation,77,0
+Arson,2,0
+Extortion/Blackmail,0,0
+Burglary,19,5
+Larceny,30,1
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,4,0
+Fraud,7,0
+Embezzlement,1,0
+Stolen Property,4,0
+Vandalism,4,2
+Drug/Narcotic Offenses,42,0
+"Sex Offenses, Nonforcible",2,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,11,1
+TOTAL GROUP A,218,10
+Bad Checks,6,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,2,
+Driving Under Influence,69,0
+Drunkenness,131,0
+"Family Offenses, Nonforcible",5,
+Liquor Laws Violations,5,2
+Peeping Tom,1,0
+Runaway,0,0
+Trespass of Real Property,17,0
+Conspiracy,2,0
+All Other (except Traffic),274,0
+TOTAL GROUP B,512,2
+GRAND TOTAL,730,12
