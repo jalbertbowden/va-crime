@@ -1,0 +1,41 @@
+Arrests by Offense,Lunenburg,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",3,1
+Robbery,0,0
+Aggravated Assault,7,1
+Simple Assault/Intimidation,51,7
+Arson,0,0
+Extortion/Blackmail,0,1
+Burglary,9,2
+Larceny,17,
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,3,0
+Fraud,1,0
+Embezzlement,0,0
+Stolen Property,0,0
+Vandalism,2,1
+Drug/Narcotic Offenses,28,11
+"Sex Offenses, Nonforcible",2,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,4,1
+TOTAL GROUP A,128,25
+Bad Checks,127,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,10,18
+Driving Under Influence,33,2
+Drunkenness,6,0
+"Family Offenses, Nonforcible",,
+Liquor Laws Violations,2,2
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,9,4
+Conspiracy,0,0
+All Other (except Traffic),162,9
+TOTAL GROUP B,349,35
+GRAND TOTAL,477,60
