@@ -1,0 +1,41 @@
+Arrests by Offense,Warren,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",7,0
+Robbery,4,0
+Aggravated Assault,17,0
+Simple Assault/Intimidation,152,1
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,8,
+Larceny,59,4
+Motor Vehicle Theft,6,1
+Counterfeiting/Forgery,6,0
+Fraud,16,0
+Embezzlement,5,0
+Stolen Property,1,0
+Vandalism,10,0
+Drug/Narcotic Offenses,126,1
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,5,0
+TOTAL GROUP A,424,7
+Bad Checks,68,0
+Curfew/Loitering/Vagrancy,,8
+Disorderly Conduct,21,
+Driving Under Influence,106,3
+Drunkenness,240,6
+"Family Offenses, Nonforcible",25,
+Liquor Laws Violations,15,10
+Peeping Tom,1,0
+Runaway,0,64
+Trespass of Real Property,43,4
+Conspiracy,1,0
+All Other (except Traffic),508,36
+TOTAL GROUP B,1028,131
+GRAND TOTAL,1452,138

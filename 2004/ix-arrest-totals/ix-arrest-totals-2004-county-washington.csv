@@ -1,0 +1,41 @@
+Arrests by Offense,Washington,
+,Adult,Juvenile
+Murder,2,0
+Manslaughter,0,0
+Kidnaping,7,0
+"Sex Offenses, Forcible",7,4
+Robbery,2,0
+Aggravated Assault,53,1
+Simple Assault/Intimidation,190,18
+Arson,4,0
+Extortion/Blackmail,1,0
+Burglary,31,6
+Larceny,238,7
+Motor Vehicle Theft,7,0
+Counterfeiting/Forgery,146,1
+Fraud,25,1
+Embezzlement,4,0
+Stolen Property,6,2
+Vandalism,25,2
+Drug/Narcotic Offenses,106,8
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,19,1
+TOTAL GROUP A,874,51
+Bad Checks,41,1
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,11,3
+Driving Under Influence,116,5
+Drunkenness,280,4
+"Family Offenses, Nonforcible",5,
+Liquor Laws Violations,6,2
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,29,0
+Conspiracy,2,1
+All Other (except Traffic),228,106
+TOTAL GROUP B,718,122
+GRAND TOTAL,1592,173
