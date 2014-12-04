@@ -1,0 +1,41 @@
+Arrests by Offense,Prince George,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",4,2
+Robbery,3,4
+Aggravated Assault,13,1
+Simple Assault/Intimidation,51,12
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,,
+Larceny,15,1
+Motor Vehicle Theft,2,2
+Counterfeiting/Forgery,1,3
+Fraud,24,0
+Embezzlement,1,1
+Stolen Property,5,1
+Vandalism,7,1
+Drug/Narcotic Offenses,113,8
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,9,3
+TOTAL GROUP A,249,39
+Bad Checks,1,0
+Curfew/Loitering/Vagrancy,,24
+Disorderly Conduct,6,4
+Driving Under Influence,76,0
+Drunkenness,36,3
+"Family Offenses, Nonforcible",3,
+Liquor Laws Violations,10,2
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,10,0
+Conspiracy,0,0
+All Other (except Traffic),90,16
+TOTAL GROUP B,232,49
+GRAND TOTAL,481,88
