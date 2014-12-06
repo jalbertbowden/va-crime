@@ -1,0 +1,41 @@
+Arrests by Offense,Fredericksburg,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,7,0
+"Sex Offenses, Forcible",11,0
+Robbery,13,0
+Aggravated Assault,32,3
+Simple Assault/Intimidation,180,5
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,18,
+Larceny,261,31
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,26,2
+Fraud,16,0
+Embezzlement,29,1
+Stolen Property,10,1
+Vandalism,16,5
+Drug/Narcotic Offenses,434,16
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,0
+Gambling,,0
+Prostitution,10,1
+Bribery,0,0
+Weapon Law Violations,19,0
+TOTAL GROUP A,"1,084",65
+Bad Checks,40,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,66,1
+Driving Under Influence,216,1
+Drunkenness,598,3
+"Family Offenses, Nonforcible",7,
+Liquor Laws Violations,67,6
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,110,8
+Conspiracy,0,0
+All Other (except Traffic),713,52
+TOTAL GROUP B,1817,71
+GRAND TOTAL,2901,136
