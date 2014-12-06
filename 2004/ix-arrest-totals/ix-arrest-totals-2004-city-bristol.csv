@@ -1,0 +1,41 @@
+Arrests by Offense,Bristol,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",8,2
+Robbery,6,1
+Aggravated Assault,40,0
+Simple Assault/Intimidation,163,3
+Arson,0,2
+Extortion/Blackmail,0,0
+Burglary,23,2
+Larceny,120,5
+Motor Vehicle Theft,4,0
+Counterfeiting/Forgery,46,5
+Fraud,10,1
+Embezzlement,5,0
+Stolen Property,6,0
+Vandalism,13,13
+Drug/Narcotic Offenses,112,3
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,18,1
+TOTAL GROUP A,577,38
+Bad Checks,13,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,15,1
+Driving Under Influence,130,0
+Drunkenness,513,2
+"Family Offenses, Nonforcible",4,
+Liquor Laws Violations,17,7
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,24,3
+Conspiracy,4,1
+All Other (except Traffic),724,31
+TOTAL GROUP B,1444,45
+GRAND TOTAL,2021,83
