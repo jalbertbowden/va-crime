@@ -1,0 +1,41 @@
+Arrests by Offense,Roanoke,
+,Adult,Juvenile
+Murder,9,0
+Manslaughter,0,0
+Kidnaping,19,0
+"Sex Offenses, Forcible",26,2
+Robbery,33,13
+Aggravated Assault,220,38
+Simple Assault/Intimidation,932,139
+Arson,3,4
+Extortion/Blackmail,0,0
+Burglary,79,51
+Larceny,589,177
+Motor Vehicle Theft,67,23
+Counterfeiting/Forgery,73,0
+Fraud,97,1
+Embezzlement,56,0
+Stolen Property,3,0
+Vandalism,80,28
+Drug/Narcotic Offenses,869,72
+"Sex Offenses, Nonforcible",3,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,123,0
+Bribery,1,0
+Weapon Law Violations,90,12
+TOTAL GROUP A,3372,560
+Bad Checks,14,0
+Curfew/Loitering/Vagrancy,5,3
+Disorderly Conduct,52,121
+Driving Under Influence,271,0
+Drunkenness,1545,0
+"Family Offenses, Nonforcible",20,0
+Liquor Laws Violations,104,2
+Peeping Tom,0,0
+Runaway,0,9
+Trespass of Real Property,284,26
+Conspiracy,1,0
+All Other (except Traffic),799,98
+TOTAL GROUP B,3095,259
+GRAND TOTAL,6467,819
