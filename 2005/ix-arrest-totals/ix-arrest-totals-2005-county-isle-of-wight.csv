@@ -1,0 +1,41 @@
+Arrests by Offense,Isle of Wight,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,2,0
+"Sex Offenses, Forcible",5,1
+Robbery,5,0
+Aggravated Assault,16,1
+Simple Assault/Intimidation,127,21
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,5,2
+Larceny,53,21
+Motor Vehicle Theft,6,1
+Counterfeiting/Forgery,7,0
+Fraud,11,0
+Embezzlement,2,0
+Stolen Property,5,1
+Vandalism,18,6
+Drug/Narcotic Offenses,60,6
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,22,2
+TOTAL GROUP A,344,62
+Bad Checks,10,0
+Curfew/Loitering/Vagrancy,0,6
+Disorderly Conduct,9,1
+Driving Under Influence,128,2
+Drunkenness,41,2
+"Family Offenses, Nonforcible",0,0
+Liquor Laws Violations,11,6
+Peeping Tom,0,0
+Runaway,1,0
+Trespass of Real Property,19,3
+Conspiracy,0,0
+All Other (except Traffic),143,10
+TOTAL GROUP B,362,30
+GRAND TOTAL,706,92
