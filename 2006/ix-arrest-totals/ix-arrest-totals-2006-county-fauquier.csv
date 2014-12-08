@@ -1,0 +1,41 @@
+Arrests by Offense,Fauquier,
+,Adult,Juvenile
+Murder,2,0
+Manslaughter,0,0
+Kidnaping,4,1
+"Sex Offenses, Forcible",6,3
+Robbery,6,0
+Aggravated Assault,34,2
+Simple Assault/Intimidation,175,6
+Arson,3,0
+Extortion/Blackmail,0,0
+Burglary,21,11
+Larceny,82,29
+Motor Vehicle Theft,2,0
+Counterfeiting/Forgery,20,1
+Fraud,11,0
+Embezzlement,5,0
+Stolen Property,14,1
+Vandalism,19,4
+Drug/Narcotic Offenses,251,16
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,1,0
+Weapon Law Violations,16,2
+TOTAL GROUP A,672,76
+Bad Checks,25,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,33,8
+Driving Under Influence,310,2
+Drunkenness,217,1
+"Family Offenses, Nonforcible",4,0
+Liquor Laws Violations,33,4
+Peeping Tom,1,0
+Runaway,0,5
+Trespass of Real Property,30,4
+Conspiracy,0,0
+All Other (except Traffic),660,17
+TOTAL GROUP B,1313,41
+GRAND TOTAL,1985,117
