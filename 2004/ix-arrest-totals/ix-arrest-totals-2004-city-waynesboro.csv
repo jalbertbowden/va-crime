@@ -1,0 +1,41 @@
+Arrests by Offense,Waynesboro,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,4,0
+"Sex Offenses, Forcible",5,0
+Robbery,0,0
+Aggravated Assault,42,0
+Simple Assault/Intimidation,242,27
+Arson,1,1
+Extortion/Blackmail,0,0
+Burglary,11,1
+Larceny,126,25
+Motor Vehicle Theft,16,2
+Counterfeiting/Forgery,59,1
+Fraud,22,2
+Embezzlement,15,0
+Stolen Property,2,1
+Vandalism,30,6
+Drug/Narcotic Offenses,84,3
+"Sex Offenses, Nonforcible",2,0
+Pornography,0,0
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,28,9
+TOTAL GROUP A,690,78
+Bad Checks,20,0
+Curfew/Loitering/Vagrancy,,1
+Disorderly Conduct,17,9
+Driving Under Influence,117,1
+Drunkenness,164,2
+"Family Offenses, Nonforcible",10,1
+Liquor Laws Violations,20,5
+Peeping Tom,0,0
+Runaway,0,43
+Trespass of Real Property,16,1
+Conspiracy,0,0
+All Other (except Traffic),551,46
+TOTAL GROUP B,915,109
+GRAND TOTAL,1605,187

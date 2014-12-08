@@ -1,0 +1,41 @@
+Arrests by Offense,Staunton,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,2,0
+"Sex Offenses, Forcible",9,3
+Robbery,2,0
+Aggravated Assault,30,5
+Simple Assault/Intimidation,289,30
+Arson,0,0
+Extortion/Blackmail,1,0
+Burglary,9,4
+Larceny,179,49
+Motor Vehicle Theft,4,2
+Counterfeiting/Forgery,94,1
+Fraud,24,12
+Embezzlement,12,1
+Stolen Property,3,0
+Vandalism,24,5
+Drug/Narcotic Offenses,116,15
+"Sex Offenses, Nonforcible",2,0
+Pornography,0,1
+Gambling,,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,19,2
+TOTAL GROUP A,820,130
+Bad Checks,54,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,52,18
+Driving Under Influence,122,2
+Drunkenness,201,1
+"Family Offenses, Nonforcible",6,
+Liquor Laws Violations,45,27
+Peeping Tom,0,0
+Runaway,0,50
+Trespass of Real Property,41,2
+Conspiracy,0,0
+All Other (except Traffic),131,11
+TOTAL GROUP B,652,111
+GRAND TOTAL,1472,241

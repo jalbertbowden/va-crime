@@ -1,0 +1,41 @@
+Arrests by Offense,Norfolk,
+,Adult,Juvenile
+Murder,24,0
+Manslaughter,0,0
+Kidnaping,63,3
+"Sex Offenses, Forcible",41,5
+Robbery,77,18
+Aggravated Assault,103,20
+Simple Assault/Intimidation,848,53
+Arson,1,0
+Extortion/Blackmail,0,1
+Burglary,79,49
+Larceny,943,161
+Motor Vehicle Theft,8,11
+Counterfeiting/Forgery,76,1
+Fraud,116,1
+Embezzlement,41,1
+Stolen Property,48,8
+Vandalism,58,17
+Drug/Narcotic Offenses,1331,55
+"Sex Offenses, Nonforcible",7,1
+Pornography,8,0
+Gambling,3,0
+Prostitution,152,0
+Bribery,0,0
+Weapon Law Violations,94,9
+TOTAL GROUP A,"4,121",414
+Bad Checks,55,0
+Curfew/Loitering/Vagrancy,,0
+Disorderly Conduct,"1,166",117
+Driving Under Influence,567,0
+Drunkenness,1530,10
+"Family Offenses, Nonforcible",198,1
+Liquor Laws Violations,776,49
+Peeping Tom,2,1
+Runaway,0,95
+Trespass of Real Property,893,31
+Conspiracy,0,0
+All Other (except Traffic),6662,1957
+TOTAL GROUP B,11849,2261
+GRAND TOTAL,15970,2675
