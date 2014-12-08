@@ -1,0 +1,41 @@
+Arrests by Offense,Buchanan ,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,7,0
+"Sex Offenses, Forcible",4,0
+Robbery,4,0
+Aggravated Assault,31,0
+Simple Assault/Intimidation,147,0
+Arson,6,0
+Extortion/Blackmail,1,0
+Burglary,21,1
+Larceny,49,0
+Motor Vehicle Theft,12,1
+Counterfeiting/Forgery,12,0
+Fraud,5,0
+Embezzlement,2,0
+Stolen Property,3,0
+Vandalism,15,0
+Drug/Narcotic Offenses,74,0
+"Sex Offenses, Nonforcible",2,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,19,1
+TOTAL GROUP A,414,3
+Bad Checks,121,1
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,60,0
+Driving Under Influence,68,2
+Drunkenness,113,1
+"Family Offenses, Nonforcible",1,0
+Liquor Laws Violations,3,2
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,19,0
+Conspiracy,9,0
+All Other (except Traffic),398,37
+TOTAL GROUP B,792,43
+GRAND TOTAL,1206,46
