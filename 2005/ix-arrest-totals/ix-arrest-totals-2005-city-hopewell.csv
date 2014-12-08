@@ -1,0 +1,41 @@
+Arrests by Offense,Hopewell,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,12,0
+"Sex Offenses, Forcible",14,0
+Robbery,7,0
+Aggravated Assault,30,1
+Simple Assault/Intimidation,226,2
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,24,1
+Larceny,52,1
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,2,0
+Fraud,6,1
+Embezzlement,2,0
+Stolen Property,9,0
+Vandalism,27,0
+Drug/Narcotic Offenses,138,2
+"Sex Offenses, Nonforcible",2,0
+Pornography,0,0
+Gambling,0,1
+Prostitution,1,0
+Bribery,0,0
+Weapon Law Violations,16,0
+TOTAL GROUP A,568,9
+Bad Checks,20,0
+Curfew/Loitering/Vagrancy,0,50
+Disorderly Conduct,38,1
+Driving Under Influence,35,0
+Drunkenness,91,1
+"Family Offenses, Nonforcible",2,0
+Liquor Laws Violations,9,1
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,69,11
+Conspiracy,0,0
+All Other (except Traffic),411,14
+TOTAL GROUP B,675,78
+GRAND TOTAL,1243,87
