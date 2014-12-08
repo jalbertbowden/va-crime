@@ -1,0 +1,41 @@
+Arrests by Offense,Smyth,
+,Adult,Juvenile
+Murder,4,0
+Manslaughter,0,0
+Kidnaping,5,1
+"Sex Offenses, Forcible",15,2
+Robbery,1,0
+Aggravated Assault,23,1
+Simple Assault/Intimidation,265,16
+Arson,7,0
+Extortion/Blackmail,1,0
+Burglary,39,0
+Larceny,123,5
+Motor Vehicle Theft,11,1
+Counterfeiting/Forgery,28,2
+Fraud,10,0
+Embezzlement,6,0
+Stolen Property,5,0
+Vandalism,40,0
+Drug/Narcotic Offenses,115,7
+"Sex Offenses, Nonforcible",1,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,15,3
+TOTAL GROUP A,715,38
+Bad Checks,69,0
+Curfew/Loitering/Vagrancy,0,1
+Disorderly Conduct,9,1
+Driving Under Influence,106,4
+Drunkenness,181,2
+"Family Offenses, Nonforcible",17,0
+Liquor Laws Violations,23,10
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,30,5
+Conspiracy,3,1
+All Other (except Traffic),284,40
+TOTAL GROUP B,722,64
+GRAND TOTAL,1437,102

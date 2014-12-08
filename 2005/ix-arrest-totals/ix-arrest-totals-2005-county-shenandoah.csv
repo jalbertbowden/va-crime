@@ -1,0 +1,41 @@
+Arrests by Offense,Shenandoah,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",1,1
+Robbery,0,0
+Aggravated Assault,7,0
+Simple Assault/Intimidation,194,23
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,4,0
+Larceny,40,9
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,8,3
+Fraud,6,0
+Embezzlement,3,0
+Stolen Property,3,0
+Vandalism,13,5
+Drug/Narcotic Offenses,171,20
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,12,1
+TOTAL GROUP A,463,62
+Bad Checks,124,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,55,0
+Driving Under Influence,127,1
+Drunkenness,128,0
+"Family Offenses, Nonforcible",0,0
+Liquor Laws Violations,64,16
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,13,8
+Conspiracy,0,0
+All Other (except Traffic),1023,85
+TOTAL GROUP B,1534,110
+GRAND TOTAL,1997,172
