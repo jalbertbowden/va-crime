@@ -1,0 +1,41 @@
+Arrests by Offense,Halifax,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",0,1
+Robbery,7,0
+Aggravated Assault,16,0
+Simple Assault/Intimidation,107,5
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,15,5
+Larceny,71,18
+Motor Vehicle Theft,2,0
+Counterfeiting/Forgery,10,0
+Fraud,2,0
+Embezzlement,5,0
+Stolen Property,0,0
+Vandalism,9,2
+Drug/Narcotic Offenses,93,5
+"Sex Offenses, Nonforcible",1,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,24,1
+TOTAL GROUP A,364,37
+Bad Checks,53,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,31,10
+Driving Under Influence,136,0
+Drunkenness,105,1
+"Family Offenses, Nonforcible",0,0
+Liquor Laws Violations,10,4
+Peeping Tom,0,0
+Runaway,1,0
+Trespass of Real Property,33,0
+Conspiracy,0,0
+All Other (except Traffic),552,10
+TOTAL GROUP B,921,25
+GRAND TOTAL,1285,62
