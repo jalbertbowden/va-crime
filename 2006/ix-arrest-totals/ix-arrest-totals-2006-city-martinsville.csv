@@ -1,0 +1,41 @@
+Arrests by Offense,Martinsville,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,4,0
+"Sex Offenses, Forcible",3,1
+Robbery,4,1
+Aggravated Assault,19,4
+Simple Assault/Intimidation,182,33
+Arson,0,1
+Extortion/Blackmail,0,0
+Burglary,10,2
+Larceny,98,23
+Motor Vehicle Theft,9,2
+Counterfeiting/Forgery,19,3
+Fraud,13,0
+Embezzlement,8,0
+Stolen Property,0,0
+Vandalism,34,11
+Drug/Narcotic Offenses,77,13
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,1,0
+Weapon Law Violations,10,6
+TOTAL GROUP A,491,100
+Bad Checks,19,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,47,19
+Driving Under Influence,98,0
+Drunkenness,79,0
+"Family Offenses, Nonforcible",1,0
+Liquor Laws Violations,50,8
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,16,5
+Conspiracy,0,0
+All Other (except Traffic),635,85
+TOTAL GROUP B,945,117
+GRAND TOTAL,1436,217
