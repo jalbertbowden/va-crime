@@ -1,0 +1,41 @@
+Arrests by Offense,Charles City,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",0,0
+Robbery,0,0
+Aggravated Assault,2,0
+Simple Assault/Intimidation,14,2
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,0,0
+Larceny,0,0
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,1,0
+Fraud,0,0
+Embezzlement,1,0
+Stolen Property,0,0
+Vandalism,3,0
+Drug/Narcotic Offenses,20,0
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,4,1
+TOTAL GROUP A,45,3
+Bad Checks,1,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,0,0
+Driving Under Influence,9,0
+Drunkenness,4,0
+"Family Offenses, Nonforcible",1,0
+Liquor Laws Violations,1,0
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,7,0
+Conspiracy,2,0
+All Other (except Traffic),48,3
+TOTAL GROUP B,73,3
+GRAND TOTAL,118,6
