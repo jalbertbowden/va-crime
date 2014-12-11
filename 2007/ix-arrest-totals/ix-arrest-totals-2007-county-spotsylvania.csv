@@ -1,0 +1,41 @@
+Arrests by Offense,Spotsylvania,
+,Adult,Juvenile
+Murder,0,1
+Manslaughter,0,0
+Kidnaping,10,1
+"Sex Offenses, Forcible",17,5
+Robbery,13,9
+Aggravated Assault,41,9
+Simple Assault/Intimidation,483,49
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,26,6
+Larceny,236,44
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,8,1
+Fraud,56,0
+Embezzlement,43,1
+Stolen Property,11,0
+Vandalism,33,19
+Drug/Narcotic Offenses,619,57
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,45,9
+TOTAL GROUP A,1642,211
+Bad Checks,49,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,23,31
+Driving Under Influence,285,3
+Drunkenness,283,1
+"Family Offenses, Nonforcible",20,0
+Liquor Laws Violations,84,21
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,32,1
+Conspiracy,3,4
+All Other (except Traffic),1167,68
+TOTAL GROUP B,1946,129
+GRAND TOTAL,3588,340

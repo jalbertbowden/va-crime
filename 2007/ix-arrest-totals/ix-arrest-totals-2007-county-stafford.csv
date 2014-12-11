@@ -1,0 +1,41 @@
+Arrests by Offense,Stafford,
+,Adult,Juvenile
+Murder,4,0
+Manslaughter,0,0
+Kidnaping,10,0
+"Sex Offenses, Forcible",17,3
+Robbery,8,1
+Aggravated Assault,68,12
+Simple Assault/Intimidation,407,89
+Arson,2,10
+Extortion/Blackmail,0,0
+Burglary,56,12
+Larceny,242,95
+Motor Vehicle Theft,37,15
+Counterfeiting/Forgery,33,2
+Fraud,86,2
+Embezzlement,25,2
+Stolen Property,14,1
+Vandalism,86,44
+Drug/Narcotic Offenses,555,61
+"Sex Offenses, Nonforcible",0,0
+Pornography,2,1
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,35,13
+TOTAL GROUP A,1687,363
+Bad Checks,28,0
+Curfew/Loitering/Vagrancy,1,0
+Disorderly Conduct,37,25
+Driving Under Influence,525,3
+Drunkenness,262,3
+"Family Offenses, Nonforcible",6,0
+Liquor Laws Violations,153,63
+Peeping Tom,0,0
+Runaway,0,137
+Trespass of Real Property,43,7
+Conspiracy,1,0
+All Other (except Traffic),2138,138
+TOTAL GROUP B,3194,376
+GRAND TOTAL,4881,739

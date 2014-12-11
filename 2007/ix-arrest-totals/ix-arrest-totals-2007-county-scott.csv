@@ -1,0 +1,41 @@
+Arrests by Offense,Scott,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,6,0
+"Sex Offenses, Forcible",6,0
+Robbery,1,0
+Aggravated Assault,23,0
+Simple Assault/Intimidation,115,4
+Arson,4,0
+Extortion/Blackmail,0,0
+Burglary,38,5
+Larceny,34,1
+Motor Vehicle Theft,3,0
+Counterfeiting/Forgery,10,0
+Fraud,9,0
+Embezzlement,2,0
+Stolen Property,3,0
+Vandalism,15,2
+Drug/Narcotic Offenses,80,7
+"Sex Offenses, Nonforcible",1,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,24,1
+TOTAL GROUP A,375,20
+Bad Checks,30,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,0,0
+Driving Under Influence,65,0
+Drunkenness,81,0
+"Family Offenses, Nonforcible",3,0
+Liquor Laws Violations,2,0
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,21,7
+Conspiracy,2,0
+All Other (except Traffic),239,4
+TOTAL GROUP B,443,11
+GRAND TOTAL,818,31
