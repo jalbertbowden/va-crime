@@ -1,0 +1,41 @@
+Arrests by Offense,Charlottesville,
+,Adult,Juvenile
+Murder,2,0
+Manslaughter,0,0
+Kidnaping,7,0
+"Sex Offenses, Forcible",8,1
+Robbery,20,6
+Aggravated Assault,31,6
+Simple Assault/Intimidation,269,9
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,28,6
+Larceny,116,12
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,26,1
+Fraud,31,1
+Embezzlement,12,0
+Stolen Property,4,2
+Vandalism,47,1
+Drug/Narcotic Offenses,168,7
+"Sex Offenses, Nonforcible",2,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,6,0
+Bribery,0,0
+Weapon Law Violations,28,5
+TOTAL GROUP A,805,57
+Bad Checks,215,0
+Curfew/Loitering/Vagrancy,0,22
+Disorderly Conduct,39,6
+Driving Under Influence,136,1
+Drunkenness,556,6
+"Family Offenses, Nonforcible",0,0
+Liquor Laws Violations,58,9
+Peeping Tom,0,0
+Runaway,0,62
+Trespass of Real Property,178,4
+Conspiracy,1,0
+All Other (except Traffic),836,27
+TOTAL GROUP B,2019,137
+GRAND TOTAL,2824,194

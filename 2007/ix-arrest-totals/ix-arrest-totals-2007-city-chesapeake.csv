@@ -1,0 +1,41 @@
+Arrests by Offense,Chesapeake,
+,Adult,Juvenile
+Murder,5,0
+Manslaughter,0,0
+Kidnaping,29,1
+"Sex Offenses, Forcible",26,2
+Robbery,60,9
+Aggravated Assault,164,9
+Simple Assault/Intimidation,1349,34
+Arson,2,3
+Extortion/Blackmail,0,0
+Burglary,120,10
+Larceny,772,36
+Motor Vehicle Theft,16,1
+Counterfeiting/Forgery,49,2
+Fraud,96,1
+Embezzlement,75,2
+Stolen Property,32,4
+Vandalism,33,0
+Drug/Narcotic Offenses,1480,109
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,2,0
+Prostitution,7,0
+Bribery,1,0
+Weapon Law Violations,123,9
+TOTAL GROUP A,4442,232
+Bad Checks,116,0
+Curfew/Loitering/Vagrancy,1,77
+Disorderly Conduct,71,21
+Driving Under Influence,672,3
+Drunkenness,557,2
+"Family Offenses, Nonforcible",14,0
+Liquor Laws Violations,152,39
+Peeping Tom,5,0
+Runaway,0,510
+Trespass of Real Property,224,23
+Conspiracy,4,0
+All Other (except Traffic),2771,114
+TOTAL GROUP B,4587,789
+GRAND TOTAL,9029,1021

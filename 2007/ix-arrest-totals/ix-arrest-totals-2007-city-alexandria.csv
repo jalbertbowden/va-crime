@@ -1,0 +1,41 @@
+Arrests by Offense,Alexandria,
+,Adult,Juvenile
+Murder,4,0
+Manslaughter,0,0
+Kidnaping,4,0
+"Sex Offenses, Forcible",19,4
+Robbery,45,15
+Aggravated Assault,87,8
+Simple Assault/Intimidation,448,80
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,43,22
+Larceny,378,128
+Motor Vehicle Theft,20,5
+Counterfeiting/Forgery,37,1
+Fraud,80,1
+Embezzlement,52,9
+Stolen Property,10,9
+Vandalism,39,21
+Drug/Narcotic Offenses,372,21
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,49,1
+Prostitution,22,0
+Bribery,0,0
+Weapon Law Violations,38,22
+TOTAL GROUP A,1748,347
+Bad Checks,16,0
+Curfew/Loitering/Vagrancy,19,0
+Disorderly Conduct,173,7
+Driving Under Influence,551,3
+Drunkenness,869,3
+"Family Offenses, Nonforcible",1,0
+Liquor Laws Violations,585,73
+Peeping Tom,2,0
+Runaway,0,159
+Trespass of Real Property,287,22
+Conspiracy,0,0
+All Other (except Traffic),450,20
+TOTAL GROUP B,2953,287
+GRAND TOTAL,4701,634
