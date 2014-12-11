@@ -1,0 +1,41 @@
+Arrests by Offense,Alleghany ,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",0,0
+Robbery,0,0
+Aggravated Assault,11,0
+Simple Assault/Intimidation,59,7
+Arson,4,0
+Extortion/Blackmail,0,0
+Burglary,4,1
+Larceny,9,0
+Motor Vehicle Theft,6,0
+Counterfeiting/Forgery,2,0
+Fraud,7,0
+Embezzlement,0,0
+Stolen Property,2,0
+Vandalism,3,2
+Drug/Narcotic Offenses,105,2
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,1,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,3,3
+TOTAL GROUP A,216,15
+Bad Checks,0,0
+Curfew/Loitering/Vagrancy,0,3
+Disorderly Conduct,12,24
+Driving Under Influence,77,0
+Drunkenness,120,4
+"Family Offenses, Nonforcible",2,0
+Liquor Laws Violations,22,2
+Peeping Tom,1,0
+Runaway,0,0
+Trespass of Real Property,5,0
+Conspiracy,3,0
+All Other (except Traffic),117,11
+TOTAL GROUP B,359,44
+GRAND TOTAL,575,59
