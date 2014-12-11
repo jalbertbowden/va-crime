@@ -1,0 +1,41 @@
+Arrests by Offense,Mecklenburg,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",4,1
+Robbery,0,0
+Aggravated Assault,26,3
+Simple Assault/Intimidation,125,28
+Arson,3,0
+Extortion/Blackmail,0,0
+Burglary,17,7
+Larceny,89,13
+Motor Vehicle Theft,4,4
+Counterfeiting/Forgery,8,0
+Fraud,2,0
+Embezzlement,6,0
+Stolen Property,2,0
+Vandalism,12,9
+Drug/Narcotic Offenses,179,9
+"Sex Offenses, Nonforcible",1,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,10,1
+TOTAL GROUP A,490,75
+Bad Checks,3,0
+Curfew/Loitering/Vagrancy,0,1
+Disorderly Conduct,12,8
+Driving Under Influence,167,1
+Drunkenness,61,0
+"Family Offenses, Nonforcible",5,0
+Liquor Laws Violations,9,4
+Peeping Tom,0,0
+Runaway,0,3
+Trespass of Real Property,17,1
+Conspiracy,1,0
+All Other (except Traffic),252,18
+TOTAL GROUP B,527,36
+GRAND TOTAL,1017,111
