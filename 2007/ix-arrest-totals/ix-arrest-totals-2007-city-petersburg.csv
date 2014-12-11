@@ -1,0 +1,41 @@
+Arrests by Offense,Petersburg,
+,Adult,Juvenile
+Murder,22,0
+Manslaughter,1,1
+Kidnaping,39,0
+"Sex Offenses, Forcible",15,2
+Robbery,34,9
+Aggravated Assault,111,21
+Simple Assault/Intimidation,621,49
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,51,17
+Larceny,237,22
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,20,0
+Fraud,37,0
+Embezzlement,18,0
+Stolen Property,19,10
+Vandalism,106,9
+Drug/Narcotic Offenses,341,9
+"Sex Offenses, Nonforcible",3,0
+Pornography,0,0
+Gambling,1,0
+Prostitution,7,0
+Bribery,0,0
+Weapon Law Violations,40,11
+TOTAL GROUP A,1725,160
+Bad Checks,29,0
+Curfew/Loitering/Vagrancy,1,11
+Disorderly Conduct,91,4
+Driving Under Influence,80,1
+Drunkenness,125,0
+"Family Offenses, Nonforcible",33,0
+Liquor Laws Violations,40,0
+Peeping Tom,0,0
+Runaway,0,14
+Trespass of Real Property,116,19
+Conspiracy,0,0
+All Other (except Traffic),1816,82
+TOTAL GROUP B,2331,131
+GRAND TOTAL,4056,291

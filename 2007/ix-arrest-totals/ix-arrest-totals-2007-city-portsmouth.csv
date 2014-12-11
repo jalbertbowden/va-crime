@@ -1,0 +1,41 @@
+Arrests by Offense,Portsmouth,
+,Adult,Juvenile
+Murder,7,0
+Manslaughter,0,0
+Kidnaping,36,1
+"Sex Offenses, Forcible",15,2
+Robbery,47,8
+Aggravated Assault,105,16
+Simple Assault/Intimidation,975,26
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,66,16
+Larceny,277,23
+Motor Vehicle Theft,12,3
+Counterfeiting/Forgery,23,0
+Fraud,55,2
+Embezzlement,12,0
+Stolen Property,40,3
+Vandalism,97,1
+Drug/Narcotic Offenses,944,25
+"Sex Offenses, Nonforcible",1,0
+Pornography,1,0
+Gambling,8,0
+Prostitution,35,0
+Bribery,0,0
+Weapon Law Violations,97,5
+TOTAL GROUP A,2854,131
+Bad Checks,33,0
+Curfew/Loitering/Vagrancy,0,12
+Disorderly Conduct,86,14
+Driving Under Influence,187,0
+Drunkenness,435,0
+"Family Offenses, Nonforcible",121,0
+Liquor Laws Violations,51,3
+Peeping Tom,1,0
+Runaway,0,0
+Trespass of Real Property,752,12
+Conspiracy,0,0
+All Other (except Traffic),3648,18
+TOTAL GROUP B,5314,59
+GRAND TOTAL,8168,190
