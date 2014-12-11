@@ -1,0 +1,41 @@
+Arrests by Offense,Galax,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,2,0
+"Sex Offenses, Forcible",2,0
+Robbery,0,0
+Aggravated Assault,9,0
+Simple Assault/Intimidation,65,4
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,5,2
+Larceny,89,11
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,7,1
+Fraud,3,0
+Embezzlement,2,0
+Stolen Property,3,0
+Vandalism,15,0
+Drug/Narcotic Offenses,43,8
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,5,0
+TOTAL GROUP A,252,26
+Bad Checks,81,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,13,1
+Driving Under Influence,92,1
+Drunkenness,162,1
+"Family Offenses, Nonforcible",2,0
+Liquor Laws Violations,19,9
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,12,0
+Conspiracy,0,0
+All Other (except Traffic),57,4
+TOTAL GROUP B,438,16
+GRAND TOTAL,690,42
