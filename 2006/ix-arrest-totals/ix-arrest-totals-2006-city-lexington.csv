@@ -1,0 +1,41 @@
+Arrests by Offense,Lexington,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",0,0
+Robbery,3,0
+Aggravated Assault,1,0
+Simple Assault/Intimidation,24,0
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,6,0
+Larceny,14,0
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,0,1
+Fraud,7,0
+Embezzlement,0,0
+Stolen Property,0,0
+Vandalism,3,0
+Drug/Narcotic Offenses,8,2
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,0,0
+TOTAL GROUP A,66,3
+Bad Checks,1,0
+Curfew/Loitering/Vagrancy,0,1
+Disorderly Conduct,1,0
+Driving Under Influence,61,1
+Drunkenness,119,3
+"Family Offenses, Nonforcible",0,0
+Liquor Laws Violations,33,6
+Peeping Tom,1,0
+Runaway,0,1
+Trespass of Real Property,1,0
+Conspiracy,0,0
+All Other (except Traffic),12,2
+TOTAL GROUP B,229,14
+GRAND TOTAL,295,17
