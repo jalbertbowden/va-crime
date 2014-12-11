@@ -1,0 +1,41 @@
+Arrests by Offense,James City,
+,Adult,Juvenile
+Murder,3,0
+Manslaughter,0,0
+Kidnaping,7,1
+"Sex Offenses, Forcible",6,4
+Robbery,6,3
+Aggravated Assault,21,0
+Simple Assault/Intimidation,205,78
+Arson,4,16
+Extortion/Blackmail,0,0
+Burglary,16,15
+Larceny,71,56
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,5,0
+Fraud,12,0
+Embezzlement,31,9
+Stolen Property,6,0
+Vandalism,19,44
+Drug/Narcotic Offenses,118,61
+"Sex Offenses, Nonforcible",1,1
+Pornography,1,0
+Gambling,0,0
+Prostitution,2,0
+Bribery,0,0
+Weapon Law Violations,13,3
+TOTAL GROUP A,547,291
+Bad Checks,9,0
+Curfew/Loitering/Vagrancy,2,22
+Disorderly Conduct,3,29
+Driving Under Influence,72,1
+Drunkenness,50,2
+"Family Offenses, Nonforcible",1,0
+Liquor Laws Violations,71,49
+Peeping Tom,1,0
+Runaway,0,57
+Trespass of Real Property,18,6
+Conspiracy,3,0
+All Other (except Traffic),190,26
+TOTAL GROUP B,420,192
+GRAND TOTAL,967,483

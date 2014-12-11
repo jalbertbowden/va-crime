@@ -1,0 +1,41 @@
+Arrests by Offense,Northampton,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",1,0
+Robbery,5,0
+Aggravated Assault,7,1
+Simple Assault/Intimidation,97,10
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,13,9
+Larceny,34,2
+Motor Vehicle Theft,2,0
+Counterfeiting/Forgery,4,1
+Fraud,12,0
+Embezzlement,1,1
+Stolen Property,0,0
+Vandalism,15,3
+Drug/Narcotic Offenses,55,3
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,9,0
+TOTAL GROUP A,258,30
+Bad Checks,5,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,11,3
+Driving Under Influence,36,1
+Drunkenness,46,0
+"Family Offenses, Nonforcible",2,0
+Liquor Laws Violations,5,0
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,12,0
+Conspiracy,0,0
+All Other (except Traffic),66,1
+TOTAL GROUP B,183,5
+GRAND TOTAL,441,35

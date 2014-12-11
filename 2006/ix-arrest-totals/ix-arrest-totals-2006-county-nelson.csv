@@ -1,0 +1,41 @@
+Arrests by Offense,Nelson,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",0,0
+Robbery,0,0
+Aggravated Assault,6,1
+Simple Assault/Intimidation,34,10
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,0,2
+Larceny,4,1
+Motor Vehicle Theft,3,0
+Counterfeiting/Forgery,0,0
+Fraud,1,0
+Embezzlement,0,0
+Stolen Property,0,0
+Vandalism,4,3
+Drug/Narcotic Offenses,12,2
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,7,2
+TOTAL GROUP A,71,21
+Bad Checks,5,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,3,1
+Driving Under Influence,35,0
+Drunkenness,30,1
+"Family Offenses, Nonforcible",4,0
+Liquor Laws Violations,3,2
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,1,1
+Conspiracy,0,0
+All Other (except Traffic),109,10
+TOTAL GROUP B,190,15
+GRAND TOTAL,261,36
