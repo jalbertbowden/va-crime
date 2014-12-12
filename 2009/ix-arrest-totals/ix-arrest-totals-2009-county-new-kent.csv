@@ -1,0 +1,41 @@
+Arrests by Offense,New Kent,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",4,0
+Robbery,2,0
+Aggravated Assault,6,3
+Simple Assault/Intimidation,78,22
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,15,6
+Larceny,35,20
+Motor Vehicle Theft,5,3
+Counterfeiting/Forgery,4,0
+Fraud,18,0
+Embezzlement,6,0
+Stolen Property,1,0
+Vandalism,5,3
+Drug/Narcotic Offenses,90,20
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,1,0
+Bribery,0,0
+Weapon Law Violations,4,2
+TOTAL GROUP A,275,79
+Bad Checks,3,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,1,5
+Driving Under Influence,52,0
+Drunkenness,38,0
+"Family Offenses, Nonforcible",2,0
+Liquor Laws Violations,9,7
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,13,0
+Conspiracy,2,0
+All Other (except Traffic),197,9
+TOTAL GROUP B,317,21
+GRAND TOTAL,592,100
