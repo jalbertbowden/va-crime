@@ -1,0 +1,41 @@
+Arrests by Offense,Suffolk,
+,Adult,Juvenile
+Murder,6,0
+Manslaughter,0,0
+Kidnaping,24,6
+"Sex Offenses, Forcible",18,2
+Robbery,20,2
+Aggravated Assault,55,9
+Simple Assault/Intimidation,572,6
+Arson,7,1
+Extortion/Blackmail,0,0
+Burglary,37,5
+Larceny,255,13
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,13,0
+Fraud,29,0
+Embezzlement,15,0
+Stolen Property,9,1
+Vandalism,48,1
+Drug/Narcotic Offenses,321,9
+"Sex Offenses, Nonforcible",1,0
+Pornography,1,0
+Gambling,9,0
+Prostitution,1,1
+Bribery,0,0
+Weapon Law Violations,52,2
+TOTAL GROUP A,1493,58
+Bad Checks,37,0
+Curfew/Loitering/Vagrancy,0,31
+Disorderly Conduct,64,0
+Driving Under Influence,378,4
+Drunkenness,151,0
+"Family Offenses, Nonforcible",27,0
+Liquor Laws Violations,85,0
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,162,1
+Conspiracy,0,0
+All Other (except Traffic),728,15
+TOTAL GROUP B,1632,51
+GRAND TOTAL,3125,109
