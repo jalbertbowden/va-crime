@@ -1,0 +1,41 @@
+Arrests by Offense,Westmoreland,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",2,0
+Robbery,0,0
+Aggravated Assault,4,2
+Simple Assault/Intimidation,85,1
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,0,0
+Larceny,10,2
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,1,0
+Fraud,5,0
+Embezzlement,1,0
+Stolen Property,0,0
+Vandalism,8,0
+Drug/Narcotic Offenses,19,2
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,2,2
+TOTAL GROUP A,140,9
+Bad Checks,7,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,5,0
+Driving Under Influence,62,1
+Drunkenness,45,0
+"Family Offenses, Nonforcible",7,0
+Liquor Laws Violations,1,0
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,7,0
+Conspiracy,0,0
+All Other (except Traffic),112,2
+TOTAL GROUP B,246,3
+GRAND TOTAL,386,12

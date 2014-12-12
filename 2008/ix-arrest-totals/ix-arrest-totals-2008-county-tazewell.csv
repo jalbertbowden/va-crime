@@ -1,0 +1,41 @@
+Arrests by Offense,Tazewell,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,1
+Kidnaping,6,0
+"Sex Offenses, Forcible",5,4
+Robbery,10,0
+Aggravated Assault,46,2
+Simple Assault/Intimidation,289,22
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,38,7
+Larceny,280,29
+Motor Vehicle Theft,13,1
+Counterfeiting/Forgery,123,0
+Fraud,47,0
+Embezzlement,11,0
+Stolen Property,6,0
+Vandalism,28,8
+Drug/Narcotic Offenses,269,13
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,1
+Gambling,0,0
+Prostitution,0,0
+Bribery,1,0
+Weapon Law Violations,27,3
+TOTAL GROUP A,1200,91
+Bad Checks,112,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,5,2
+Driving Under Influence,180,1
+Drunkenness,251,9
+"Family Offenses, Nonforcible",13,0
+Liquor Laws Violations,7,3
+Peeping Tom,0,0
+Runaway,0,1
+Trespass of Real Property,18,0
+Conspiracy,0,1
+All Other (except Traffic),281,29
+TOTAL GROUP B,867,46
+GRAND TOTAL,2067,137
