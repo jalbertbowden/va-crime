@@ -1,0 +1,41 @@
+Arrests by Offense,Madison,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",1,1
+Robbery,0,0
+Aggravated Assault,5,0
+Simple Assault/Intimidation,55,2
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,1,0
+Larceny,3,0
+Motor Vehicle Theft,3,1
+Counterfeiting/Forgery,0,0
+Fraud,2,1
+Embezzlement,2,0
+Stolen Property,0,0
+Vandalism,8,3
+Drug/Narcotic Offenses,31,2
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,5,0
+TOTAL GROUP A,117,10
+Bad Checks,0,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,1,0
+Driving Under Influence,39,1
+Drunkenness,41,0
+"Family Offenses, Nonforcible",1,0
+Liquor Laws Violations,13,5
+Peeping Tom,0,0
+Runaway,0,2
+Trespass of Real Property,6,0
+Conspiracy,0,0
+All Other (except Traffic),97,1
+TOTAL GROUP B,198,9
+GRAND TOTAL,315,19
