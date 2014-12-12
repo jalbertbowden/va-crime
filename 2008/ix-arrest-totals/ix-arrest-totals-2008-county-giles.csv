@@ -1,0 +1,41 @@
+Arrests by Offense,Giles,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,3,0
+"Sex Offenses, Forcible",7,1
+Robbery,0,0
+Aggravated Assault,10,0
+Simple Assault/Intimidation,69,6
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,9,0
+Larceny,67,3
+Motor Vehicle Theft,4,0
+Counterfeiting/Forgery,4,0
+Fraud,5,0
+Embezzlement,1,0
+Stolen Property,5,0
+Vandalism,7,1
+Drug/Narcotic Offenses,41,13
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,3,0
+TOTAL GROUP A,236,24
+Bad Checks,9,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,9,3
+Driving Under Influence,83,0
+Drunkenness,83,1
+"Family Offenses, Nonforcible",3,0
+Liquor Laws Violations,10,4
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,12,0
+Conspiracy,3,0
+All Other (except Traffic),206,4
+TOTAL GROUP B,418,12
+GRAND TOTAL,654,36
