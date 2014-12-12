@@ -1,0 +1,41 @@
+Arrests by Offense,Patrick,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,3,0
+"Sex Offenses, Forcible",5,1
+Robbery,1,0
+Aggravated Assault,6,0
+Simple Assault/Intimidation,116,0
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,23,4
+Larceny,53,2
+Motor Vehicle Theft,4,0
+Counterfeiting/Forgery,6,0
+Fraud,3,0
+Embezzlement,5,0
+Stolen Property,1,0
+Vandalism,25,0
+Drug/Narcotic Offenses,10,0
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,19,0
+TOTAL GROUP A,281,7
+Bad Checks,22,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,6,0
+Driving Under Influence,46,1
+Drunkenness,66,0
+"Family Offenses, Nonforcible",1,0
+Liquor Laws Violations,1,0
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,13,0
+Conspiracy,2,0
+All Other (except Traffic),200,2
+TOTAL GROUP B,357,3
+GRAND TOTAL,638,10
