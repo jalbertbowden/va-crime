@@ -1,0 +1,41 @@
+Arrests by Offense,College/University,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",3,0
+Robbery,1,1
+Aggravated Assault,10,0
+Simple Assault/Intimidation,60,1
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,10,3
+Larceny,69,5
+Motor Vehicle Theft,0,1
+Counterfeiting/Forgery,12,1
+Fraud,11,0
+Embezzlement,5,0
+Stolen Property,8,0
+Vandalism,26,0
+Drug/Narcotic Offenses,226,7
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,9,0
+TOTAL GROUP A,452,19
+Bad Checks,1,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,69,1
+Driving Under Influence,378,1
+Drunkenness,781,1
+"Family Offenses, Nonforcible",0,0
+Liquor Laws Violations,971,33
+Peeping Tom,14,0
+Runaway,0,0
+Trespass of Real Property,249,2
+Conspiracy,0,0
+All Other (except Traffic),399,9
+TOTAL GROUP B,2862,47
+GRAND TOTAL,3314,66
