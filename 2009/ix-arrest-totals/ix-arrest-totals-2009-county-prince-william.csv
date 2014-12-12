@@ -1,0 +1,41 @@
+Arrests by Offense,Prince William,
+,Adult,Juvenile
+Murder,8,0
+Manslaughter,0,0
+Kidnaping,49,6
+"Sex Offenses, Forcible",80,24
+Robbery,78,28
+Aggravated Assault,154,40
+Simple Assault/Intimidation,1352,320
+Arson,3,1
+Extortion/Blackmail,6,0
+Burglary,119,66
+Larceny,1117,255
+Motor Vehicle Theft,44,15
+Counterfeiting/Forgery,132,4
+Fraud,235,7
+Embezzlement,94,3
+Stolen Property,59,23
+Vandalism,133,82
+Drug/Narcotic Offenses,1805,199
+"Sex Offenses, Nonforcible",17,0
+Pornography,4,0
+Gambling,13,0
+Prostitution,37,0
+Bribery,2,0
+Weapon Law Violations,111,21
+TOTAL GROUP A,5652,1094
+Bad Checks,37,0
+Curfew/Loitering/Vagrancy,27,72
+Disorderly Conduct,74,63
+Driving Under Influence,1459,10
+Drunkenness,373,32
+"Family Offenses, Nonforcible",26,0
+Liquor Laws Violations,56,51
+Peeping Tom,2,0
+Runaway,0,1005
+Trespass of Real Property,59,19
+Conspiracy,0,0
+All Other (except Traffic),1162,105
+TOTAL GROUP B,3275,1357
+GRAND TOTAL,8927,2451
