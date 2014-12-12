@@ -1,0 +1,41 @@
+Arrests by Offense,Fairfax,
+,Adult,Juvenile
+Murder,3,0
+Manslaughter,0,0
+Kidnaping,179,3
+"Sex Offenses, Forcible",36,2
+Robbery,44,2
+Aggravated Assault,143,6
+Simple Assault/Intimidation,1510,46
+Arson,6,2
+Extortion/Blackmail,0,2
+Burglary,166,11
+Larceny,1728,186
+Motor Vehicle Theft,2,0
+Counterfeiting/Forgery,74,1
+Fraud,320,2
+Embezzlement,122,0
+Stolen Property,41,3
+Vandalism,120,26
+Drug/Narcotic Offenses,1770,80
+"Sex Offenses, Nonforcible",2,1
+Pornography,5,0
+Gambling,6,0
+Prostitution,29,0
+Bribery,0,0
+Weapon Law Violations,94,0
+TOTAL GROUP A,6400,373
+Bad Checks,41,0
+Curfew/Loitering/Vagrancy,9,0
+Disorderly Conduct,209,6
+Driving Under Influence,2055,15
+Drunkenness,3558,26
+"Family Offenses, Nonforcible",40,3
+Liquor Laws Violations,989,191
+Peeping Tom,6,2
+Runaway,0,2
+Trespass of Real Property,370,82
+Conspiracy,2,0
+All Other (except Traffic),3341,119
+TOTAL GROUP B,10620,446
+GRAND TOTAL,17020,819

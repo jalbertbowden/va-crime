@@ -1,0 +1,41 @@
+Arrests by Offense,Culpeper,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,10,0
+"Sex Offenses, Forcible",10,5
+Robbery,5,0
+Aggravated Assault,47,5
+Simple Assault/Intimidation,289,27
+Arson,1,1
+Extortion/Blackmail,0,0
+Burglary,18,5
+Larceny,161,24
+Motor Vehicle Theft,3,3
+Counterfeiting/Forgery,13,2
+Fraud,46,1
+Embezzlement,11,0
+Stolen Property,5,3
+Vandalism,39,33
+Drug/Narcotic Offenses,133,18
+"Sex Offenses, Nonforcible",2,0
+Pornography,1,2
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,6,10
+TOTAL GROUP A,800,139
+Bad Checks,7,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,24,3
+Driving Under Influence,136,2
+Drunkenness,181,1
+"Family Offenses, Nonforcible",12,0
+Liquor Laws Violations,17,1
+Peeping Tom,0,0
+Runaway,0,8
+Trespass of Real Property,19,7
+Conspiracy,0,0
+All Other (except Traffic),787,28
+TOTAL GROUP B,1183,50
+GRAND TOTAL,1983,189
