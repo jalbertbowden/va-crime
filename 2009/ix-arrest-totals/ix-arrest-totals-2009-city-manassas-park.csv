@@ -1,0 +1,41 @@
+Arrests by Offense,Manassas Park,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,5,0
+"Sex Offenses, Forcible",0,1
+Robbery,5,0
+Aggravated Assault,2,0
+Simple Assault/Intimidation,47,2
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,1,1
+Larceny,17,4
+Motor Vehicle Theft,2,0
+Counterfeiting/Forgery,1,0
+Fraud,1,0
+Embezzlement,0,0
+Stolen Property,3,0
+Vandalism,3,7
+Drug/Narcotic Offenses,78,3
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,5,1
+TOTAL GROUP A,170,19
+Bad Checks,1,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,22,1
+Driving Under Influence,114,1
+Drunkenness,122,0
+"Family Offenses, Nonforcible",1,0
+Liquor Laws Violations,10,6
+Peeping Tom,1,0
+Runaway,0,0
+Trespass of Real Property,7,4
+Conspiracy,0,0
+All Other (except Traffic),113,9
+TOTAL GROUP B,391,21
+GRAND TOTAL,561,40
