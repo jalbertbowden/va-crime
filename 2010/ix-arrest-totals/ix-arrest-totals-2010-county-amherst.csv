@@ -1,0 +1,41 @@
+Arrests by Offense,Amherst ,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",3,0
+Robbery,0,0
+Aggravated Assault,10,1
+Simple Assault/Intimidation,96,16
+Arson,2,0
+Extortion/Blackmail,0,0
+Burglary,4,0
+Larceny,90,8
+Motor Vehicle Theft,2,0
+Counterfeiting/Forgery,3,0
+Fraud,3,0
+Embezzlement,5,0
+Stolen Property,1,0
+Vandalism,10,1
+Drug/Narcotic Offenses,225,9
+"Sex Offenses, Nonforcible",1,0
+Pornography,0,1
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,8,1
+TOTAL GROUP A,464,37
+Bad Checks,0,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,2,5
+Driving Under Influence,200,4
+Drunkenness,140,1
+"Family Offenses, Nonforcible",2,0
+Liquor Laws Violations,10,8
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,9,3
+Conspiracy,0,0
+All Other (except Traffic),101,2
+TOTAL GROUP B,464,23
+GRAND TOTAL,928,60
