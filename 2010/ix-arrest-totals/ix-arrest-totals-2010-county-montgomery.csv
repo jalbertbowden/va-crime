@@ -1,0 +1,41 @@
+Arrests by Offense,Montgomery,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,3,0
+"Sex Offenses, Forcible",13,0
+Robbery,6,0
+Aggravated Assault,30,2
+Simple Assault/Intimidation,387,20
+Arson,4,0
+Extortion/Blackmail,0,0
+Burglary,44,1
+Larceny,307,17
+Motor Vehicle Theft,5,0
+Counterfeiting/Forgery,24,1
+Fraud,48,0
+Embezzlement,11,0
+Stolen Property,7,1
+Vandalism,76,7
+Drug/Narcotic Offenses,302,9
+"Sex Offenses, Nonforcible",2,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,26,1
+TOTAL GROUP A,1297,59
+Bad Checks,46,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,2,1
+Driving Under Influence,385,4
+Drunkenness,846,3
+"Family Offenses, Nonforcible",8,0
+Liquor Laws Violations,88,30
+Peeping Tom,1,0
+Runaway,0,1
+Trespass of Real Property,48,5
+Conspiracy,0,0
+All Other (except Traffic),788,38
+TOTAL GROUP B,2212,82
+GRAND TOTAL,3509,141
