@@ -1,0 +1,41 @@
+Arrests by Offense,Frederick,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,5,0
+"Sex Offenses, Forcible",15,3
+Robbery,7,0
+Aggravated Assault,19,2
+Simple Assault/Intimidation,308,77
+Arson,4,1
+Extortion/Blackmail,3,4
+Burglary,40,4
+Larceny,295,35
+Motor Vehicle Theft,11,0
+Counterfeiting/Forgery,44,1
+Fraud,24,0
+Embezzlement,8,0
+Stolen Property,2,0
+Vandalism,38,13
+Drug/Narcotic Offenses,250,23
+"Sex Offenses, Nonforcible",3,3
+Pornography,2,5
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,16,0
+TOTAL GROUP A,1095,171
+Bad Checks,25,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,7,2
+Driving Under Influence,151,0
+Drunkenness,103,2
+"Family Offenses, Nonforcible",28,0
+Liquor Laws Violations,111,32
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,24,4
+Conspiracy,0,0
+All Other (except Traffic),1105,146
+TOTAL GROUP B,1554,186
+GRAND TOTAL,2649,357
