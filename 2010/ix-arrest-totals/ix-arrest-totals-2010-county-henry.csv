@@ -1,0 +1,41 @@
+Arrests by Offense,Henry,
+,Adult,Juvenile
+Murder,6,1
+Manslaughter,1,0
+Kidnaping,5,0
+"Sex Offenses, Forcible",6,2
+Robbery,19,3
+Aggravated Assault,49,5
+Simple Assault/Intimidation,362,11
+Arson,3,0
+Extortion/Blackmail,0,0
+Burglary,24,0
+Larceny,175,7
+Motor Vehicle Theft,16,2
+Counterfeiting/Forgery,9,0
+Fraud,31,2
+Embezzlement,14,0
+Stolen Property,3,0
+Vandalism,42,4
+Drug/Narcotic Offenses,161,4
+"Sex Offenses, Nonforcible",4,0
+Pornography,0,0
+Gambling,4,0
+Prostitution,4,0
+Bribery,0,0
+Weapon Law Violations,33,1
+TOTAL GROUP A,971,42
+Bad Checks,25,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,12,1
+Driving Under Influence,137,3
+Drunkenness,328,0
+"Family Offenses, Nonforcible",4,0
+Liquor Laws Violations,8,0
+Peeping Tom,0,0
+Runaway,0,6
+Trespass of Real Property,20,1
+Conspiracy,0,0
+All Other (except Traffic),871,17
+TOTAL GROUP B,1405,28
+GRAND TOTAL,2376,70
