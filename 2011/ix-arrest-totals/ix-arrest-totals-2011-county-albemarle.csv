@@ -1,0 +1,41 @@
+Arrests by Offense,Albemarle ,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,5,0
+"Sex Offenses, Forcible",12,0
+Robbery,22,5
+Aggravated Assault,23,4
+Simple Assault/Intimidation,293,30
+Arson,2,0
+Extortion/Blackmail,0,0
+Burglary,28,4
+Larceny,290,91
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,14,0
+Fraud,39,1
+Embezzlement,28,1
+Stolen Property,19,2
+Vandalism,31,5
+Drug/Narcotic Offenses,217,43
+"Sex Offenses, Nonforcible",5,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,2,0
+Bribery,0,0
+Weapon Law Violations,26,7
+TOTAL GROUP A,1059,193
+Bad Checks,54,0
+Curfew/Loitering/Vagrancy,0,1
+Disorderly Conduct,16,3
+Driving Under Influence,225,4
+Drunkenness,197,1
+"Family Offenses, Nonforcible",3,0
+Liquor Laws Violations,105,75
+Peeping Tom,0,0
+Runaway,0,2
+Trespass of Real Property,51,15
+Conspiracy,0,0
+All Other (except Traffic),857,37
+TOTAL GROUP B,1508,138
+GRAND TOTAL,2567,331
