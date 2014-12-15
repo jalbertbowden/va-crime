@@ -1,0 +1,41 @@
+Arrests by Offense,Colonial Heights,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",10,1
+Robbery,5,2
+Aggravated Assault,18,5
+Simple Assault/Intimidation,154,64
+Arson,1,0
+Extortion/Blackmail,2,0
+Burglary,18,13
+Larceny,541,188
+Motor Vehicle Theft,8,3
+Counterfeiting/Forgery,30,1
+Fraud,25,1
+Embezzlement,48,0
+Stolen Property,8,1
+Vandalism,16,7
+Drug/Narcotic Offenses,261,34
+"Sex Offenses, Nonforcible",1,0
+Pornography,3,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,25,3
+TOTAL GROUP A,1176,323
+Bad Checks,4,0
+Curfew/Loitering/Vagrancy,0,11
+Disorderly Conduct,14,21
+Driving Under Influence,218,1
+Drunkenness,85,0
+"Family Offenses, Nonforcible",29,0
+Liquor Laws Violations,33,6
+Peeping Tom,2,0
+Runaway,0,32
+Trespass of Real Property,37,21
+Conspiracy,2,0
+All Other (except Traffic),1101,59
+TOTAL GROUP B,1525,151
+GRAND TOTAL,2701,474
