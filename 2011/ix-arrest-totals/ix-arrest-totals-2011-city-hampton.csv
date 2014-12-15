@@ -1,0 +1,41 @@
+Arrests by Offense,Hampton,
+,Adult,Juvenile
+Murder,10,0
+Manslaughter,1,0
+Kidnaping,27,0
+"Sex Offenses, Forcible",25,7
+Robbery,61,23
+Aggravated Assault,99,20
+Simple Assault/Intimidation,1030,134
+Arson,7,0
+Extortion/Blackmail,0,0
+Burglary,106,48
+Larceny,767,159
+Motor Vehicle Theft,14,5
+Counterfeiting/Forgery,42,0
+Fraud,90,1
+Embezzlement,44,1
+Stolen Property,43,13
+Vandalism,101,22
+Drug/Narcotic Offenses,757,54
+"Sex Offenses, Nonforcible",0,1
+Pornography,0,1
+Gambling,0,0
+Prostitution,7,0
+Bribery,0,0
+Weapon Law Violations,118,23
+TOTAL GROUP A,3349,512
+Bad Checks,3,0
+Curfew/Loitering/Vagrancy,1,174
+Disorderly Conduct,8,10
+Driving Under Influence,709,2
+Drunkenness,817,5
+"Family Offenses, Nonforcible",184,0
+Liquor Laws Violations,17,3
+Peeping Tom,1,0
+Runaway,0,364
+Trespass of Real Property,234,17
+Conspiracy,1,0
+All Other (except Traffic),2830,70
+TOTAL GROUP B,4805,645
+GRAND TOTAL,8154,1157
