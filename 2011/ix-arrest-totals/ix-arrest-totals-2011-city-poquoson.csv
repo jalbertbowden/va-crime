@@ -1,0 +1,41 @@
+Arrests by Offense,Poquoson,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",3,1
+Robbery,1,0
+Aggravated Assault,1,0
+Simple Assault/Intimidation,38,4
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,5,0
+Larceny,15,2
+Motor Vehicle Theft,2,0
+Counterfeiting/Forgery,3,1
+Fraud,4,0
+Embezzlement,0,0
+Stolen Property,1,0
+Vandalism,6,8
+Drug/Narcotic Offenses,21,8
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,6,1
+TOTAL GROUP A,106,25
+Bad Checks,1,0
+Curfew/Loitering/Vagrancy,0,2
+Disorderly Conduct,0,0
+Driving Under Influence,34,0
+Drunkenness,17,0
+"Family Offenses, Nonforcible",1,0
+Liquor Laws Violations,5,10
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,8,1
+Conspiracy,0,0
+All Other (except Traffic),33,1
+TOTAL GROUP B,99,14
+GRAND TOTAL,205,39
