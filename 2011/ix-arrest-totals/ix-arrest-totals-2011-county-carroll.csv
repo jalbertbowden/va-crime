@@ -1,0 +1,41 @@
+Arrests by Offense,Carroll,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,4,0
+"Sex Offenses, Forcible",2,0
+Robbery,3,0
+Aggravated Assault,15,0
+Simple Assault/Intimidation,184,2
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,22,2
+Larceny,94,1
+Motor Vehicle Theft,4,0
+Counterfeiting/Forgery,2,0
+Fraud,9,0
+Embezzlement,4,0
+Stolen Property,4,0
+Vandalism,18,1
+Drug/Narcotic Offenses,71,1
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,17,2
+TOTAL GROUP A,456,9
+Bad Checks,107,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,6,0
+Driving Under Influence,136,1
+Drunkenness,84,0
+"Family Offenses, Nonforcible",0,0
+Liquor Laws Violations,7,0
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,34,0
+Conspiracy,1,0
+All Other (except Traffic),426,4
+TOTAL GROUP B,801,5
+GRAND TOTAL,1257,14
