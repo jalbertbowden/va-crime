@@ -1,0 +1,41 @@
+Arrests by Offense,Total Other,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,1,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",4,1
+Robbery,7,0
+Aggravated Assault,18,0
+Simple Assault/Intimidation,95,2
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,9,10
+Larceny,149,7
+Motor Vehicle Theft,13,1
+Counterfeiting/Forgery,149,3
+Fraud,120,1
+Embezzlement,25,0
+Stolen Property,16,0
+Vandalism,27,2
+Drug/Narcotic Offenses,694,24
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,5,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,370,14
+TOTAL GROUP A,1704,65
+Bad Checks,15,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,96,4
+Driving Under Influence,614,2
+Drunkenness,1215,2
+"Family Offenses, Nonforcible",4,1
+Liquor Laws Violations,2234,86
+Peeping Tom,1,0
+Runaway,0,0
+Trespass of Real Property,814,26
+Conspiracy,4,0
+All Other (except Traffic),8448,132
+TOTAL GROUP B,13445,253
+GRAND TOTAL,15149,318
