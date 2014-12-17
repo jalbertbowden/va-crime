@@ -1,0 +1,41 @@
+Arrests by Offense,Franklin,
+,Adult,Juvenile
+Murder,0,1
+Manslaughter,0,0
+Kidnaping,7,0
+"Sex Offenses, Forcible",3,0
+Robbery,3,0
+Aggravated Assault,7,0
+Simple Assault/Intimidation,117,9
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,4,1
+Larceny,50,4
+Motor Vehicle Theft,4,0
+Counterfeiting/Forgery,8,0
+Fraud,3,0
+Embezzlement,6,0
+Stolen Property,1,0
+Vandalism,14,0
+Drug/Narcotic Offenses,83,8
+"Sex Offenses, Nonforcible",0,0
+Pornography,2,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,6,0
+TOTAL GROUP A,319,23
+Bad Checks,0,0
+Curfew/Loitering/Vagrancy,0,4
+Disorderly Conduct,9,0
+Driving Under Influence,57,0
+Drunkenness,37,1
+"Family Offenses, Nonforcible",2,0
+Liquor Laws Violations,26,1
+Peeping Tom,0,0
+Runaway,0,1
+Trespass of Real Property,4,0
+Conspiracy,0,0
+All Other (except Traffic),226,6
+TOTAL GROUP B,361,13
+GRAND TOTAL,680,36
