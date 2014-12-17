@@ -1,0 +1,41 @@
+Arrests by Offense,Manassas,
+,Adult,Juvenile
+Murder,2,0
+Manslaughter,0,0
+Kidnaping,26,0
+"Sex Offenses, Forcible",22,4
+Robbery,20,9
+Aggravated Assault,40,3
+Simple Assault/Intimidation,198,20
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,21,7
+Larceny,103,12
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,12,2
+Fraud,44,0
+Embezzlement,7,0
+Stolen Property,6,1
+Vandalism,26,4
+Drug/Narcotic Offenses,255,30
+"Sex Offenses, Nonforcible",2,0
+Pornography,2,0
+Gambling,0,0
+Prostitution,3,0
+Bribery,0,0
+Weapon Law Violations,9,0
+TOTAL GROUP A,799,92
+Bad Checks,1,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,103,4
+Driving Under Influence,177,2
+Drunkenness,327,1
+"Family Offenses, Nonforcible",5,0
+Liquor Laws Violations,142,20
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,67,5
+Conspiracy,0,0
+All Other (except Traffic),109,24
+TOTAL GROUP B,931,56
+GRAND TOTAL,1730,148
