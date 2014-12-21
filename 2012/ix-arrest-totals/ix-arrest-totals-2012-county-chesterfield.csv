@@ -1,0 +1,41 @@
+Arrests by Offense,Chesterfield,
+,Adult,Juvenile
+Murder,9,0
+Manslaughter,0,0
+Kidnaping,46,1
+"Sex Offenses, Forcible",41,23
+Robbery,62,12
+Aggravated Assault,123,30
+Simple Assault/Intimidation,1316,1105
+Arson,13,38
+Extortion/Blackmail,0,2
+Burglary,235,135
+Larceny,1203,501
+Motor Vehicle Theft,0,0
+Counterfeiting/Forgery,142,5
+Fraud,254,22
+Embezzlement,85,4
+Stolen Property,41,6
+Vandalism,141,170
+Drug/Narcotic Offenses,1892,383
+"Sex Offenses, Nonforcible",10,3
+Pornography,7,4
+Gambling,0,0
+Prostitution,53,0
+Bribery,1,0
+Weapon Law Violations,211,71
+TOTAL GROUP A,5885,2515
+Bad Checks,45,0
+Curfew/Loitering/Vagrancy,2,355
+Disorderly Conduct,665,158
+Driving Under Influence,1077,3
+Drunkenness,12,6
+"Family Offenses, Nonforcible",40,0
+Liquor Laws Violations,340,126
+Peeping Tom,2,0
+Runaway,0,481
+Trespass of Real Property,180,130
+Conspiracy,1,0
+All Other (except Traffic),3253,576
+TOTAL GROUP B,5617,1835
+GRAND TOTAL,11502,4350

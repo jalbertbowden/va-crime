@@ -1,0 +1,41 @@
+Arrests by Offense,Botetourt,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,4,0
+"Sex Offenses, Forcible",2,0
+Robbery,2,0
+Aggravated Assault,16,0
+Simple Assault/Intimidation,70,7
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,27,1
+Larceny,56,10
+Motor Vehicle Theft,1,1
+Counterfeiting/Forgery,9,0
+Fraud,11,1
+Embezzlement,11,0
+Stolen Property,0,3
+Vandalism,14,3
+Drug/Narcotic Offenses,131,6
+"Sex Offenses, Nonforcible",1,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,9,0
+TOTAL GROUP A,365,32
+Bad Checks,5,0
+Curfew/Loitering/Vagrancy,0,4
+Disorderly Conduct,4,5
+Driving Under Influence,114,0
+Drunkenness,52,0
+"Family Offenses, Nonforcible",1,0
+Liquor Laws Violations,16,16
+Peeping Tom,0,0
+Runaway,0,5
+Trespass of Real Property,5,1
+Conspiracy,0,1
+All Other (except Traffic),66,12
+TOTAL GROUP B,263,44
+GRAND TOTAL,628,76
