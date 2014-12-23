@@ -1,0 +1,41 @@
+Arrests by Offense,Dinwiddie,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,4,0
+"Sex Offenses, Forcible",7,1
+Robbery,1,0
+Aggravated Assault,11,1
+Simple Assault/Intimidation,59,5
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,52,3
+Larceny,86,8
+Motor Vehicle Theft,9,1
+Counterfeiting/Forgery,7,0
+Fraud,27,0
+Embezzlement,4,0
+Stolen Property,0,0
+Vandalism,6,4
+Drug/Narcotic Offenses,101,5
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,13,2
+TOTAL GROUP A,389,30
+Bad Checks,12,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,6,0
+Driving Under Influence,89,0
+Drunkenness,34,0
+"Family Offenses, Nonforcible",5,0
+Liquor Laws Violations,4,2
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,11,0
+Conspiracy,0,0
+All Other (except Traffic),84,0
+TOTAL GROUP B,245,2
+GRAND TOTAL,634,32
