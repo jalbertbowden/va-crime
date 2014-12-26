@@ -1,0 +1,41 @@
+Arrests by Offense,Orange,
+,Adult,Juvenile
+Murder,1,0
+Manslaughter,0,0
+Kidnaping,0,0
+"Sex Offenses, Forcible",2,0
+Robbery,4,0
+Aggravated Assault,7,1
+Simple Assault/Intimidation,67,10
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,7,0
+Larceny,50,7
+Motor Vehicle Theft,1,0
+Counterfeiting/Forgery,0,0
+Fraud,16,0
+Embezzlement,6,0
+Stolen Property,0,0
+Vandalism,14,1
+Drug/Narcotic Offenses,83,9
+"Sex Offenses, Nonforcible",0,0
+Pornography,0,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,2,3
+TOTAL GROUP A,261,31
+Bad Checks,2,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,0,0
+Driving Under Influence,96,1
+Drunkenness,89,2
+"Family Offenses, Nonforcible",4,0
+Liquor Laws Violations,2,0
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,30,0
+Conspiracy,0,0
+All Other (except Traffic),108,17
+TOTAL GROUP B,331,20
+GRAND TOTAL,592,51
