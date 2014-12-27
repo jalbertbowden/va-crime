@@ -1,0 +1,41 @@
+Arrests by Offense,Russell,
+,Adult,Juvenile
+Murder,2,0
+Manslaughter,0,0
+Kidnaping,4,0
+"Sex Offenses, Forcible",19,9
+Robbery,3,0
+Aggravated Assault,34,4
+Simple Assault/Intimidation,186,4
+Arson,0,0
+Extortion/Blackmail,0,0
+Burglary,45,0
+Larceny,134,2
+Motor Vehicle Theft,3,0
+Counterfeiting/Forgery,12,0
+Fraud,11,0
+Embezzlement,3,0
+Stolen Property,2,0
+Vandalism,8,8
+Drug/Narcotic Offenses,129,2
+"Sex Offenses, Nonforcible",0,0
+Pornography,5,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,18,1
+TOTAL GROUP A,618,30
+Bad Checks,10,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,1,0
+Driving Under Influence,102,1
+Drunkenness,105,0
+"Family Offenses, Nonforcible",13,0
+Liquor Laws Violations,13,3
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,14,0
+Conspiracy,0,1
+All Other (except Traffic),1027,7
+TOTAL GROUP B,1285,12
+GRAND TOTAL,1903,42
