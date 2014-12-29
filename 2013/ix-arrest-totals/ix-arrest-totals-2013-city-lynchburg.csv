@@ -1,0 +1,41 @@
+Arrests by Offense,Lynchburg,
+,Adult,Juvenile
+Murder,2,0
+Manslaughter,0,0
+Kidnaping,11,0
+"Sex Offenses, Forcible",15,4
+Robbery,21,9
+Aggravated Assault,75,1
+Simple Assault/Intimidation,688,22
+Arson,0,1
+Extortion/Blackmail,2,1
+Burglary,38,3
+Larceny,453,5
+Motor Vehicle Theft,11,1
+Counterfeiting/Forgery,17,0
+Fraud,76,1
+Embezzlement,18,0
+Stolen Property,6,0
+Vandalism,48,4
+Drug/Narcotic Offenses,913,36
+"Sex Offenses, Nonforcible",3,0
+Pornography,9,0
+Gambling,2,0
+Prostitution,7,0
+Bribery,0,0
+Weapon Law Violations,39,1
+TOTAL GROUP A,2454,89
+Bad Checks,19,0
+Curfew/Loitering/Vagrancy,2,0
+Disorderly Conduct,58,1
+Driving Under Influence,377,0
+Drunkenness,478,0
+"Family Offenses, Nonforcible",15,0
+Liquor Laws Violations,154,6
+Peeping Tom,0,0
+Runaway,0,48
+Trespass of Real Property,216,6
+Conspiracy,0,0
+All Other (except Traffic),1976,171
+TOTAL GROUP B,3295,232
+GRAND TOTAL,5749,321
