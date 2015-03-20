@@ -1,0 +1,559 @@
+
+DAILY REPORT # 2000 - 153
+06/01/2000
+
+FOUND PROPERTY - Hospital						200000598
+	Reported property being found in area.
+RPT: 0130  06-01-00
+CASE STATUS: Suspended
+
+LARCENY - Wilson Hall							200000599
+	Reported theft of bookbag from area.
+RPT: 1205  06-01-00
+CASE STATUS:  Suspended
+
+PHONE CALLS - McCue Center						200000600
+	Reported receiving annoying phone calls.
+RPT: 1348  06-01-00
+CASE STATUS: Suspended
+
+SHOPLIFTING - Newcomb Bookstore					200000601
+	Reported a shoplifter in area.
+RPT: 1402  06-01-00
+CASE STATUS: Cleared by Arrest
+
+PROPERTY DAMAGE - U4 Parking Lot					200000602
+	Reported damage to vehicle while parked in area.
+RPT: 1608  06-01-00
+CASE STATUS: Suspended
+
+ASSIST AGENCY -  Hospital						200000603
+	ARREST MADE
+RPT: 2115  06-01-00
+CASE STATUS: Suspended
+
+DAILY REPORT# 2000 - 154
+06/02/2000
+
+PROPERTY DAMAGE -  University Gardens			200000604
+	Reported damaged to vehicle while parked in area.
+RPT:  1657  06-02-00
+CASE STATUS:  Suspended
+
+PROPERTY DAMAMGE -  Peyton Court				200000605
+	Reported damage to vehicle window while parked in area.
+RPT:  1857  06-02-00
+CASE STATUS:  Suspended
+
+LARCENY - Hospital						200000606
+	Reported theft of wallet from hospital restroom.
+RPT:  2212  06-02-00
+CASE STATUS:  Suspended
+
+DAILY REPORT #2000 - 155
+06/03/2000
+
+LARCENY - Hospital						200000607
+	Reported theft of cell phone from lounge
+RPT: 0810  06-03-00
+CASE STATUS: Suspended
+
+LOST PROPERTY - Hospital					200000608
+	Reported losing cell phone on 5th floor.
+RPT: 1340  06-03-00
+CASE STATUS: Suspended
+
+DAILY REPORT # 2000 - 156
+06/04/2000
+
+VANDALISM - Chemistry Building				200000609
+	Reported damaged to paper box on east patio.
+RPT:  0507  06-04-00
+CASE STATUS:  Unfounded
+
+LOST PROPERTY - Amphitheater				200000610
+	Reported losing wallet while in area.
+RPT:  1234  06-04-00
+CASE STATUS:  Suspended
+
+DAILY REPORT # 2000 - 157
+06/05/2000
+
+LARCENY - Hospital					200000611
+	Reported the theft of purse in lounge area.
+RPT:  0149  06-05-00
+CASE STATUS:  Suspended
+
+ATTEMPTED LARCENY - Hospital			200000612
+	Reported an attempted larceny of purse in lounge area.
+RPT:  0230  06-05-00
+CASE STATUS:  Suspended
+
+ASSIST OTHER AGENCY - Hospital			200000613
+	Reported assisting Rockbridge County Sheriff's Office.
+RPT:  1455  06-05-00
+CASE STATUS: Suspended
+
+DAILY REPORT # 2000 - 158
+06/06/2000
+
+LARCENY - Madison Bowl						200000614
+	Reported theft of purse from area.
+RPT: 1042  06-06-00
+CASE STATUS: Suspended
+
+VANDALISM - West Parking Lot U-Hall				200000615
+	Reported damage to vehicle parked in area.
+RPT: 1450  06-06-00
+CASE STATUS: Suspended
+
+ASSAULT - Hospital Cafeteria					200000616
+	Reported assault in area.
+RPT: 1743  06-06-00
+CASE STATUS: Cleared Exceptional
+
+DAILY REPORT # 2000 - 159
+06/07/2000
+
+ASSAULT - University Hall						200000617
+ 	Reported an assault incident in area.
+RPT: 1957  06-07-00
+CASE STATUS: Suspended
+
+DAILY REPORT # 2000 - 160
+06/08/2000
+
+TRAFFIC ACCIDENT - Chemistry Buliding				200000618
+	Reported a state vehicle accident in area.  NO PI.
+RPT: 1207  06-08-00
+CASE STATUS: Suspended
+
+DAILY REPORT # 2000 - 161
+06/09/2000
+
+ASSAULT INTIMIDATION -  UVA Hospital				200000619
+		Reported a verbal assault in area.
+RPT: 1038  06-09-00
+CASE STATUS: ACleared by Arrest
+
+PROPERTY DAMAGE - Wilson Hall					200000620
+	Reported subject backed over fire hydrant.	
+RPT: 1218  06-09-00
+CASE STATUS: Suspended
+
+DAILY REPORT # 2000 - 162
+06/10/2000
+
+SUSPICIOUS CIRCUMSTANCE -  Rugby Rd			200000621
+	Reported a suspicious circumstances incident.
+RPT:  0049  06-10-00
+CASE STATUS:  Suspended
+
+LOST PROPERTY - Primary Care Center				200000622
+	Reported losing cell phone in area.
+RPT:  1040  06-10-00
+CASE STATUS:  Suspended
+
+DAILY REPORT # 2000 - 163
+06/11/2000
+
+PROPERTY DAMAGE - HSC East Parking Garage		200000623
+	Reported damage to vehicle while parked in garage.
+RPT:  1436  06-11-00
+CASE STATUS:  Active
+
+DAILY REPORT # 2000 - 164
+06/12/2000
+
+ASSIST AGENCY- Hospital ER					200000624
+	Requested assistance serving EPO in area.
+RPT:  0407  06-12-00
+CASE STATUS:  Transferred to other agency.
+
+VANDALISM - Hospital Loading Dock				200000625
+	Reported damaged to vehicle while parked in area.
+RPT:  0649  06-12-00
+CASE STATUS:  Suspended
+
+FOUND PROPERTY - U-Hall North Parking Lot			2000000626
+	Reported finding car seat in parking lot.
+RPT:  2100  06-12-00
+CASE STATUS:  Suspended
+
+DAILY REPORT # 2000 - 165
+06/13/2000
+
+LARCENY - Blue Ridge Hospital 				200000627
+	Reported theft of vehicle parts from maintenance shop.
+RPT:  1105  06-13-00
+CASE STATUS:  Active
+
+LARCENY - Newcomb Hall					200000628
+	Reported theft of camcorder from room.
+RPT:  0957  06-13-00
+CASE STATUS:  Suspended
+
+SIMPLE ASSAULT	 - Lane Road				200000629
+	Reported subject assaulted while in area.
+RPT:  1707  06-13-00
+CASE STATUS:  Cleared exceptional
+
+DRUG VIOLATION - HSC East Parking Garage		200000630
+RPT:  2009  06-13-00
+Case Status:  Cleared by arrest
+
+DAILY REPORT # 2000 - 166
+06/14/2000
+
+SIMPLE ASSAULT  - Copeley					200000631
+	Reported subject grabbed in stairwell.
+RPT: 1627  06-14-00
+CASE STATUS: Suspended
+
+
+DAILY REPORT # 2000 - 167
+06/15/2000
+
+TRAFFIC ACCIDENT - UVA Hospital				200000632
+	Reported state vehicle in accident.  NO PI
+RPT: 0809  06-15-00
+CASE STATUS: Suspended
+
+TRAFFIC ACCIDENT - Massie Rd					200000633
+	Reported vehicle accident in area.  NO PI
+RPT: 1638  06-15-00
+CASE STATUS: Suspended
+
+DRUNK IN PUBLIC - West Main St				200000634
+	ARREST MADE.
+RPT: 2301  06-15-00
+CASE STATUS: Cleared by Arrest
+
+DAILY REPORT # 2000 - 168
+06/16/2000
+
+LARCENY - Hospital West						200000635
+	Reported theft of credit cards from locker.
+RPT:  1122  06-16-00
+CASE STATUS:  Cleared by Arrest
+
+LARCENY - Hospital						200000636
+	Reported theft of money from desk.
+RPT:  1044  06-16-00
+CASE STATUS:  Cleared exceptional.
+
+LARCENY - Hospital 					200000637
+	Reported theft of credit cards from locker.
+RPT:  1122  06-16-00
+CASE STATUS:  Cleared by Arrest
+
+INDECENT EXPOSURE - Ruffner Hall				200000638
+	Reported a indecent exposure incident.
+RPT:  1635  06-16-00
+CASE STATUS:  Cleared by Arrest.
+
+SUSPICIOUS CIRCUMSTANCE - Newcomb Hall		200000639
+	Reported a suspicious circumstances incident.
+RPT:  1734  06-16-00
+CASE STATUS:  SUSPENDED
+
+DAILY REPORT # 2000 - 169
+06/17/2000
+
+LARCENY - Jefferson Park Ave					200000640
+	Arrest made.
+RPT:  0350  06-17-00
+CASE STATUS:  Cleared by arrest.
+
+ASSIST AGENCY - University Heights				200000641
+	Reported assisting ACPD with case in area.
+RPT:  0203  06-17-00
+CASE STATUS:  Transferred to other agency.
+
+LARCENY - Wilson Hall						200000642
+	Reported theft of computer equipment from room.
+RPT:  1629  06-17-00
+CASE STATUS:  Suspended
+
+DAILY REPORT # 2000 - 170
+06/18/2000
+
+ASSIST AGENCY - Hospital					200000643
+	Arrest made.
+RPT:  1402  06-18-00
+CASE STATUS:  Cleared by arrest.
+
+LARCENY - B1 Parking Lot					200000644
+	Reported theft of cell phone from vehicle while parked in lot.
+RPT:  1744  06-18-00
+Case Status:  Suspended
+
+DAILY REPORT # 2000 - 171
+06/19/2000
+
+LARCENY - Albert Small Building					200000645
+	Reported theft of tire from bike secured in rack.
+RPT:  1602  06-19-00
+CASE STATUS:  Suspended
+
+LARCENY - Venable Dorm						200000646
+	Reported theft of bike from rack.
+RPT:  1725  06-19-00
+CASE STATUS:  Unfounded
+
+DAILY REPORT # 2000 - 172
+06/20/2000
+
+LARCENY - Hospital Lounge					200000647
+	Reported theft of book bag from visitor’s lounge.
+RPT:  0701  06-20-00
+CASE STATUS:  Suspended
+
+FOUND PROPERTY - E3 Parking Lot				200000648
+	Reported finding a wallet in parking lot.
+RPT:  0846  06-20-00
+CASE STATUS:  Suspended
+
+VANDALISM - Water Treatment Plant				200000649
+	Reported damage to piece of construction equipment.
+RPT:  1105  06-20-00
+CASE STATUS:  Suspended
+
+DAILY REPORT # 2000 - 173
+06/21/2000
+
+LARCENY - UVA Incinerator						200000650
+	Reported theft of ladders from area.
+RPT: 1049  06-21-00
+CASE STATUS: Suspended
+
+DAILY REPORT # 2000 - 174
+06/22/2000
+
+DRUNK IN PUBLIC - UVA ER						200000651
+	Arrest Made.
+RPT: 0606  06-22-00
+CASE STATUS: Cleared by Arrest
+
+TRAFFIC ACCIDENT - W-6 Parking Lot					200000652
+	Reported vehicle accident in area.  NO PI
+RPT: 1235  06-22-00
+CASE STATUS: Suspended
+
+PROPERTY DAMAGE - Hospital West Garage				200000653
+	Reported damage to vehicle in area.
+RPT: 1555  06-22-00
+CASE STATUS: Suspended
+
+SUSPICIOUS CIRCUMSTANCE - Bice House				200000654
+	Reported receiving annoying phone calls.
+RPT: 1717  06-22-00
+CASE STATUS: Cleared Exceptional
+
+DRUNK IN PUBLIC - Hospital Drive					200000655
+	ARREST MADE.
+RPT: 1715  06-22-00
+CASE STATUS: Cleared by Arrest
+
+DAILY REPORT # 2000 - 175
+06/23/2000
+
+ASSIST AGENCY - Lane Rd						200000656
+	Arrest Made.
+RPT: 0126  06-23-00
+CASE STATUS: Transferred to Other Agency
+
+ASSAULT - Hospital Dr.							200000657
+	Reported subject assaulted in area.
+RPT: 0211  06-23-00
+CASE STATUS: Suspended
+
+LARCENY - KCRC								200000658
+	Reported theft from desk.
+RPT: 0759  06-23-00
+CASE STATUS: Active
+
+LARCENY - Peyton Ct.							200000659
+	Reported theft from vehicle.
+RPT: 0807  06-23-00
+CASE STATUS: Suspended
+
+LARCENY - Peyton Ct.							200000660
+	Reported theft from vehicle.
+RPT: 0823  06-23-00
+CASE STATUS: Suspended
+
+DRUNK IN PUBLIC - Hospital ER						200000661
+	Arrest Made.
+RPT: 2039 06-23-00
+CASE STATUS: Cleared by Arrest
+
+DAILY REPORT # 2000 - 176
+06/24/2000
+
+PROPERTY FOUND - Rotunda						200000662
+	Reported finding keys on south side steps.
+RPT: 0251  06-24-00
+CASE STATUS: Suspended
+
+PROPERTY LOST - Hospital						200000663
+	Reported losing purse in area.
+RPT: 1812  06-24-00
+CASE STATUS: Suspended
+
+
+DAILY REPORT # 2000 - 177
+06/25/2000
+
+FIRE - HSC West Parking Garage					200000664
+	Reported vehicle catching fire while parked in area.
+RPT:  1047  06-25-00
+CASE STATUS:  Suspended
+
+LOST PROPERTY - Rugby Rd					200000665
+	Reported losing equipment in area.
+RPT:  1118  06-25-00
+CASE STATUS:  Unfounded
+
+ATTEMPTED SUICIDE - Hospital ER				200000666
+	Reported patient attempted suicide in ER.
+RPT:  2048  06-25-00
+CASE STATUS:  Suspended
+
+
+DAILY REPORT # 2000 - 178
+06/26/2000
+
+TRESPASSING - Brooks Hall					200000667
+	Arrest made.
+RPT:  1106  06-26-00
+CASE STATUS:  Cleared by arrest.
+
+PROPERTY DAMAGE - Jordan Hall				200000668
+	Reported damage to vending machine in lobby.
+RPT:  1641  06-26-00
+CASE STATUS:  Suspended
+
+LARCENY - Bice House						200000669
+	Reported theft of personal items from room.
+RPT:  1857  06-26-00
+CASE STATUS:  Active
+
+DAILY REPORT # 2000 - 179
+06/27/2000
+
+FRAUD - Walmart							200000670
+	Arrest made.
+RPT:  0443  06-27-00
+CASE STATUS:  Cleared by arrest.
+
+FRAUD - Food Lion							200000671
+	Arrest made.
+RPT:  0443  06-27-00
+CASE STATUS:  Cleared by arrest.
+
+LARCENY - Hospital West						200000672
+	Reported theft of money from purse in office.
+RPT:  0728  06-27-00
+CASE STATUS:  Suspended
+
+LARCENY - Peyton Court						200000673
+	Reported theft of stereo from vehicle while parked in area.
+RPT:  0832  06-27-00
+CASE STATUS:  Suspended
+
+ASSIST AGENCY - Stadium & Alderman Rd			200000674
+	Arrest made.
+RPT:  1149  06-27-00
+CASE STATUS:  Transferred to other agency.
+
+LOST PROPERTY - McCormick Rd				200000675
+	Reported losing wallet in the area of the Lawn.
+RPT:  1342  06-27-00
+CASE STATUS:  Suspended
+
+PROPERTY DAMAGE - Hospital Drive				200000676
+	Reported storm damage to two vehicles while parked in area.
+RPT:  1620  06-27-00
+CASE STATUS:  Suspended
+
+FOUND PROPERTY - Monroe Hall				200000677
+	Reported finding purse in area.
+RPT:  2023  06-27-00
+CASE STATUS:  Suspended
+
+SUSPICIOUS CIRCUMSTANCES - Bice House			200000678
+	Reported a suspicious circumstances incident.
+RPT:  1328  06-27-00
+CASE STATUS:  Active
+
+DAILY REPORT # 2000 - 180
+06/28/2000
+
+LARCENY - Hospital							200000679
+	Reported theft of purse from lounge.
+RPT: 0252  06-28-00
+CASE STATUS: Suspended
+
+TRAFFIC ACCIDENT - Copeley Rd.					200000680
+	Reported motor vehicle accident.  NO PI
+RPT: 0807  06-28-00
+CASE STATUS: Cleared by Arrest
+
+PROPERTY DAMAGE - Pump House Lot					200000681
+	Reported vehicle struck while parked in lot.
+RPT: 1458  06-28-00
+CASE STATUS: Suspended
+
+LARCENY - University Hall							200000682
+	Reported theft of computer from room.
+RPT: 1642  06-28-00
+CASE STATUS:  Suspended
+
+DAILY REPORT # 2000 - 181
+06/29/2000
+
+FOUND PROPERTY - Olsson Hall					200000683
+	Reported finding amplifiers on loading dock.
+RPT: 0058  06-29-00
+CASE STATUS: Suspended
+
+FIRE ALARM - Jordan Hall						200000684
+	Reported fire alarm being set off .
+RPT: 1320  06-29-00
+CASE STATUS: Suspended
+
+DAILY REPORT # 2000 - 182
+06/30/2000
+
+SUSPICIOUS CIRCUMSTANCE - Law School Library			200000685
+	Reported a suspicious circumstances incident.
+RPT: 1040  06-30-00
+CASE STATUS: Suspended
+
+SUSPICIOUS CIRCUMSTANCE - Hospital West Garage		200000686
+	Reported a suspicious circumstances incident.
+RPT: 1811  06-30-00
+CASE STATUS: Suspended
+
+FOUND PROPERTY - Stadium Rd						200000687
+	Reported finding a cell phone in area.
+RPT: 1848  06-30-00
+CASE STATUS: Suspended
+
+LARCENY - Newcomb Hall							200000688
+	Reported theft of cash register from area.
+RPT: 1932  06-30-00
+CASE STATUS: Active
+
+
+
+
+
+
+
+
+
+
+
+
