@@ -1,0 +1,678 @@
+DAILY REPORT # 2001 - 001
+01/01/2001
+
+VANDALISM - Hospital Dr						200100001
+	Reported damage to sign in area.
+RPT:  0143  01-01-01
+CASE STATUS:  Suspended
+
+VANDALISM - East Lawn						200100002
+	Reported damage to statues on lawn.
+RPT:  0110  01-01-01
+CASE STATUS:  Active
+
+DRUG VIOLATION - Alderman Rd				200100003
+	Arrest made.
+RPT:  0416  01-01-01
+CASE STATUS:  Cleared by arrest.
+
+DAILY REPORT # 2001- 002
+01/02/2001
+
+SUSPICIOUS CIRCUMSTANCES - Primary Care Center	200100004
+	Reported a suspicious circumstances incident.
+RPT:  0801  01-02-01
+CASE STATUS:  Suspended
+
+PROPERTY DAMAGE- Chemistry Drive 				200100005
+	Reported property damage to a pole light.
+RPT:  0952  01-02-01
+CASE STATUS:  Suspended
+
+LARCENY- Surplus Depot						200100006
+	Reported theft of computer fromtop of file cabinet.
+RPT:  1222  01-02-01
+CASE STATUS:  Suspended
+
+DAILY REPORT  # 2001 - 003
+01/03/2001
+
+LARCENY- Lambeth Commons					200100007
+	Reported theft of a blue banner from building.	
+RPT:  1430  01-03-01
+CASE STATUS:  Suspended 
+
+DAILY REPORT #2001-004
+01/04/2001
+
+PROPERTY LOST- Hospital 5 Central				200100008
+	Reported a silver bracelet lost in Hospital.
+RPT:  0939  01-04-01
+CASE STATUS:  Active
+
+VANDALISM- Stacy Hall						200100009
+	Reported grafitti to concrete wall.
+RPT:  1546  01-04-01
+CASE STATUS:  Suspended
+
+
+TRESPASS- Hospital Visitors Lounge				200100010
+	Reported a trespasser in Hospital.
+RPT:  2333  01-04-01
+CASE STATUS:  Suspended
+
+DAILY REPORT #2001-005
+01/05/2001
+
+DRUG VIOLATION- Hospital Loading Dock			200100011
+	Arrest made.
+RPT:  0145  01-05-01
+CASE STATUS:  Cleared by arrest.
+
+SUSPICIOUS CIRCUMSTANCE- Bice House			200100012
+	Reported suspicious circumstance in building.
+RPT:  0859  01-05-01
+CASE STATUS: Suspended
+
+LARCENY- Medical School						200100013
+	Reported theft of a coffee carafes from building.
+RPT:  0925  01-05-01
+CASE STATUS:  Unfounded
+
+LARCENY- Old Med School					200100014
+	Reported theft of cooking pan  from building.
+RPT:  1122  01-05-01
+CASE STATUS: Suspended
+
+TRESPASS- Clemons Library					200100015
+	Reported a trespasser in the library.
+RPT:  1658  01-05-01
+CASE STATUS:  Cleared by Arrest
+
+DAILY REPORT #2001-006
+01/06/2001
+
+DUI- Emmet St							200100017
+	Arrest was made.
+RPT:  0055  01-06-01
+CASE STATUS:  Cleared by arrest.
+
+DAILY REPORT # 2001 - 007
+01/07/2001
+
+DUI - Stadium Rd							200100018
+	Arrest made
+RPT:  0227  01-07-01
+CASE STATUS:  Cleared by arrest
+
+DAILY REPORT # 2001 - 008
+01/08/2001
+
+LARCENY - Carruthers Hall						200100016
+	Reported theft of money by solicitor.
+RPT:  1550  01-08-01
+CASE STATUS:  Suspended
+
+DUI - Jefferson Park Ave						200100019
+	Arrest made.
+RPT:  0220  01-08-01
+CASE STATUS:  Cleared by arrest.
+
+PROPERTY DAMAGE - South Parking Garage			200100020
+	Reported damage to vehicle while parked in garage.
+RPT:  1900  01-08-01
+CASE STATUS:  Suspended
+
+DAILY REPORT #2001-009
+01/09/2001
+
+DUI- JPA								200100021
+	Arrest made.
+RPT:  0104  01-09-01
+CASE STATUS:  Cleared by arrest.
+
+LOST PROPERTY-Alderman Library				200100022
+	Reported losing cell phone while in area.
+RPT:  1017  01-09-01
+CASE STATUS:  Suspended
+
+LARCENY- Gooch-Dillard Dorm					200100023
+	Reported theft of money by solicitor.
+RPT:  1048  01-09-01
+CASE STATUS:  Cleared by Arrest
+
+PROPERTY DAMAGE- East Stadium Parking Lot		200100024
+	Reported damage to vehicle while parked in lot.
+RPT:  1542  01-09-01
+CASE STATUS:  Suspended
+
+LOST PROPERTY - Alderman Library				200100026
+	Reported losing backpack while in area.
+RPT:  1824  01-09-01
+CASE STATUS:  Suspended
+
+VANDALISM- Tucker Dorm					20010027
+ 	Reported damage to vending machine in building.
+RPT:  2048  01-09-01
+CASE STATUS:  Suspended
+
+DAILY REPORT #2001 - 010
+01/10/01
+
+FRAUD - Michie North					200100025
+	Reported a fraud incident in area.
+RPT:  1631  01-10-01
+CASE STATUS:  Suspended
+
+LOST PROPERTY - Hospital				200100028
+	Reported losing money while in area.
+RPT:  0729  01-10-01
+CASE STATUS:  Unfounded
+
+DAILY REPORT #2001 - 011
+01/11/01
+
+DUI- Ivy Rd								200100029
+	Arrest made.
+RPT:  0213  01-11-01
+CASE STATUS:  Cleared by arrest
+
+TRAFFIC ACCIDENT- Alderman Rd.				200100030
+	Reported a vehicle/pedestrian accident.                W/PI.
+RPT:  0829  01-11-01
+CASE STASTUS:  Suspended
+
+SUSPICIOUS CIRCUMSTANCES- McKim Hall Steam Tunnel	200100031
+	Reported a suspicious circumstances incident.
+RPT:  1331  01-11-01
+CASE STATUS: Suspended
+
+LARCENY-  Hospital						200100032
+	Reported theft of projector from room.
+RPT:  1500  01-11-01
+CASE STATUS:  Suspended
+
+DAILY REPORT #2001-012
+01/12/01
+
+SIMPLE ASSAULT- Newcomb Hall				200100033
+	Subject reported bing assaulted in area.
+RPT:  0857  01-12-01
+CASE STATUS:  Cleared Exceptional
+
+LOST PROPERTY - West Hospital						200100034
+	Reported losing pager while in Hospital.
+RPT:  1145  01-12-01
+CASE STATUS:  Suspended
+
+PROPERTY DAMAGE-Hospital					200100035
+	Reported damage to glass doors at Hospital.
+RPT:  2102  01-12-01
+CASE STATUS:  Suspended
+
+DAILY REPORT #2001-013
+01/13/01
+
+DISORDERLY CONDUCT- Hospital				200100036
+	Arrest made.
+RPT:  0026  01-13-01
+CASE STATUS:  Cleared by arrest
+
+PROPERTY FOUND- Hospital ParkingGarage				200100037
+	Reported finding a computer in  parking garage.
+RPT:  0058  01-13-01
+CASE STATUS:  Suspended
+
+LOST PROPERTY - Hospital Parking Garage				200100038
+	Reported losing a purse in Hospital Parking Garage.
+RPT:  2140  01-13-01
+CASE STATUS:  Suspended
+
+DAILY REPORT #2001 - 014
+01/14/01
+
+FOUND PROPERTY - Emmet St						200100039
+	Reported finding property in area.
+RPT: 0604  01-14-01
+CASE STATUS: Suspended
+
+TRAFFIC ACCIDENT - Fitzhugh Dorm					200100040
+	Reported traffic accident in area.
+RPT: 1614  01-14-01
+CASE STATUS: Suspended
+
+DAILY REPORT # 2001 - 015
+01-15-01
+
+D.U.I. - 12th St NW								200100041
+	Arrest made.
+RPT: 0220  01-15-01
+CASE STATUS: Cleared by arrest
+
+TRAFFIC ACCIDENT - Scott Stadium					200100042
+	Reported bus in accident.
+RPT: 0700  01-15-01
+CASE STATUS: Suspended
+
+LARCENY - Cobb Hall							200100043
+	Reported theft of computer from area.
+RPT: 0957  01-15-01
+CASE STATUS: Suspended
+
+VANDALISM - 1830 Carrs Hill Rd						200100044
+	Reported damage done to vehicle in area.
+RPT: 1211  01-15-01
+CASE STATUS: Suspended
+
+LOST PROPERTY - Hospital						200100045
+	Reported theft from building.
+RPT: 1340  01-15-01
+CASE STATUS: Suspended 
+
+DAILY REPORT #2001 - 016                                                                                    DAILY REPORT #2001-016
+01/16/2001
+
+DUI- Brandon Ave							200100046
+	Arrest made.
+RPT:  0225  01-16-01
+CASE STATUS:  Cleared by arrest.
+
+DIP- Maupin Dorm							200100048
+	Arrest made.
+RPT:  0324  01-16-01
+CASE STATUS:  Cleared by arrest.
+
+LARCENY- Primary Care						200100050
+	Reported theft of a cell phone from building.
+RPT:  0835  01-16-01
+CASE STAUS:  Cleared by arrest.
+
+DAILY REPORT #2001-017
+01/17/2001
+
+DIP- Newcomb Hall							200100047
+	Arrest made.
+RPT:  0244  01-17-01
+CASE STATUS:  Cleared by arrest.
+
+MEDICAL EMERGENCY - Hancock Circle			200100049
+	Arrest Made
+RPT:  0248  01-17-01
+CASE STATUS:  Cleared by arrest.
+
+LOST PROPERTY- Webb Dorm					200100051
+	Reported losing a purse in building.
+RPT:  1743  01-17-01
+CASE STATUS:  Unfounded
+
+TRESPASS - Hospital/Main Lobby					200010052
+	Reported a trespasser in area.
+RPT:  2134  01-17-01
+CASE STATUS:  Cleared by arrest
+ 
+DAILY REPORT #2001-018
+01/18/2001
+
+ASSIST CITIZEN- Metcalf Dorm					200100053
+	Reported a student in need of medical assistance.
+RPT:  0043  01-18-01
+CASE STATUS:  Suspended
+
+SUSPICIOUS CIRCUMSTANCE- 2304 Ivy Rd			200100054
+	Reported a suspicious circumstance incident.
+RPT:  1251  01-18-01
+CASE STATUS:  Suspended
+
+DIP- Hospital								200100055
+	Arrest made.
+RPT:  2051  01-18-01
+CASE STATUS:  Cleared by arrest.
+
+DAILY REPORT # 2001 - 019
+01/19/2001
+
+FALSE ID - Ruffner Footbridge					200100056
+	Arrest made.
+RPT:  0329  01-19-01
+CASE STATUS:  Cleared by arrest
+
+DRUNK IN PUBLIC - Rugby Rd					200100057
+	Arrest made
+RPT:  0359  01-19-01
+CASE STATUS:  Arrest made.
+
+HIT & RUN - Bice House Parking Lot				200100058
+	Reported a hit and run incident in parking lot.  NO PI.
+RPT:  1208  01-19-01
+CASE STATUS:  Suspended
+
+LARCENY - Hereford Parking Lot					200100059
+	Reported damage to vehicle while parked in lot.
+RPT:  1622  01-19-01
+CASE STATUS:  Suepended
+
+DAILY REPORT #2001-020
+01/20/2001
+
+ASSIST CITIZEN- Bonnycastle Dorm				200100060
+	Reported a student in need of medical assistance.
+RPT:  0132  01-20-01
+CASE STATUS:  Suspended
+
+HIT & RUN- Copley Building						200100061
+	Reported a hit & run incident in parking lot. No PI
+RPT:  0142  01-20-01
+CASE STATUS:  Suspended
+
+ASSIST CITIZEN- Metcalf Dorm					200100062
+	Reported a student in need of medical assistance.
+RPT:  0259  01-20-01
+CASE STATUS:  Suspended
+
+DRUG VIOLATION- McCormick Rd				200100063
+	Arrest made.
+RPT:  0309  01-20-01
+CASE STATUS:  Cleared by Arrest
+
+VANDALISM- Alderman Library					200100064
+	Reported damage to bathroom in building.
+RPT:  1724  01-20-01
+CASE STATUS:  Suspended
+
+DAILY REPORT # 2001 - 021
+01/21/2001
+
+NO REPORTS TAKEN THIS DATE.
+
+DAILY REPORT # 2001 - 022
+01/22/2001
+
+LARCENY - Hospital West						200100065
+	Reported theft of wallet from under desk.
+RPT:  1406  01-22-01
+CASE STATUS:  Suspended
+
+LARCENY - Ruffner Hall						200100066
+	Reported theft of wallet from under desk.
+RPT:  1457  01-22-01
+CASE STATUS:  Suspended
+
+LARCENY - Alderman Library				200100067
+	Reported textbooks missing from table.
+RPT:  1949  01-22-01
+CASE STATUS:  Suspended
+
+DAILY REPORT # 2001- 023
+01/23/2001
+
+TRESPASS - Thornton Hall						200100068
+	Arrest made.
+RPT:  0220  01-23-01
+CASE STATUS:  Suspended
+
+LOST PROPERTY - Hospital					200100069
+	Reported theft of manuals from room.
+RPT:  1224  01-23-01
+CASE STATUS:  Unfounded
+
+LARCENY - Physics Building					200100070
+	Reported attempted larceny of textbooks from office.
+RPT:  1401  01-23-013
+CASE STATUS:  Suspended
+
+PROPERTY DAMAGE - Scott Stadium West Parking Lot	200100071
+	Reported damage to vehicle while parked in lot.
+RPT:  1621  01-23-01
+CASE STATUS:  Suspended
+
+SUSPICIOUS CIRCUMSTANCE - M11 Parking Lot		200100072
+	Reported a suspicious circumstances incident.
+RPT:  1717  01-23-01
+CASE STATUS:  Suspended
+
+TRESPASS - Rouss Hall						200100073
+	Reported two trespassers in area.
+RPT:  2024  01-23-01
+Case Status:  Suspended
+
+DAILY REPORT #2001-024
+01/24/2001
+
+DUI- Hospital Dr							200100074
+	Arrest made.
+RPT:  0246  01-24-01
+CASE STATUS:  Arrest made
+
+FRAUD- Facilities Mgmt						200100075
+Reported embezzlement of a heater from building.
+ RPT:  0938  01-24-01
+CASE STATUS:  Cleared by arrest
+
+LARCENY- Physics Bldg						200100076
+	Reported theft of text books from building.
+RPT:  0948  01-24-01
+CASE STATUS:  Suspended
+
+ASSIST AGENCY- MR-4 Lot					200100077
+	Reported need of assistance in area.
+RPT:  1101 01-24-01
+CASE STATUS:  Transferred
+
+LARCENY- McKim Hall						200100078
+	Reporte theft of a sliding projector.
+RPT:  1111  01-24-01
+CASE STATUS:  Suspended
+
+EMBEZZLEMENT- Ruffner Hall					200100079
+	Reported an embezzlement incident in building.
+RPT:  1331  01-24-01
+CASE STATUS:  Active
+
+LARCENY- New Cabell Hall					 200100080
+	Reported theft of bike wheel from rack.
+RPT:  1420  01-24-01
+CASE STATUS:  Suspended
+
+LARCENY- Old Med School					200100081
+	Reported theft of a wallet from building.
+RPT:  1550  01-24-01
+CASE STATUS:  Suspended                                                      
+
+SIMPLE ASSAULT- Copely					200100082
+	Reported a simple assault incident in area.
+RPT:  2019  01-24-01
+CASE STATUS:  Suspended
+
+DAILY REPORT # 2001 - 025
+01/25/2001
+
+VANDALISM - Faulkner Lot						200100083
+	Reported damage done to vehicle in lot.
+RPT: 0759  01-25-01
+CASE STATUS: Suspended
+
+LARCENY - Old Medical School						200100084
+	Reported theft of equipment from area.
+RPT: 0829  01-25-01
+CASE STATUS: Suspended
+
+LARCENY - Newcomb Hall							200100085
+	Reported theft of CD player from area.
+RPT: 1207  01-25-01
+CASE STATUS: Suspended
+
+LARCENY - French House							200100086
+	Reported theft of T.V. from area.
+RPT: 1550  01-25-01
+CASE STATUS: Active
+
+LARCENY - Hospital							200100087
+	Reported theft from hospital.
+RPT: 1636  01-25-01
+CASE STATUS: Suspended
+
+DAILY REPORT #2001-026
+01/26/2001
+
+VANDALISM- Women Center					200100088
+	Reported damage to a plastic sign in building.
+RPT:  0757  01-26-01
+CASE STATUS:  Unfounded
+
+LOST PROPERTY- Newcomb Hall					200100089
+	Reported loss of a cell phone from building.
+RPT:  1618  01-26-01
+CASE STATUS:  Suspended
+
+TRESPASS- McCleod Parking Garage				200100090
+	Reported trespasser in area.
+RPT:  1932  01-26-01
+CASE STATUS:  Suspended
+
+DAILY REPORT #2001-027
+01/27/2001
+
+DIP- Ruffner Hall							200100091
+	Arrest made.
+RPT:  0158  01-27-01
+CASE STATUS:  Cleared by arrest.
+
+SUSPICIOUS CIRCUMSTANCE- Snyder Tennis Cts		200100092
+	Reported suspicious incident in area.
+RPT:  1602  01-27-01
+CASE STATUS:  Suspended
+
+DRUG VIOLATION - McCormick Rd Dorms			200100093
+	Reported a drug violation in area.
+RPT:  2349  01-27-01
+CASE STATUS:  Transferred
+
+DAILY REPORT # 2001 - 028
+01/28/2001
+
+ASSIST CITIZEN MEDICAL - Tuttle Dorm			200100094
+	Reported student in need of medical assistance in area.
+RPT:  0051  01-28-01
+CASE STATUS:  Suspended
+
+LOST PROPERTY - Hospital					200100095
+	Reported loss of tote bag from 5W nurses station.
+RPT:  0143  01-28-01
+CASE STATUS:  Suspended
+
+LIQUOR LAW VIOLATION - Alderman Rd Dorms		200100096
+	Reported a liquor law violation in residence.
+RPT:  0217  01-28-01
+CASE STATUS:  Suspended
+
+FOUND PROPERTY - Astronomy Bldg				200100097
+	Reported finding a street sign in area.
+RPT:  0330  01-28-01
+CASE STATUS:  Suspended
+
+ILLEGAL BURNING - Lambeth Field				200100098
+	Reported an incident of illegal burning at bldg 451.
+RPT:  0448  01-28-01
+CASE STATUS:  Suspended
+
+TRESPASS - Small Hall						200100099
+	Reported a trespasser in computer lab.
+RPT:  0147  01-28-01
+CASE STATUS:  Suspended
+	
+LARCENY - U-Hall Parking Lot					200100100
+	Reported theft from vehicles while parked in lot. 
+RPT:  1355  01-28-01
+CASE STATUS:  Suspended
+
+LARCENY - Hereford College					200100101
+	Reported theft from vehicle while parked in lot.
+RPT:  1529  01-28-01
+CASE STATUS:  Suspended
+
+VANDALISM - Architecture School				200100102
+	Reported damage to window in building.
+RPT:  1541  01-28-01
+CASE STATUS:  Suspended
+
+VANDALISM - Thornton Hall					200100103
+	Reported damage to vending machine glass in A wing.
+RPT:  2030  01-28-01
+CASE STATUS:  Suspended
+
+DAILY REPORT # 2001 - 029
+01/29/2001
+
+FOUND PROPERTY - Kerchof Hall				200100104
+	Reported finding a bike in grass area.
+RPT:  0829  01-29-01
+CASE STATUS:  Suspended
+
+HIT & RUN - B1 Parking Lot					200100105
+	Reported vehicle hit by unknown vehicle.
+RPT:  1836  01-29-01
+CASE STATUS:  Cleared exceptional
+
+SUSPICIOUS CIRCUMSTANCES - Jordan Hall			200100106
+	Reported a suspicious circumstances incident.
+RPT:  2020  01-29-01
+CASE STATUS:  Suspended
+
+DAILY REPORT #2001 - 030
+01/30/2001
+
+LARCENY - Hospital West						200100107
+	Reported theft of a computer from desk top.
+RPT:  1240  01-30-01
+CASE STATUS:  Suspended
+
+LARCENY - Hospital West						200100108
+	Reported theft of a purse from behind chair.
+RPT:  1250  01-30-01
+CASE STATUS:  Suspended
+
+SUSPICIOUS CIRCUMSTANCES - Emmet Dorm		200100109
+	Reported a suspicious circumstances incident.
+RPT:  2201  01-30-01
+CASE STATUS:  Suspended
+
+SUSPICIOUS CIRCUMSTANCES - Webb Dorm			200100110
+	Reported a suspicious circumstances incident.
+RPT:  2300  01-30-01
+CASE STATUS:  Cleared exceptional
+
+DAILY REPORT # 2001 - 031
+01/31/2001
+
+ASSIST CITIZEN - Woody Dorm					200100111
+	Reported citizen in need of assistance.
+RPT: 0216  01-31-01
+CASE STATUS: Suspended
+
+TRAFFIC ACCIDENT - Stadium Rd				200100112
+	Reported traffic accident in area.         NO PI
+RPT: 0948  01-31-01
+CASE STATUS: Suspended
+
+SUSPICIOUS CIRCUMSTANCE - Dobie Dorm			200100113
+	Reported a suspicious circumstance incident.
+RPT: 1430  01-31-01
+CASE STATUS: Suspended
+
+BURGLARY - Storage area						200100114
+	Reported a incident of burglary.
+RPT: 2040  01-31-01
+CASE STATUS: Suspended
+
+PROPERTY DAMAGE - Faulkner Dorm	Parking Lot		200100115
+	Reported damage  to vehicle in area.
+RPT: 2325  01-31-01
+CASE STATUS: Suspended
+
+FIRE NOT ARSON - McCue Center				200100116
+	Reported fire in building.
+RPT: 2338  01-31-01
+CASE STATUS: Suspended
+
+
+	  
