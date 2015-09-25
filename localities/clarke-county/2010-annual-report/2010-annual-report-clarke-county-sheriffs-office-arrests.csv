@@ -1,0 +1,36 @@
+Primary Offense,Juvenile Arrests,Adult Arrests,Total Arrests
+Murder/Non-negligent Manslaughter,0,1,1
+Robbery,0,1,1
+Aggravated Assault,1,7,8
+Simple Assault,3,9,12
+Intimidation,1,0,1
+Burglary/Breaking and Entering,0,4,4
+Shoplifting,0,4,4
+All Other Larceny,0,7,7
+Counterfeiting/Forgery,0,2,2
+Welfare Fraud,0,1,1
+Stolen Property Offenses,0,1,1
+Destruction/Damage/Vandalism of Property,0,3,3
+Drug/Narcotic Violations,1,14,15
+Weapon Law Violations,1,5,6
+Bad Checks,0,4,4
+Disorderly Conduct,0,1,1
+Driving Under the Influence,0,47,47
+Drunkenness,0,19,19
+"Family Offenses, Non-violent",0,1,1
+Trespass of Real Property,0,8,8
+All other Offenses,11,114,125
+Transport,1,4,5
+Possession of Alcohol,2,7,9
+Possession of Tobacco,4,0,4
+Illegal Dumping,0,3,3
+Detox,0,8,8
+Mental Patient,0,2,2
+Extradition,0,1,1
+Emergency Custody Order,1,2,3
+Temporary Detention Order,0,2,2
+Animal Control,0,5,5
+False Information to Law Enforcement,0,3,3
+Drive Suspended,0,32,32
+Warrant Service,16,93,109
+Total,42,415,457
