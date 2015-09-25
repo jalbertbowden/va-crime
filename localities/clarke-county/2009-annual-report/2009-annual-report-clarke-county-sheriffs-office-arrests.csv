@@ -1,0 +1,24 @@
+Primary Offense,Juvenile Arrests,Adult Arrests,Total Arrests
+Murder,0,1,1
+Kidnapping,0,1,1
+Sexual Assault,0,1,1
+Robbery,0,1,1
+Aggravated Assault,0,3,3
+Simple Assault,0,20,20
+Burglary/Breaking and Entering,0,2,2
+Shoplifting,0,1,1
+Theft from a Motor Vehicle,0,2,2
+All Other Larceny,1,5,6
+Motor Vehicle Theft,0,1,1
+False Pretenses/Swindle/Confidence Game,0,5,5
+Credit Card/Automatic Teller Machine Fraud,1,2,3
+Destruction/Damage/Vandalism of Property,3,3,6
+Drug/Narcotic Violations,1,5,6
+Drug Equipment Violations,0,1,1
+Disorderly Conduct,0,2,2
+Driving Under the Influence,0,36,36
+Drunkeness,4,32,36
+Liquor Law Violations,2,1,3
+Trespass of Real Property,0,6,6
+All of Offenses,32,222,254
+Total,45,353,398
