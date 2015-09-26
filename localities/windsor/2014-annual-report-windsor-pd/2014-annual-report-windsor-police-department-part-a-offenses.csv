@@ -1,10 +1,10 @@
 Year,2012,2013,2014
-Murder,0,a,0
+Murder,0,0,0
 Abduction,0,0,1
 Forcible Rape,0,0,1
 Other Forcible Sex Crime,0,1,2
 Robbery,0,0,0
-Aggravated Assault,3,S,3
+Aggravated Assault,3,5,3
 Arson,0,1,1
 Vehicle Theft,0,1,0
 Totals,3,8,8
