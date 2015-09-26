@@ -1,0 +1,9 @@
+Case Disposition,Definition,2012,2013,2014
+Sustained,The allegation is supported by sufficient evidence to indicate that the employee did in fact commit one or more of the alleged acts.,3,9,6
+Not Sustained,There is insufficient evidence to sustain the complaint.,9,4,2
+Unfounded,The complainant admits to false allegations; the charges were false or not factual or the employee was not involved in the incident.,2,0,0
+Exonerated,"The incident occurred, but the employee’s actions were justified, lawful and proper.",0,4,4
+Policy *Review,"The allegation is true, and although the action of the employee was consistent with department policy, the complainant was adversely affected.",0,0,0
+Total Complaints,The number of Complaints received for the period indicated. Internal Investigations and Personnel Complaints Only.,5,5,4
+Total Violations Investigated,Policy Violations that were reviewed for compliance.,14,17,12
+Total Employees Involved,The number of employees receiving complaints during the time period indicated.,5,5,8
