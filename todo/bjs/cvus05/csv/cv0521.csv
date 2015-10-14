@@ -1,0 +1,32 @@
+Bureau of Justice Statistics,,,,,,,,,
+filename:  cv0521.csv,,,,,,,,,
+"Table 21. Victimization rates by race of head of household, annual family income and type of household burglary",,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,
+
+"Table 21. Household burglary, 2005:  Victimization rates by race of head of household, annual family income and type of household burglary",,,,,,,,,
+                                                                                          ,,"Rate per 1,000 households",,,,,,,
+,,,,Completed household burglary,,,,,
+Race and income,Total households,All household burglaries,, Forcible entry,,Unlawful entry without force,,Attempted forcible entry,
+White only,,,,,,,,,
+"Less than $7,500","3,559,190",50.7,,11.6,,29,,10.1,*
+"$7,500-$14,999","6,460,900",48.4,,13.4,,29.1,,5.8,
+"$15,000-$24,999","9,244,160",39.3,,11.1,,20.3,,7.9,
+"$25,000-$34,999","9,024,170",33.8,,11.8,,13.9,,8.1,
+"$35,000-$49,999","11,961,950",29.4,,9.9,,13.6,,6,
+"$50,000-$74,999","13,625,020",22.6,,7.5,,12.5,,2.6,*
+"$75,000 or more","19,128,190",23.3,,5.5,,15.4,,2.4,
+Black only,,,,,,,,,
+"Less than $7,500","1,234,770",70.3,,28.3,*,35,,6.9,*
+"$7,500-$14,999","1,615,110",47.2,,18.3,*,24.5,,4.4,*
+"$15,000-$24,999","1,818,810",47.2,,18.8,*,19.9,*,8.5,*
+"$25,000-$34,999","1,537,990",35.7,,15.4,*,13.3,*,7,*
+"$35,000-$49,999","1,535,230",31.2,,10.2,*,15.2,*,5.8,*
+"$50,000-$74,999","1,175,320",22.4,*,15.8,*,3.7,*,2.8,*
+"$75,000 or more","1,086,400",35.6,,28.5,*,1.9,*,5.2,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,
+"Excludes data on families whose income level was not ascertained and data on persons of ""Other"" races and persons indicating two or more races.",,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,

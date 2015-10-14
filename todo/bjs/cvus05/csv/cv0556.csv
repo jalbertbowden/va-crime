@@ -1,0 +1,77 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  cv0556.csv,,,,,,,,,,,,,,,
+"Table 56. Victimization rates by type of crime, form of tenure, race of head of household, and locality of residence",,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,
+
+"Table 56. Property crimes, 2005:  Victimization rates by type of crime, form of tenure, race of head of household, and locality of residence",,,,,,,,,,,,,,,
+,"Rate per 1,000 households",,,,,,,,,,,,,,
+,Owned or being bought,,,,,,,,,,,,,,
+,All races/a,,,,,,,,White only,,,,,,
+Type of crime,All areas,,Urban,,Suburban,,Rural,,All areas,,Urban,,Suburban,,Rural
+Property crimes,136.5,,181,,132.4,,107.6,,138.3,,190.7,,134.3,,109.4
+  Household burglary,25.3,,34.2,,22,,24.6,,24.9,,31.6,,22.9,,24.2
+    Completed,21.3,,27.2,,18.8,,21.2,,21,,25.2,,19.5,,20.8,
+      Forcible entry,7.3,,11.7,,5.8,,6.7,,6.7,,9.6,,5.7,,6.6,
+      Unlawful entry without force,14,,15.6,,13.1,,14.5,,14.3,,15.5,,13.9,,14.3,
+    Attempted forcible entry,4,,6.9,,3.2,,3.4,,3.9,,6.4,,3.3,,3.4,
+  Motor vehicle theft,6.1,,9.9,,6.2,,2.8,,5.5,,10,,5.4,,2.6,
+    Completed,4.7,,7.5,,4.8,,2,,4,,6.9,,4.1,,1.7,*
+    Attempted,1.4,,2.4,,1.4,,0.8,*,1.6,,3.1,,1.4,,0.9,*
+  Theft,105.1,,137,,104.2,,80.2,,107.9,,149.2,,106,,82.6,
+    Completed,101.1,,130.1,,100,,79.2,,104,,142,,101.9,,81.5,
+       Less than $50,32.3,,41.4,,31.3,,27,,33.8,,47.1,,32.2,,27.5,
+       $50 - $249,34.4,,48.1,,32.3,,27,,35.3,,53,,32.7,,28.2,
+       $250 or more,23.8,,27.4,,25.4,,17.7,,24,,28.5,,25.4,,17.9,
+       Amount not available,10.6,,13.2,,11,,7.5,,10.9,,13.4,,11.6,,7.8,
+     Attempted,4,,6.9,,4.2,,1.1,*,3.9,,7.2,,4,,1.2,*
+Total number of households,"80,293,070",,"17,428,820",,"41,998,250",,"20,866,000",,"69,739,740",,"13,323,720",,"37,409,140",,"19,006,880",
+,"Rate per 1,000 households",,,,,,,,,,,,,,,
+,Owned or being bought,,,,,,,,Rented,,,,,,,
+,       Black only,,,,,,,,All races/a,,,,,,,
+Type of crime,All areas,,Urban,,Suburban,,Rural,,All areas,,Urban,,Suburban,,Rural,
+Property crimes,118.5,,145.3,,108.7,,79.8,,192.3,,221.3,,168.1,,176.3,
+                                                                                           ,,,,,,,,,,,,,,,,
+  Household burglary,27.8,,39.1,,15.2,,26.9,,38.6,,41.7,,32.8,,43.6,
+    Completed,24,,32,,13.3,*,26.9,,32.4,,35.3,,26.8,,36.8,
+      Forcible entry,13.5,,20.3,,7.4,*,10.5,*,13.1,,14.5,,10.8,,14.7,
+      Unlawful entry without force,10.5,,11.7,*,5.9,*,16.4,*,19.2,,20.8,,16,,22.1,
+    Attempted forcible entry,3.7,*,7,*,1.9,*,0,*,6.3,,6.4,,6,,6.8,
+  Motor vehicle theft,11,,8.1,*,17,,6.2,*,13.3,,15.9,,12.1,,9.8,
+    Completed,10.3,,8.1,*,15,,6.2,*,10.9,,12.8,,10.7,,7,
+    Attempted,0.7,*,0,*,2,*,0,*,2.4,,3.2,,1.3,*,2.8,*
+  Theft,79.7,,98.1,,76.4,,46.7,,140.3,,163.7,,123.3,,122.9,
+    Completed,76.7,,91.9,,75.4,,46.7,,135.7,,157.2,,119.7,,120.2,
+       Less than $50,20.5,,21.4,,20.5,,18.5,*,40.3,,42.5,,37.8,,40.1,
+       $50 - $249,29.5,,36.7,,28.2,,16.9,*,51.5,,59.9,,42.4,,51.2,
+       $250 or more,17.1,,21.4,,18.2,,5.9,*,35.8,,44.6,,33.1,,21.7,
+       Amount not available,9.6,,12.5,,8.5,*,5.4,*,8.2,,10.2,,6.4,,7.2,
+     Attempted,3,*,6.2,*,1,*,0,*,4.6,,6.5,,3.6,,2.7,*
+Total number of households,"7,226,780",,"3,084,140",,"2,688,890",,"1,453,750",,"36,817,730",,"15,616,430",,"14,103,100",,"7,098,200",
+,"Rate per 1,000 households",,,,,,,,,,,,,,,
+,Rented,,,,,,,,,,,,,,,
+,       White only,,,,,,,,Black only,,,,,,,
+Type of crime,All areas,,Urban,,Suburban,,Rural,,All areas,,Urban,,Suburban,,Rural,
+Property crimes,201.2,,242.8,,170.6,,186.1,,170.3,,188.8,,159.3,,108.6,
+  Household burglary,38.1,,39.8,,32.3,,45.9,,42.2,,48,,36.4,,28.7,*
+    Completed,31.8,,32.9,,27.2,,38.5,,36.5,,43,,28.2,,26.8,*
+      Forcible entry,12.3,,13.8,,9.4,,14.9,,18.7,,20.2,,17.2,,15.2,*
+      Unlawful entry without force,19.6,,19.1,,17.8,,23.6,,17.8,,22.8,,11,*,11.6,*
+    Attempted forcible entry,6.3,,7,,5.1,,7.3,,5.6,,5,*,8.1,*,2,*
+  Motor vehicle theft,12.9,,16,,11.6,,10.3,,14.3,,17.1,,13.1,*,3.3,*
+    Completed,10.5,,12.2,,10.1,,8.4,,13,,15.6,,13.1,*,0,*
+    Attempted,2.4,,3.7,,1.5,*,1.9,*,1.3,*,1.5,*,0,*,3.3,*
+  Theft,150.1,,187,,126.7,,130,,113.8,,123.6,,109.8,,76.6,
+    Completed,145.7,,180.9,,123.4,,126.8,,109.6,,117.1,,108.5,,76.6,
+       Less than $50,44.2,,48.3,,40.2,,44.3,,28.6,,31.7,,31.2,,6.4,*
+       $50 - $249,54.3,,69.4,,41.2,,52.6,,43.5,,45.8,,40.8,,39.2,*
+       $250 or more,38.6,,52.1,,34.8,,22.8,,29.5,,29.9,,31.7,,21.5,*
+       Amount not available,8.6,,11.1,,7.2,,7.2,,8.2,,9.7,,4.8,*,9.4,*
+     Attempted,4.3,,6.1,,3.3,*,3.2,*,4.2,*,6.6,*,1.3,*,0,*
+Total number of households,"26,744,020",,"10,050,350",,"10,759,530",,"5,934,140",,"7,340,430",,"4,221,700",,"2,249,290",,"869,430",
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,,
+"a/Includes data on persons of ""Other"" races and persons indicating two or more races, not shown separately.",,,,,,,,,,,,,,,,

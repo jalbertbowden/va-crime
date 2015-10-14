@@ -1,0 +1,30 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+filename:  cv0544.csv,,,,,,,,,,,,
+"Table 44. Percent distribution of multiple-offender victimizations, by type of crime and perceived gender of offenders",,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,
+
+"Table 44. Personal crimes of violence, 2005:  Percent distribution of multiple-offender victimizations, by type of crime and perceived gender of offenders",,,,,,,,,,,,
+       ,,,Percent of all multiple-offender victimizations,,,,,,,,,
+                                                                                                                                         ,,,Perceived gender of offenders,,,,,,,,,
+Type of crime,Number of multiple-offender victimizations,,Total,,All male,,All female,,Male and female,,Not known and not available,
+Crimes of violence,"1,056,740",,100,%,69.2,%,8.5,%,17.2,%,5.1,%
+   Completed violence,"419,330",,100,,75,,9.1,,10.1,,5.8,*
+   Attempted/threatened violence,"637,400",,100,,65.4,,8.1,,21.8,,4.7,*
+   Rape/Sexual assault/a,"28,350",*,100,*,67.1,*,9.5,*,23.4,*,0,*
+   Robbery,"261,320",,100,,79.6,,5.3,*,8.9,*,6.2,*
+      Completed/property taken,"188,760",,100,,77.4,,6.1,*,10.3,*,6.2,*
+         With injury,"95,410",,100,,69,,4.2,*,20.4,*,6.3,*
+         Without injury,"93,340",,100,,86,,8,*,0,*,6,*
+      Attempted to take property,"72,560",,100,,85.4,,3.3,*,5.1,*,6.3,*
+         With injury,"27,610",*,100,*,70.2,*,0,*,13.3,*,16.5,*
+         Without injury,"44,940",,100,,94.7,,5.3,*,0,*,0,*
+   Assault,"767,060",,100,,65.8,,9.5,,19.8,,4.9,
+      Aggravated,"281,250",,100,,64.5,,11.4,*,18.1,,5.9,*
+      Simple,"485,800",,100,,66.5,,8.4,,20.8,,4.4,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,

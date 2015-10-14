@@ -1,0 +1,23 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: svusat01.csv,,,,,,,,,,,
+"Appendix table 1. Perceived age of the stalking offender, by age of the victim",,,,,,,,,,,
+Report title: Stalking Victimization in the United States NCJ 224527,,,,,,,,,,,
+Data source: National Crime Victimization Survey,,,,,,,,,,,
+"Author(s): Katrina Baum, Shannan Catalano, Michael Rand and Kristina Rose",,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or (202) 307-0765,,,,,,,,,,,
+Date of version: 01/13/09,,,,,,,,,,,
+
+"Appendix table 1. Perceived age of the stalking offender, by age of the victim",,,,,,,,,,,
+Offender age,,Age of the victim,,,,,,,,,
+,,18-20,,21-29,,30-39,,40-49,,50 or older,
+,Total,100,%,100,%,100,%,100,%,100,%
+Under 18,,10.9,*,0.7,*,1.8,*,2.1,*,2,*
+18-20,,41.6,,5.7,,2.3,*,2.9,*,1,*
+21-29,,23.3,,48.2,,13.8,,8.8,,3.8,*
+30-39,,5.1,*,23,,37.6,,16.7,,16.3
+40-49,,6.7,*,7.7,,20.8,,34.2,,18.7
+50 or older,,2.4,*,5.9,,9.9,,21.6,,34.6
+Age of offender unknown,,10,*,8.8,,13.9,,13.7,,23.6
+,Number of victims,"349,490",,"929,080",,"752,690",,"722,890",,"663,660"
+Note: Table excludes missing data about offenders from 0.8% of stalking victims age 30 to 39. ,,,,,,,,,,
+*Based on 10 or fewer sample cases.,,,,,,,,,,

@@ -1,0 +1,33 @@
+Bureau of Justice Statistics,,,,,,
+filename:  cv0517.csv,,,,,,
+Table 17. Number of victimizations and victimization rates by type of crime and ethnicity of head of household,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,
+produced by:  Cathy Maston ,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,
+data of version:  12/08/06,,,,,,
+
+"Table 17. Property crimes, 2005:  Number of victimizations and victimization rates by type of crime and ethnicity of head of household",,,,,,
+                                                                                           ,"Rate per 1,000 households",,,,,
+,         Total/a,,Hispanic,,Non-Hispanic,
+Type of crime,Number,Rate,Number,Rate,Number,Rate
+Property crimes,"18,039,930",154,"2,602,500",209.8,"15,396,900",147.9
+   Household burglary,"3,456,220",29.5,"429,400",34.6,"3,017,840",29
+      Completed,"2,900,460",24.8,"347,860",28,"2,546,650",24.5
+         Forcible entry,"1,068,430",9.1,"132,430",10.7,"936,000",9
+         Unlawful entry without force,"1,832,030",15.6,"215,430",17.4,"1,610,640",15.5
+      Attempted forcible entry,"555,760",4.7,"81,540",6.6,"471,200",4.5
+   Motor vehicle theft,"978,120",8.4,"236,340",19,"738,640",7.1
+      Completed,"774,650",6.6,"186,370",15,"585,150",5.6
+      Attempted,"203,470",1.7,"49,970",4,"153,490",1.5
+   Theft,"13,605,590",116.2,"1,936,760",156.1,"11,640,420",111.8
+      Completed,"13,116,270",112,"1,876,020",151.2,"11,211,850",107.7
+         Less than $50,"4,079,120",34.8,"474,790",38.3,"3,598,310",34.6
+         $50 - $249,"4,656,120",39.8,"731,020",58.9,"3,911,670",37.6
+         $250 or more,"3,231,440",27.6,"508,270",41,"2,714,220",26.1
+         Amount not available,"1,149,590",9.8,"161,940",13.1,"987,650",9.5
+      Attempted,"489,320",4.2,"60,750",4.9,"428,570",4.1
+Total number of households,"117,110,800",...,"12,407,400",...,"104,120,280",...
+Note: Detail may not add to total shown because of rounding.,,,,,,
+...Not applicable.,,,,,,
+"a/Includes data on persons whose ethnicity was not ascertained, which is not shown separately."

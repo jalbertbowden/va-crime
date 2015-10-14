@@ -1,0 +1,23 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,
+filename:  cv05107.csv,,,,,,,,,,,,,,,,
+"Table 107. Percent distribution of incidents where police came to the victim, by police response time and type of crime",,,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,,
+
+"Table 107. Personal and property crimes, 2005: Percent distribution of incidents where police came to the victim, by police response time and type of crime",,,,,,,,,,,,,,,,
+,Percent of incidents,,,,,,,,,,,,,,,
+Type of crime, Total,,Within 5 minutes,, 6-10 minutes,,11 minutes-1 hour,, Within 1 day,,Longer than 1 day,,Length of time not known,,Not ascertained,
+Crimes of violence/a,100,%,28.9,%,27.9,%,34,%,3.8,%,1.9,%*,3.4,%,0.2,%*
+   Robbery,100,,29.4,,24,,31.2,,4,*,5,*,5.2,*,1.2,*
+   Aggravated assault,100,,30.5,,29.7,,34.8,,3.5,*,0,*,1.6,*,0,*
+   Simple assault,100,,26.9,,29,,34.8,,3.7,*,1.7,*,3.9,*,0,*
+Property crimes,100,%,10,%,18.2,%,48.7,%,15,%,1.6,%,6.3,%,0.1,%*
+   Household burglary,100,,8.5,,20.9,,51.7,,12.5,,0.8,*,5.6,,0,*
+   Motor vehicle theft,100,,7.9,,21.7,,43.7,,19.6,,0.5,*,6.1,*,0.6,*
+   Theft ,100,,11.3,,15.9,,48,,15.5,,2.3,,6.8,,0.1,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,,
+"a/Crimes of violence includes data on rape and sexual assault, not shown separately.",,,,,,,,,,,,,,,,

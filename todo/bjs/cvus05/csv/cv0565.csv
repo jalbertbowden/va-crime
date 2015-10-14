@@ -1,0 +1,37 @@
+Bureau of Justice Statistics,,,,,,,,,,
+filename:  cv0565.csv,,,,,,,,,,
+"Table 65. Percent distribution of incidents, by distance from home and type of crime",,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,
+
+"Table 65. Selected personal and property crimes, 2005: Percent distribution of incidents, by distance from home and type of crime",,,,,,,,,,
+                                                                                                          ,Percent of incidents,,,,,,,,,
+Type of crime,Number of incidents,,       Total,,Inside home or lodging,,Near respondent's home,,One mile from home or less,
+Crimes of violence,"4,718,330",,100,%,14.9,%,17.7,%,18.7,%
+   Rape/Sexual assault/a,"188,960",,100,%,38,,1.5,*,21.4,
+   Robbery,"569,470",,100,%,13.7,,16.2,,27.3,
+   Assault,"3,959,900",,100,%,14,,18.7,,17.4,
+      Aggravated,"926,060",,100,%,12.2,,19.1,,21.9
+      Simple,"3,033,840",,100,%,14.5,,18.5,,16
+Purse snatching/Pocket picking,"227,070",,100,%,1.3,*,3.1,*,16.5
+Property crimes,,,,,,,,,
+   Motor vehicle theft,"978,120",,100,%,1,*,66.6,,3.9
+   Theft,"13,605,590",,100,%,8.7,,49.4,,7.1
+,Percent of incidents,,,,,,,,
+Type of crime,Five miles from home or less,,Fifty miles from home or less,,More than 50 miles from home,,Don't know or not available,,
+Crimes of violence,24.9,%,18.6,%,3.7,%,1.4,%,
+   Rape/Sexual assault/a,14.3,*,18.6,*,6.2,*,0,*,
+   Robbery,20.2,,16,,6,*,0.6,*,
+   Assault,26.1,,19,,3.3,,1.6,,
+      Aggravated,24.1,,18.1,,2.7,*,1.9,*,
+      Simple,26.7,,19.3,,3.5,,1.5,,
+Purse snatching/Pocket picking,45.3,,23.3,,10.5,*,0,*,
+Property crimes,,,,,,,,,
+   Motor vehicle theft,9.3,,15.1,,2.7,*,1.5,*
+   Theft,14.7,,14.3,,3.6,,2.3,
+Note: Detail may not add to total shown because of rounding.,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,

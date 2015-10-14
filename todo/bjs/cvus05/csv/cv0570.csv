@@ -1,0 +1,43 @@
+Bureau of Justice Statistics,,,,,,,,,
+filename:  cv0570.csv,,,,,,,,,
+"Table 70. Percent distribution of self-protective measures employed by victims, by type of measure and type of crime",,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,
+
+"Table 70. Personal crimes of violence, 2005: Percent distribution of self-protective measures employed by victims, by type of measure and type of crime",,,,,,,,,
+,,Percent of self-protective measures,,,,,,,
+Self-protective measure,,Crime of violence,,Completed violence,,Attempted/threatened violence,,Rape/Sexual assault/a,
+Total number of self-protective measures,,100,%,100,%,100,%,100,%
+,Attacked offender with weapon,0.8,,0.7,*,0.9,*,0,*
+,Attacked offender without weapon,8.6,,13.3,,6,,5.3,*
+,Threatened offender with weapon,0.9,,0,*,1.3,,0,*
+,Threatened offender without weapon,1.4,,0.9,*,1.7,,0,*,,,,
+,Resisted or captured offender,25.6,,37.1,,19.4,,23.4,,,,,
+,Scared or warned offender,10.4,,7,,12.2,,17.7,,,,,
+,Persuaded or appeased offender,11.1,,9.3,,12.1,,20.3,,,,,
+,Ran away or hid,14.4,,9.8,,17,,10.2,*,,,,
+,Got help or gave alarm,14.2,,10.4,,16.3,,9.5,*,,,,
+,Screamed from pain or fear,1.7,,3.9,,0.5,*,7.1,*,,,,
+,Took other measures,10.8,,7.6,,12.6,,6.5,*,,,,
+,,Percent of self-protective measures,,,,,,,,,,,
+,,Robbery,,,,,,Assault,,,,,
+Self-protective measure,,Total,,With injury,,Without injury,,Total,,Aggravated,,Simple,
+Total number of self-protective measures,,100,%,100,%,100,%,100,%,100,%,100,%
+,Attacked offender with weapon,2.9,*,0,*,4.1,*,0.6,*,2.3,*,0,*
+,Attacked offender without weapon,11.5,,8.4,*,12.8,,8.5,,5,,9.7,
+,Threatened offender with weapon,0.5,*,0,*,0.8,*,1,,2,*,0.6,*
+,Threatened offender without weapon,1.9,*,1.9,*,1.9,*,1.5,,1.7,*,1.5,
+,Resisted or captured offender,29.8,,55.5,,18.8,,25.3,,24.7,,25.5
+,Scared or warned offender,14.2,,8.9,*,16.4,,9.2,,11,,8.6
+,Persuaded or appeased offender,6.6,*,1.9,*,8.6,*,10.9,,9,,11.6
+,Ran away or hid,14.9,,10.3,*,16.9,,14.8,,15.2,,14.6
+,Got help or gave alarm,9,,7.8,*,9.5,*,15.4,,16.4,,15
+,Screamed from pain or fear,0.6,*,2.1,*,0,*,1.4,,1.7,*,1.3
+,Took other measures,8.2,,3.2,*,10.3,,11.6,,11,,11.8
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,
+Some respondents may have cited more than one self-protective measure employed.,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,

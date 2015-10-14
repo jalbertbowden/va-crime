@@ -1,0 +1,50 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,,,,
+filename:  cv0597.csv,,,,,,,,,,,,,,,,,,,,
+"Table 97. Percent of victimizations reported to the police, by type of crime, form of tenure, and race and ethnicity of head of household",,,,,,,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,,,,,,
+
+"Table 97. Property crimes, 2005: Percent of victimizations reported to the police, by type of crime, form of tenure, and race and ethnicity of head of household",,,,,,,,,,,,,,,,,,,,
+,Percent of victimizations reported to the police,,,,,,,,,,,,,,,,,,,
+,Both forms,,,,,,,,,,Owned,,,,,,,,,
+Type of crime,All households/a,,White only,,Black only,,Hispanic,,Non-Hispanic,,All households/a,,White only,,Black only,,Hispanic,,Non-Hispanic,
+Property crimes,39.6,%,39.2,%,44.4,%,37.3,%,40,%,40.4,%,40,%,46.4,%,36.2,%,41,%
+   Household burglary,56.3,,56,,57.9,,55.6,,56.3,,58.4,,58,,60.6,,52.6,,59.1,
+      Completed,57.1,,56.8,,58.2,,54.8,,57.5,,59,,58.4,,61.9,,51.3,,59.9,
+         Forcible entry,74.7,,74.8,,72.6,,64.7,,76.2,,78,,79.1,,73.5,,67,,79.2
+         Unlawful entry without force,46.9,,47.4,,41.9,,48.7,,46.6,,49.1,,48.7,,46.9,*,43.8,,49.7
+      Attempted forcible entry,51.7,,52,,56.1,,59.4,,50.1,,55.6,,56.3,,52.1,*,59.6,*,54.7
+   Motor vehicle theft,83.2,,81.7,,91.8,,80.9,,83.9,,84.2,,82.6,,91,,86.5,,83.7
+      Completed,92.4,,92.2,,92.8,,87.5,,94,,95.3,,96.3,,94.2,,100,,94.4
+      Attempted,48.2,,48.1,,80.4,*,56.1,*,45.7,,47.9,,47.9,,46.4,*,46.7,*,48.1
+   Theft,32.3,,32.5,,33.4,,28,,33,,33.6,,33.7,,35.3,,28.4,,34.3
+      Completed,32,,32.2,,33.2,,27.4,,32.8,,33.3,,33.3,,34.9,,27.7,,34
+         Less than $50,18.6,,18.4,,24.3,,15.6,,19,,18.7,,18.8,,24.6,*,17.9,,18.8
+         $50 - $249,27.6,,28,,28.1,,22.7,,28.7,,28.7,,29.2,,23.7,,21.3,,29.7
+         $250 or more,52.7,,53.5,,49.9,,47.9,,53.6,,56.5,,56.2,,63,,48.8,,57.5
+         Amount not available,39,,39.6,,35.4,,18.9,*,42.3,,40.6,,40.6,,41.1,*,22.6,*,43
+      Attempted,38.6,,43.3,,36.8,*,44.9,*,37.8,,41.4,,45.3,,45.5,*,49.9,*,40.4
+,Percent of victimizations reported to the police,,,,,,,,,,,,,,,,,,
+,Rented,,,,,,,,,,,,,,,,,,
+Type of crime,All households/a,,White only,,Black only,,Hispanic,,Non-Hispanic,,,,,,,,,,
+Property crimes,38.3,%,37.8,%,43.1,%,38.4,%,38.3,%
+   Household burglary,53.2,,52.6,,56.3,,58.5,,52.2,
+      Completed,54.5,,54.1,,55.9,,58.3,,53.9,
+         Forcible entry,70.8,,68.7,,71.9,,62.8,,72.2,
+         Unlawful entry without force,43.4,,45,,39.1,,54.9,,41.6,
+      Attempted forcible entry,46.3,,45,,58.6,*,59.2,*,42.7,
+   Motor vehicle theft,82.3,,80.8,,92.4,,77.9,,84.2,
+      Completed,89.8,,88.3,,91.6,,81.4,,93.5,
+      Attempted,48.7,,48.3,*,100,*,62.7,*,41.8,*
+   Theft,30.1,,30.4,,32.1,,27.5,,30.6,
+      Completed,30,,30.1,,32.1,,27.2,,30.6,
+         Less than $50,18.6,,17.4,,24.1,,12.6,*,19.3,
+         $50 - $249,26.2,,26.1,,31,,23.8,,26.9,
+         $250 or more,47.3,,49.1,,42.4,,47,,47.2,
+         Amount not available,34.4,,36.2,,28.7,*,12.8,*,40,
+      Attempted,33.5,,38.6,,30.6,*,38.5,*,32.6,
+*Estimate is based on about 10 or fewer sample cases.
+"a/Includes data on persons of ""Other"" races and persons indicating two or more races."

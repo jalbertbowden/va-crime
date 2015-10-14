@@ -1,0 +1,2424 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Criminal Victimization in the United States, 2005
+
+
+December 2006,  NCJ 215244
+
+
+--------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/cvus05.htm
+
+This report is one in a series. More recent editions may
+be available. To view a list of all in the series go to
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#cvus
+--------------------------------------------------------
+
+* NCVS-measured crimes
+* Demography of victims
+* Victims and offenders
+* Geography
+* The crime event
+* Victims and the criminal justice system
+* Survey instrument
+* Survey methodology
+* Glossary
+
+A National Crime Victimization Survey Report
+
+Criminal Victimization 
+in the United States, 2005
+Statistical Tables
+    
+National Crime Victimization Survey
+Table of contents                       
+Index of statistical tables
+Demography of victims - Tables
+Victims and offenders - Tables 
+Geography - Tables 
+The crime event - Tables
+Victims and the criminal justice system
+Series victimizations - Table
+Survey Methodology
+
+Jeffrey L. Sedgwick
+Director
+
+These statistical tables were created and written by Cathy 
+Maston and Patsy Klaus of the Bureau of Justice Statistics, 
+under the supervision of Michael R. Rand. Priscilla Middleton 
+provided statistical assistance and edited these tables. 
+Jeremy Shimer and Dave Watt, of the U.S. Census Bureau, 
+produced the tables.
+
+National Crime Victimization Survey data collection and 
+processing activities are conducted by the U.S. Census
+Bureau, 
+under the supervision of Marilyn Monahan, and assisted by 
+Jeremy Shimer, Kristen Pysh, Christopher Seamands, Edward 
+Madrid, and Kathy Cheza, of the Crime Surveys Branch. 
+Programming assistance in the Demographic Surveys Division 
+was provided by Scott Raudabaugh, Chris Alaura, Mildred 
+Ballenger, Loan Nguyen, and Darryl Cannon, under the 
+supervision of David Watt.
+
+Guidance on technical matters related to the program was 
+provided by Karen King and Barbara Blass, Demographic 
+Statistical Methods Division, Census Bureau, under the 
+supervision of Karen King.
+
+Data presented in these statistical tables may be obtained 
+from the National Archive of Criminal Justice Data at the 
+University of Michigan at: http://www.icpsr.umich.edu/NACJD/
+index.htm The name of the data set is Criminal Victimization 
+in the United States, 2005 (ICPSR 6406).
+
+These statistical tables and other reports and data are 
+available on the BJS website at:
+http://www.ojp.usdoj.gov/bjs/
+
+A National Crime Victimization Survey, 2005 Statistical
+tables 
+NCJ 215244
+
+Victims of crime - United States. 
+
+Crime and criminals - United States.
+
+Title II.  Series
+
+Index
+
+A 
+
+ACTIVITY AT TIME OF INCIDENT,
+
+AGE, by
+Offender
+juvenile-offender victimizations
+multiple-offender victimizations
+single-offender victimizations
+Victims of 
+Personal crimes     
+aggravated assault
+assault,
+purse snatching/pocket picking,
+rape/sexual assault,
+robbery
+simple assault,
+Property crimes (head of household),
+economic loss,
+household burglary,
+motor vehicle theft,
+theft,
+vehicle owned,  
+Violent crimes,
+economic loss,
+family income,
+gender,
+injury,
+medical
+care,
+insurance coverage,
+race,
+reported to police,
+self-protective measures,
+victim-offender relationship,
+strangers,
+
+AGGRAVATED ASSAULT, (See Definition)
+Agency type providing assistance to victim,
+Assault, See  Assault
+Distance from home,
+Loss    
+economic,
+time from work,
+Number of incidents,
+Offender
+age,
+drug/alcohol use,
+gender,
+multiple-offender victimizations, 
+number of offender,
+race,
+relationship to victim,
+single-offender victimizations,
+weapons used,
+Physical force, who used first,
+Place of occurrence,
+Police
+activity during initial contact,
+response time to victim,
+
+AGGRAVATED ASSAULT, (continued)   
+response to reported incident, 
+Reporting to police,
+Victims   
+age,
+ethnicity,
+gender,
+race,
+reasons for,
+reasons for not,  
+Series victimizations, (See Definition)
+Time of occurrence,
+Victim-offender relationship
+nonstrangers,
+strangers,
+Victims 
+activity at time of incident,
+age,
+distance from home,
+ethnicity,
+family income,
+gender,
+head of household,
+marital status,
+medical care,
+number of,  
+race,
+residence 
+number of years lived at,
+region of,
+urban, suburban, rural,
+self-protective measures,
+
+ALCOHOL use by offender,
+
+ARMED ROBBERY, See Robbery
+
+ARSON, See FBI Uniform Crime Reports (WL)
+ 
+ASSAULT, (See Definition)
+Agency type providing assistance to victim,
+Aggravated, See Aggravated Assault
+Loss 
+economic,
+time from work,
+Number of incidents,  
+Offender
+age, 
+alcohol/drug use,
+armed,
+gender,
+multiple-offender victimizations,
+number of,
+race,
+relationship to victim,
+single-offender victimizations,
+unarmed,
+weapons used,
+Physical force, who used first,
+Place of occurrence,
+Reporting to police,
+Victims
+age,
+ethnicity,
+gender,
+
+ASSAULT, (continued) 
+race,
+reasons for,
+reasons for not,
+Series victimizations, (See Definition)
+Simple, See Simple Assault
+Time of occurrence,
+Victim-offender relationship
+nonstrangers,         
+strangers,
+Victims 
+age,
+distance from home,
+ethnicity,
+family income,
+gender,              
+head of household,
+injury,      
+marital status,
+medical
+care,
+expenses,     
+hospital care,      
+number of,
+race, 
+residence     
+number of years lived at,
+region of, 
+urban, suburban, rural,    
+self-protective measures,
+
+ASSISTANCE FOR VICTIM, by type of agency,
+
+ATTEMPTED CRIMES
+Both property and violent crimes,
+Property crimes,
+Violent crimes,
+
+AUTO THEFT, See Motor Vehicle Theft
+
+B
+
+BATTERY, See Aggravated Assault
+
+BLACK-ON-BLACK CRIME, See Race/Victim Offender
+Relationship
+
+BREAKING AND ENTERING, See Burglary
+
+BURGLARY, (See Definition)
+Agency type providing assistance to victim,   
+Loss    
+economic,
+time from work,
+property stolen,
+recovery of, 
+theft,
+value of,
+
+BURGLARY, (continued)
+Number of
+persons in household,
+units in structure,     
+Police
+activity during initial contact,
+response to reported incident,
+response time to victim,
+Reporting to police,
+Victims   
+ethnicity,
+family income,
+gender,
+head of household,
+ownership of residence (tenure),
+race,
+value of loss,
+reasons for,
+reasons for not,    
+Series victimizations, (See Definition)
+Time of occurrence,
+Type of entry,
+Victims (head of household)
+activity at time of incident,
+age,
+ethnicity,
+gender,
+family income,   
+race,
+residence      
+number of years lived at,
+ownership of (tenure),    
+region of, 
+urban, suburban, rural,
+     
+C
+
+CAR THEFT, See  Motor Vehicle Theft
+
+COMPLETED CRIMES
+Both property and violent crimes,
+Property crimes,
+Violent crimes,
+
+CRIME RATES
+Personal crimes
+aggravated assault,
+assault,
+purse snatching/pocket picking,
+rape/sexual assault,
+robbery,
+simple assault,
+Property crimes
+household burglary,
+motor vehicle theft, theft,
+urban, suburban, rural,
+ownership of residence (tenure),
+Victims of property crimes (head of household)
+age,
+ethnicity,
+family income, 
+
+CRIME RATES, (continued)
+number of persons in household,
+ownership of residence (tenure),
+race,   
+Victims of violent crimes
+age,
+ethnicity,
+family income,
+gender,
+head of household,
+martial status,  
+race,
+residence
+number of units, 
+number of years lived at,     
+region of,
+urban, suburban, rural,
+victim-offender relationship
+nonstrangers,
+strangers,   
+     
+CRIMES AGAINST PERSONS, See Personal Crimes
+
+CRIMES OF VIOLENCE, See Personal Crimes
+
+CRIMINALS, See Offenders
+
+D
+
+DEMOGRAPHY
+Victims of
+Personal crimes,
+Property crimes (head of household)      
+race,
+residence
+ownership of (tenure),
+region of,
+urban, suburban, rural,
+Violent crimes
+ethnicity,
+gender,
+race,
+residence
+region of,
+urban, suburban, rural,
+
+DISTANCE FROM HOME,     
+
+DOMESTIC VIOLENCE, See Family Violence
+
+DRUG, use by offenders, 
+
+E
+
+ECONOMIC LOSS, See Loss
+
+ELDERLY VICTIMS, See Age
+
+ETHNICITY (Hispanic/Non Hispanic)
+Victims of
+Personal crimes
+aggravated assault,
+assault,
+purse snatching/pocket picking,
+rape/sexual assault,
+
+ETHNICITY, (Hispanic/Non Hispanic)(continued)
+robbery,
+simple assault,
+Property crimes (head of household),
+economic loss,
+gender, 
+household burglary,
+motor vehicle theft,
+ownership of residence (tenure),
+race,
+theft,  
+Violent crimes,
+economic loss,
+gender,
+race,
+reporting to police,
+urban, suburban, rural,     
+victim-offender relationship
+nonstrangers,
+strangers,        
+
+F
+
+FAMILY INCOME, by
+Victims of
+Personal crimes
+aggravated assault,
+assault,
+purse snatching/pocket picking,
+rape/sexual assault, 
+robbery,
+simple assault,  
+Property crimes (head of household)
+economic loss,
+household burglary,
+motor vehicle theft,
+race,
+heft,
+Violent crimes,
+age,
+economic loss,
+gender,
+injury,      
+marital status,
+medical insurance coverage,
+race,
+reporting to police,
+victim-offender relationship,
+
+FAMILY VIOLENCE
+Victims of
+Personal crimes
+aggravated assault,
+assault,    
+rape/sexual assault,
+robbery,
+simple assault,
+Violent crimes
+age, family income, gender, marital status,
+and race,
+victim-offender relationship, 
+
+FEMALE VICTIMS, See Victims/gender
+
+FIREARMS, See  Weapons
+
+G
+
+GENDER, by
+Offender
+multiple-offender victimizations,
+single-offender victimizations,
+Victims of
+Personal crimes
+aggravated assault,
+assault,
+purse snatching/pocket picking,
+rape/sexual assault,
+robbery,
+simple assault,
+Property crimes (head of household),
+economic loss,
+household burglary,
+motor vehicle theft,
+theft,
+Violent crimes,
+age,
+economic loss,
+ethnicity,
+family income,
+head of household,
+hospital care,
+injury,
+marital status,
+medical insurance coverage,      
+race,
+reporting to police,
+self-protective measures,       
+urban, suburban rural,     
+victim-offender relationship
+nonstrangers,
+strangers,
+Weapons used,
+
+GUNS, See  Weapons
+
+H
+
+HATE CRIMES, See FBI Uniform Crime Reports
+
+HEAD OF HOUSEHOLD, (Property Crimes)
+Personal crimes,
+Police   
+reason for not reporting to, 
+reasons for reporting to,
+Residence   
+ownership of (tenure),
+urban, suburban, rural,
+Victims of
+Personal crimes,
+Property crimes (head of household)
+age,
+ethnicity,
+family income,
+gender,
+
+HEAD OF HOUSEHOLD, (Property Crimes) (continued)
+household burglary,         
+motor vehicle theft,
+race,
+relationship of victim to, 
+theft,
+
+HISPANIC VICTIMS, See Ethnicity
+
+HOMICIDE, See FBI Uniform Crime Reports (WL)
+
+HOSPITAL CARE, See Medical Care
+ 
+HOUSEHOLD BURGLARY, See Burglary
+
+HOUSEHOLD CRIMES, See Property Crimes
+
+HOUSEHOLD INCOME, See Family Income
+
+HOUSEHOLDS, See also, Head of Household
+Number of
+persons in households,
+units in structure,
+
+I
+
+INCOME, See  Family Income
+
+INJURY,
+
+INSURANCE COVERAGE, See Medical Care
+
+INTIMATE PARTNER VIOLENCE, See Family Violence
+
+J 
+
+JUVENILE VICTIMS, See Age 
+
+K
+
+KNIVES, See Weapons
+
+L
+
+LARCENY, See Theft
+
+LOSS                        
+Economic,
+Property recovery of,
+Property stolen,
+Theft,
+Time from work,
+Value of,
+
+M
+
+MALE VICTIMS, See Victims/gender
+
+MARITAL STATUS, by
+Victims of
+Personal crimes
+aggravated assault,
+
+MARITAL STATUS, by (continued)
+assault,
+purse snatching/pocket picking,
+rape/sexual assault,
+robbery,
+simple assault,
+Violent crimes,
+gender,
+victim-offender relationship,
+strangers,
+
+MEDICAL CARE,
+Expenses,
+Hospital care,
+Insurance coverage,
+
+METHODOLOGY (WL)
+Data collection
+Sample design and size
+Collection year estimates
+Estimation procedure
+Series victimizations
+Accuracy of estimates
+Computation and application of standard errors
+
+MOTOR VEHICLE THEFT, (See Definition)
+Agency type providing assistance to victim, 109  
+Loss
+economic,
+property stolen,  
+recovery of, 
+theft,
+time from work,
+value of,
+Number of
+persons in household,
+units in structure, 
+Place of occurrence,
+Police  
+activity during initial contact,
+response time to victim,
+response to reported incident,
+Reporting to police,
+Victims      
+ethnicity, 
+family income,            
+gender, 93a   
+head of household,
+race,
+value of loss,
+reasons for,
+reasons for not,
+Series victimizations,  (See Definition)
+Time of occurrence,  
+Type of theft (all vehicle, completed or attempted),
+Victims (head of household)
+activity at time of incident,
+age,
+distance from home,  
+ethnicity,
+family income, 
+race,
+residence
+number of years lived at,
+ownership of (tenure),         
+region of,
+
+MOTOR VEHICLE THEFT, (continued)
+urban, suburban, rural,  
+     
+MUGGING, See  Robbery, Assault, and Purse 
+Snatching/Pocket Picking
+
+MULTIPLE-OFFENDER VICTIMIZATIONS, See  
+Offenders/number of
+
+MURDER AND NONNEGLIGENT MANSLAUGHTER, 
+See FBI Uniform Crime Reports (WL)
+
+N
+
+NUMBER OF
+INCIDENTS, (See Definition) 
+Distance from home,
+Number of offenders,
+Police response,
+Victim-offender relationship,
+Victims
+activity at time of incident,
+number of,  
+Weapons used,
+VICTIMIZATIONS,(See Definition)
+Agency type providing assistance to victim,
+Loss
+economic,
+property stolen,
+recovery of, 
+theft, 
+time from work,
+value of,
+Reporting to police,
+Series victimizations, (See Definition) 
+Vehicle owned,
+Victims of 
+Property crimes (head of household)
+ethnicity,
+gender,
+race,
+Violent crimes
+age,
+ethnicity,
+gender,
+race,
+victim-offender relationship
+nonstrangers,
+strangers,
+
+O 
+
+OFFENDERS
+Aggravated Assault
+age,
+drug/alcohol use,
+gender,
+multiple-offender victimizations,
+number of,
+race,     
+single-offender victimizations,
+victim-offender relationship,
+weapons used,
+Assault
+age,
+armed,
+
+OFFENDERS, (continued)
+drug/alcohol use,
+gender,
+multiple-offender victimizations,
+number of,
+race,
+single-offender victimizations,
+unarmed, 
+victim-offender relationship,
+weapons used,
+Robbery
+age,
+armed,
+drug/alcohol use,
+gender,
+multiple-offender victimizations,
+number of,
+race,    
+single-offender victimizations,
+unarmed,
+victim-offender relationship,
+weapons used,  
+Rape/sexual assault
+age,
+drug/alcohol use,
+gender,
+multiple-offender victimizations,
+number of,
+race,     
+single-offender victimizations,
+victim-offender relationship,
+weapons used,
+Simple Assault
+age,
+drug/alcohol use,
+gender,
+multiple-offender victimizations,
+number of,
+race,     
+single-offender victimizations,
+victim-offender relationship,
+weapons used,
+
+OFFENSES, See Crime Rates/Personal and Property Crimes 
+
+OWNERSHIP, of residence (tenure)
+Urban, suburban, rural,
+Victims of
+Property crimes (head of household)
+ethnicity,
+household burglary,
+motor vehicle theft,
+race,
+reported to police,
+theft,
+vehicle owned,  
+
+P
+
+PERSONAL CRIMES, 1 (See Definition)
+Agency type providing assistance to victim,
+Aggravated assault, See  Aggravated Assault
+Assault, See Assault
+Distance from home,
+
+
+PERSONAL CRIMES, (continued)
+Loss
+economic,
+property stolen,
+recovery of,
+theft,
+time from work,
+value of,
+Number of incidents,
+Offender
+age,
+drug/alcohol use,
+gender,
+multiple-offender victimizations,
+number of,
+race,
+single-offender victimizations,
+victim-offender relationship,
+weapons used,
+Physical force, who used first,
+Place of occurrence,
+Police
+activity during initial contact,
+response time to victim,
+response to reported incident,
+Purse snatching/pocket picking, See Purse 
+Snatching/Pocket Picking         
+Reporting to police,
+Victims
+age,
+ethnicity,
+gender,
+race,
+reasons for,
+reasons for not,
+Rape, See Rape 
+Robbery, See Robbery
+Series victimizations, (See Definition)
+Simple assault, See Simple Assault
+Time of occurrence,
+Victims
+activity at time of incident,
+age,
+distance from home,
+ethnicity,
+family income,
+gender,
+head of household,
+injury,
+marital status,
+medical 
+care,
+expenses,
+number of,  
+race,
+residence       
+number of years lived at, 
+region of,
+urban, suburban, rural,
+self-protective measures,
+victim-offender relationship
+nonstrangers,
+
+Personal Crimes, (continued)
+strangers,
+PHYSICAL INJURY (See Injury),
+
+PHYSICAL FORCE, who used first,
+
+POLICE 
+Response time to victim,
+Response to reported incident,
+Victims of
+Personal crimes
+aggravated assault,
+assault,
+purse snatching/pocket picking,
+rape/sexual assault,
+robbery,
+simple assault,
+Property crimes (head of household),
+gender,
+ownership of (tenure),
+race,
+Violent crimes
+activity during initial contact,
+age,
+ethnicity,
+gender,
+race of,
+reasons
+for,
+for not,
+reported to,
+not reported,
+value of loss,
+victim-offender relationship
+nonstrangers,
+strangers,
+
+PROPERTY CRIMES, 1 (See Definition)
+Agency type providing assistance to victim, 
+Burglary, See Burglary
+Loss 
+economic,
+property stolen,
+recovery of,
+theft,
+time from work,
+value of,
+Motor Vehicle Theft, See Motor Vehicle Theft
+Number of 
+persons in household,
+units in structure,
+Place of occurrence, 
+Police 
+activity during initial contact,
+response time to victim,
+response to reported incident,
+Reporting to police,
+Victims
+ethnicity,
+family income,
+gender,
+head of household,
+race,
+value of loss,   
+
+PROPERTY CRIMES, (continued)
+reason for,    
+reasons for not, 
+Series victimizations, (See Definition)
+Theft, See Theft
+Time of occurrence,
+Victims (head of household)
+activity at time of incident,
+age,
+distance from home,
+ethnicity,
+family income,
+race,
+residence     
+number of years lived at,
+ownership of (tenure),
+region of,
+urban, suburban, rural,
+
+PURSE SNATCHING/POCKET PICKING, (See Definition)
+Agency type providing assistance to victim,  
+Loss  
+economic,
+property stolen,
+recovery of,
+theft, 
+value of,
+Number of incidents,
+Place of occurrence,
+Police
+activity during initial contact,
+response to reported incident, 
+Reporting to police,
+Victims
+age,
+ethnicity,
+gender,
+race, 
+reasons for,
+reasons for not,  
+Series victimizations, (See Definition)
+Time of occurrence,
+Victims
+activity at time of incident,
+age,
+distance from home,
+ethnicity,
+family income,
+gender,
+head of household,
+marital status,
+race,  
+residence  
+region of,
+urban, suburban, rural,
+
+R
+
+RACE
+Offender, 48
+age, 45
+multiple-offender victimizations, 
+single-offender victimizations,
+
+RACE, (continued) 
+Victims of
+Personal crimes
+aggravated assault,
+assault,
+purse snatching/pocket picking,
+rape/sexual assault,
+robbery,           
+simple assault,
+Property crimes (head of household),
+age,
+economic loss,
+ethnicity,
+family income,
+household burglary,           
+motor vehicle theft,            
+property recovery,
+residence  
+ownership of (tenure),
+urban, suburban, rural,
+theft,
+time from work, 
+value of loss,
+Violent crimes,
+age,
+days lost from work,
+economic loss,
+ethnicity,
+family income,
+gender,
+injury,
+medical
+care,
+expenses,
+insurance coverage,
+property recovery, 
+police          
+reasons for not reporting,
+reporting to,         
+self-protective measures, 
+theft loss,
+urban, suburban, rural,  
+value of loss,
+victim-offender relationship
+nonstrangers,
+strangers,
+Weapons used,
+
+RAPE/SEXUAL ASSAULT, (See Definition)
+Agency type providing assistance to victim,
+Loss     
+economic,
+time from work,
+Number of incidents,   
+Offender
+age,
+alcohol/drug use, 
+gender,
+
+RAPE/SEXUAL ASSAULT, (continued) 
+multiple-victimizations,
+number of,
+race,
+single-victimizations, 
+victim-offender relationship,
+weapons used,  
+Physical force, who used first, 
+Place of occurrence,
+Police response to reported incident,
+Reporting to police,
+Victims     
+age,
+ethnicity,
+gender,
+race,
+reasons for,
+reasons for not,
+Self protective measures,
+Series victimizations, (See Definition)
+Time of occurrence,
+Victim-offender relationship
+nonstrangers,
+strangers,
+Victims
+activity at time of incident,
+age,
+characteristics of household,
+distance from home,
+ethnicity,
+family income,
+gender,
+marital status,
+medical care,
+number of,
+race,
+residence     
+number of years lived at,
+region of,
+urban, suburban, rural,
+     
+REGION of,
+
+RENTERS, See Ownership and Demography
+
+REPORTING TO POLICE, See Police 
+
+RESIDENCE, of victims
+Number of years lived at,
+Ownership of (tenure),
+Region of,
+Urban, suburban, rural, 
+
+ROBBERY, (See Definition)
+Agency type providing assistance to victim,
+Loss  
+economic, 
+property stolen,
+recovery of,
+theft,
+time from work,
+value of,
+Number of incidents,
+Offender
+age,
+
+ROBBERY, (continued)
+alcohol/drug use,
+armed,
+gender,
+multiple-victimizations,
+number of,
+race,
+single-victimizations,
+unarmed,
+victim-offender relationship,
+weapons used,
+Physical force, who used first,
+Place of occurrence,
+Police
+activity during initial contact,
+response time to victim,
+response to reported incident,
+Reporting to police,
+Victims
+age,
+ethnicity,
+gender,
+race,   
+reasons for,
+reasons for not,
+Series victimizations, (See Definition)
+Time of occurrence,
+Victim-offender relationship  
+nonstrangers,     
+strangers,      
+Victims
+activity at time of incident,
+age,
+distance from home,
+ethnicity,
+family income,
+gender,      
+head of household,
+injury,
+marital status,
+medical
+care,
+expenses,     
+number of,
+race,        
+residence       
+number of years lived at,
+region of,
+self-protective measures,
+urban, suburban, rural,
+
+RURAL CRIMES,
+                              
+S
+
+SCHOOL CRIMES,
+
+SELF-PROTECTIVE MEASURES TAKEN, by
+Victims of 
+Personal crimes
+aggravated assault,
+assault,
+
+SELF-PROTECTIVE MEASURES TAKEN, by (continued)
+rape/sexual assault,
+robbery,
+simple assault,
+Violent crimes
+age,
+gender,
+measure taken by,
+harmful,
+helpful,
+race,
+type of measures, 
+victim-offender relationship
+nonstrangers,
+strangers,
+
+SERIES VICTIMIZATION, (See Definition)
+
+SEX, See Gender
+
+SEXUAL ASSAULT,  See Rape/Sexual Assault
+
+SIMPLE ASSAULT, (See Definition)
+Agency type providing assistance to victim,
+Aggravated assault, See also Aggravated
+Loss
+economic,
+time from work,
+Number of incidents,
+Offender
+age,
+alcohol/drug use,
+gender,
+multiple-offender victimizations,
+number of,  
+race, 
+single-offender victimizations,
+victim-offender relationship,
+weapons used,
+Physical force who used first, 
+Place of occurrence,
+Police
+activity during initial contact,
+response time to victim, 107
+response to reported incident,
+Reporting to police,
+Victims 
+age,
+ethnicity,
+gender,
+race,
+reasons for,
+reasons for not,  
+Series victimizations, (See Definition)
+Time of occurrence,
+Victim-offender relationship
+nonstrangers,
+strangers,        
+Victims
+activity at time of incident,
+age,
+distance from home,
+ethnicity,
+family income,
+
+SIMPLE ASSAULT, (continued)
+gender,        
+head of household,
+marital status,
+medical care,
+number of,
+race,  
+residence 
+locality of,
+number of years lived at,
+region of,            
+self-protective measures,
+
+SINGLE-OFFENDER VICTIMIZATIONS, See  Offenders
+
+STOLEN PROPERTY, See Loss
+
+SUBURBAN CRIMES, 
+
+T
+
+THEFT, (See  Definition)
+Agency type providing assistance to victim,
+Loss     
+economic, 
+property stolen,
+recovered of,
+time from work,
+value of,
+Number of
+persons in household,
+units in structure, 
+Place of occurrence,  
+Police
+activity during initial contact,
+response time to victim,
+response to reported incident,   
+Reporting to police,
+Victims
+ethnicity,  
+family income, 
+gender,
+head of household,
+race,
+value of loss,     
+reasons for,
+reasons for not,
+Series victimizations, (See Definition)
+Time of occurrence,
+Type of,
+Victims (head of household)
+activity at time of incident,
+age,
+distance from home,
+ethnicity,
+family income,
+gender,   
+race,
+residence
+number of years lived at,
+ownership of (tenure), 
+region of,
+urban, suburban, rural,
+      
+TIME OF OCCURRENCE,
+
+TYPE OF CRIMES,
+
+U
+
+URBAN CRIMES,
+
+V
+
+VICTIMS
+Activity at time of incident,
+Age,
+Distance from home,
+Ethnicity,
+Family income,
+Gender,
+Head of household,
+Injury,
+Loss   
+economic,
+recovered of,
+theft,
+time from work,
+value of, 
+Marital status,
+Medical
+care,
+expenses,
+insurance coverage,
+Number of,
+Police
+activity during initial contact,
+reasons for not reporting,
+reporting to police,
+response time to victim,
+Race, 
+Residence   
+number of years lived at, 
+urban, suburban, rural,,
+Self-protective measures,
+Victim-offender relationship
+nonstrangers,
+strangers,        
+Weapons used,
+
+VICTIM-OFFENDER RELATIONSHIP
+Assault,
+Injury,
+Medical
+care,
+expenses,
+Multiple-offender victimizations,
+Nonstrangers,       
+Number of
+offenders,
+victimizations,
+Place of occurrence,
+Police
+reasons for not reporting, 
+reporting to,
+
+VICTIM-OFFENDER RELATIONSHIP, (continued)
+Robbery,
+Single-offender victimizations,
+Strangers,       
+Victims
+age,
+ethnicity,
+family income,
+gender,
+marital status,
+race,
+self-protective measures,
+Weapons use,
+
+VICTIMIZATION RATES,
+
+VIOLENCE AGAINST WOMEN, See Family Violence/or 
+Gender (Victim-Offender Relationship)
+
+VIOLENT CRIMES, See Personal Crimes
+
+W
+
+WEAPONS used, 66, 70-71
+
+Survey Methodology for Criminal Victimization 
+in the United States, 2005
+
+The survey results contained in this report are based on data 
+gathered from residents living throughout the United States, 
+including persons living in group quarters, such as dormitories, 
+rooming houses, and religious group dwellings. Crew members of 
+merchant vessels, Armed Forces personnel living in military 
+barracks, and institutionalized persons, such as correctional 
+facility inmates, were not included in the scope of this survey.  
+Similarly, U.S. citizens residing abroad and foreign visitors 
+to this country were excluded.  With these exceptions, 
+individuals age 12 or older living in units selected for the 
+sample were eligible to be interviewed.
+
+Data Collection
+
+Each housing unit selected for the National Crime Victimization 
+Survey (NCVS) remains in the sample for three years, with each 
+of seven interviews taking place at 6month intervals. An NCVS 
+interviewer's first contact with a housing unit selected for 
+the survey is in person.  The interviewer may then conduct 
+subsequent interviews by telephone.
+
+To elicit more accurate reporting of incidents, NCVS uses the 
+self-respondent method which calls for the direct interviewing 
+of each person 12 years or older in the household. An exception 
+is made to use proxy interviewing instead of direct interviewing 
+for the following three cases:  12- and 13yearold persons when 
+a knowledgeable household member insists they not be interviewed 
+directly, incapacitated persons, and individuals absent from 
+the household during the entire field-interviewing period. In 
+the case of temporarily absent household members and persons 
+who are physically or mentally incapable of granting interviews, 
+interviewers may accept other household members as proxy 
+respondents, and in certain situations non-household members may 
+provide information for incapacitated persons.
+
+Some interviews were conducted using Computer-Assisted Telephone 
+Interviewing (CATI), a data collection mode which involves 
+interviewing from centralized facilities and using a computerized 
+instrument. In the CATI-eligible part of the sample, all 
+interviews are done by telephone whenever possible, except for 
+the first interview, which is primarily conducted in person. The 
+telephone interviews are conducted by the CATI facilities in 
+Hagerstown, Maryland and Tucson, Arizona.
+
+Sample Design and Size
+
+Survey estimates are derived from a stratified, multi-stage 
+cluster sample.  The primary sampling units (PSU=s) composing 
+the first stage of the sample were counties, groups of counties, 
+or large metropolitan areas.  Large PSU's were included in the 
+sample automatically and are considered to be self-representing 
+(SR) since all of them were selected.  The remaining PSU's, 
+called non-self-representing (NSR), because only a subset of 
+them was selected, were combined into strata by grouping PSU's 
+with similar geographic and demographic characteristics, as 
+determined by the 1990 Census. 
+
+The initial 1990 design consisted of 93 SR PSU's and 152 NSR 
+strata, with one PSU per stratum selected with probability 
+proportionate to population size.  A sample reduction was done 
+in October of 1996, reducing the number of NSR PSUs by 42. So, 
+the current NCVS sample consists of 110 NSR PSUs. The NCVS 
+sample design continued use of both 1980- and 1990-based sample 
+through 1997. Beginning in 1998 only 1990-based sample remains.
+
+In the second stage of sampling, each selected stratification 
+PSU is divided into four non-overlapping frames (unit, area, 
+permit, and group quarters) from which NCVS independently 
+selects its sample.  From each selected stratification PSU, 
+clusters of approximately four housing units or housing unit 
+equivalents are selected from each frame.  For the unit and 
+group quarters frames, addresses come from the 1990 Census.  
+For the permit frame, addresses come from building permit data 
+obtained from building permit offices.  This ensures that 
+units built after the 1990 Census are included in the sample.  
+For the area frame, sample blocks come from the 1990 Census 
+files.  Then, addresses are listed and sampled in the field.  
+A new sample, based on addresses drawn from the 2000 census, 
+began to be phased in 2005.
+
+The actual number of households and persons interviewed in 
+the NCVS sample varies slightly from year to year. Information 
+on the number of households and persons interviewed by year 
+is presented below. (Also see spreadsheet at:
+http://www.ojp.usdoj.gov/bjs/pub/sheets/cvus/2005/cv05mresp.csv).
+
+Number of households and persons interviewed by year.                 
+
+In order to conduct field interviews, the sample is divided into 
+six groups, or rotations, and each group of households are 
+interviewed once every six months over a period of three years. 
+The initial interview is used to bound the interviews (bounding 
+establishes a time frame to avoid duplication of crimes on 
+subsequent interviews), but is not used to compute the annual 
+estimates.  Each rotation group is further divided into six 
+panels. A different panel of households, corresponding to one 
+sixth of each rotation group, is interviewed each month during 
+the 6-month period.  Because the survey is continuous, newly 
+constructed housing units are selected as described, and 
+assigned to rotation groups and panels for subsequent 
+incorporation into the sample.  A new rotation group enters the 
+sample every six months, replacing a group phased out after 
+being in the sample for three years. (Also see spreadsheet at:
+http://www.ojp.usdoj.gov/bjs/pub/sheets/cvus/2005/cv05mmon.csv).
+
+Selection of Cases for CATI
+
+Until March 2003, the NCVS sample PSU's fell into three groups 
+of CATI usage:  maximum-CATI PSU's, where all the segments in 
+the PSU are CATI-eligible; half-CATI PSU's, where half of the 
+segments in the PSU are randomly designated to be CATI-eligible; 
+and noCATI PSU's, where none of the segments are CATI-eligible.  
+The level of CATI usage for each PSU was established with 
+concern toward an optimal workload for the field interviewers.  
+In the "half-CATI" PSU's, a random sample of about 50% of the 
+segments in each PSU is taken and designated as CATI-eligible. 
+Beginning March 2003, addresses in all segments became eligible 
+for CATI interviewing. CATI cases are interviewed from CATI 
+facilities while the other sample cases are interviewed by the 
+standard NCVS field procedures.
+
+Collection Year Estimates
+
+The data presented in the tables were collected during the 
+calendar year being estimated.  Because of the retrospective 
+nature of the survey, the estimates include some incidents 
+that actually occurred during the previous year.  Analyses 
+comparing the victimization information collected in a calendar 
+year (termed a collection year) to that obtained about 
+victimizations experienced in the same calendar year (called 
+a data year) show only a small difference between the two 
+methods. The differences will be greater during periods of 
+changing crime rates and less during periods of stable rates.
+
+New Race Information
+
+In 1997 the Office of Management and Budget (OMB) introduced 
+new guidelines for the collection and reporting of race and 
+ethnicity data in government surveys. These methodological 
+changes were implemented for all demographic surveys as of 
+January 1, 2003. Individuals are now allowed to choose more 
+than one race category. In prior years they were asked to 
+select a single primary race.
+
+Racial categories presented in these tables now consist of 
+the following: white only, black only, other race only 
+(American Indian, Alaska Native, Asian, Pacific Islander if 
+only one of these races is given), and two or more races 
+(all persons of any race indicating two or more races).  
+Individuals are now asked whether they are of Hispanic 
+ethnicity before being asked about their race, and are now 
+asked directly if they are Spanish, Hispanic, or Latino. 
+
+Estimation Procedure
+
+Annual collection year estimates of the levels and rates of 
+victimization are derived by accumulating four quarterly 
+estimates.  The weights of all crimes reported during 
+interviews in that year are summed, regardless of when the 
+crime occurred.  The base for the collection year rate for 
+personal crime is the sum of all person weights.  Likewise, 
+the base for the property crime rates is the sum of all 
+household weights.
+
+The estimation procedure begins with the application of a base 
+weight to the data from each individual interviewed.  The base 
+weight is the reciprocal of the probability of each unit's 
+selection for the sample, and provides a rough measure of the 
+population represented by each person in the sample.  Next, an 
+adjustment is made to account for households and individuals 
+in occupied units who were selected for the survey but 
+unavailable for an interview.
+
+In addition to adjusting for unequal probabilities of selection 
+and observation, the final weight also includes a ratio 
+adjustment to known population totals based on the adjusted 
+counts from the 1990 Census.  Specifically, the final person 
+weight is the product of the values of the following six 
+component weights; the final household weight is the product 
+of all components except the within-household non-interview 
+adjustment component detailed below:
+
+Probabilities of selection 
+
+* Base weight: the inverse of the sample unit's probability 
+of selection. 
+
+* Weighting control factor: adjusts for any subsampling due 
+to unexpected events in the field, such as unusually high 
+growth in new construction, area segments larger than 
+anticipated, and other deviations from the overall stratum 
+sampling rate.
+
+Probabilities of observation (Nonresponse)
+
+* Household noninterview adjustment:  adjusts for nonresponse 
+at the household level by inflating the weight assigned to 
+interviewed households so that they represent themselves and 
+noninterviewed households.
+
+* Within-household noninterview adjustment:  adjusts for 
+nonresponse at the person level by inflating the weight 
+assigned to the interviewed persons so that they represent 
+themselves and the missed interviews.
+
+Poststratification ratio adjustment to known population totals
+
+The distribution of the sample population may differ somewhat 
+from that of the total population in terms of age, race, sex, 
+residence, and other characteristics.  Because of this, two 
+stages of ratio estimation are employed to bring the two 
+distributions into closer agreement, thereby reducing the 
+variability of the sample estimates.
+
+* First-stage factor:  the first stage of ratio estimation is 
+applied only to non-self-representing PSU's.  Its purpose is 
+to reduce sampling error caused by selecting one PSU to 
+represent an entire stratum. It adjusts for race and zone of 
+residence differences between the sample non-self-representing 
+PSU's and the population non-self-representing PSU's (for 
+self-representing PSU's this factor is set to 1). 
+
+* Second-stage factor:  the second stage of ratio estimation 
+is applied on an individual basis to bring the distribution of 
+individuals in the sample into closer agreement with independent 
+current estimates of the population according to age, sex, and 
+race characteristics.***Footnote 1: Armed forced personnel who 
+are eligible to be interviewed are not included in the second-
+stage ratio estimate and receive a factor of 1.*** This factor 
+is defined for each person to adjust for the difference between 
+weighted counts of persons (using the above five weight 
+components) and independent estimates of the number of persons, 
+within the defined cells.  These independent estimates are 
+projections based on the 2000 Census population controls 
+adjusted for the undercount.
+
+For household crimes, the characteristics of the wife in a 
+husband-wife household and the characteristics of the head of 
+household in other types of households are used to determine 
+the ratio adjustment factors.  This procedure is considered 
+more precise than simply using the characteristics of the head 
+of household since sample coverage is generally better for 
+females than males.
+
+For estimates involving incidents rather than victimizations, 
+further adjustments are made to those cases where an incident 
+involved more than one person. These incidents have more than 
+one chance of being included in the sample so each multiple-
+victimization is reduced by the number of victims. Thus, if 
+two people are victimized during the same incident, the weight
+assigned to that incident is the person weight reduced by one-
+half so that the incident cannot be counted twice. However, 
+the details of the event's outcome as they related to the 
+victim are reflected in the survey results. No adjustment is 
+necessary in estimating data on household crimes because each
+separate crime is defined as involving only one household.
+
+Series Victimizations
+
+A series victimization is defined as six or more similar but 
+separate crimes which the victim is unable to recall 
+individually or describe in detail to an interviewer. These 
+series crimes have been excluded from the tables because the
+victims were unable to provide details for each event. Data 
+on series crimes are gathered by the calendar quarter(s) of 
+occurrence, making it possible to match the time frames used 
+in tabulating the data for non-series crimes.
+
+The effect of combining series and non-series crimes, counting
+each of the series crimes as a single victimization based on 
+the details of the most recent incident, was included in the 
+initial release of the 1980 data.***Footnote 2: See Criminal 
+Victimization in the United States; 1979-80 Changes, 1973-80 
+Trends, BJS Technical Report, NCJ-80838, July 1982.*** The
+report showed that victimization counts and rates were higher 
+in 1979 and 1980 when the series crimes were added. However, 
+rate changes between these two years were basically in the 
+same direction and significantly affected the same crimes as 
+those affected when only non-series crimes were analyzed.
+
+Accuracy of Estimates
+
+The accuracy of an estimate is a measure of its total error, 
+that is, the sum of all the errors affecting the estimate: 
+sampling error as well as nonsampling error. 
+                                                                 
+The sample used for the NCVS is one of a large number of 
+possible samples of equal size that could have been obtained 
+by using the same sample design and selection procedures. 
+Estimates derived from different samples would differ from 
+one another due to sampling variability, or sampling error.
+
+The standard error of a survey estimate is a measure of the 
+variation among that estimates from all possible samples. 
+Therefore, it is a measure of the precision (reliability) 
+with which a particular estimate approximates the average 
+result of all possible samples. The estimate and its associated
+standard error may be used to construct a confidence interval. 
+A confidence interval is a range of numbers which has a 
+specified probability that the average of all possible samples, 
+which is the true unknown value of interest in an unbiased 
+design, is contained within the interval. About 68% of the time, 
+the survey estimate will differ from the true average by less 
+than one standard error. Only 10% of the time will the 
+difference be more than 1.6 standard errors, and just one time 
+in 100 will it be greater than 2.5 standard errors. A 95% 
+confidence interval is the survey estimate plus or minus about 
+twice the standard error, thus there is a 95% chance that the 
+result of a complete census would fall within the confidence 
+interval.
+
+In addition to sampling error, the estimates in this report 
+are subject to nonsampling error. While substantial care is 
+taken in the NCVS to reduce the sources of nonsampling error 
+throughout all the survey operations, by means of a quality 
+assurance program, quality controls, operational controls, 
+and error-correcting procedures, an unquantified amount of 
+nonsampling error remains still.
+
+Major sources of nonsampling error are related to the 
+inability of the respondents to recall in detail the crimes 
+which occurred during the six months prior to the interview. 
+Research based on interviews of victims obtained from police 
+files indicates that assault is recalled with the least
+accuracy of any crime measured by the NCVS. This may be 
+related to the tendency of victims to not report crimes 
+committed by offenders who are not strangers, especially if 
+they are relatives. In addition, among certain groups, crimes 
+which contain elements of assault could be a part of everyday 
+life, and are therefore forgotten or not considered important 
+enough to mention to a survey interviewer. These recall 
+problems may result in an understatement of the actual rate 
+of assault. 
+
+Another source of nonsampling error is the inability of some 
+respondents to recall the exact month a crime occurred, even 
+though it was placed in the correct reference period. This 
+error source is partially offset by interviewing monthly and 
+using the estimation procedure described earlier. Telescoping 
+is another problem in which incidents that occurred before 
+the reference period are placed within the period. The effect 
+of telescoping is minimized by using the bounding procedure 
+previously described. The interviewer is provided with a 
+summary of the incidents reported in the preceding interview 
+and, if a similar incident is reported, it can be determined 
+whether or not it is a new one by discussing it with the 
+victim. Events which occurred after the reference period are 
+set aside for inclusion with the data from the following 
+interview. 
+
+Other sources of nonsampling error can result from other types 
+of response mistakes, including errors in reporting incidents 
+as crimes, misclassification of crimes, systematic data errors 
+introduced by the interviewer, errors made in coding and 
+processing the data. Quality control and editing procedures
+were used to minimize the number of errors made by the 
+respondents and the interviewers.
+
+Since field representatives conducting the interviews usually 
+reside in the area in which they interview, the race and 
+ethnicity of the field representatives generally matches that 
+of the local population. Special efforts are made to further 
+match field representatives and the people they interview in 
+areas where English is not commonly spoken. About 90% of all
+NCVS field representatives are female.
+
+Standard errors measure only those nonsampling errors arising 
+from transient factors affecting individual responses 
+completely at random (simple response variance); they do not 
+reveal any systematic biases in the data. As calculated in 
+the NCVS, the standard errors would partially measure 
+nonsampling error arising from some of the above sources, such 
+as transient memory errors, or accidental errors in recording 
+or coding answers, for example.
+
+Computation and Application of Standard Errors
+
+Deriving standard errors which are applicable to a wide 
+variety of items and which can be prepared at a moderate cost 
+requires a number of approximations. Therefore, three 
+generalized variance function (gvf) constant parameters
+(identified as "a," "b," and "c") were developed for use in 
+calculating standard errors. The parameters provide an 
+indication of the order of magnitude of the standard errors 
+rather than the precise standard error for any specific item. 
+For each year, there are four sets of parameters for use
+with a different sets of estimates, as described below. (Also
+see spreadsheet at:
+http://www.ojp.usdoj.gov/bjs/pub/sheets/cvus/2005/cv05mpar.csv, 
+for values).
+
+For year-to-year comparisons, an additional parameter, (rho) 
+is used to account for year-to-year correlation.
+
+Year-to-Year Correlation Between Estimates
+
+Because of the year-to-year overlap in the sample, the same
+households and persons contribute to annual estimates for 
+different years. This year-to-year correlation between 
+estimates is measured by rho. In general:
+
+If estimates are uncorrelated, rho = 0. Hence, omitting the 
+term containing rho in the formula will provide an accurate 
+standard error for the difference between uncorrelated 
+estimates. On the other hand, if the two estimates have
+a strong positive correlation, omitting the last term will 
+cause overestimation of the true standard error. (Also see 
+spreadsheet at: http://www.ojp.usdoj.gov/bjs/pub/sheets/cvus/
+2005/cv05myy.csv, for values).
+
+Parameter set #1 is used for the overall person crime 
+estimates. These are the person crime estimates by crime 
+category for the whole population, not disaggregated by any 
+victim, offender, or incident characteristics, nor any
+variable related to reporting to police.
+
+Parameter set #2 is used for the person crime domain estimates.  
+These are the person crime estimates disaggregated by victim, 
+offender, or incident characteristics, or any variable related 
+to reporting to police.
+
+Parameter set #3 is used for the property crime estimates for 
+the whole population. These are the property crime estimates 
+by crime category for the whole population, not disaggregated 
+by any household characteristics, nor any variable related to 
+reporting to police.
+
+Parameter set #4 is used for the property crime domain 
+estimates. These are the property crime estimates 
+disaggregated by household characteristics, or any variable 
+related to reporting to police.
+
+For the statistic from Table 1 that corresponds to the crime 
+category "all crimes" (i.e., person and property crimes 
+together), parameter set #3 should be used.  When the person 
+and property estimates are combined (i.e., all crimes) and 
+disaggregated by victim, household, incident characteristics, 
+as well as any variable related to reporting to police, 
+parameter set #4 should be used for the best estimate of the 
+corresponding variance.  
+
+Direct variances were calculated using the balanced repeated 
+replication (BRR)method. The estimates and their corresponding 
+variances were fit to the standard 3parameter model to obtain 
+the value of the parameters.
+
+The following examples explain the procedures based upon the 
+2005 data. The formulas used to calculate the variances are 
+available in accompanying spreadsheets, Sigma 1 (See 
+spreadsheet at: http://www.ojp.usdoj.gov/bjs/pub/sheets/cvus/
+2005/cv05msig1.xls, for values) and Sigma 2 (See spreadsheet 
+at: http://www.ojp.usdoj.gov/bjs/pub/sheets/cvus/2005/
+cv05msig2.xls, for values). For each example, a spreadsheet 
+using the formulas is also provided. 
+
+Example 1. See spreadsheet at:
+http://www.ojp.usdoj.gov/bjs/pub/sheets/cvus/2005/cv05mex1.
+xls, for values. This example shows how to calculate a 
+confidence interval around the count of a personal crime, 
+the number of completed robberies in 2005. It uses
+parameter set #1 because the crime is not disaggregated by 
+any characteristics such as age or race. The Sigma 1 
+spreadsheet was used to calculate confidence intervals 
+around the counts. 
+
+The example from Table 1 in 2005 shows 415,320 completed 
+robberies. The confidence intervals were calculated by 
+entering the appropriate data into the Sigma 1 spreadsheet. 
+Using the parameters for overall person crime estimates
+(Parameter set #1), the following values were entered:
+
+   "a" parameter = -0.00018335
+   "b" parameter =  3,946
+   "c" parameter =  2.615
+ 
+The population base of 415,320 completed robberies was also 
+entered.  
+
+The results show that the 95% confidence interval around the 
+estimated number of robbery victimizations is about equal to 
+415,320 plus or minus twice (1.96) the standard error, or 
+plus or minus 94,144: a confidence interval of 321,176 to 
+509,464.
+
+Example 2. See spreadsheet at:
+http://www.ojp.usdoj.gov/bjs/pub/sheets/cvus/2005/cv05mex2.
+xls, for values. This example shows how to calculate a 
+confidence interval around a rate for a personal crime by 
+a particular variable, the rate of robberies for persons age
+20 through 24 in 2005. It uses parameter set #2 because the 
+crime is disaggregated by the characteristic of age. The
+Sigma 2 spreadsheet was used to calculate confidence 
+intervals around the rates.
+
+The example from Table 3 in 2005 shows a robbery rate of 5.5 
+per 1,000 persons age 20 through 24. The confidence intervals 
+were calculated by entering the appropriate data into the 
+Sigma 2 spreadsheet. Using the parameters for person domain 
+estimates (Parameter set #2), the following values were 
+entered:
+
+      "b" parameter = 4,074
+      "c" parameter = 3.137
+
+The population base of 20,363,570 age 20 through 24 and the 
+rate of 5.5 for robberies per 1,000 persons age 20 through 
+24 were also entered.  
+
+The results show that the 95% confidence interval around the 
+estimated rate of robbery victimizations for persons age 20 
+through 24 is equal to 5.5 plus or minus twice (1.96) the 
+standard error, or plus or minor 2.3: a confidence interval 
+of 3.2  to 7.8 per 1,000 persons age 20 through 24.  
+
+Example 3. See spreadsheet at:
+http://www.ojp.usdoj.gov/bjs/pub/sheets/cvus/2005/cv05mex3.xls, 
+for values. This example shows how to determine if the 
+differences between two rates or percentages are statistically 
+significant. This example compares the rates for males and 
+females for aggravated assault. It uses parameter set #2 
+because the crime is disaggregated by the characteristic of 
+gender. The Sigma 2 spreadsheet was used to determine if the 
+differences in rates were statistically significant.
+
+The example from Table 2 in 2005 shows an aggravated assault 
+rate of 5.6 per 1,000 males (age 12 or older) and 3.1 per 
+1,000 females (age 12 or older). Using the parameters for 
+person domain estimates (Parameter set #2), the following 
+values were entered:
+
+       "b" parameter = 4,074
+       "c" parameter = 3.137
+
+For males (the first line for set #1), the population base of 
+118,937,730 males and the rate of 5.6 aggravated assaults per 
+1,000 males were entered. For females (the second line for set 
+#2), the population base of 125,555,710 females and the rate 
+of 3.1 aggravated assaults per 1,000 females were also entered.  
+
+The results show that by comparing set #1 with set #2, the 
+differences between males and females for aggravated assault 
+in 2005 is statistically significant. 
+
+The spreadsheet shows the ratio of a difference to the standard 
+error or the "z" score, which is associated with a given 
+statistical level of significance. A ratio with an absolute 
+value of 1.96 or greater indicates that the difference is 
+significant at the 95% confidence level (or greater); a ratio
+with a absolute value between 1.65 and 1.96 indicates the 
+difference is significant at a confidence level between 90% 
+and 95%; a ratio with an absolute value less than 1.65 denotes 
+a confidence level less than 90%. As indicated on the 
+spreadsheet, the ratio of the difference (.0025) to the 
+standard error (.00067) is 3.7. Thus, the spreadsheet 
+indicates that the differences between the rates for 
+aggravated assault for males and females was statistically 
+significant at greater than the 95% confidence level.  
+
+In BJS reports, findings are normally significant at the 95% 
+confidence level. If the finding is significant at the 90% 
+confidence level, words such as "some evidence" are used. The 
+standards used are explained in the methodology section of 
+each report.   
+
+Criminal Victimization Glossary
+
+Age - The appropriate age category is determined by the 
+respondent's age on the last day of the month before the 
+interview. 
+
+Annual household income - The total income of the household 
+head and all members of the household for the 12 months 
+preceding the interview. Includes wages, salaries, net income 
+from businesses or farms, pensions, interest, dividends, rent, 
+and any other form of monetary income. 
+
+Aggravated assault - Attack or attempted attack with a weapon, 
+regardless of whether or not an injury occurred and attack 
+without a weapon when serious injury results. 
+
+With injury - An attack without a weapon when serious injury 
+results or an attack with a weapon involving any injury. 
+Serious injury includes broken bones, lost teeth, internal 
+injuries, loss of consciousness, and any unspecified injury 
+requiring two or more days of hospitalization. 
+
+Threatened with a weapon - Threat or attempted attack by an 
+offender armed with a gun, knife, or other object used as a 
+weapon, not resulting in victim injury.
+ 
+Assault - An unlawful physical attack or threat of attack. 
+Assaults may be classified as aggravated or simple. Rape, 
+attempted rape, and sexual assaults are excluded from this 
+category, as well as robbery and attempted robbery. The
+severity of assaults ranges from minor threat to incidents 
+which are nearly fatal. 
+
+Burglary ( also Household burglary) - Unlawful or forcible 
+entry or attempted entry of a residence. This crime usually, 
+but not always, involves theft. The illegal entry may be by 
+force, such as breaking a window or slashing a screen, or 
+may be without force by entering through an unlocked door 
+or an open window. As long as the person entering has no 
+legal right to be present in the structure a burglary has 
+occurred. Furthermore, the structure need not be the
+house itself for a burglary to take place; illegal entry of 
+a garage, shed, or any other structure on the premises also 
+constitutes household burglary. If breaking and entering 
+occurs in a hotel or vacation residence, it is still
+classified as a burglary for the household whose member or 
+members were staying there at the time the entry occurred. 
+
+Completed burglary - A form of burglary in which a person 
+who has no legal right to be present in the structure 
+successfully gains entry to a residence, by use of force, 
+or without force.
+  
+Forcible entry - A form of completed burglary in which 
+force is used to gain entry to a residence. Some examples 
+include breaking a window or slashing a screen.
+ 
+Unlawful entry without force - A form of completed burglary 
+committed by someone having no legal right to be on the 
+premises, even though no force is used. 
+
+Attempted forcible entry - A form of burglary in which force 
+is used in an attempt to gain entry.
+
+Collection year - The set of victimizations reported to NCVS 
+in interviews conducted during the same calendar year. This 
+set may include victimizations which occurred in the previous 
+calendar year, due to the retrospective nature of the NCVS 
+interview. Collection year data are used in tables beginning 
+in 1996.  See "Data year."
+
+Commercial crimes - Crimes against commercial establishments 
+of any type are not included in the survey. Commercial 
+establishments include stores, restaurants, businesses, 
+service stations, medical offices or hospitals, or other 
+similar establishments. For victimizations occurring in 
+commercial establishments, the crime is included or not 
+included depending upon whether the survey respondent was 
+threatened or harmed in some way or personal property was 
+taken.
+
+Crime classification - Victimizations and incidents are 
+classified based upon detailed characteristics of the event 
+provided by the respondent. Neither victims nor interviewers 
+classify crimes at the time of interview. During data
+processing, a computer program classifies each event into one 
+type of crime, based upon the entries on a number of items on 
+the survey questionnaire. This ensures that similar events 
+will be classified using a standard procedure. The glossary 
+definition for each crime indicates the major characteristics
+required to be so classified. If an event can be classified 
+as more than one type of crime, a hierarchy is used which 
+classifies the crime according to the most serious event that 
+occurred. The hierarchy is: rape, sexual assault, robbery, 
+assault, burglary, motor vehicle theft, theft.
+ 
+Data year - The set of victimizations reported to NCVS all of 
+which occurred within the same calendar year. For all years 
+prior to 1996, Criminal Victimization in the United States 
+tables are based upon data year. Beginning in 1996 and later 
+years, tables are based upon collection year. See "Collection 
+Year."
+
+Ethnicity - A classification based on Hispanic culture and 
+origin, regardless of race.  Persons are asked directly if 
+they are Spanish, Hispanic, or Latino before being asked 
+about their racial category.
+
+Head of household - A classification which defines one and only 
+one person in each housing unit as the head. Head of household 
+implies that the person rents or owns (or is in the process of 
+buying), the housing unit. The head of household must be at 
+least 18, unless all members of the household are under 18, or 
+the head is married to someone 18 or older. 
+
+Hispanic - A person who describes himself as Mexican-American, 
+Chicano, Mexican, Mexicano, Puerto Rican, Cuban, Central 
+American, South American, or from some other Spanish culture 
+or origin, regardless of race. 
+
+Household - A person or group of people meeting either of the 
+following criteria: (1) people whose usual place of residence 
+is the same housing unit, even if they are temporarily absent: 
+(2) people staying in a housing unit who have no usual place 
+of residence elsewhere. 
+
+Household Burglary - See burglary.
+
+Incident - A specific criminal act involving one or more 
+victims and offenders. For example, if two people are robbed 
+at the same time and place, this is classified as two robbery 
+victimizations but only one robbery incident. 
+
+Marital status - Every person is assigned to one of the 
+following classifications: (1) married, which includes 
+persons in common-law unions and those who are currently 
+living apart for reasons other than marital discord 
+(employment, military service, etc.); (2) separated or 
+divorced, which includes married persons who are legally 
+separated and those who are not living together because of 
+marital discord; (3) widowed; and (4) never married, which 
+includes persons whose marriages have been annulled and 
+those who are living together and not in a common-law union.
+ 
+Metropolitan area - See "Metropolitan Statistical Area." 
+
+Metropolitan Statistical Area (MSA) - The Office of Management 
+and Budget (OMB) defines this as a population nucleus of 
+50,000 or more, generally consisting of a city and its 
+immediate suburbs, along with adjacent communities having a 
+high degree of economic and social integration with the
+nucleus. MSA's are designated by counties, the smallest 
+geographic units for which a wide range of statistical data 
+can be attained. However, in New England, MSA's are designated 
+by cities and towns since these subcounty units are of great 
+local significance and considerable data is available for 
+them. Currently, an area is defined as an MSA if it meets 
+one of two standards: 
+ 
+(1) A city has a population of at least 50,000; (2) the Census 
+Bureau defines an urbanized area of at least 50,000 people 
+with a total metropolitan population of at least 100,000 (or 
+75,000 in New England). The Census Bureau's definition of 
+urbanized areas, data on commuting to work, and the strength 
+of the economic and social ties between the surrounding 
+counties and the central city determine which counties not 
+containing a main city are included in an MSA. For New England, 
+MSA's are determined by a core area and related cities and 
+towns, not counties. A metropolitan statistical area may 
+contain more than one city of 50,000 and may cross State lines. 
+
+Motor vehicle - An automobile, truck, motorcycle, or any other 
+motorized vehicle legally allowed on public roads and highways.
+ 
+Motor vehicle theft - Stealing or unauthorized taking of a 
+motor vehicle, including attempted thefts.
+ 
+Completed motor vehicle theft - The successful taking of a 
+vehicle by an unauthorized person.
+
+Attempted motor vehicle theft - The unsuccessful attempt by 
+an unauthorized person to take a vehicle.
+ 
+Multiple offenders - Two or more persons inflicting some 
+direct harm to a victim. The victim-offender relationship is 
+determined by the offender with the closest relationship to 
+the victim. The following list ranks the different relationships 
+from closest to most distant: spouse, exspouse, parent, child, 
+other relative, nonrelative wellknown person, casual 
+acquaintance, or stranger (See Nonstranger and Stranger). 
+
+Non-Hispanic - Persons who report their culture or origin as 
+something other than "Hispanic" as defined above. This 
+distinction is made regardless of race. 
+
+Non-stranger - A classification of a crime victim's 
+relationship to the offender. An offender who is either 
+related to, well known to, or casually acquainted with the 
+victim is a nonstranger. For crimes with more than one
+offender, if any of the offenders are nonstrangers, then the 
+group of offenders as a whole is classified as nonstranger. 
+This category only applies to crimes which involve contact 
+between the victim and the offender; the distinction is not 
+made for crimes of theft since victims of this offense rarely 
+see the offenders. 
+
+Offender - The perpetrator of a crime; this term usually 
+applies to crimes involving contact between the victim and 
+the offender. 
+
+Offense - A crime. When referring to personal crimes, the term 
+can be used to refer to both victimizations and incidents.
+ 
+Personal crimes - Rape, sexual assault, personal robbery, 
+assault, purse snatching and pocket picking. This category 
+includes both attempted and completed crimes.  
+
+Place of occurrence of crime - The location at which a crime 
+occurred, as specified by the victim. Survey measures of 
+crimes occurring in commercial establishments, restaurants, 
+nightclubs, public transportation and other similar places 
+include only those crimes involving NCVS measured crimes
+against persons, not the establishments. Crimes against 
+commercial establishments and other places are not measured 
+by the survey.
+ 
+Property crimes - Property crimes including burglary, motor 
+vehicle theft, or theft. This category includes both attempted 
+and completed crimes.
+ 
+Purse snatching/Pocket picking - Theft or attempted theft of 
+property or cash directly from the victim by stealth, without 
+force or threat of force. 
+
+Race - For this survey respondents self identify with one or 
+more racial categories. Racial categories for this report are 
+white only, black only, and other race only. The "other" 
+category is composed of Asian Pacific Islanders, and American 
+Indians, Aleuts, and Eskimos, if only one of these races is
+given. Persons reporting two or more races are included in 
+the category of "more than one race".  The race of the head 
+of household is use for computing household crime demographics. 
+
+Rape - Forced sexual intercourse including both psychological 
+coercion as well as physical force. Forced sexual intercourse 
+means vaginal, anal or oral penetration by the offender(s). 
+This category also includes incidents where the penetration is 
+from a foreign object such as a bottle. Includes attempted
+rapes, male as well as female victims and both heterosexual 
+and homosexual rape. Attempted rape includes verbal threats 
+of rape. 
+
+Rate of victimization - see "Victimization rate." 
+
+Region - The States have been divided into four groups or 
+census regions: 
+
+Midwest - Includes the 12 States of Illinois, Indiana, Iowa, 
+Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, 
+Ohio, South Dakota, and Wisconsin. 
+
+Northeast - Includes the 9 states of Connecticut, Maine, 
+Massachusetts, New Hampshire, New Jersey, New York, 
+Pennsylvania, Rhode Island, and Vermont. 
+
+South - Includes the District of Columbia and the 16 States 
+of Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, 
+Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, 
+South Carolina, Tennessee, Texas, Virginia, and West 
+Virginia. 
+
+West - Includes the 13 states of Alaska, Arizona, California, 
+Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, 
+Utah, Washington, and Wyoming.
+ 
+Robbery - Completed or attempted theft, directly from a person, 
+of property or cash by force or threat of force, with or 
+without a weapon, and with or without injury.
+  
+Completed/property taken - The successful taking of property 
+from a person by force or threat of force, with or without a 
+weapon, and with or without injury. 
+
+Completed with injury - The successful taking of property 
+from a person, accompanied by an attack, either with or 
+without a weapon, resulting in injury. 
+
+Completed without injury - The successful taking of property 
+from a person by force or the threat of force, either with or 
+without a weapon, but not resulting in injury.
+ 
+Attempted to take property - The attempt to take property from 
+a person by force or threat of force without success, with or 
+without a weapon, and with or without injury. 
+
+Attempted without injury - The attempt to take property from a 
+person by force or the threat of force without success, either 
+with or without a weapon, but not resulting in injury.
+ 
+Attempted with injury - The attempt to take property from a 
+person without success, accompanied by an attack, either with 
+or without a weapon, resulting in injury. 
+
+Rural area - A place not located inside the Metropolitan 
+Statistical Area. This category includes a variety of 
+localities, ranging from sparsely populated rural areas to 
+cities with populations less than 50,000. 
+
+Sample - The set of housing units selected by the U. S. Census 
+Bureau to be interviewed for the survey. All occupants of 
+the household age 12 or older are interviewed. See 
+methodology for sample inclusions and exclusions. 
+
+Series - Six or more similar but separate events, which the 
+respondent is unable to describe separately in detail to an 
+interviewer.
+
+Sexual assault - A wide range of victimizations, separate 
+from rape or attempted rape. These crimes include attacks or 
+attempted attacks generally involving unwanted sexual contact 
+between victim and offender. Sexual assaults may or may not 
+involve force and include such things as grabbing or fondling.
+Sexual assault also includes verbal threats. 
+
+Simple assault - Attack without a weapon resulting either in 
+no injury, minor injury (for example, bruises, black eyes, 
+cuts, scratches or swelling) or in undetermined injury 
+requiring less than 2 days of hospitalization. Also includes 
+attempted assault without a weapon. 
+
+With minor injury - An attack without a weapon resulting in 
+such injuries as bruises, black eyes, cuts or in undetermined 
+injury requiring less than 2 days of hospitalization. 
+
+Without injury - An attempted assault without a weapon not 
+resulting in injury.
+ 
+Stranger - A classification of the victim's relationship to 
+the offender for crimes involving direct contact between the 
+two. Incidents are classified as involving strangers if the 
+victim identifies the offender as a stranger, did not see or 
+recognize the offender, or knew the offender only by sight. 
+Crimes involving multiple offenders are classified as 
+involving nonstrangers if any of the offenders was a 
+nonstranger. Since victims of theft without contact rarely 
+see the offender, no distinction is made between strangers 
+and nonstrangers for this crime. 
+
+Suburban areas - A county or counties containing a central 
+city, plus any contiguous counties that are linked socially 
+and economically to the central city. On data tables, 
+suburban areas are categorized as those portions of
+metropolitan areas situated "outside central cities." 
+
+Tenure - The NCVS recognizes two forms of household tenancy: 
+(1) owned, which includes dwellings that are mortgaged, and 
+(2) rented, which includes rentfree quarters belonging to a 
+party other than the occupants, and situations where rental 
+payments are in kind or services. 
+
+Theft - Completed or attempted theft of property or cash 
+without personal contact. Incidents involving theft of 
+property from within the sample household would classify as 
+theft if the offender has a legal right to be in the house 
+(such as a maid, delivery person, or guest). If the offender 
+has no legal right to be in the house, the incident would 
+classify as a burglary. 
+
+Completed - To successfully take without permission property 
+or cash without personal contact between the victim and 
+offender.  
+
+Attempted - To unsuccessfully attempt to take property or 
+cash without personal contact.
+ 
+Urban areas - The largest city (or grouping of cities) in a 
+Metropolitan Statistical Area (see definition of 
+Metropolitan Statistical Area). 
+
+Victim - The recipient of a criminal act, usually used in 
+relation to personal crimes, but also applicable to 
+households. 
+
+Victimization - A crime as it affects one individual person 
+or household. For personal crimes, the number of 
+victimizations is equal to the number of victims involved. 
+The number of victimizations may be greater than the number 
+of incidents because more than one person may be victimized 
+during an incident. Each crime against a household is assumed 
+to involve a single victim, the affected household.
+ 
+Victimization rate - A measure of the occurrence of 
+victimizations among a specified population group. 
+
+For personal crimes, this is based on the number of 
+victimizations per 1,000 residents age 12 or older. For 
+household crimes, the victimization rates are calculated 
+using the number of incidents per 1,000 households. 
+
+Victimize - To commit a crime against a person or household.
+
+Violence, crimes of - Rape, sexual assault, personal robbery 
+or assault. This category includes both attempted and 
+completed crimes. It does not include purse snatching and 
+pocket picking. Murder is not measured by the NCVS because
+of an inability to question the victim. 
+
+Completed violence - The sum of all completed rapes, sexual 
+assaults, robberies, and assaults. See individual crime 
+types for definition of completed crimes. 
+
+Attempted/threatened violence - The unsuccessful attempt of 
+rape, sexual assault, personal robbery or assault. Includes 
+attempted attacks or sexual assaults by means of verbal 
+threats. See individual crime types for definition of 
+attempted crimes. 
+
+
+End of file
+12/06/06 ih
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+

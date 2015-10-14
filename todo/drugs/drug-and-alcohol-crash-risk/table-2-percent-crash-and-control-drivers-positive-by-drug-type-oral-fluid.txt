@@ -1,0 +1,5 @@
+Drug Category	Crash N	Crash %	Control N	Control %	P Value
+Illegal	322	10.4%	546	8.8%	0.01
+Legal	173	5.6%	343	5.5%	0.92
+Negative	2,600	84.0%	5,301	85.6%	0.04
+All	3,095	100.0%	6,190	100.0%

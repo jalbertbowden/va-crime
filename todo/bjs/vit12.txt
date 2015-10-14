@@ -1,0 +1,878 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+----------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4821
+
+This report is one in a series. More recent editions may be
+available. To view a list of all in the series go to
+http://bjs.gov/index.cfm?ty=pbse&sid=60
+---------------------------------------------------------
+
+***************
+Bulletin
+***************
+
+Victims of Identity Theft, 2012
+
+Erika Harrell, Ph.D. and Lynn Langton, Ph.D.,                            
+BJS Statisticians
+
+Approximately 16.6 million persons or 7% of all U.S. 
+residents age 16 or older, were victims of one or more 
+incidents of identity theft on 2012 (figure 1). Among 
+identity theft victims, existing bank (37%) or credit card 
+accounts (40%) were the most common types of misused 
+information.
+
+This report uses data from the 2012 Identity Theft 
+Supplement (ITS) to the National Crime Victimization Survey 
+(NCVS). From January to June 2012, the ITS collected data 
+from persons who experienced one or more attempted or 
+successful incidents of identity theft during the 12 months 
+preceding their interview.
+
+Identity theft victims are defined as persons age 16 or 
+older who experienced one or more of the following 
+incidents:
+
+* unauthorized use or attempted use of an existing account, 
+such as a credit or debit card, checking, savings, 
+telephone, online, or insurance account (referred to as 
+fraud or misuse of an existing account).
+
+* unauthorized use or attempted use of personal information 
+to open a new account, such as a credit or debit card, 
+telephone, checking, savings, loan, or mortgage account 
+(referred to as fraud or misuse of a new account).
+* misuse of personal information for a fraudulent purpose, 
+such as getting medical care, a job, or government benefits; 
+renting an apartment or house; or providing false 
+information to law enforcement when charged with a crime or 
+traffic violation (referred to as fraud or misuse of 
+personal information).
+
+****************************************************
+
+***********
+Highlights
+**********
+
+* The purpose of this report is to describe the prevalence 
+of identity theft, its victims, and the characteristics and 
+effects of this crime. The 2012 Identity Theft Supplement 
+(ITS) of the National Crime Victimization Survey (NCVS) 
+provided the data for this report. 
+
+* About 7% of persons age 16 or older were victims of 
+identity theft in 2012.
+ 
+* The majority of identity theft incidents (85%) involved 
+the fraudulent use of existing account information, such as 
+credit card or bank account information.
+
+* Victims who had personal information used to open a new 
+account or for other fraudulent purposes were more likely 
+than victims of existing account fraud to experience 
+financial, credit, and relationship problems and severe 
+emotional distress.
+
+* About 14% of identity theft victims experienced out-of-
+pocket losses of $1 or more. Of these victims, about half 
+suffered losses of less than $100.
+
+* Over half of identity theft victims who were able to 
+resolve any associated problems did so in a day or less. 
+
+* About 36% of identity theft victims reported moderate or 
+severe emotional distress as a result of the incident.
+
+* Direct and indirect losses from identity theft totaled 
+$24.7 billion in 2012.
+
+* Fourteen percent of persons age 16 or older have 
+experienced identity theft during their lives.
+********************************************************
+
+This report details the number, percentage, and demographic 
+characteristics of victims who reported one or more 
+incidents of identity theft during a 12-month period. It 
+focuses on the most recent incident experienced to describe 
+victim characteristics and victim responses to identity 
+theft. It describes how the victim discovered the crime; 
+financial losses and other consequences of identity theft, 
+including the amount of time victims spent resolving 
+associated problems; reporting of the incident to credit 
+card companies, credit bureaus, and law enforcement 
+agencies; and the level of distress identity theft victims 
+experienced.
+
+*********************************************
+For 85% of identity theft victims, 
+the most recent incident involved 
+he unauthorized use of an existing account 
+*********************************************
+
+In 2012, the unauthorized misuse or attempted misuse of an 
+existing account was the most common type of identity theft, 
+experienced by 15.3 million persons age 16 or older (6% of 
+all persons) (table 1). The majority of victims experienced 
+the fraudulent use of their credit cards (7.7 million or 3% 
+of all persons) or bank accounts (7.5 million or 3% of all 
+persons). Another 1.7 million victims (0.7% of all persons) 
+experienced other types of existing account theft, such as 
+misuse or attempted misuse of an existing telephone, online, 
+or insurance account.
+
+An estimated 1.1 million victims (less than 1% of all 
+persons) reported the fraudulent misuse of their information 
+to open a new account, such as a credit card. Another 
+833,600 victims reported the misuse of their personal 
+information for other fraudulent purposes.
+
+During the most recent identity theft incident in 2012, 8% 
+of 1.2 million victims experienced multiple types of 
+identity theft during a single incident. For 66% of victims 
+of multiple types of identity theft, the incident involved 
+the unauthorized use of a combination of existing accounts, 
+such as credit card, checking, savings, telephone, or online 
+accounts. The remaining 34% who experienced multiple types 
+of identity theft during a single incident (less than 3% of 
+all victims) reported some combination of misuse of an 
+existing account, misuse of personal information to open a 
+new account, and personal information used for other 
+fraudulent purposes. 
+
+*********************************************
+Persons in households with higher annual 
+incomes were more likely to experience 
+identity theft than persons in lower-income 
+households 
+*********************************************
+
+A similar percentage of males and females (7%) experienced 
+identity theft in 2012 (table 2). Across all types of 
+identity theft, prevalence rates did not vary significantly 
+by sex. After accounting for whether a person owned a credit 
+card and bank account, prevalence rates for existing credit 
+card and existing banking account misuse did not vary by 
+sex. 
+
+Persons ages 16 to 17 (less than 1%) were the least likely 
+to experience identity theft, followed by persons ages 18 to 
+24 (5%) and 65 or older (5%). After accounting for credit 
+card ownership, persons ages 16 to 24 were the least likely 
+to experience the misuse of an existing account, while 
+persons age 65 or older had a similar prevalence rate as 
+persons ages 25 to 34. Among those who had a bank account, 
+persons ages 16 to 17 and 65 or older were the least likely 
+to experience banking account fraud.
+
+A greater percentage of white non-Hispanics (7%) experienced 
+identity theft in 2012 than black non-Hispanics (5%) and 
+Hispanics (5%). This relationship also held true for the 
+misuse of an existing credit card account among persons who 
+had a credit card. However, among persons who had a bank 
+account, there were no significant differences in the 
+prevalence of bank account misuse among whites, blacks, and 
+Hispanics. 
+
+Overall, persons in the highest income category (those with 
+an annual household income of $75,000 or more) had a higher 
+prevalence of identity theft than persons in other income 
+brackets. After accounting for credit card ownership, 
+persons in the highest income bracket had the highest rate 
+of existing credit card account misuse. Among persons who 
+had a bank account, there were no significant differences in 
+the prevalence of identity theft across income categories, 
+with the exception of the unknown category.
+
+*********************************************
+The most common way victims discovered the 
+identity theft was from contact by a 
+financial institution about a problem 
+*********************************************
+
+The way victims discovered that their identifying 
+information was misused varied by the type of identity 
+theft. Among victims who experienced the unauthorized use of 
+an existing account, 45% discovered the identity theft when 
+a financial institution contacted them about suspicious 
+activity on their account (figure 2). In comparison, 15% of 
+victims who experienced the misuse of personal information 
+to open a new account or for other fraudulent purposes 
+discovered the incident when a financial institution 
+contacted them. Victims of these other types of identity 
+theft were more likely than victims of existing account 
+misuse to discover the incident when another type of company 
+or agency contacted them (21%) or after they received an 
+unpaid bill (13%). Twenty percent of victims of existing 
+account misuse discovered the incident because of fraudulent 
+charges on their account, compared to 8% of victims of other 
+types of identity theft.
+ 
+*********************************************
+The majority of identity theft victims did 
+not know how the offender obtained their 
+information
+*********************************************
+
+About 32% of identity theft victims knew how the offender 
+obtained their information (figure 3). Victims who 
+experienced multiple types of identity theft during a single 
+incident (47%) were among the most likely victims to know 
+how the offender obtained the information. Victims who had 
+an existing credit card account misused (24%) were among the 
+least likely to know how the offender obtained the account 
+information. Of the 5.3 million victims who knew how the 
+identity theft occurred, the most common way offenders 
+obtained information (43%) was to steal it during a purchase 
+or other transaction (not shown).
+
+*********************************************
+9 in 10 identity theft victims did not know 
+anything about the offender
+*********************************************
+
+Overall, most identity theft victims (91%) in 2012 did not 
+know anything about the identity of the offender (table 3). 
+However, the percentage of victims who knew something about 
+offender varied depending on the type of identity theft. 
+Victims who had personal information used to open a new 
+account (25%) or for other fraudulent purposes (23%) were 
+more likely than victims of existing account misuse (7%) to 
+know something about the offender. Across all types of 
+identity theft, victims who experienced the misuse of an 
+existing credit card (3%) were the least likely to know 
+something about the offender.
+
+*********************************************
+Two-thirds of identity theft victims reported 
+a direct financial loss 
+*********************************************
+
+The economic impact of identity theft is comprised of direct 
+and indirect financial loss. Direct financial loss, the 
+majority of the total loss associated with identity theft, 
+refers to the monetary amount the offender obtained from 
+misusing the victim’s account or personal information, 
+including the estimated value of goods, services, or cash 
+obtained. Indirect loss includes any other costs caused by 
+the identity theft, such as legal fees, bounced checks, and 
+other miscellaneous expenses (e.g., postage, phone calls, or 
+notary fees).
+
+In 2012, 68% of identity theft victims reported a combined 
+direct and indirect financial loss associated with the most 
+recent incident (appendix table 8). Overall, victims who 
+experienced a direct and indirect financial loss of at least 
+$1 lost an average of $1,769 with a median loss of $300.
+The amount of financial loss varied by the type of identity 
+theft. Approximately 69% of credit card fraud, 74% of bank 
+fraud, 46% of new account fraud, and 38% of personal 
+information fraud victims experienced a financial loss 
+during the past 12 months. Of those victims who experienced 
+multiple types of identity theft, 69% reported a financial 
+loss.
+
+In 2012, 66% of the 16.6 million victims of identity theft 
+reported a direct financial loss as a result of the identity 
+theft incident. About 68% of credit card fraud victims, 74% 
+of bank fraud victims, 42% of new account fraud victims, and 
+32% of personal information fraud victims reported that the 
+offender obtained money, goods, or services. Of those 
+victims who experienced multiple types of identity theft, 
+67% reported a direct financial loss associated with the 
+incident. 
+
+Of those who reported a direct financial loss, victims who 
+experienced the misuse of their personal information 
+reported a mean direct loss of $9,650 and a median direct 
+loss of $1,900. Victims of new account fraud incurred an 
+average loss per incident of $7,135 and a median loss of 
+$600. Victims of multiple types of fraud reported an average 
+direct loss of $2,140 with a median direct loss of $400, 
+while victims of existing account misuse had an average loss 
+of $1,003 per incident with a median direct loss of $200. 
+
+In addition to any direct financial loss, 6% of all identity 
+theft victims reported indirect losses associated with the 
+most recent incident of identity theft. Victims who suffered 
+an indirect loss of at least $1 reported an average indirect 
+loss of $4,168, with a median of $30. With the exception of 
+victims of personal information fraud, identity theft 
+victims who reported indirect financial loss had a median 
+indirect loss of $100 or less. 
+
+*********************************************
+Direct and indirect identity theft losses 
+totaled $24.7 billion in 2012
+*********************************************
+
+Identity theft victims reported a total of $24.7 billion in 
+direct and indirect losses attributed to all incidents of 
+identity theft experienced in 2012 (table 4).***Footnote 2 
+2For victims who experienced multiple incidents of identity 
+theft, the total includes losses from all incidents 
+experienced during the past 12 months.*** These losses 
+exceeded the $14 billion victims lost from all other 
+property crimes (burglary, motor vehicle theft, and theft) 
+measured by the National Crime Victimization Survey in 2012. 
+Identity theft losses were over 4 times greater than losses 
+due to stolen money and property in burglaries ($5.2 
+billion) and theft ($5.7 billion), and eight times the total 
+losses associated with motor vehicle theft ($3.1 billion).
+
+*********************************************
+In 2012, 14% of identity theft victims suffered 
+an out-of-pocket financial loss
+*********************************************
+
+In some instances, a company (e.g., credit card or insurance 
+company) may reimburse some or all of the financial loss, 
+reducing or eliminating the out-of-pocket losses for 
+victims. At the time of the interview, 14% of victims of 
+identity theft had experienced personal out-of-pocket 
+financial losses of $1 or more. Of these victims who 
+suffered an out-of-pocket financial loss, 49% had total 
+losses of $99 or less (figure 4). About 18% of victims 
+reported out-of-pocket expenses of $100 to $249. An 
+additional 16% of identity theft victims reported that out-
+of-pocket expenses of $1,000 or more.
+
+*********************************************
+Victims of identity theft who experienced 
+existing account misuse were the least likely 
+to have credit-related problems
+*********************************************
+ 
+In addition to suffering monetary losses, some identity 
+theft victims experienced other financial and legal 
+problems. They paid higher interest rates on credit cards, 
+they were turned down for loans or other credit, their 
+utilities were turned off, or they were the subject of 
+criminal proceedings. Victims who experienced the misuse of 
+an existing account were generally less likely to experience 
+financial and legal problems as a result of the incident 
+than victims who had other personal information misused. In 
+2012, 2% of victims of existing account misuse experienced 
+problems with debt collectors, compared to 17% of victims 
+who had personal information misused (figure 5). Two percent 
+of victims of existing account misuse experienced credit-
+related problems (e.g., higher interest rates or repeatedly 
+having to correct information on a credit report), compared 
+to 12% of victims of other types of identity theft. Less 
+than 1% of victims of existing account misuse and 3% of 
+victims of other types of identity theft had utilities cut 
+off or service denied, legal problems (e.g., being 
+arrested), or other problems (e.g., income tax issues).
+
+*********************************************
+ Identity theft victims were less likely than 
+violent crime victims to have significant 
+school, work, or relationship problems as 
+a result of the crime
+*********************************************
+
+The 2012 NCVS asked victims of violent crime (including rape 
+or sexual assault, robbery, aggravated assault, and simple 
+assault) about the impact of the victimization on work, 
+school, and personal relationships, and the amount of 
+emotional distress it caused. Compared to violent crime 
+victims surveyed in 2012, a lower percentage of identity 
+theft victims reported significant problems at work or 
+school or with family members or friends due to the incident 
+(figure 6). About 1% of identity theft victims reported 
+significant problems at work or school, compared to 12% of 
+violent crime victims. Similarly, 4% of identity theft 
+victims reported significant problems with family members or 
+friends, compared to 19% of violent crime victims.
+ 
+The percentage of identity theft victims who reported 
+significant problems at work or school as a result of the 
+incident varied by type of identity theft. About 6% of 
+victims who had personal information used to open a new 
+account reported significant problems at work or school, 
+compared to about 1% of victims of existing credit card and 
+bank account misuse (appendix table 11). The largest 
+percentage of identity theft victims who had significant 
+problems with family or friends had their personal 
+information used to create new accounts (10%) or for other 
+fraudulent purposes (10%).
+
+Identity theft victims (10%) were also less likely than 
+violent crime victims (27%) to report that the victimization 
+was severely distressing (figure 7). However, the level of 
+emotional distress varied by type of identity theft. Thirty-
+two percent of victims of personal information fraud 
+reported that they found the incident severely distressing, 
+compared to 5% of credit card fraud victims. Twenty-two 
+percent of victims of new account fraud reported that the 
+crime was severely distressing.
+
+*********************************************
+The majority of identity theft victims spent 
+a day or less resolving associated financial
+and credit problems
+*********************************************
+
+At the time of the interview, 86% of identity theft victims 
+had resolved any problems associated with the incident 
+(appendix table 13). Of these, the majority spent a day or 
+less clearing up the problems, while about 10% spent more 
+than a month (figure 8). Victims of the misuse of existing 
+accounts (54%) were more likely to resolve any associated 
+financial and credit problems within a day, compared to 
+victims of new account fraud (42%) and victims of multiple 
+types of identity theft (36%). Among victims who had 
+resolved all problems associated with the identity theft, 
+29% who experienced the misuse of personal information for 
+fraudulent purposes spent over a month clearing up the 
+problems, compared to 9% of victims of existing account 
+misuse.
+ 
+Whether identity theft victims had resolved associated 
+problems or not at the time of the interview, victims 
+reported spending an average of about 9 hours clearing up 
+the issues. Victims of existing credit card account misuse 
+spent an average of 3 hours resolving problems, while 
+victims whose personal information was used to open a new 
+account or for other fraudulent purposes spent an average of 
+about 30 hours resolving all problems (not shown).
+
+*********************************************
+14% of persons experienced identity theft at 
+some point during their lives
+*********************************************
+
+Resolving the problems caused by identity theft may take 
+more than a year for some victims. Of the 20.3 million 
+persons age 16 or older who experienced the misuse of 
+existing accounts or other personal information prior to 
+2012, 7% were still resolving the problems associated with 
+the identity theft more than a year later (table 5). A 
+greater percentage of persons who experienced the misuse of 
+personal information to open a new account (16%) or for 
+other fraudulent purposes (15%) prior to 2012 had unresolved 
+problems more than a year later, compared to persons who 
+experienced existing account misuse (4%).
+
+Overall, 14% of persons age 16 or older, or 34.2 million 
+persons, experienced one or more incidents of identity theft 
+during their lives. The lifetime prevalence rate for 
+identity theft varied to some degree with age. Younger 
+persons, ages 16 to 17 (1%) and 18 to 24 (7%) and persons 
+ages 65 or older (11%) had the lowest lifetime prevalence 
+rates, while between 15% and 17% of persons ages 25 to 64 
+experienced identity theft at some point in their lives (not 
+shown in table).
+
+*********************************************
+The level of emotional distress victims 
+experienced was related to the length of 
+time they spent resolving problems
+*********************************************
+
+Victims who spent more time resolving the financial and 
+credit-related problems associated with the identity theft 
+incident were more likely to experience problems with work 
+and other relationships and severe emotional distress than 
+victims who were able to resolve the problems relatively 
+quickly. Among identity theft victims who spent 6 months or 
+more resolving financial and credit problems due to the 
+theft, 47% experienced severe emotional distress (figure 9). 
+In comparison, 4% of victims who spent a day or less 
+clearing up problems reported that the incident was severely 
+distressing. Similarly, 14% of victims who spent 6 months or 
+more resolving issues related to the identity theft reported 
+having significant problems with family members or friends, 
+compared to about 2% of victims who spent a day or less 
+resolving problems. 
+
+*********************************************
+Fewer than 1 in 10 identity theft victims 
+reported the incident to police
+*********************************************
+
+In 2012, about 9% of identity theft victims reported the 
+incident to police (figure 10). Victims of personal 
+information fraud were the most likely to report the 
+incident to police (40%), followed new account fraud victims 
+(23%) and victims of multiple types of identity theft (22%). 
+Fewer than 10% of victims of existing credit card (4%), 
+existing bank account (9%), and other existing account 
+misuse (6%) reported the incident to police. 
+
+The 91% of identity theft victims who did not report an 
+incident to police offered a variety of reasons for not 
+reporting (appendix table 17). Among all victims who did not 
+report the incident to police, the most common reason was 
+that the victim handled it another way (58%). About a third 
+(29%) of nonreporting victims did not contact police because 
+they suffered no monetary loss. One in five nonreporting 
+victims did not think that the police could help and another 
+15% did not know how to report the incident to law 
+enforcement.
+
+*********************************************
+Of the 9% of identity theft victims who 
+contacted a credit bureau, 7 in 10 placed 
+a fraud alert on their credit report
+*********************************************
+
+In 2012, 88% of all victims of identity theft reported the 
+incident to one or more nonlaw enforcement agencies, either 
+government or commercial (not shown). About 86% of identity 
+theft victims contacted a credit card company or bank to 
+report misuse or attempted misuse of an account or personal 
+information (appendix table 19). Six percent of all identity 
+theft victims contacted a credit monitoring service, 3% 
+contacted an agency that issues identity documentation, 
+(e.g., Social Security Administration or an agency that 
+issues drivers’ licenses), 1% contacted the Federal Trade 
+Commission, and 1% contacted a government consumer affairs 
+agency or other consumer protection organization, (e.g., 
+Better Business Bureau).
+
+Nine percent of identity theft victims contacted a credit 
+bureau to report the incident. Victims whose identifying 
+information was fraudulently used to open a new account 
+(30%) were most likely to contact a credit bureau, followed 
+by victims of multiple types of theft (20%) and victims 
+whose personal information was used for other fraudulent 
+purposes (19%).
+
+Victims of any type of identity theft who contacted a credit 
+bureau could take several different actions. About 70% of 
+victims who contacted a credit bureau placed a fraud alert 
+on their credit report (figure 11). Two-thirds (66%) of 
+victims who contacted a credit bureau requested a credit 
+report, 41% requested corrections to their credit report, 
+38% placed a freeze on their credit report, and 19% provided 
+a police report to the credit bureau. 
+
+*********************************************
+About 85% of persons took some action to 
+prevent identity theft victimization
+*********************************************
+
+The ITS asked persons about actions they took during the 
+prior 12 months to prevent identity theft, such as checking 
+credit reports, shredding documents with personal 
+information, and changing passwords on financial accounts. 
+In 2012, 85% of persons engaged in one or more of the 
+preventative actions asked about in the survey (table 6). A 
+greater percentage of victims (96%) than nonvictims (84%) 
+engaged in at least one preventative action. However, about 
+12% of victims who took preventative action did so in 
+response to experiencing identity theft in the past year. 
+
+Overall, the two most common preventative actions in 2012 
+were checking bank or credit statements (75%) and shredding 
+or destroying documents with personal information (67%). A 
+higher percentage of victims than nonvictims engaged in both 
+of these preventative actions. However, about 13% of victims 
+began shredding or destroying documents with personal 
+information as a result of experiencing identity theft 
+during the prior 12 months and 26% began checking bank or 
+credit statements as a result of the victimization. 
+
+Less than 10% of victims purchased identity theft protection 
+(4%) or insurance (6%) or used an identity theft security 
+program on the computer (6%) after experiencing identity 
+theft, while about a quarter of victims checked financial 
+accounts or changed passwords on these accounts as a result 
+of the victimization.
+
+Among persons who did not experience identity theft in 2012, 
+37% checked their credit report; 27% changed passwords on 
+financial accounts; 16% used identity theft security 
+programs on their computer; 5% purchased identity theft 
+insurance or used a credit monitoring service; and 3% 
+purchased identity theft protection.
+ 
+**************
+Methodology
+**************
+
+Data collection
+*****************
+
+The Identity Theft Supplement (ITS) was administered as a 
+supplement to the Bureau of Justice Statistic’s (BJS) 
+National Crime Victimization Survey (NCVS). The NCVS 
+collects data on crime reported and not reported to the 
+police against persons age 12 or older from a nationally 
+representative sample of U.S. households. The sample 
+includes persons living in group quarters (such as 
+dormitories, rooming houses, and religious group dwellings) 
+and excludes persons living in military barracks and 
+institutional settings (such as correctional or hospital 
+facilities) and the homeless. (For more information, see the 
+Survey Methodology in Criminal Victimization in the United 
+States, 2008, NCJ 231173, BJS website, May 2011.) 
+
+From January 1, 2012, through June 30, 2012, persons age 16 
+or older in sampled NCVS households received the ITS at the 
+end of the NCVS interview. Proxy responders and those who 
+complete the NCVS interview in a language other than English 
+did not receive the ITS. All NCVS and ITS interviews were 
+conducted in a computer-assisted personal interviewing 
+(CAPI) environment. Interviews were conducted by telephone 
+or by personal visit. A final sample size of 69,814 of the 
+original NCVS-eligible respondents completed the ITS 
+questionnaire, resulting in a response rate of 91.9%.
+ 
+The combined overall NCVS-ITS unit response rate for NCVS 
+households, NCVS persons, and ITS persons was 68.2%. Because 
+of the level of nonresponse, a bias analysis was conducted. 
+To the extent that those who responded to the survey and 
+those who did not differ in important ways, there is 
+potential for bias in estimates from the survey data. 
+However, the result of the nonresponse bias analysis 
+suggested that there was little or no bias of substantive 
+importance due to nonresponse in the ITS estimates.
+
+The ITS collected individual data on the prevalence of and 
+victim response to the attempted or successful misuse of an 
+existing account, misuse of personal information to open a 
+new account, or misuse of personal information for other 
+fraudulent purposes. Respondents were asked whether they 
+experienced any of these types of misuse during the 12 
+months prior to the interview. For example, persons 
+interviewed in July 2012 were asked about identity theft 
+incidents that occurred between July 2011 and June 2012. To 
+simplify the discussion of the findings, this report refers 
+to all identity theft experienced during the 12 months prior 
+to the interviews as occurring in 2012.
+
+Persons who reported one or more incidents of identity theft 
+during 2012 were asked more detailed questions about the 
+incident and response to the incident, such as how they 
+discovered the identity theft; financial, credit, and other 
+problems resulting from the incident; time spent resolving 
+associated problems; and reporting to police and credit 
+bureaus. For most sections of the survey instrument, the ITS 
+asked victims who experienced more than one incident during 
+the 12-month reference period to describe only the most 
+recent incident when answering questions. The ITS asked 
+victims who experienced multiple incidents of identity theft 
+during the year to report on the total financial losses 
+suffered as a result of all incidents. The ITS asked both 
+victims and nonvictims a series of questions about identity 
+theft they experienced outside of the 12-month reference 
+period and about measures they took to avoid or minimize the 
+risk of becoming an identity theft victim.
+
+Comparison of 2012 findings to prior BJS 
+identity theft statistics
+*********************************************
+
+This report uses data that differ from previous BJS 
+statistical collections on the topic of identity theft. Due 
+to the differences, it was not possible to compare the 
+identity theft estimates presented in this report to 
+previously reported estimates.
+ 
+Initial BJS reports on identity theft used household-level 
+data from the core NCVS. Data were reported for the 
+household as a whole rather than for individual respondents, 
+and the questions were more limited, providing less detail 
+on the characteristics of the incident and the victim 
+response. For additional information, see Identity Theft, 
+2005, NCJ 219411, BJS website, November 2007, Identity Theft 
+Reported by Households, 2007 - Statistical Tables, NCJ 
+230742, BJS website, June 2010, and Identity Theft Reported 
+by Households, 2005 - 2010, NCJ 231680, BJS website, 
+December 2010.
+ 
+In 2008, BJS conducted the first Identity Theft Supplement 
+to the NCVS. Like the 2012 ITS, the 2008 ITS collected 
+detailed information on victim experiences with identity 
+theft from persons age 16 or older. For more information, 
+see Victims of Identity Theft, 2008, NCJ 231680, BJS 
+website, December 2010. Following the administration of the 
+first ITS, BJS made substantial changes to the survey 
+instrument, making it difficult to compare across the 2008 
+and 2012 datasets. Some of the major changes to the survey 
+from 2008 to 2012 included—
+
+* Changing from a 2-year to 1-year reference period. The 
+2008 ITS asked about identity theft experienced in the 2 
+years prior to the interview. The 2-year reference period 
+was intended to capture incidents of identity theft that 
+were discovered more than 12 months prior to the interview 
+but were still causing problems for the victim. The 2012 ITS 
+used a 12-month reference period to be more consistent with 
+the NCVS and other NCVS supplements. The 2012 ITS added a 
+special section about identity theft experienced outside of 
+the 1-year reference period to capture identity theft 
+incidents with long-term consequences. 
+
+* Integrating of successful and attempted identity theft 
+incidents. The 2008 ITS tried to distinguish attempted 
+identity theft from successfully completed identity theft. 
+It asked slightly different questions depending on whether 
+respondents screened into the attempted or successful 
+module. However, the distinction between an attempted and 
+successful incident of identity theft was not clear, and the 
+two types were combined for reporting purposes to the extent 
+possible. The 2012 ITS defined identity theft as attempted 
+or completed misuse of personal information and collected 
+the same information from all victims. 
+
+* Focusing on the most recent incident of identity theft for 
+detailed follow-up questions. In the 2008 ITS, victims were 
+asked one set of questions about the characteristics of 
+identity theft and the response to identity theft, 
+regardless of the number of incidents they experienced 
+during the 2-year reference period. This made it impossible 
+to attribute the incident characteristics or monetary loss 
+to one specific type of identity theft. The 2012 ITS asked 
+victims to identify whether they experienced one or more 
+than one incidents of identity theft during the year.
+***Footnote 3 Victims received the following definition of 
+an identity theft incident: “An incident of identity theft 
+occurs when your identity is stolen. A stolen credit card 
+or debit card may be used multiple times, but this should 
+be considered a single incident."*** Victims who experienced 
+more than one incident were asked to describe only the most 
+recent incident when responding to detailed questions about 
+the nature of and experiences with identity theft victimization. 
+
+Possible over-reporting of losses from 
+jointly held accounts
+*********************************************
+
+Persons may have experienced the unauthorized use of a 
+jointly held account. Joint accounts present a difficulty 
+with counting financial harm or loss because of the 
+potential for double-counting loss (e.g., both account 
+holders report the same $500 loss). Because financial loss 
+was not attributed to a particular type of identity theft, 
+victims of multiple types of identity theft may have 
+experienced some financial loss from a joint account and 
+some financial loss from an independently held account. 
+Therefore, it was not possible to correct for any potential 
+over-reporting due to joint account holders who may have 
+been double counted.
+
+Standard error computations
+*****************************
+
+When national estimates are derived from a sample, as is the 
+case with the ITS, caution must be taken when comparing one 
+estimate to another. Although one estimate may be larger 
+than another, estimates based on a sample have some degree 
+of sampling error. The sampling error of an estimate depends 
+on several factors, including the amount of variation in the 
+responses, the size of the sample, and the size of the 
+subgroup for which the estimate is computed. When the 
+sampling error around the estimates is taken into 
+consideration, the estimates that appear different may, not 
+be statistically different.
+
+One measure of the sampling error associated with an 
+estimate is the standard error. The standard error can vary 
+from one estimate to the next. In general, for a given 
+metric, an estimate with a smaller standard error provides a 
+more reliable approximation of the true value than an 
+estimate with a larger standard error. Estimates with 
+relatively large standard errors are associated with less 
+precision and reliability and should be interpreted with 
+caution.
+
+In order to generate standard errors around estimates from 
+the ITS, the Census Bureau produces generalized variance 
+function (GVF) parameters for BJS. The GVFs take into 
+account aspects of the NCVS complex sample design and 
+represent the curve fitted to a selection of individual 
+standard errors based on the Jackknife Repeated Replication 
+technique. The GVF parameters were used to generate standard 
+errors for each point estimate (i.e., numbers or 
+percentages) in the report. 
+
+In this report, BJS conducted tests to determine whether 
+differences in estimated numbers and percentages were 
+statistically significant once sampling error was taken into 
+account. Using statistical programs developed specifically 
+for the NCVS, all comparisons in the text were tested for 
+significance. The primary test procedure used was Student’s 
+t-statistic, which tests the difference between two sample 
+estimates. To ensure that the observed differences between 
+estimates were larger than might be expected due to sampling 
+variation, the significance level was set at the 95% 
+confidence level.
+ 
+Data users can use the estimates and the standard errors of 
+the estimates provided in this report to generate a 
+confidence interval around the estimate as a measure of the 
+margin of error. The following example illustrates how 
+standard errors can be used to generate confidence 
+intervals: 
+
+* According to the ITS, in 2012, an estimated 6.7% of 
+persons age 16 or older experienced identity theft (see 
+table 1). Using the GVFs, BJS determined that the estimate 
+has a standard error of 0.3 (see appendix table 1). A 
+confidence interval around the estimate was generated by 
+multiplying the standard errors by ±1.96 (the t-score of a 
+normal, two-tailed distribution that excludes 2.5% at either 
+end of the distribution). Therefore, the confidence interval 
+around the estimate is 6.7 ± (0.3 X 1.96) or 6.1 to 7.3. In 
+other words, if different samples using the same procedures 
+were taken from the U.S. population in 2012, 95% of the time 
+the percentage of persons who experienced identity theft 
+would be between 6.1% and 7.3%.
+
+In this report, BJS also calculated a coefficient of 
+variation (CV) for all estimates, representing the ratio of 
+the standard error to the estimate. CVs provide a measure of 
+reliability and a means to compare the precision of 
+estimates across measures with differing levels or metrics. 
+In cases where the CV was greater than 50%, or the 
+unweighted sample had 10 or fewer cases, the estimate was 
+noted with a “!” symbol (interpret data with caution; 
+estimate is based on 10 or fewer sample cases, or the 
+coefficient of variation exceeds 50%). 
+
+Many of the variables examined in this report may be related 
+to one another and to other variables not included in the 
+analyses. Complex relationships among variables were not 
+fully explored in this report and warrant more extensive 
+analysis. Readers are cautioned not to draw causal 
+inferences based on the results presented.
+
+****************************************************
+The Bureau of Justice Statistics, located in the Office of 
+Justice Programs, U.S. Department of Justice, collects, 
+analyses, and disseminates statistical information on crime, 
+criminal offenders, victims of crime, and the operation of 
+justice systems at all levels of government. William J. 
+Sabol is acting director.
+
+This report was written by Erika Harrell, Ph.D. and Lynn 
+Langton, Ph.D. Shannan Catalano, Ph.D. verified the report.
+Vanessa Curto and Jill Thomas edited the report, and Barbara 
+Quinn produced the report.
+
+December 2013, NCJ 243779
+****************************************************
+
+****************************************************
+
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+****************************************************
+
+*********************
+11/21/13 JER 2:49pm
+revision
+*********************

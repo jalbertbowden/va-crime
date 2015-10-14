@@ -1,0 +1,33 @@
+Bureau of Justice Statistics,,,,,,,,,
+filename:  cv0522.csv,,,,,,,,,
+"Table 22. Victimization rates by race of head of household, annual family income and type of theft",,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,
+
+"Table 22. Theft, 2005:  Victimization rates by race of head of household, annual family income and type of theft",,,,,,,,,
+                                                                                                                                         ,,"Rate per 1,000 households",,,,,,,
+,,,Completed theft,,,,,,
+Race and income,Total households,Theft/a,Less than $50,,$50-$249,$250 or more,,Attempted,
+White only,,,,,,,,,
+"Less than $7,500","3,559,190",142.3,50.1,,36.2,43.4,,0.8,*
+"$7,500-$14,999","6,460,900",125,40.9,,45.7,24.7,,2.9,*
+"$15,000-$24,999","9,244,160",121.9,31.9,,50.2,27.4,,2.9,*
+"$25,000-$34,999","9,024,170",132.1,45.7,,43.1,30.9,,3.3,*
+"$35,000-$49,999","11,961,950",126,46.7,,39.9,26.8,,4.5,
+"$50,000-$74,999","13,625,020",128.8,36.5,,46.8,28,,6.7,
+"$75,000 or more","19,128,190",141.9,44.3,,44.9,31.8,,4.9,
+Black only,,,,,,,,,
+"Less than $7,500","1,234,770",108.2,12.4,*,44.3,21.9,*,12.9,*
+"$7,500-$14,999","1,615,110",81.5,28.5,,24.6,18.8,*,1.8,*
+"$15,000-$24,999","1,818,810",89,32.4,,34.1,13.5,*,3.3,*
+"$25,000-$34,999","1,537,990",129.9,30.5,,39.6,40,,1.8,*
+"$35,000-$49,999","1,535,230",94.8,24.3,,30.8,33.2,,2.7,*
+"$50,000-$74,999","1,175,320",117.2,34.2,,53,14.5,*,10.3,*
+"$75,000 or more","1,086,400",136.1,30.9,*,61.8,25.5,*,2.7,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,
+"Excludes data on families whose income level was not ascertained and data on persons of ""Other"" races and persons indicating two or more races.",,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,
+"a/Includes data, not shown separately, on thefts for which the value of loss was not ascertained."

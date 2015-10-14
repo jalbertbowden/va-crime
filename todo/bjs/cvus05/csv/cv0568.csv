@@ -1,0 +1,32 @@
+Bureau of Justice Statistics,,,,,,
+filename:  cv0568.csv,,,,,,
+"Table 68. Percent of victimizations in which victims took self-protective measures, by type of crime and victim-offender relationship",,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,
+produced by:  Cathy Maston ,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,
+data of version:  12/08/06,,,,,,
+
+"Table 68. Personal crimes of violence, 2005: Percent of victimizations in which victims took self-protective measures, by type of crime and victim-offender relationship",,,,,,
+,Percent of all victimizations,,,,,
+Type of crime,All victimizations,,Involving strangers,,Involving nonstrangers,
+Crimes of violence,66.9,%,64.4,%,69.8,%
+   Completed violence,67.8,,62.6,,73.7,
+   Attempted/threatened violence,66.5,,65.3,,68,
+   Rape/Sexual assault/a,81.6,,82.6,,81,
+   Robbery,61.6,,60.1,,67.2,
+      Completed/property taken,46.8,,41.8,,63.1,
+         With injury,45.8,,41.6,,78.1,*
+         Without injury,47.3,,41.9,,60.1,
+      Attempted to take property,90.8,,92.6,,80.2,*
+         With injury,89.5,,93.4,,65.9,*
+         Without injury,91.4,,92.3,,86.3,*
+   Assault,67.1,,64.8,,69.3,
+      Aggravated,67.9,,66.8,,69.4,
+         With injury,68.9,,71.4,,66.3,
+         Threatened with weapon,67.5,,65,,71.1,
+      Simple,66.8,,64.1,,69.3,
+         With minor injury,76.7,,75.1,,78.1,
+         Without injury,63.7,,60.9,,66.3,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,

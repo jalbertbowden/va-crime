@@ -1,0 +1,56 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,,
+filename:  cv0561.csv,,,,,,,,,,,,,,,,,,
+"Table 61. Percent distribution of incidents, by type of crime and place of occurrence",,,,,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,,,,
+
+"Table 61. Selected personal and property crimes, 2005: Percent distribution of incidents, by type of crime and place of occurrence",,,,,,,,,,,,,,,,,, 
+,,,Percent of incidents,,,,,,,,,,,,,,,
+Type of crime,Number of incidents,,  Total,,At or in respondent's home,,Near home,,On the street near home,,"At, in, or near a friend's relative's or neighbor's home",,"Inside a restaurant, bar, or nightclub",,Other commercial building,,,
+Crimes of violence,"4,718,330",,100,%,14.8,%,10.4,%,4.7,%,8.2,%,4.1,%,7.5,%,,
+   Completed violence,"1,536,990",,100,,19.1,,8.9,,5.4,,9.2,,4.9,,5.4,,,
+   Attempted/threatened violence,"3,181,340",,100,,12.8,,11.1,,4.3,,7.7,,3.7,,8.5,,,
+   Rape/Sexual assault/a,"188,960",,100,,36.4,,1.5,*,0,*,23.7,,0,*,1.3,*,,
+   Robbery,"569,470",,100,,13.7,,7.6,,5.7,*,4.7,*,1.1,*,4.2,*
+      Completed/property taken,"381,070",,100,,17.8,,7.1,*,6.6,*,3.2,*,0.9,*,4,*
+         With injury,"126,440",,100,,17.4,*,5.2,*,2.1,*,3.2,*,0,*,0,*
+         Without injury,"254,640",,100,,18,,8.1,*,8.8,*,3.2,*,1.3,*,6.1,*
+      Attempted to take property,"188,400",,100,,5.4,*,8.7,*,3.8,*,7.8,*,1.5,*,4.4,*
+         With injury,"62,230",,100,,4.3,*,16.8,*,6,*,6.8,*,0,*,0,*
+         Without injury,"126,170",,100,,6,*,4.7,*,2.8,*,8.3,*,2.3,*,6.5,*
+   Assault,"3,959,900",,100,,14,,11.2,,4.7,,7.9,,4.7,,8.3,
+      Aggravated,"926,060",,100,,12.2,,11.2,,6.5,,10.1,,4,,8.6,
+      Simple,"3,033,840",,100,,14.5,,11.2,,4.2,,7.3,,4.9,,8.2,
+Purse snatching/Pocket picking,"227,070",,100,,1.3,*,0,*,0,*,2.3,*,6.6,*,34.8,
+Motor vehicle theft,"978,120",,100,,1,*,34.5,,16.2,,3.1,*,0,,1,*
+   Completed,"774,650",,100,,1.2,*,33.1,,15.3,,3.3,*,0,,1.3,*
+   Attempted,"203,470",,100,,0,*,39.8,,19.3,,2.3,*,0,,0,*
+Theft,"13,605,590",,100,,8.6,,37.1,,6.6,,3.6,,1.1,,6,
+,Percent of incidents,,,,,,,,,,,,,,,
+Type of crime,Parking lot or garage,,Inside school building/on school property,,"In apartment yard, park, field, or playground",,On street other than near own home,,On public transportation or inside station,,   Other,
+Crimes of violence,8.2,%,12.3,%,3.4,%,18.6,%,1.2,%,6.9,%
+   Completed violence,8.5,,9.3,,3.7,,20.2,,1.1,*,4.3,
+   Attempted/threatened violence,8,,13.7,,3.2,,17.8,,1.2,,8.1,
+   Rape/Sexual assault/a,0,*,7.8,*,2.9,*,8.6,*,0,*,17.8,*
+   Robbery,12,,5,*,4.6,*,35.3,,2.5,*,3.6,*
+      Completed/property taken,12.7,,3.7,*,3.9,*,33.8,,3.7,*,2.8,*
+         With injury,8.7,*,8.4,*,5.3,*,46.8,,0,*,3,*
+         Without injury,14.7,,1.3,*,3.1,*,27.3,,5.5,*,2.7,*
+      Attempted to take property,10.5,*,7.8,*,6.3,*,38.6,,0,*,5.2,*
+         With injury,11.4,*,0,*,5.9,*,49,*,0,*,0,*
+         Without injury,10.1,*,11.6,*,6.5,*,33.4,,0,*,7.8,*
+   Assault,8,,13.5,,3.2,,16.6,,1,,6.8,
+      Aggravated,7.1,,7.2,,3.2,*,24.4,,0.3,*,5.2,
+      Simple,8.3,,15.5,,3.2,,14.2,,1.3,,7.3,
+Purse snatching/Pocket picking,6.5,*,11.1,*,3.3,*,18.5,,8.6,*,6.9,*
+Motor vehicle theft,30.8,,0.7,*,0.6,*,8.6,,0,,3.7,*
+   Completed,31.1,,0.6,*,0.7,*,10,,0,,3.4,*
+   Attempted,29.8,,1.3,*,0,*,3,*,0,,4.6,*
+Theft,14.8,,9.8,,1.2,,3.5,,1.1,,6.6,
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,
+...Not applicable.,,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,

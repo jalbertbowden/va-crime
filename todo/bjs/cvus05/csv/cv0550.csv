@@ -1,0 +1,32 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  cv0550.csv,,,,,,,,,,,,,,,
+"Table 50. Victimization rates for persons age 12 and over, by type of crime and number of years lived at current residence",,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,
+
+"Table 50. Violent crimes, 2005:  Victimization rates for persons age 12 and over, by type of crime and number of years lived at current residence",,,,,,,,,,,,,,,
+       ,"Rate per 1,000 persons age 12 and over",,,,,,,,,,,,,,
+Type of crime,Total,,Less than 6 months/a,, 6 months to 1 year,,1 year,, 2 years,,3 years,,4 years,,5 years or more
+  Crimes of violence,21.2,,51.3,,30.5,,24.2,,24.5,,22.5,,22.2,,14.6
+    Completed violence,6.8,,17.5,,10.7,,8.2,,8.1,,5.2,,6.2,,4.6
+    Attempted/threatened violence,14.4,,33.8,,19.8,,15.9,,16.4,,17.4,,15.9,,10
+    Rape/Sexual assault/b,0.8,,2.4,,1.3,*,1.6,*,0.8,*,1.1,*,0.8,*,0.4
+    Robbery,2.6,,7.4,,6,,4,,2.6,,2.1,*,2.2,*,1.4
+      Completed/property taken,1.7,,4.2,,3.7,,3,,1.7,*,1.4,*,2,*,1
+      Attempted to take property,0.9,,3.2,,2.4,*,1,*,0.9,*,0.7,*,0.2,*,0.4
+    Assault,17.8,,41.5,,23.2,,18.6,,21.1,,19.3,,19.1,,12.8
+      Aggravated,4.3,,10,,5.9,,2.9,,4.5,,3.9,,3.4,,3.6
+        With injury,1.3,,4,,1.2,*,1,*,1.6,*,1,*,0,*,1.1
+        Threatened with weapon,3,,6,,4.6,,1.9,*,2.9,,2.9,,3.4,,2.5
+      Simple,13.5,,31.5,,17.3,,15.7,,16.6,,15.4,,15.7,,9.2
+        With minor injury,3.2,,7.8,,5.3,,3.1,,4.5,,2.3,,4,,2.2
+        Without injury,10.3,,23.7,,12,,12.6,,12.1,,13.1,,11.8,,7
+Total population age 12 and over ,"242,451,020",,"20,206,540",,"14,862,450",,"17,407,940",,"21,582,550",,"17,077,110",,"13,390,810",,"137,923,610"
+Note:  Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,
+Excludes data on persons whose mobility was not ascertained.,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,
+a/These numbers are unbounded estimates.,,,,,,,,,,,,,,,
+b/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,,,,

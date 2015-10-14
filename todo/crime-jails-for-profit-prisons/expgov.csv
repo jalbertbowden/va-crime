@@ -1,0 +1,51 @@
+Bureau of Justice Statistics,,,,
+Filename:  expgov.csv,,,,
+"Direct expenditure on criminal justice, by level of government, 1982-2006",,,,
+"Series title:  Justice Expenditure and Employment Statistical Extracts 2006, NCJ 224394",,,,
+Data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,,
+Author:  Steven W. Perry,,,,
+Refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765,,,,
+Date of version: 12/15/2008,,,,
+
+
+"Direct expenditure on criminal justice, by level of government, 1982-2006",,,,
+
+,Federal,State,Local*,Total
+
+1982,"$4,269,000,000 ","$10,651,136,000 ","$20,921,780,000 ","$35,841,916,000 "
+1983,"$4,844,000,000 ","$11,709,073,000 ","$23,127,094,000 ","$39,680,167,000 "
+1984,"$5,787,000,000 ","$13,080,590,000 ","$25,075,100,000 ","$43,942,690,000 "
+1985,"$6,279,000,000 ","$14,903,400,000 ","$27,380,688,000 ","$48,563,088,000 "
+1986,"$6,430,000,000 ","$16,978,049,000 ","$30,091,756,000 ","$53,499,805,000 "
+1987,"$7,231,000,000 ","$18,465,051,000 ","$33,175,297,000 ","$58,871,348,000 "
+1988,"$8,464,000,000 ","$20,879,907,000 ","$35,886,635,000 ","$65,230,542,000 "
+1989,"$9,204,000,000 ","$23,009,426,000 ","$38,736,042,000 ","$70,949,468,000 "
+1990,"$10,219,000,000 ","$25,764,047,000 ","$43,450,912,000 ","$79,433,959,000 "
+1991,"$12,106,000,000 ","$28,492,872,000 ","$46,967,947,000 ","$87,566,819,000 "
+1992,"$13,529,000,000 ","$30,270,582,000 ","$49,977,270,000 ","$93,776,852,000 "
+1993,"$14,429,000,000 ","$30,695,903,000 ","$52,416,923,000 ","$97,541,826,000 "
+1994,"$14,626,000,000 ","$33,495,311,000 ","$55,349,253,000 ","$103,470,564,000 "
+1995,"$16,741,000,000 ","$37,359,746,000 ","$58,767,702,000 ","$112,868,448,000 "
+1996,"$17,480,000,000 ","$39,903,000,000 ","$62,811,000,000 ","$120,194,000,000 "
+1997,"$20,524,000,000 ","$42,353,000,000 ","$66,916,000,000 ","$129,793,000,000 "
+1998,"$19,365,000,000 ","$45,995,144,000 ","$70,539,309,000 ","$135,899,453,000 "
+1999,"$22,148,000,000 ","$49,964,923,000 ","$74,442,578,000 ","$146,555,501,000 "
+2000,"$23,086,000,000 ","$53,991,000,000 ","$78,644,000,000 ","$155,721,000,000 "
+2001,"$25,285,000,000 ","$58,820,000,000 ","$83,007,000,000 ","$167,112,000,000 "
+2002,"$28,548,000,000 ","$60,912,173,000 ","$90,119,813,000 ","$179,579,986,000 "
+2003,"$30,197,000,000 ","$61,743,018,000 ","$93,549,950,000 ","$185,489,968,000 "
+2004,"$34,325,000,000 ","$61,758,324,000 ","$97,433,949,000 ","$193,517,273,000 "
+2005,"$35,415,000,000 ","$64,947,744,000 ","$103,773,271,000 ","$204,136,015,000 "
+2006,"$36,248,000,000 ","$69,040,752,000 ","$109,205,351,000 ","$214,494,103,000 "
+
+"*Local includes both municipal and county expenditures. Prior to 2002, detailed data for municipal and county expenditures are available in the Justice Expenditure and Employment Extracts.",,,,
+"Note: Federal government figures presented for 1998 and later are directly from the Budget of the United States, using the definitions of justice functions contained in the budget. Prior to 1998 the Census Bureau performed an extensive compilation of the Federal budget for the purposes of making the data fit the definitions used in the Census Bureau's surveys of government finances and public employment. Therefore, Federal expenditure data prior to 1998 are not directly comparable to those reported for 1998 and later.",,,,
+
+Source: Justice Expenditure and Employment Extracts,,,,
+
+
+
+Percent Change,Federal,State,Local*,Total
+Last 5 year,43%,17%,32%,28%
+Last 10 years,107%,73%,74%,78%
+Last 20 years,464%,307%,263%,301%

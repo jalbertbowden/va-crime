@@ -1,0 +1,21 @@
+Bureau of Justice Statistics,,,,
+filename:  cv05mresp.csv,,,,
+Number of households and persons interviewed by year,,,,
+"data source: National Criminal Victimization Survey, 2005 NCJ  215244",,,,
+produced by:  Cathy Maston ,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,
+data of version:  12/08/06,,,,
+
+Number of households and persons interviewed by year,,,,
+Year,Number of households interviewed,Household response rate,Number of persons interviewed,Response rate for persons
+1996,"45,000",93%,"85,330",91%
+1997,"42,910",95%,"79,470",90%
+1998,"43,000",94%,"78,900",89%
+1999,"43,000",93%,"77,750",89%
+2000,"43,000",93%,"79,710",90%
+2001,"44,000",93%,"79,950",89%
+2002,"42,000",92%,"76,050",87%
+2003,"42,000",92%,"74,520",86%
+2004,"42,000",91%,"74,500",86%
+2005,"38,600",91%,"67,000",84%

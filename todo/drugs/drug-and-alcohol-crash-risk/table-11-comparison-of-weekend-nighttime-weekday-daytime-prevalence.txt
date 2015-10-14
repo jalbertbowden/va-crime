@@ -1,0 +1,14 @@
+﻿Substance	2007 NRS	Crash Risk Controls
+Alcohol Positive	9.7%	2.9%
+Alcohol Positive Nighttime	12.4%	9.4%
+Alcohol Positive Daytime	1.0%	1.9%
+Alcohol ≥ 0.08	1.7%	0.4%
+Alcohol ≥ 0.08 Nighttime	2.2%	2.1%
+Alcohol ≥ 0.08 Daytime	0.1%	0.1%
+Drug Positive	13.6%	14.4%
+Drug Positive Nighttime	14.4%	18.4%
+Drug Positive Daytime	11.0%	14.6%
+THC (Marijuana) Positive	6.9%	6.1%
+THC (Marijuana) Nighttime 7.7% 9.4%
+THC (Marijuana) Daytime 4.5% 5.4%
+Note: Weekend Nighttime drivers refers to drivers from Friday and Saturday

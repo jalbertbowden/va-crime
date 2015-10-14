@@ -1,0 +1,51 @@
+Name: “Table 1 of 1 on page 63 of 141”,Name: “Table 1 of 1 on page 63 of 141”,Name: “Table 1 of 1 on page 63 of 141”,Name: “Table 1 of 1 on page 63 of 141”,Name: “Table 1 of 1 on page 63 of 141”
+Table: 61,Table: 61,Table: 61,Table: 61,Table: 61
+,,,,
+54,•,Offender Risk Assessment in Virginia,,
+"scores above the threshold, the analysis also examined the relevance of variation among pilot","scores above the threshold, the analysis also examined the relevance of variation among pilot","scores above the threshold, the analysis also examined the relevance of variation among pilot","scores above the threshold, the analysis also examined the relevance of variation among pilot","scores above the threshold, the analysis also examined the relevance of variation among pilot"
+"sites, crime type, and total risk score. The figure below shows the 10 factors from the worksheet,","sites, crime type, and total risk score. The figure below shows the 10 factors from the worksheet,","sites, crime type, and total risk score. The figure below shows the 10 factors from the worksheet,","sites, crime type, and total risk score. The figure below shows the 10 factors from the worksheet,","sites, crime type, and total risk score. The figure below shows the 10 factors from the worksheet,"
+"the three offense types, as well as the six pilot locations and the risk total score included in","the three offense types, as well as the six pilot locations and the risk total score included in","the three offense types, as well as the six pilot locations and the risk total score included in","the three offense types, as well as the six pilot locations and the risk total score included in","the three offense types, as well as the six pilot locations and the risk total score included in"
+the model. 26,the model. 26,,,
+,We developed a statistical model to compare and contrast how these multiple factors inter-,We developed a statistical model to compare and contrast how these multiple factors inter-,We developed a statistical model to compare and contrast how these multiple factors inter-,We developed a statistical model to compare and contrast how these multiple factors inter-
+acted to explain diversion. Such analysis was necessary to control simultaneously for the influ-,acted to explain diversion. Such analysis was necessary to control simultaneously for the influ-,acted to explain diversion. Such analysis was necessary to control simultaneously for the influ-,acted to explain diversion. Such analysis was necessary to control simultaneously for the influ-,acted to explain diversion. Such analysis was necessary to control simultaneously for the influ-
+ence of this set of factors (called independent or predictor variables) on the likelihood of diver-,ence of this set of factors (called independent or predictor variables) on the likelihood of diver-,ence of this set of factors (called independent or predictor variables) on the likelihood of diver-,ence of this set of factors (called independent or predictor variables) on the likelihood of diver-,ence of this set of factors (called independent or predictor variables) on the likelihood of diver-
+sion.,sion.,This statistical technique enabled us to discern the unique contribution of each of the,This statistical technique enabled us to discern the unique contribution of each of the,This statistical technique enabled us to discern the unique contribution of each of the
+individual independent variables in explaining variation in diversion rates (called the dependent,individual independent variables in explaining variation in diversion rates (called the dependent,individual independent variables in explaining variation in diversion rates (called the dependent,individual independent variables in explaining variation in diversion rates (called the dependent,individual independent variables in explaining variation in diversion rates (called the dependent
+"variable). We used a multivariate analysis technique called logistic regression, which is appro-","variable). We used a multivariate analysis technique called logistic regression, which is appro-","variable). We used a multivariate analysis technique called logistic regression, which is appro-","variable). We used a multivariate analysis technique called logistic regression, which is appro-","variable). We used a multivariate analysis technique called logistic regression, which is appro-"
+priate with dichotomous dependent variables.,priate with dichotomous dependent variables.,priate with dichotomous dependent variables.,"In this context, “diversion” is dichotomous be-","In this context, “diversion” is dichotomous be-"
+"cause we coded the decision in one of two ways: “one” if the offender was diverted, “zero” if the","cause we coded the decision in one of two ways: “one” if the offender was diverted, “zero” if the","cause we coded the decision in one of two ways: “one” if the offender was diverted, “zero” if the","cause we coded the decision in one of two ways: “one” if the offender was diverted, “zero” if the","cause we coded the decision in one of two ways: “one” if the offender was diverted, “zero” if the"
+offender was not diverted.,offender was not diverted.,,,
+Figure 5.1,Figure 5.1,,,
+"Description of Variables Used to Predict the Decision to Divert (N=2,043)","Description of Variables Used to Predict the Decision to Divert (N=2,043)","Description of Variables Used to Predict the Decision to Divert (N=2,043)","Description of Variables Used to Predict the Decision to Divert (N=2,043)",
+Variable Name,Variable Name,Coding,Mean,Std. Dev
+Gender,Gender,1=Male,0.72,0.45
+Age less than 20?,Age less than 20?,1=age less than 20,0.02,0.14
+Age between 20 and 27?,Age between 20 and 27?,1=age 20-27,0.34,0.47
+Age 28 or Older?,Age 28 or Older?,1=age 28 and over,0.64,0.48
+Ever Married?,Ever Married?,1=Never Married,0.59,0.49
+Employment Status,Employment Status,1=Unemployed,0.48,0.50
+Offender Alone?,Offender Alone?,1=Offender Alone,0.71,0.45
+Additional Offenses?,Additional Offenses?,1=6 or more additional offenses,0.18,0.38
+Arrest/Confined Past 12 mos?,Arrest/Confined Past 12 mos?,1=Arrest/Conf Past 12 mos,0.64,0.48
+Prior Felony/Misd Conv/Adj?,Prior Felony/Misd Conv/Adj?,1=score of 1 or more on priors,0.93,0.25
+Prior Felony Drug Conv/Adj?,Prior Felony Drug Conv/Adj?,1=one or more prior drug conv/adj,0.34,0.47
+Prior Adult Incarceration?,Prior Adult Incarceration?,1= one or more prior adult incarcer,0.79,0.41
+Drug Offense?,Drug Offense?,1=Drug Offense,0.47,0.50
+Fraud Offense?,Fraud Offense?,1=Fraud Offense,0.20,0.40
+Larceny Offense?,Larceny Offense?,1=Larceny Offense,0.34,0.47
+From Norfolk?,From Norfolk?,1=Norfolk,0.16,0.36
+From Suffolk?,From Suffolk?,1=Suffolk,0.13,0.33
+From Newport News?,From Newport News?,1=Newport News,0.06,0.23
+From Henrico?,From Henrico?,1=Henrico,0.23,0.42
+From Danville?,From Danville?,1=Danville,0.14,0.35
+From Fairfax?,From Fairfax?,1=Fairfax,0.28,0.45
+Risk total less than 7?,Risk total less than 7?,"1= risk total 
+    ",0.07,0.25
+Risk total between 7 and 9?,Risk total between 7 and 9?,1= risk total 7-9,0.17,0.38
+Risk total between 10 and 12?,Risk total between 10 and 12?,1= risk total 10-12,0.28,0.45
+Risk total between 13 and 15?,Risk total between 13 and 15?,1= risk total 13-15,0.25,0.44
+Risk total over 15?,Risk total over 15?,1= risk total >15,0.23,0.42
+Note:,All variables coded as 0 or 1,,,
+26,Prior juvenile incarcerations/commitments are excluded from this analysis.,Prior juvenile incarcerations/commitments are excluded from this analysis.,The low number of offenders,The low number of offenders
+with a prior juvenile record (36) indicates to us that there is a data problem related to this factor. This point is,with a prior juvenile record (36) indicates to us that there is a data problem related to this factor. This point is,with a prior juvenile record (36) indicates to us that there is a data problem related to this factor. This point is,with a prior juvenile record (36) indicates to us that there is a data problem related to this factor. This point is,with a prior juvenile record (36) indicates to us that there is a data problem related to this factor. This point is
+expanded on later in this chapter.,expanded on later in this chapter.,,,

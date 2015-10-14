@@ -1,0 +1,14 @@
+Bureau of Justice Statistics,,,
+filename:  cv05mpar.csv,,,
+2005 Parameter Set,,,
+"data source: National Criminal Victimization Survey, 2005 NCJ  215244",,,
+produced by:  Cathy Maston ,,,
+authors:  Patsy Klaus and Cathy Maston,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,
+data of version:  12/08/06,,,
+
+2005 Parameter Set,a,b,c
+1.  Overall Person Crime Estimates,-0.00018335,"3,946",2.615
+2.  Person Crime Domain Estimates,-0.00032187,"4,074",3.137
+3.  Overall Property Crime Estimates,-0.00027423,"1,688",2.812
+4.  Property Crime Domain Estimates,-0.00094272,"2,686",2.765

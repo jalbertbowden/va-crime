@@ -1,0 +1,25 @@
+Bureau of Justice Statistics,,,,,,
+filename:  cv0592.csv,,,,,,
+"Table 92. Percent of victimizations reported to the police, by selected characteristics of victims and type of crime",,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,
+produced by:  Cathy Maston ,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,
+data of version:  12/08/06,,,,,,
+
+"Table 92. Personal crimes, 2005: Percent of victimizations reported to the police, by selected characteristics of victims and type of crime",,,,,,
+,Percent of all victimizations reported to the police,,,,,
+Characteristic,All personal crimes,,Crimes of violence/a,,Purse snatching/Pocket picking,
+Gender,,,,,,
+   Both genders,46.9,%,47.4,%,35.2,%
+  Male ,41.9,,42.4,,26.2,*
+  Female,53.9,,54.6,,42.2,
+Race/b,,,,,,
+   White only,46.9,,47.2,,38.5,
+   Black only,47.7,,49.4,,20.7,*
+Ethnicity,,,,,,
+   Hispanic,48.7,,50.7,,0,*
+   Non-Hispanic,46.7,,46.9,,41.1,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,
+"a/Crimes of violence includes data on rape, sexual assault, robbery, and both aggravated and simple assault, not shown separately.",,,,,,
+"b/Excludes data on persons of ""Other"" races and persons indicating two or more races.",,,,,,

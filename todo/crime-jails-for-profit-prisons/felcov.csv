@@ -1,0 +1,23 @@
+"Bureau of Justice Statistics",,,,,
+"filename: felcov.csv",,,,,
+"data source:  National Judicial Reporting Program",,,,,
+"authors: Matthew Durose, and Patrick Langan",,,,,
+"refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765",,,,,
+"data of version: 12/21/04",,,,,
+,,,,,
+"Felony convictions in State courts",,,,,
+,"",,,,
+,"",,"Percent of felons convicted in State courts and sentenced to:",,
+,"Felony convictions in State courts",,"Prison","Jail","Probation"
+,,,,,
+,,,,,
+1988,667400,,44,25,31
+1990,829300,,46,25,29
+1992,893600,,44,26,30
+1994,872200,,45,26,29
+1996,998000,,38,31,31
+1998,927700,,44,24,32
+2000,924700,,40,28,32
+2002,1051000,,41,28,31
+,,,,,
+"Source:  Felony Sentences in State Courts, 2002",,,,,

@@ -1,0 +1,44 @@
+State Abbrev.,Characterization of Activity,2013 Filings,2014 Filings
+VA,ACH,2,5
+VA,Account takeover,2,0
+VA,Alters transaction to avoid BSA recordkeeping requirement,10,14
+VA,Alters transactions to avoid CTR requirement,2,1
+VA,Appraisal fraud,7,22
+VA,Bribery or gratuity,2,0
+VA,Changes spelling or arrangement of name,3,5
+VA,Check,3,0
+VA,Consumer Loan,12,9
+VA,Counterfeit Instrument (other),2,2
+VA,Credit/Debit Card,1,1
+VA,Elder financial exploitation,1,3
+VA,Embezzlement/theft/disappearance of funds,1,2
+VA,Foreclosure fraud,2,9
+VA,Forgeries,1,9
+VA,Identity theft,10,2
+VA,"Little or no concern for product performance penalites, fees, or tax consequences",0,2
+VA,Loan Modification fraud,3,29
+VA,Market manipulation/wash trading,1,1
+VA,Misuse of position or self-dealing,0,2
+VA,Multiple individuals with same or similar identities,3,1
+VA,Multiple transactions below BSA recordkeeping threshold,19,29
+VA,Multiple transactions below CTR threshold,11,9
+VA,Other,91,300
+VA,Provided questionable or false documentation,11,16
+VA,Refused or avoided request for documentation,0,6
+VA,Single individual with multiple identities,2,0
+VA,Suspected public/private corruption (domestic),1,0
+VA,Suspicious EFT/wire transfers,3,5
+VA,Suspicious concerning the source of funds,8,12
+VA,Suspicious inquiry by customer regarding BSA reporting or recordkeeping requirements,3,3
+VA,Suspicious receipt of government payments/benefits,0,1
+VA,Suspicious use of informal value transfer system,1,0
+VA,Suspicious use of multiple accounts,3,2
+VA,Suspicious use of multiple locations,13,9
+VA,Suspicious use of noncash monetary instruments,9,3
+VA,Suspicious use of third-party transactors (straw-man),0,1
+VA,Trade Based Money Laundering/Black Market Peso Exchange,1,0
+VA,Transaction out of pattern for customer(s),1,4
+VA,"Transaction with no apparent economic, business, or lawful purpose",7,8
+VA,Two or more individuals working together,11,15
+VA,Unauthorized electronic intrusion,1,1
+VA,Wire transfer,2,5

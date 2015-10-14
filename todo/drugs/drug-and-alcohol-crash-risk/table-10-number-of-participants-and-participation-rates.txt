@@ -1,0 +1,5 @@
+﻿Drivers	Crash-Involved Number (%)	Control Number (%)	Total Number (%)
+Eligible	3,887	7,397	11,284
+Participated	3,682 (94.7%)	7,176 (97.0%)	10,858 (96.2%)
+Breath Test	3,353 (86.3%)	6,868 (92.8%)	10,221 (90.6%)
+Oral Fluid	3,095 (79.6%)	6,190 (83.7%)	9,285 (82.3%)

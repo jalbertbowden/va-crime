@@ -1,0 +1,527 @@
+U.S. Department of Justice 
+Office of Justice Programs 
+Bureau of Justice Statistics 
+
+Crime Against Persons with Disabilities,
+2008-2010 - Statistical Tables
+
+Statistical Tables
+
+By Erika Harrell, Ph.D., BJS Statistician
+
+----------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at:
+http://bjs.gov/index.cfm?ty=pbdetail&iid=2238. 
+
+This report is one in a series. More recent editions may be
+available. To view a list of all in the series go to
+http://bjs.gov/index.cfm?ty=pbse&sid=65
+-----------------------------------------------------------
+
+Persons age 12 or older who had disabilities
+experienced an estimated 567,000 nonfatal
+violent crimes in 2010 (table 1). This number
+represents a 25% decrease from 2009, when persons
+with disabilities experienced more than 753,000
+nonfatal violent crimes. Nonfatal violent crimes
+include rape, sexual assault, robbery, aggravated
+assault, and simple assault. Between 2008 and 2009,
+no measurable difference occurred in the levels of
+violent crime against persons with disabilities.
+
+The findings in this report are based on the National
+Crime Victimization Survey (NCVS), a household
+survey that collects data on the civilian resident U.S.
+population (excluding those living in institutions).
+The NCVS defines disability as a sensory, physical,
+mental, or emotional condition lasting 6 months
+or longer and causing difficulty in activities of daily
+living. Disabilities are classified according to six
+limitations:
+
+* Hearing limitation entails deafness or serious difficulty
+hearing.
+
+* Vision limitation is blindness or serious difficulty
+seeing, even when wearing glasses.
+
+* Cognitive limitation includes serious difficulty in
+concentrating, remembering, or making decisions because of a
+physical, mental, or emotional condition.
+
+* Ambulatory limitation is difficulty walking or climbing
+stairs.
+
+* Self-care limitation is a condition that causes difficulty
+dressing or bathing.
+
+* Independent living limitation is a physical, mental,
+or emotional condition that impedes doing errands alone, such
+as visiting a doctor or shopping.
+
+The NCVS adopted survey questions from the U.S. Census
+Bureau's American Community Survey (ACS) to identify
+respondents with disabilities. Data from the ACS were used to
+estimate victimization rates for persons with and without
+disabilities. NCVS does not identify persons in the general
+population with disabilities. The Methodology further details
+data sources and data limitations.
+
+Statistical tables in this report detail nonfatal violent
+victimization against persons with disabilities. The tables
+detail the level and rates of victimization of persons with
+and without disabilities, describes the types of
+disabilities, and compares victim and crime characteristics.
+                              
+
+Age-adjusted rates of violent victimizations
+
+Direct comparisons of the victimization rate between persons
+with and without disabilities without taking into account the
+differences in age distributions between the two populations
+can be misleading. The age distribution of persons with
+disabilities differs considerably from that of persons
+without disabilities, and violent crime victimization rates
+vary significantly with age. To compare rates of violent
+victimization by disability status, an age adjustment method
+was used to handle the differences in age distributions of
+persons with disabilities and without disabilities. According
+to the ACS, persons with disabilities are generally older
+than persons without disabilities. For example, in 2009 about
+41% of persons with disabilities were age 65 or older,
+compared to 11% of persons without disabilities. The age
+adjustment standardizes the rate of violence for persons with
+disabilities to show what the rate against them would be if
+they had the same age distribution of persons without
+disabilities.
+
+In generating the age-adjusted rates, unadjusted rates of
+violent crime by age group were calculated by dividing the
+number of violent incidents against persons with disabilities
+in a specific age group by the number of persons with
+disabilities in that age group. The proportion of the
+particular age group among the number of persons without
+disabilities are calculated and multiplied by the unadjusted
+rate for that age group. This is done for each age group and
+the results are summed, generating the age-adjusted rate.
+Both age-specific rates of violent crime and age distribution
+of the population contribute to the age-adjusted rates
+presented in this report.
+
+In 2010, the unadjusted rate of violent victimization was
+similar for both populations (16 violent victimizations per
+1,000 for persons age 12 or older with disabilities and 15
+violent victimizations per 1,000 persons age 12 or older
+without disabilities). However, the age-adjusted rate of
+violent crime against persons with disabilities (28 violent
+victimizations per 1,000 persons) was higher than the rate
+for persons without disabilities (15 violent victimizations
+per 1,000 persons). (See Methodology for more information.)
+
+Data limitations
+
+The NCVS does not survey persons living in institutions,
+such as adult correctional facilities, nursing facilities, or
+patient hospice facilities. According to the ACS, about 1.6
+million persons age 65 or older living in institutions had
+disabilities. Because persons in these facilities would not
+be covered in the survey, estimates of violence against them
+are not counted. In addition, certain aspects of the NCVS
+design may also contribute to an underestimation of violence
+against persons with disabilities. For details, see
+Limitations of the Estimates in Methodology.
+
+Disability population in the U.S.
+
+In 2009, according to the ACS, an estimated 14% of the
+U.S. population age 12 or older living outside of
+institutions had a disability. Characteristics of the
+population with and without disabilities are compared in
+appendix table 13. Among the noninstitutionalized persons
+with disabilities, 47% were male and 53% were female. Whites
+accounted for 77% of the population with disabilities, blacks
+14%, other races 7%, and multiple races 2%. About 10% were
+Hispanic. Slightly more than 68% of the population with
+disabilities was age 50 or older, compared to 32% in the
+population without disabilities. The sex, race, Hispanic
+origin and age distributions of persons with a disability
+living outside of institutions did not change substantially
+between 2008 and 2009, as measured by the ACS. The 2010
+population estimates for persons with a disability were based
+on the 2009 population distributions. (See Methodology for
+more information.)
+
+-----------------------------------------------------------
+Crime Victims with Disabilities Awareness Act (Public Law
+105-301), 1998 
+
+The Crime Victims with Disabilities Awareness Act mandates
+that the National Crime Victimization Survey (NCVS) include
+statistics on crimes against people with disabilities and
+the characteristics of the victims of those crimes. The act
+was designed "to increase public awareness of the plight
+of victims of crime with developmental disabilities, to
+collect data to measure the magnitude of the problem, and to
+develop strategies to address the safety and justice needs of
+victims of crime with developmental disabilities." Section 5
+of the act directed the Department of Justice to include
+statistics relating to "the nature of crimes against people
+with developmental disabilities; and the specific
+characteristics of the victims of those crimes" in the NCVS.
+
+This is the third report in the Bureau of Justice Statistics
+(BJS)series on crime against people with disabilities. The
+first two reports in this series, Crime Against People with
+Disabilities, 2007 (NCJ 227814) and Crime Against People with
+Disabilities, 2008 (NCJ 231328), are available on the BJS
+Website. Because of changes in the questionnaire, comparisons
+between 2007 data and later years should not be made. (See
+Methodology for more information on changes to the NCVS and
+ACS questionnaires.)
+-----------------------------------------------------------
+
+Summary Findings
+
+Violent crime by type of crime
+
+* In 2010, the age-adjusted violent victimization rate for
+persons with disabilities (28 violent victimizations per
+1,000) was almost twice the rate among persons without
+disabilities (15 violent victimizations per 1,000) (table 2).
+
+* In 2010, serious violence (rape/sexual assault, robbery,
+and aggravated assault) accounted for about 50% of violence
+against persons with disabilities, up from 36% in 2009.
+This increase was driven primarily by a decline in simple
+assaults (down 41%) rather than an increase in serious
+violence.
+
+* Between 2009 and 2010, the number of violent
+victimizations against persons with disabilities dropped
+25%.
+
+* In 2010, the age-adjusted rate of serious violent
+victimization (rape/sexual assault, robbery, and aggravated
+assault) was 16 per 1,000 persons with disabilities,
+compared to 5 per 1,000 for persons without disabilities.
+
+* From 2008 to 2010, the age-adjusted rate of violent crime
+against persons with disabilities decreased from 40 per
+1,000 to 28 per 1,000. By comparison, the rate of violent
+crime against persons without disabilities decreased from
+20 per 1,000 in 2008 to about 15 per 1,000 in 2010.
+
+* In 2010, the age-adjusted rate of simple assault against
+persons with disabilities was 12 per 1,000, compared to a
+rate of 10 per 1,000 for persons without disabilities.
+
+Violent crime rates by victim characteristics
+
+Age
+
+* In 2010, among persons age 12 to 15, persons with
+disabilities had an unadjusted rate of violent victimization
+(61 per 1,000) that was at least twice that of persons
+without disabilities (23 per 1,000) (table 3).
+
+* Between 2008 and 2009, the violent crime rate for persons
+age 12 to 15 with disabilities declined from 135 per 1,000
+to 79 per 1,000.
+
+* In 2010, the unadjusted rate of violent crime against
+persons age 65 or older did not differ by disability status,
+about 2 to 3 victimizations per 1,000 persons.
+
+* From 2009 to 2010, unadjusted violent victimization rates
+declined for persons age 25 to 34 with disabilities (from 51
+per 1,000 to 26 per 1,000).
+
+* From 2009 to 2010, among persons without disabilities,
+the violent crime rates decreased for persons age 12 to 15
+(from 35 per 1,000 to 23 per 1,000) and decreased slightly
+for persons age 35 to 49 (from 15 per 1,000 to 13 per
+1,000).
+
+Sex
+
+* In 2010, for both males and females the age-adjusted rate
+of violent crime was greater for those with disabilities than
+the rate against those without disabilities. The rate for
+males with disabilities was 23 per 1,000, compared to 16
+per 1,000 for males without disabilities; for females with
+disabilities the rate was 26 per 1,000, compared to 15 per
+1,000 for females without disabilities (table 4).
+
+* Among persons with disabilities, females with disabilities
+(26 per 1,000) had a slightly higher age-adjusted rate
+than males with disabilities (23 per 1,000) in 2010;
+among persons without disabilities, males (16 per 1,000)
+and females (15 per 1,000) had similar rates of violent
+victimization.
+
+Race and Hispanic origin
+
+* From 2009 to 2010, among persons with disabilities, the
+age-adjusted rates of violent victimization decreased for
+whites (from 38 per 1,000 to 23 per 1,000), blacks (45 per
+1,000 to 23 per 1,000), Hispanics (33 per 1,000 to 24 per
+1,000), and non-Hispanics (38 per 1,000 to 24 per 1,000).
+
+* In 2010, among whites, other races, and persons of two or
+more races, those with disabilities had higher age-adjusted
+violent victimization rates than those without disabilities:
+whites (23 per 1,000 compared to 15 per 1,000), persons of
+other races* (22 per 1,000 compared to 6 per 1,000), and
+persons of two or more races (93 per 1,000 compared to 22
+per 1,000).
+
+* Among blacks, the age-adjusted rate of violent
+victimization did not differ by disability status in 2010 (23
+per 1,000 blacks with disabilities compared to 23 per 1,000
+blacks without disabilities).
+
+* In 2010, there was no difference in the age-adjusted rate
+of violent crime against whites (23 per 1,000), blacks (23
+per 1,000), and persons of other races 
+Footnote * Persons of other races include American Indians,
+Alaska Natives, Asians, Native Hawaiians, and other Pacific
+Islanders.***(22 per 1,000) with disabilities.
+
+* In 2010, Hispanics and non-Hispanics with disabilities
+had the same age-adjusted violent victimization rate (24
+victimizations per 1,000 persons), and Hispanics and
+non-Hispanics without disabilities had the same rate (15
+victimizations per 1,000 persons).
+
+Types of disabilities
+
+* In 2010, among the disability types measured, persons
+with cognitive disabilities had the highest rate of violent
+victimization (30 per 1,000) (table 5).
+
+* In 2009 and 2010, there were no measurable differences by
+sex in the rates of violent crime by disability type (table
+6).
+
+Among males with disabilities--
+
+* The rate of violent victimization for males with vision
+disabilities increased slightly, from 17 per 1,000 in 2008
+to 29 per 1,000 in 2009. From 2009 to 2010, the violent
+victimization rate for males with vision disabilities
+decreased slightly to 18 per 1,000.
+
+* For males with ambulatory disabilities, the rate of violent
+victimization increased from 11 per 1,000 in 2008 to 20
+per 1,000 in 2009. There was no measurable change in the
+violent victimization rate from 2009 to 2010 (16 per 1,000).
+
+Among females with disabilities--
+
+* Between 2008 and 2009, the rates of violent victimization
+against females with hearing disabilities (19 per 1,000
+compared to 14 per 1,000) did not vary, but it decreased
+slightly from 2009 to 2010 (8 per 1,000).
+
+* There was no measurable difference between the 2008 and
+2009 rates of violent victimization against females with
+vision disabilities (19 per 1,000 to 22 per 1,000); however,
+the rate decreased slightly from 2009 to 2010 (13 per
+1,000).
+
+* For females with ambulatory disabilities, the rate of
+violent victimization increased slightly from 2008 to 2009
+(14 per 1,000 to 21 per 1,000) and decreased from 2009 to
+2010 (11 per 1,000).
+
+* For females with self-care disabilities, the rate of
+violent victimization increased from 2008 to 2009 (9 per
+1,000 to 18 per 1,000). There was no measurable change in the
+2009 and 2010 (13 per 1,000) rate of violent victimization
+against persons with self-care disabilities.
+
+Victim/offender relationship
+
+* In 2010, offenders were strangers to the victim in 33% of
+violent victimizations against persons with disabilities,
+compared to 41% of violent victimizations against persons
+without disabilities (table 7).
+
+* In 2010, intimate partner violence accounted for 13% of
+violence against persons with disabilities, similar to the
+percentage of violence against persons without disabilities
+(14%).
+
+* In 2010, persons with disabilities (40%) were more likely
+than persons without disabilities (31%) to be attacked
+by persons well known to them or who were casual
+acquaintances of the victim.
+
+* The percentage of violence against persons with
+disabilities that was committed by intimate partners rose
+from 15% in 2008 to 23% in 2009 and declined to 13% in 2010;
+for persons without disabilities, this percentage remained
+relatively consistent, from 13% in 2008 to 14% in 2010.
+
+* While the percentage of violence against persons with
+disabilities committed by persons well known to them or
+casual acquaintances of the victim did not change
+significantly between 2008 and 2009, the percentage increased
+slightly from 31% in 2009 to 40% in 2010. The percentage did
+not significantly change from 2008 (32%) to 2010 (31%) for
+persons without disabilities.
+
+* In 2010, in about 17% of violence against persons with
+disabilities, the victim reported that they believed they had
+been targeted due to their disabilities (not shown in table).
+Victim resistance
+
+* In 2010, victims with disabilities (55%) were as likely
+as victims without disabilities (57%) to use any type of
+resistance during a violent crime, including threatening or
+attacking the offender (table 8).
+
+* Between 2009 and 2010, there were no measureable
+differences in the percentage of victims in either disability
+status who resisted their perpetrator; however, between
+2008 and 2009, there was an increase in the percentage of
+victims with disabilities that resisted the offender.
+
+* In 2010, about half of victims with disabilities (46%) or
+without (51%)disabilities used nonconfrontational tactics
+(such as yelling at offender or cooperating with offender)
+in resisting their offender.
+
+* From 2008 to 2010, the percentage of violent crime victims
+with and without disabilities who used nonconfrontational
+tactics decreased slightly.
+
+Offender weapon possession
+
+* In 2010, victimizations against persons with disabilities
+(30%) were more likely than victimizations against persons
+without disabilities (21%) to involve an armed offender
+(table 9).
+
+* The offender was armed with a firearm in about 14%
+of victimizations involving persons with disabilities,
+compared to 8% of victimizations against those without
+disabilities in 2010.
+
+* Among persons with disabilities, the percentage of
+violence in which the victim faced an armed offender
+increased from 20% in 2008 to 30% in 2010.
+
+Victim injury
+
+* In 2010, about a third of victims with and without
+disabilities suffered an injury during the event (table 10).
+
+*Persons with disabilities who were injured during a violent
+victimization (20%) were more likely than persons without
+disabilities (12%) to receive medical treatment in 2010.
+
+* The percentage of violence against persons with
+disabilities in which the victim was injured remained steady
+from 2008 (27%) to 2010 (33%).
+
+* The percentage of violence in which the injured victims
+with disabilities received medical treatment increased from
+11% in 2008 to 20% in 2010.
+
+Police notification and use of non-police victim service
+agencies
+
+* In 2010, about 41% of the violent victimizations against
+persons with disabilities were reported to police, compared
+to about 53% of victimizations against persons without
+disabilities (table 11).
+
+* In 2010, robbery (39%) and aggravated assault (40%)
+against persons with disabilities were less likely to be
+reported to police than similar crimes against persons
+without disabilities (63% reported for robbery and 65% for
+aggravated assault).
+
+* Police notification of serious violence against persons
+with disabilities declined from 62% in 2008 to 42% in
+2010, while police notification of serious violence against
+persons without disabilities remained relatively steady
+(58% in 2008 compared to 62% in 2010).
+
+* In 2010, about 9% of victimizations of persons with
+disabilities used victim service agencies other than the
+police (table 12).
+
+------------------------------------------------------------
+
+List of Tables
+
+Table 1. Violent victimizations, by type of crime and
+disability status, 2008-2010
+
+Table 2. Violent victimization rates, by type of
+victimization and disability status, 2008-2010
+
+Table 3. Violent victimization rates, by age and disability
+status, 2008-2010
+
+Table 4. Violent victimization rates, by sex, race, Hispanic
+origin, and disability status, 2008-2010
+
+Table 5. Violent victimization rates of persons with
+disabilities, by type of crime and type of disability,
+2008-2010
+
+Table 6. Violent victimization rates of persons with
+disabilities, by type of disability and sex, 2008-2010
+
+Table 7. Victim/offender relationship in violent crime, by
+disability status, 2008-2010
+
+Table 8. Victim resistance in violent crime, by disability
+status, 2008-2010
+
+Table 9. Violent crime, by offender weapon type and
+disability status, 2008-2010
+
+Table 10. Injury and medical treatment in violent crime, by
+disability status, 2008-2010
+
+Table 11. Violent crime reported to police, by type of crime
+and disability status, 2008-2010
+
+Table 12. Violent crime in which victims used non-police
+advocacy agencies, by disability status and agency type,
+2008-2010
+-----------------------------------------------------------
+
+************************************************************
+Office of Justice Programs * Innovation  *  Partnerships 
+* Safer Neighborhoods * http://www.ojp.gov
+
+************************************************************
+
+************************************************************
+The Bureau of Justice Statistics is the statistical agency of
+the U.S. Department of Justice. James P. Lynch is director.
+These Statistical Tables were prepared by Erika Harrell,
+Ph.D. Michael Planty verified the report.
+
+Doris J. James and Jill Thomas edited the report, Tina Dorsey
+produced the report, and Jayne E. Robinson prepared the
+report for final printing under the supervision of Doris J.
+James.
+
+October 2011, NCJ 235777
+
+This report in PDF and in ASCII and its related statistical
+data and tables are available at the BJS website:
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=2238.
+
+************************************************************
+10/7/2011/JER/ 3:00pm

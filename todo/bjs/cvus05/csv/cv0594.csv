@@ -1,0 +1,34 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+filename:  cv0594.csv,,,,,,,,,,,,
+"Table 94. Percent of victimizations reported to the police, by type of crime, victim-offender relationship and race of victims",,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,
+
+"Table 94. Violent crimes, 2005: Percent of victimizations reported to the police, by type of crime, victim-offender relationship and race of victims",,,,,,,,,,,,
+,Percent of all victimizations reported to the police,,,,,,,,,,,
+,All victimizations,,,,Involving strangers,,,,Involving nonstrangers,,,
+Type of crime,White only,,Black only,,White only,,Black only,,White only,,Black only,
+Crimes of violence,47.2,%,49.4,%,44.6,%,49.4,%,50.3,%,49.4,%
+   Completed violence,64,,55.1,,63.4,,54.5,,64.6,,55.9,
+   Attempted/threatened violence,40.2,,44.6,,37.3,,43.5,,43.8,,45.3,
+   Rape/Sexual assault/a,44.3,,17.1,*,59.4,*,0,*,30,*,19.1,*
+   Robbery,54.5,,41.9,,47.5,,43.9,,78.2,,32,*
+      Completed/property taken,69.7,,40.3,,64.8,,43.5,,81.7,,22.9,*
+         With injury,74.7,,63.5,*,70.1,,63.5,*,100,*,0,*
+         Without injury,66.1,,33.6,*,59.6,,36.3,*,76.4,,22.9,*
+      Attempted to take property,34.6,,65.8,*,28.8,,50.2,*,69.1,*,100,*
+         With injury,32.9,*,100,*,30.6,*,0,*,51.7,*,100,*
+         Without injury,35.3,,50.2,*,27.9,*,50.2,*,74.3,*,0,*
+   Assault,46.4,,53.8,,43.5,,52.6,,49.4,,54.8,
+      Aggravated,60,,70.8,,55.8,,65.3,,66.1,,76,
+         With injury,74.9,,88.2,,81.7,,79.9,,68.3,,100,*
+         Threatened with weapon,53.9,,60.2,,47.7,,53.2,*,64.8,,65.4,
+      Simple,42.6,,43.9,,39.2,,44,,45.7,,43.8,
+         With minor injury,58.9,,61.7,,53,,55.9,*,63.9,,66.3,
+         Attempted threat without weapon,37.5,,37,,35.2,,39.2,,39.7,,35.5,
+Note: Excludes data on persons with races other than White only and Black only.,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.
+a/Includes verbal threats of rape and threats of sexual assault.

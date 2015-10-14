@@ -1,0 +1,65 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+filename:  cv0552.csv,,,,,,,,,,,,,
+"Table 52. Victimization rates for persons age 12 and over, by type of crime and locality of residence of victims",,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,
+
+"Table 52. Personal crimes, 2005:  Victimization rates for persons age 12 and over, by type of crime and locality of residence of victims",,,,,,,,,,,,,
+,,,,,"Rates per 1,000 persons age 12 and over",,,,,,,,
+,,,Total,,,,"50,000-249,999",,,,"250,000-499,999",,
+Type of crime         ,All areas,,Urban,,Suburban,,Urban,,Suburban,,Urban,,Suburban
+Personal Crimes,22.1,,31.4,,19.1,,32.5,,19.1,,26.9,,17.6
+  Crimes of violence,21.2,,29.8,,18.6,,30.8,,18.8,,25.3,,17.2
+    Completed violence,6.8,,11,,5.2,,10.3,,5.2,,9.5,,4.7
+    Attempted/threatened violence,14.4,,18.8,,13.3,,20.4,,13.6,,15.8,,12.4,
+    Rape/Sexual assault/a,0.8,,1.5,,0.7,,1.4,*,0.5,*,1.5,*,0.4,*
+    Robbery,2.6,,4.7,,1.9,,2.1,,0.8,*,4,,2.5,
+      Completed/property taken,1.7,,3.4,,1.2,,1.6,*,0.5,*,1.8,*,1.3,
+        With injury,0.6,,1.1,,0.4,,0.7,*,0.3,*,0.9,*,0.7,*
+        Without injury,1.1,,2.3,,0.8,,0.9,*,0.2,*,0.9,*,0.6,*
+      Attempted to take property,0.9,,1.3,,0.7,,0.4,*,0.3,*,2.2,*,1.2,
+        With injury,0.3,,0.5,*,0.1,*,0.2,*,0.1,*,1,*,0.1,*
+        Without injury,0.6,,0.8,,0.6,,0.3,*,0.2,*,1.3,*,1.1,*
+    Assault,17.8,,23.6,,16,,27.3,,17.5,,19.8,,14.2,
+      Aggravated,4.3,,6,,3.6,,7.2,,3.5,,3.5,*,2.1,
+        With injury,1.4,,2.3,,1,,3,,1,*,2.5,*,0.6,*
+        Threatened with weapon,3,,3.7,,2.6,,4.2,,2.5,,1,*,1.6,
+      Simple,13.5,,17.6,,12.4,,20.1,,14,,16.4,,12.1,
+        With minor injury,3.3,,4.1,,2.8,,4.6,,3.7,,4.3,,2.8,
+        Without injury,10.3,,13.4,,9.6,,15.4,,10.3,,12.1,,9.4,
+  Purse snatching/ Pocket picking,0.9,,1.6,,0.6,,1.7,*,0.3,*,1.6,*,0.5,*
+Population age 12 and over,"244,493,430",,"67,384,160",,"120,424,060",,"20,001,820",,"36,085,490",,"10,337,180",,"30,315,980",
+,"Rate per 1,000 persons age 12 and over",,,,,,,,,,,,,
+,"500,000-999,999",,,,"1,000,000 or more",,,,,,,,,
+,Urban,,Suburban,,Urban,,Suburban,,Rural,,,,,
+Personal Crimes,37.9,,20.9,,28.4,,18.8,,17.3,,,,,
+  Crimes of violence,36.9,,20,,26.5,,18.1,,16.4,,,,,
+    Completed violence,13.1,,6,,11.1,,4.9,,5,,,,,
+    Attempted/threatened violence,23.8,,14,,15.4,,13.2,,11.4,,,,,
+    Rape/Sexual assault/a,3,,1.3,,0.7,*,0.6,*,0.1,*,,,,
+    Robbery,7.2,,2,,5.8,,2.7,,1.4,,,,,
+      Completed/property taken,5.5,,1.6,,4.3,,1.6,*,0.8,,,,,
+        With injury,1,*,0.2,*,1.6,*,0.5,*,0.3,*,,,,
+        Without injury,4.6,,1.4,,2.7,,1,*,0.4,*,,,,
+      Attempted to take property,1.7,*,0.4,*,1.4,*,1.1,*,0.7,,,,,
+        With injury,0.5,*,0,*,0.7,*,0.3,*,0.3,*,,,,
+        Without injury,1.2,*,0.4,*,0.8,*,0.8,*,0.4,*
+    Assault,26.6,,16.8,,20,,14.9,,14.9,
+      Aggravated,7.2,,4.7,,5.3,,4,,3.8,
+        With injury,2.8,,1.5,,1.3,*,0.9,*,1,
+        Threatened with weapon,4.4,,3.3,,4,,3.1,,2.9,
+      Simple,19.4,,12,,14.7,,10.9,,11,
+        With minor injury,2.1,*,2.5,,4.9,,2,,3.2,
+        Without injury,17.2,,9.6,,9.8,,8.9,,7.9,
+  Purse snatching/Pocket picking,1,*,0.8,*,1.9,,0.7,*,0.9,
+Population age 12 and over,"14,510,310",,"30,877,260",,"22,534,850",,"23,145,320",,"56,685,220",
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,
+"The term ""Urban"" is used to denote ""Central cities.""",,,,,,,,,,
+"The term ""Suburban"" is used to denote ""Outside central cities.""",,,,,,,,,,
+"The term ""Rural"" is used to denote ""Nonmetropolitan areas.""",,,,,,,,,,
+"The population range categories shown for ""Urban"" and ""Suburban"" are based on the size of the core city of a Metropolitan Statistical Area (MSA) and do not reflect the population of the entire MSA.",,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.

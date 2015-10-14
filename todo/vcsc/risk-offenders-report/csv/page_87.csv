@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”,Name: “Table 1 of 1 on page 87 of 141”
+Table: 85,Table: 85,Table: 85,Table: 85,Table: 85,Table: 85,Table: 85,Table: 85,Table: 85,Table: 85,Table: 85,Table: 85,Table: 85,Table: 85
+,,,,,,,,,,,,,
+78,•,Offender Risk Assessment in Virginia,Offender Risk Assessment in Virginia,Offender Risk Assessment in Virginia,Offender Risk Assessment in Virginia,Offender Risk Assessment in Virginia,,,,,,,
+Figure 5.19,Figure 5.19,Figure 5.19,,,,,,,,,,,
+Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Demographic Factors (Recidivism Measured as an Arrest Resulting in Conviction)
+,,Gender,Gender,,,,,Age,,,,,
+,1,,,,,,1,,,,,,
+,,,,,Female,,,,,,,,
+,.9,,,,,,.9,,,,,,
+,,,,,,,,,,,28 and Older,28 and Older,
+,,,,,Male,,,,,,,,
+,.8,,,,,,.8,,,,,,
+,,,,,,,,,,,27 and Younger,27 and Younger,
+,.7,,,,,,.7,,,,,,
+,,0,200,400,600,800,"1,000",0,200,400,600,800,"1,000"
+,,,,,,,Time in Days,,,,,,
+,,Marital Status,Marital Status,,,,,Employment Status,Employment Status,Employment Status,,,
+,1,,,,,,1,,,,,,
+,.9,,,,,,.9,,,,,,
+,,,,,,,,,,,,Unemployed,
+,,,,,Married,,,,,,,,
+,.8,,,,Never Married,Never Married,.8,,,,,Employed,
+,.7,,,,,,.7,,,,,,
+,,0,200,400,600,800,"1,000",0,200,400,600,800,"1,000"
+Figure 5.20,Figure 5.20,Figure 5.20,,,,,,,,,,,
+Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction),Kaplan-Meier Survival Curves for Criminal Factors (Recidivism Measured as an Arrest Resulting in Conviction)
+,,Prior Arrest/Confinement Past 12 Months,Prior Arrest/Confinement Past 12 Months,Prior Arrest/Confinement Past 12 Months,Prior Arrest/Confinement Past 12 Months,Prior Arrest/Confinement Past 12 Months,,Total Felony/Misdemeanor Conv./Adj.,Total Felony/Misdemeanor Conv./Adj.,Total Felony/Misdemeanor Conv./Adj.,Total Felony/Misdemeanor Conv./Adj.,Total Felony/Misdemeanor Conv./Adj.,
+,1,,,,,,1,,,,,,
+,,,,,No Prior Arrest,No Prior Arrest,,,,Less than or equal to 1,Less than or equal to 1,Less than or equal to 1,
+,.9,,,,,,.9,,,,,,
+,,,,,Prior Arrest,Prior Arrest,,,,,,,
+,.8,,,,,,.8,,,1 or more,1 or more,,
+,.7,,,,,,.7,,,,,,
+,,0,200,400,600,800,"1,000",0,200,400,600,800,"1,000"
+,,,,,,,Time in Days,,,,,,
+,,Prior Felony Drug Conv./Adj.,Prior Felony Drug Conv./Adj.,Prior Felony Drug Conv./Adj.,Prior Felony Drug Conv./Adj.,,,Prior Adult Incarcerations,Prior Adult Incarcerations,Prior Adult Incarcerations,Prior Adult Incarcerations,,
+,1,,,,,,1,,,,,,
+,,,,,,,,,,,None,,
+,.9,,,,,,.9,,,,,,
+,,,,,No Prior Drug,No Prior Drug,,,,,,,
+,,,,,,,,,,,1-2,,
+,,,,,Prior Drug,Prior Drug,,,,,,,
+,.8,,,,,,.8,,,,,,
+,,,,,,,,,,,3 or more,3 or more,
+,.7,,,,,,.7,,,,,,
+,,0,200,400,600,800,"1,000",0,200,400,600,800,"1,000"
+,,Note:,"Age, marital status, and employment are not statistically significant.","Age, marital status, and employment are not statistically significant.","Age, marital status, and employment are not statistically significant.","Age, marital status, and employment are not statistically significant.","Age, marital status, and employment are not statistically significant.","Age, marital status, and employment are not statistically significant.",,,,,

@@ -1,0 +1,21 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: mlj07t05.csv,,,,,,,,,,,
+"Table 5. Average annual mortality rate per 100,000 jail inmates, by cause of death and size of jail, 2000–2007",,,,,,,,,,,
+"Report title: Mortality in Local Jails, 2000-2007  NCJ222988",,,,,,,,,,,
+Data source(s): Deaths in Custody Reporting Program and Annual Survey of Jails,,,,,,,,,,,
+Author(s): Margaret E. Noonan,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,,,,,,,
+Date of version: 10-27-2010,,,,,,,,,,,
+,,,,,,,,,,,
+"Table 5. Average annual mortality rate per 100,000 jail inmates, by cause of death and size of jail, 2000–2007",,,,,,,,,,,
+Size of jurisdiction,"Average annual mortality rate, 2000–2007",Suicide,Heart disease,AIDS,Cancer,Liver disease,All other illnesses*,Drug/alcohol intoxication,Accident,Homicide,Other/unknown
+All jails,145,42,32,7,5,4,28,10,4,3,8
+Less than 50 inmates,282,167,33,1,1,2,22,31,11,1,13
+50 to 99,158,69,33,1,1,3,18,17,6,2,8
+100 to 249,115,49,22,1,1,1,16,12,3,2,7
+250 to 499,114,44,25,1,2,3,19,10,3,1,6
+500 to 999,119,37,28,4,4,3,22,7,3,2,8
+"1,000 or more (excluding 50 largest jails)",140,33,33,11,5,5,28,10,4,2,9
+50 largest jails,170,27,41,15,10,7,43,8,5,6,10
+"Note: Detail may not sum to total because some jails did not report an average daily population. The largest jails were the 50 largest jails as of June 30, 2006.",,,,,,,,,,,
+"*Includes other specified (such as influenza, septicemia, diabetes, and hepatitis) and unspecified or unknown illnesses. See appendix tables 2 and 3 of this report for a list of the more than 50 illnesses reported to the program. See Methodology for details on illness classifications.",,,,,,,,,,,

@@ -1,0 +1,34 @@
+Bureau of Justice Statistics,,,,,,,,,,
+filename:  cv0596.csv,,,,,,,,,,
+"Table 96. Percent of victimizations reported to the police, by type of crime and age of victims",,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,
+
+"Table 96. Personal crimes, 2005: Percent of victimizations reported to the police, by type of crime and age of victims",,,,,,,,,,
+,Percent of victimizations reported to the police,,,,,,,,,
+Type of crime, 12-19,,20-34,,35-49,,50-64,,65 and over,
+All personal crimes,34.5,%,47.5,%,58.9,%,49.4,%,66.1,%
+Crimes of violence,35.6,,48,,59.3,,49.2,,68.2,
+   Completed violence,44.4,,69.4,,74.1,,57.6,,100,*
+   Attempted/threatened violence,30.6,,38.2,,52.8,,46.2,,58.8,
+   Rape/Sexual assault/a,33.1,*,29.7,*,62,*,37,*,0,*
+   Robbery,30.9,,52.8,,72,,68.8,,57.7,*
+      Completed/property taken,26.8,*,66.5,,85.3,,85.9,*,100,*
+         With injury,40.3,*,80.5,*,100,,86.4,*,100,*
+         Without injury,18.9,*,63.3,,74.2,,85.4,*,100,*
+      Attempted to take property,44.5,*,33.5,*,39.1,*,42.3,*,0,*
+         With injury,100,*,43.2,*,0,*,52.9,*,0,*
+         Without injury,38.8,*,28.5,*,62.3,*,30.5,*,0,*
+   Assault,36.5,,47.9,,57.6,,47.1,,71.5,
+      Aggravated,57.1,,61.5,,71.7,,56.4,,89.9,*
+         With injury,69.9,,86.9,,71.5,,57.1,*,100,*
+         Threatened with weapon,51.4,,47.8,,71.8,,56.2,,88.9,*
+      Simple,29.6,,43.6,,53.8,,43.9,,58.2,*
+         With minor injury,44.8,,64.7,,71.1,,51.2,*,100,*
+         Without injury,23.8,,36.6,,48.8,,42.5,,51.2,*
+Purse snatching/Pocket picking,0,*,32.5,*,52.3,*,54.2,*,52.2,*
+*Estimate is based on about 10 or fewer sample cases.
+a/Includes verbal threats of rape and threats of sexual assault.

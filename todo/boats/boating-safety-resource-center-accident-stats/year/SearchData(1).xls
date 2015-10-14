@@ -1,0 +1,29 @@
+<div>
+	<table class="gridcontent" cellspacing="0" cellpadding="5" rules="all" bordercolor="#999999" border="1" id="exportgrid" style="border-color:#999999;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+		<tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<td align="center" colspan="5" style="color:Black;">Recreational Boating Statistics by Year for VA 2005-2011</td>
+		</tr><tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<th scope="col">Year</th><th scope="col">Accidents</th><th scope="col">Vessels</th><th scope="col">Injuries</th><th scope="col">Deaths</th>
+		</tr><tr>
+			<td>2005</td><td>127</td><td>178</td><td>88</td><td>14</td>
+		</tr><tr>
+			<td>2006</td><td>137</td><td>178</td><td>92</td><td>23</td>
+		</tr><tr>
+			<td>2007</td><td>145</td><td>195</td><td>108</td><td>12</td>
+		</tr><tr>
+			<td>2008</td><td>95</td><td>127</td><td>56</td><td>17</td>
+		</tr><tr>
+			<td>2009</td><td>137</td><td>166</td><td>91</td><td>27</td>
+		</tr><tr>
+			<td>2010</td><td>102</td><td>131</td><td>82</td><td>14</td>
+		</tr><tr>
+			<td>2011</td><td>121</td><td>145</td><td>96</td><td>21</td>
+		</tr><tr>
+			<td>2012</td><td>89</td><td>105</td><td>63</td><td>15</td>
+		</tr><tr>
+			<td>2013</td><td>64</td><td>79</td><td>44</td><td>11</td>
+		</tr><tr>
+			<td align="right" valign="middle" colspan="5" style="background-color:LightGrey;font-size:8pt;height:20px;">www.uscgboating.org &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/7/2015 3:48:03 AM</td>
+		</tr>
+	</table>
+</div>

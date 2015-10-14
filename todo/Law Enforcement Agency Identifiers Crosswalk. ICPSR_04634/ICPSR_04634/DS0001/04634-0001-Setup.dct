@@ -1,0 +1,67 @@
+dictionary {
+
+*****************************************************************
+* STATA DICTIONARY FOR ICPSR 04634
+* LAW ENFORCEMENT AGENCY IDENTIFIERS CROSSWALK [UNITED
+* STATES], 2005
+*
+* Warning: Edit this file at your own risk
+*
+*****************************************************************
+
+_lines(1)
+
+_line(1)
+
+_column(1)     str2  STATE              %2s    "ALPHA STATE CODE"
+_column(3)     str35 COUNTY             %35s   "COUNTY NAME"
+_column(38)    str150 AGENCY             %150s  "AGENCY NAME"
+_column(188)   int   FSTATE   :FSTATE   %2f    "FIPS STATE CODE"
+_column(190)   int   FCOUNTY  :FCOUNTY  %3f    "FIPS COUNTY CODE"
+_column(193)   long  FPLACE   :FPLACE   %5f    "FIPS PLACE CODE"
+_column(198)   str52 PLACENM            %52s   "PLACE NAME"
+_column(250)   int   FMSA     :FMSA     %4f    "FIPS MSA CODE"
+_column(254)   str65 FMSANAME           %65s   "FIPS MSA NAME"
+_column(319)   long  GOVIDNU  :GOVIDNU  %9f    "GOVERNMENT ID (NUMERIC)"
+_column(328)   str64 GOVNAME            %64s   "GOVERNMENT NAME"
+_column(392)   int   GOVTYPE  :GOVTYPE  %2f    "GOVERNMENT TYPE"
+_column(394)   str16 AGENCYID           %16s   "CENSUS 16 CHARACTER ID (STRING)"
+_column(410)   int   AGENTYPE :AGENTYPE %1f    "TYPE OF AGENCY"
+_column(411)   int   SPECFUNC :SPECFUNC %2f    "SPECIAL FUNCTION"
+_column(413)   int   MULTPLC  :MULTPLC  %1f    "FLAG: AGENCY COVERS MULTIPLE PLACES"
+_column(414)   long  HQCODE   :HQCODE   %8f    "FLAG: HEADQUARTERS LOCATION FIPS"
+_column(422)   str2  CLASSCD            %2s    "ENTITY CLASS CODE (SEE CODEBOOK)"
+_column(424)   long  PARTOFCD           %5f    "ENTITY PART OF CODE"
+_column(429)   str52 PARTOFNM           %52s   "ENTITY PART OF NAME"
+_column(481)   long  OTHCODE            %5f    "OTHER NAME CODE"
+_column(486)   str52 OTHNAME            %52s   "OTHER NAME"
+_column(538)   str7  ORI7               %7s    "ORIGINATING AGENCY IDENTIFIER (7 CHARACTER)"
+_column(545)   str9  ORI9               %9s    "ORIGINATING AGENCY IDENTIFIER (9 CHARACTER)"
+_column(554)   str7  UCOVBY             %7s    "UCR COVERED BY AGENCY ORI"
+_column(561)   int   USTATENO :USTATENO %2f    "UCR STATE NUMBER"
+_column(563)   int   UMULTICO :UMULTICO %1f    "UCR MULTIPLE COUNTY FLAG"
+_column(564)   int   UCNTY1             %3f    "UCR COUNTY NUMBER 1"
+_column(567)   int   UCNTY2             %3f    "UCR COUNTY NUMBER 2"
+_column(570)   int   UCNTY3             %3f    "UCR COUNTY NUMBER 3"
+_column(573)   int   UMSA1              %3f    "UCR MSA NUMBER 1"
+_column(576)   int   UMSA2              %3f    "UCR MSA NUMBER 2"
+_column(579)   int   UMSA3              %3f    "UCR MSA NUMBER 3"
+_column(582)   int   UPOPGRP  :UPOPGRP  %2f    "UCR POPULATION GROUP"
+_column(584)   long  UPOPTOT            %9f    "UCR TOTAL POPULATION COVERED (UPOP1,2,3)"
+_column(593)   long  UPOP1              %9f    "UCR POPULATION COVERED 1"
+_column(602)   long  UPOP2              %9f    "UCR POPULATION COVERED 2"
+_column(611)   long  UPOP3              %9f    "UCR POPULATION COVERED 3"
+_column(620)   int   UDIV     :UDIV     %1f    "DIVISION"
+_column(621)   int   UJUVAGE            %2f    "JUVENILE AGE"
+_column(623)   str1  UCORE              %1s    "CORE CITY"
+_column(624)   long  ULASTUP            %6f    "LAST UPDATED"
+_column(630)   double CPOP     :CPOP     %11f   "CSLLEA 2000 POPULATION"
+_column(641)   float LAT                %12.6f "LATITUDE"
+_column(653)   float LONG               %12.6f "LONGITUDE"
+_column(665)   long  POP                %9f    "POPULATION FOR FIPS PLACE CODE"
+_column(674)   long  HOUSE              %8f    "TOTAL HOUSING UNITS"
+_column(682)   float MILES              %14.6f "TOTAL AREA IN SQUARE MILES"
+_column(696)   long  ZIPCODE            %5f    "ZIP CODE (LOWEST)"
+_column(701)   int   ZIPRANGE           %2f    "ZIP CODE RANGE"
+_column(703)   int   SOURCE   :SOURCE   %1f    "SOURCE OF RECORD"
+}

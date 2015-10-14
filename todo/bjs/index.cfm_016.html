@@ -1,0 +1,2572 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head><script type="text/javascript">/* <![CDATA[ */_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
+_cf_contextpath="";
+_cf_ajaxscriptsrc="/CFIDE/scripts/ajax";
+_cf_jsonprefix='//';
+_cf_websocket_port=8575;
+_cf_flash_policy_port=1243;
+_cf_clientid='394B6B908FFF6DC04CEDB1529681B866';/* ]]> */</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfajax.js"></script>
+ 
+
+
+<title>Bureau of Justice Statistics (BJS) - Measuring the Prevalence of Crime with the National Crime Victimization Survey</title>
+
+    	<meta name="title" content="">
+        <meta name="subject" content="">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <meta name="creator" content="">
+        <meta name="date.created" content="">
+        <meta name="language" scheme="ISO639" content="English">        
+    
+
+
+
+<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+
+
+
+
+
+<!--
+BEGIN FILE /COMMON/HEADERBODY.CFM 
+--->
+
+
+
+
+
+
+<link href="/inc/leftnav.css" rel="stylesheet" type="text/css" media="screen">
+
+<script language="JavaScript" type="text/javascript">
+	version=0
+	if (navigator.appVersion.indexOf("MSIE")!=-1)
+	{
+		temp=navigator.appVersion.split("MSIE")
+		version=parseFloat(temp[1])
+	}
+	if (version>=5.5) 
+	{
+		document.write('<link href="/inc/styles.css" rel="stylesheet" type="text/css" media="screen">');
+	}
+	else
+	{
+		document.write('<link href="/inc/styles_all_brws.css" rel="stylesheet" type="text/css" media="screen">');
+	}
+	
+	function jscheck()
+	{
+	  //alert(document.forms['search_mast_form'].txtKeyword_quick.value);
+	   var varKeyWord = document.forms[0].txtKeyword_quick.value.replace( /^\s*/, "" ).replace( /\s*$/, "" );
+	   if (varKeyWord == '' || varKeyWord.length < 2 || varKeyWord == 'Enter keywords')
+	   {
+		  alert("Please enter at least two characters in the keyword field!"); 
+			return false;
+	   }
+	}
+	
+	
+	function gsacheck()
+	{
+	  //alert(document.forms['search_mast_form'].txtKeyword_quick.value);
+	   var varKeyWord = document.forms[0].q.value.replace( /^\s*/, "" ).replace( /\s*$/, "" );
+	   if (varKeyWord == '' || varKeyWord.length < 2 || varKeyWord == 'Enter keywords')
+	   {
+		  	alert("Please enter at least two characters in the keyword field!"); 
+			return false;
+	   }
+	}
+	
+	
+	
+</script>
+
+
+
+<noscript>
+	<link href="/inc/styles.css" rel="stylesheet" type="text/css" media="screen">
+</noscript>
+
+<link href="/inc/print.css" rel="stylesheet" type="text/css" media="print">
+<script language="JavaScript" type="text/javascript" src="/inc/topnav.js"></script>
+<script language="JavaScript" type="text/javascript" src="/inc/leftnavfly.js"></script>
+<script language="JavaScript" type="text/javascript" src="/inc/jquery-1.2.2.pack.js"></script>
+<script language="JavaScript" type="text/javascript" src="/inc/ddaccordion.js"></script>
+<script language="JavaScript" type="text/javascript" src="/inc/tabs.js"></script>
+<script language="JavaScript" type="text/javascript" src="/inc/date.js"></script>
+<script language="JavaScript" type="text/javascript" src="/inc/dw_event.js"></script>
+<script language="JavaScript" type="text/javascript" src="/inc/dw_cookies.js"></script>
+<script language="JavaScript" type="text/javascript" src="/inc/dw_sizerdx.js"></script>
+
+
+<script type="text/javascript" src="/inc/anylinkmenu.js"></script>
+
+<!-- Joseph (01/20/2010) publication index -->
+<script language="JavaScript" type="text/javascript" src="/inc/browser_detect.js"></script>
+<script language="JavaScript" type="text/javascript" src="/inc/pub_index.js"></script>
+
+<script language="JavaScript" type="text/javascript">dw_Event.add(window, 'load', dw_fontSizerDX.init);</script>
+
+
+<script src="/inc/SpryTabbedPanels.js" type="text/javascript"></script>
+<script src="/inc/SpryAccordion.js" type="text/javascript"></script>
+<script src="/inc/xpath.js" type="text/javascript" ></script>
+<script src="/inc/SpryData.js" type="text/javascript" ></script>
+
+
+
+<script language="JavaScript" type="text/javascript">
+$(document).ready(function(){
+/*			$("#topicLink").mouseover(function() {
+				$("#topicsMenu").show();
+			});
+			
+			$("#topicLink").mouseout(function() {
+				$("#topicsMenu").hide();
+			});
+		
+			
+			$("#topicsMenu").mouseover(function() {
+				$("#topicsMenu").show();
+			});
+			$("#topicsMenu").mouseout(function() {
+				$("#topicsMenu").hide();
+			});	
+*/			
+});
+
+</script>
+
+
+	<link href="/inc/dataanal_styles.css" rel="stylesheet" type="text/css" > 
+
+
+<!--  OJP Banner -->
+<link rel="stylesheet" type="text/css" href="/inc/ojpbanner.css">
+
+<!-- Joseph (01/11/2010) search results sorting and search links -->
+<link href="/inc/tablesorter.css" rel="stylesheet" type="text/css" > 
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34646641-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+	ColdFusion.Ajax.importTag('CFAJAXPROXY');
+/* ]]> */</script>
+</head>
+
+<body onLoad="showPanel(document.getElementById('tab1'), 'panel1');">
+
+
+
+
+
+
+
+
+
+
+<!--googleoff: index-->
+<!--googleoff: snippet-->
+
+
+
+
+<div id="main_heading_print">BJS: Bureau of Justice Statistics<br><br></div>
+
+<span class="ojpbannerarea"><script type="text/javascript" src="/inc/bjs-ojpbanner.js"></script>
+<noscript>
+<p><a href="#">OJP Homepage</a><br>
+<a href="#">Technical &amp; TA</a><br>
+<a href="#">Funding</a><br>
+<a href="#">Newsroom</a><br></p>
+</noscript></span>
+
+<a name="top"></a>
+
+<div id="container_main"> 
+<div id="main_mast"><!-- skip navigation link for main mast --><a href="#skipnav1" title="skip navigation for main mast"><img src="/images/clear.gif" width="1" height="1" alt="" class="skipnav"></a><div id="main_mast_top2_l"><div id="main_mast_top2_r" >
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="right" height="13px;">
+<a href="/" class="main_mast_top2_r_link">Home</a> &nbsp;|&nbsp; <a href="/index.cfm?ty=abu" class="main_mast_top2_r_link">About Us</a> &nbsp;|&nbsp; <a href="/index.cfm?ty=contactus" class="main_mast_top2_r_link">Contact Us</a> &nbsp;|&nbsp; <a href="/help/index.cfm" class="main_mast_top2_r_link">Help</a> &nbsp;|&nbsp; <a href="/index.cfm?ty=atoz" class="main_mast_top2_r_link">A-Z Topic List</a>
+
+</td>
+</tr>
+
+
+
+
+
+<tr><td>
+
+
+
+
+
+
+
+
+<form id="frmSearchGoogle" name="frmSearchGoogle" 
+ action="http://gb1.ojp.usdoj.gov/search" method="GET" 
+
+>
+<table border="0" cellpadding="0" cellspacing="0" id="search_mast_table" align="right">
+<tr>
+<td align="left" valign="bottom">
+
+
+<input type="text" name="q" size="100" maxlength="256" class="search_mast_input" style="width:174px; height:15px;" value="Enter keywords" autocomplete="off"  onFocus="if (this.value=='Enter keywords') {this.value='';} ">
+
+<select name="site" class="search_mast_dropdown">
+<option value="BJS-OJP">All Information Types</option>
+<option  value="bjs_pubs_collection">Publications &amp; Products</option>
+<option  value="bjs_datacoll_collection">Data Collections &amp; Surveys</option>
+<option  value="bjs_topics_collection">Topics</option>
+<option  value="bjs_datatools_collections">Data Analysis Tools</option>
+
+<option  value="bjs_faqs_collection">FAQs</option>
+<option  value="bjs_funding_collection">Solicitations</option>
+</select>
+</td> 
+<td align="left" valign="bottom">
+
+  <input type="hidden" name="client"   value="bjsnew_frontend">
+  <input type="hidden" name="proxystylesheet"   value="bjsnew_frontend">
+  
+  <input type="hidden" name="output" value="xml_no_dtd">
+  
+  <input type="hidden" name="proxyreload" id="proxyreload" value="1">
+   
+   <input type="hidden" name="filter" value="0">
+  <input type="hidden" name="tlen" value="150">
+	
+  <input type="hidden" name="getfields" value="description">
+
+
+</td>
+<td align="right" valign="bottom" width="26">
+  <input name="Go" type="image" src="/images/1_go_bttn.gif" width="22" height="21" alt="Go" class="gobutton" border="0" vspace="0" hspace="6" onClick="return gsacheck()">
+  
+  
+</td>
+<td  class="advancedsearchcell">&nbsp;<br />&nbsp;</td> 
+</tr>
+</table>
+
+</form>
+
+
+
+
+
+
+
+
+
+
+</td></tr></table></div>
+<a href="/"><img src="/images/n_1_main_01.gif" width="533" height="76" alt="Bureau of Justice Statistics (BJS)" border="0" vspace="0" hspace="0"></a></div></div>
+
+    <div id="nav_mast">
+        <div id="nav_mast_inner"><div id="sizer" style="float: right;">
+                <a href="/index.cfm?ty=rss" class="tab" ><img id="Img2" src="/images/rss_icon.jpg"  alt="RSS"  border="0" name="image2" class="print_img" /></a>
+		&nbsp;
+        <a href="#" onClick="window.print()" title="Printer-Friendly"><img src="/images/print_icon.gif" width="15" height="12" alt="Printer-Friendly" border="0" class="print_img"></a>&nbsp;<a class="box_right_print" href="#" onClick="window.print()" title="Printer-Friendly">Print</a>&nbsp;&nbsp;<a class="reset box_right_print" href="#" title="Click for default font" >Text Size:</a>&nbsp;[<a class="decrease box_right_print" href="#" title="Click for small font" >-</a>]&nbsp;[<a class="increase box_right_print" href="#" title="Click for large font" >+</a>]</div><div id="bannerMenu">
+                <ul>
+
+                <li class="first" title="Home"><a href="/" class="top2">Home</a></li>
+                
+                <li class="first" id="topicLink" title="Topics"><a href="##" class="top2">Topics</a>
+                
+                <ul style="width:900px; margin: 0px 0 0 -35px;" >
+                	<li target="_top" class="topnavdd" style="width:900px;border-bottom: 1px solid #999999;">
+                    
+                        
+                        <table width="100%" id="tblMegamenu">
+                         <tr style="vertical-align:top;">
+                        <td  width="250" >
+                        
+  <table id="topicTable" name="topicTable">
+  	<tr>
+    	<td style="padding:5px"><a href="/index.cfm?ty=tp&tid=1">
+        	<span class="DIN black" style="font-size:11px;color:#2767AF;" >Corrections</span></a>
+        </td>
+    </tr>
+    
+    
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=18" style="font-weight:normal; font-size:10px; color: #000000;">Capital Punishment</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=15" style="font-weight:normal; font-size:10px; color: #000000;">Community Corrections (Probation and Parole)</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=19" style="font-weight:normal; font-size:10px; color: #000000;">Deaths in Custody Reporting Program</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=16" style="font-weight:normal; font-size:10px; color: #000000;">Expenditures/Employment</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=12" style="font-weight:normal; font-size:10px; color: #000000;">Local jail inmates and jail facilities</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=20" style="font-weight:normal; font-size:10px; color: #000000;">Prison Rape Elimination Act (Sexual Violence in Correctional Facilities)</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=17" style="font-weight:normal; font-size:10px; color: #000000;">Recidivism</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=14" style="font-weight:normal; font-size:10px; color: #000000;">Special populations</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=13" style="font-weight:normal; font-size:10px; color: #000000;">State and federal prisoners and prison facilities</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=11" style="font-weight:normal; font-size:10px; color: #000000;">Total correctional population</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+    </table>
+
+  <table id="topicTable" name="topicTable">
+  	<tr>
+    	<td style="padding:5px"><a href="/index.cfm?ty=tp&tid=6">
+        	<span class="DIN black" style="font-size:11px;color:#2767AF;" >Federal</span></a>
+        </td>
+    </tr>
+    
+    
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=65" style="font-weight:normal; font-size:10px; color: #000000;">Corrections</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=64" style="font-weight:normal; font-size:10px; color: #000000;">Courts</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=62" style="font-weight:normal; font-size:10px; color: #000000;">Law Enforcement</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=63" style="font-weight:normal; font-size:10px; color: #000000;">Prosecution</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+    </table>
+ 
+                        </td>
+                        <td width="200" >
+                        
+  <table id="topicTable" name="topicTable">
+  	<tr>
+    	<td style="padding:5px"><a href="/index.cfm?ty=tp&tid=2">
+        	<span class="DIN black" style="font-size:11px;color:#2767AF;" >Courts</span></a>
+        </td>
+    </tr>
+    
+    
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=67" style="font-weight:normal; font-size:10px; color: #000000;">Civil Rights</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=45" style="font-weight:normal; font-size:10px; color: #000000;">Civil cases</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=23" style="font-weight:normal; font-size:10px; color: #000000;">Criminal Cases</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=28" style="font-weight:normal; font-size:10px; color: #000000;">Indigent Defense Systems</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=27" style="font-weight:normal; font-size:10px; color: #000000;">Prosecutors Offices</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=30" style="font-weight:normal; font-size:10px; color: #000000;">State Court Caseload Statistics</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=26" style="font-weight:normal; font-size:10px; color: #000000;">State Court Organization</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=29" style="font-weight:normal; font-size:10px; color: #000000;">Tribal courts</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+    </table>
+
+  <table id="topicTable" name="topicTable">
+  	<tr>
+    	<td style="padding:5px"><a href="/index.cfm?ty=tp&tid=9">
+        	<span class="DIN black" style="font-size:11px;color:#2767AF;" >Victims</span></a>
+        </td>
+    </tr>
+    
+    
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=93" style="font-weight:normal; font-size:10px; color: #000000;">Crime characteristics and trends</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=91" style="font-weight:normal; font-size:10px; color: #000000;">NCVS redesign</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=96" style="font-weight:normal; font-size:10px; color: #000000;">Reporting crimes to police</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=97" style="font-weight:normal; font-size:10px; color: #000000;">Special topics</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=95" style="font-weight:normal; font-size:10px; color: #000000;">The Crime event</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=98" style="font-weight:normal; font-size:10px; color: #000000;">Victim Service Organizations</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=92" style="font-weight:normal; font-size:10px; color: #000000;">Victim characteristics</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=94" style="font-weight:normal; font-size:10px; color: #000000;">Victims and offenders</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+    </table>
+ 
+                        </td>
+                        <td width="200" >
+                        
+  <table id="topicTable" name="topicTable">
+  	<tr>
+    	<td style="padding:5px"><a href="/index.cfm?ty=tp&tid=3">
+        	<span class="DIN black" style="font-size:11px;color:#2767AF;" >Crime Type </span></a>
+        </td>
+    </tr>
+    
+    
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=41" style="font-weight:normal; font-size:10px; color: #000000;">Cybercrime</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=35" style="font-weight:normal; font-size:10px; color: #000000;">Drugs and crime</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=36" style="font-weight:normal; font-size:10px; color: #000000;">Gangs</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=37" style="font-weight:normal; font-size:10px; color: #000000;">Hate Crime</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=42" style="font-weight:normal; font-size:10px; color: #000000;">Identity Theft</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=44" style="font-weight:normal; font-size:10px; color: #000000;">Location</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=32" style="font-weight:normal; font-size:10px; color: #000000;">Property Crime</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=31" style="font-weight:normal; font-size:10px; color: #000000;">Violent Crime</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=43" style="font-weight:normal; font-size:10px; color: #000000;">Weapon Use </a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+    </table>
+
+  <table id="topicTable" name="topicTable">
+  	<tr>
+    	<td style="padding:5px"><a href="/index.cfm?ty=tp&tid=4">
+        	<span class="DIN black" style="font-size:11px;color:#2767AF;" >Criminal Justice Data Improvement Program</span></a>
+        </td>
+    </tr>
+    
+    
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=47" style="font-weight:normal; font-size:10px; color: #000000;">National Criminal History Improvement Program</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=48" style="font-weight:normal; font-size:10px; color: #000000;">State Justice Statistics Program</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=49" style="font-weight:normal; font-size:10px; color: #000000;">The NICS Improvement Amendments Act of 2007</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+    </table>
+ 
+                        </td>
+                        <td width="250" >
+                        
+  <table id="topicTable" name="topicTable">
+  	<tr>
+    	<td style="padding:5px"><a href="/index.cfm?ty=tp&tid=7">
+        	<span class="DIN black" style="font-size:11px;color:#2767AF;" >Law Enforcement</span></a>
+        </td>
+    </tr>
+    
+    
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=82" style="font-weight:normal; font-size:10px; color: #000000;">Arrest-Related Deaths</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=76" style="font-weight:normal; font-size:10px; color: #000000;">Campus Law Enforcement</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=81" style="font-weight:normal; font-size:10px; color: #000000;">Community Policing</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=74" style="font-weight:normal; font-size:10px; color: #000000;">Federal Law Enforcement</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=78" style="font-weight:normal; font-size:10px; color: #000000;">Forensic Investigation</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=77" style="font-weight:normal; font-size:10px; color: #000000;">Law Enforcement Training Academies</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=71" style="font-weight:normal; font-size:10px; color: #000000;">Local Police</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=70" style="font-weight:normal; font-size:10px; color: #000000;">Police-Public Contacts</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=72" style="font-weight:normal; font-size:10px; color: #000000;">Sheriffs' Offices</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=80" style="font-weight:normal; font-size:10px; color: #000000;">Special Topics</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+                  <tr>
+                   <td  style="padding-left:10px;padding-top:2px;padding-bottom:2px;">
+                        <a href="/index.cfm?ty=tp&tid=75" style="font-weight:normal; font-size:10px; color: #000000;">Tribal Law Enforcement</a></td>
+                  </tr>  
+                  <tr>
+                       <td height="1px" style="background-color:#ccc"></td>
+                  </tr>
+        
+    </table>
+
+  <table id="topicTable" name="topicTable">
+  	<tr>
+    	<td style="padding:5px"><a href="/index.cfm?ty=tp&tid=5">
+        	<span class="DIN black" style="font-size:11px;color:#2767AF;" >Employment and Expenditure</span></a>
+        </td>
+    </tr>
+    
+    
+    </table>
+
+  <table id="topicTable" name="topicTable">
+  	<tr>
+    	<td style="padding:5px"><a href="/index.cfm?ty=tp&tid=200000">
+        	<span class="DIN black" style="font-size:11px;color:#2767AF;" >Indian Country Justice Statistics</span></a>
+        </td>
+    </tr>
+    
+    
+    </table>
+ 
+                        </td>
+                        </tr>
+                        </table>
+                        
+                        
+
+                   </li>
+                </ul>
+                
+                </li>
+				
+                
+                <li class="first"><a href="/index.cfm?ty=pbo" target="_top" class="top2" title="Publications &amp; Products">Publications &amp; Products</a>
+                <ul class="pubs" style="margin: 0px 0 0 -6px;">
+                    <li><a href="/index.cfm?ty=pbo" target="_top" class="topnavdd">Overview</a></li>
+					
+                    <li><a href="/index.cfm?ty=pbaz" target="_top" class="topnavdd">Alphabetical Index</a></li>
+                    <li><A href="/index.cfm?ty=pbscanned" target="_top" class="topnavdd">Publications Prior to 1995</A></li>
+                    <li><a href="/index.cfm?ty=pbs" target="_top" class="topnavdd">Search</a></li>
+                    <li><img src="/images/arrow_blk.gif" width="8" height="8" alt="Arrow" style="float: right; padding-top: 4px;"><a href="/index.cfm?ty=pba" target="_top" class="topnavdd">View By Topic</a>
+                    <ul>
+                        
+                        <li><a href="/index.cfm?ty=pbtp&tid=1" target="_top" class="topnavdd">Corrections</a></li>
+                        
+                        <li><a href="/index.cfm?ty=pbtp&tid=2" target="_top" class="topnavdd">Courts</a></li>
+                        
+                        <li><a href="/index.cfm?ty=pbtp&tid=3" target="_top" class="topnavdd">Crime Type </a></li>
+                        
+                        <li><a href="/index.cfm?ty=pbtp&tid=4" target="_top" class="topnavdd">Criminal Justice Data Improvement Program</a></li>
+                        
+                        <li><a href="/index.cfm?ty=pbtp&tid=5" target="_top" class="topnavdd">Employment and Expenditure</a></li>
+                        
+                        <li><a href="/index.cfm?ty=pbtp&tid=6" target="_top" class="topnavdd">Federal</a></li>
+                        
+                        <li><a href="/index.cfm?ty=pbtp&tid=200000" target="_top" class="topnavdd">Indian Country Justice Statistics</a></li>
+                        
+                        <li><a href="/index.cfm?ty=pbtp&tid=7" target="_top" class="topnavdd">Law Enforcement</a></li>
+                        
+                        <li class="bannerMenulast"><a href="/index.cfm?ty=pbtp&tid=9" target="_top" class="topnavdd">Victims</a></li>
+                        
+                    </ul></li>
+                    <li><img src="/images/arrow_blk.gif" width="8" height="8" alt="Arrow" style="float: right; padding-top: 4px;"><a href="/index.cfm?ty=pba" target="_top" class="topnavdd">View By Product Type</a>
+                    <ul>
+                        
+                        <li><a href="/index.cfm?ty=pbty&iid=1" target="_top" class="topnavdd">Publications</a></li>
+                        
+                        <li><a href="/index.cfm?ty=pbty&iid=3" target="_top" class="topnavdd">Data Tables</a></li>
+                        
+                        <li class="bannerMenulast"><a href="/index.cfm?ty=pbty&iid=4" target="_top" class="topnavdd">Press Releases</a></li>
+                        
+                    </ul></li>
+                    <li ><a href="/index.cfm?ty=fcp" target="_top" class="topnavdd">Forthcoming&nbsp;Publications & Products</a></li>
+                    <li><a href="/index.cfm?ty=pba" target="_top" class="topnavdd">View All</a></li>
+					<!-- Errata link activated on 12/22/11 by TMK -->
+                    <li class="bannerMenulast"><A href="/errata2.cfm" target="_top" class="topnavdd">Errata</A></li>
+                </ul></li>
+                <li class="first"><a href="/index.cfm?ty=dca" target="_top" class="top2" title="Data Collections">Data Collections</a>
+                <ul style="margin: 0px 0 0 -10px;">    
+                    <li><img src="/images/arrow_blk.gif" width="8" height="8" alt="Arrow" style="float: right; padding-top: 4px;"><a href="/index.cfm?ty=dctp" target="_top" class="topnavdd">View By Topic</a>
+                    <ul>
+                        
+                        <li><a href="/index.cfm?ty=dctp&tid=1" target="_top" class="topnavdd">Corrections</a></li>
+                        
+                        <li><a href="/index.cfm?ty=dctp&tid=2" target="_top" class="topnavdd">Courts</a></li>
+                        
+                        <li><a href="/index.cfm?ty=dctp&tid=3" target="_top" class="topnavdd">Crime Type </a></li>
+                        
+                        <li><a href="/index.cfm?ty=dctp&tid=4" target="_top" class="topnavdd">Criminal Justice Data Improvement Program</a></li>
+                        
+                        <li><a href="/index.cfm?ty=dctp&tid=5" target="_top" class="topnavdd">Employment and Expenditure</a></li>
+                        
+                        <li><a href="/index.cfm?ty=dctp&tid=6" target="_top" class="topnavdd">Federal</a></li>
+                        
+                        <li><a href="/index.cfm?ty=dctp&tid=200000" target="_top" class="topnavdd">Indian Country Justice Statistics</a></li>
+                        
+                        <li><a href="/index.cfm?ty=dctp&tid=7" target="_top" class="topnavdd">Law Enforcement</a></li>
+                        
+                        <li class="bannerMenulast"><a href="/index.cfm?ty=dctp&tid=9" target="_top" class="topnavdd">Victims</a></li>
+                        
+                    </ul></li>
+                    <li class="bannerMenulast"><a href="/index.cfm?ty=dca" target="_top" class="topnavdd">View All</a></li>
+                </ul></li>
+                
+                 <li class="first"><a href="/index.cfm?ty=fun" target="_top" class="top2" title="Funding">Funding</a>
+					<ul class="singleline" style="margin: 0px 0 0 -10px;">
+                        <li><a href="/index.cfm?ty=fun#currentsolicitations" target="_top" class="topnavdd">Solicitations</a></li>
+                        <li class="bannerMenulast"><a href="/content/fellows.cfm" target="_top" class="topnavdd">BJS Visiting Fellows Program</a></li>
+                    </ul>                
+                </li>
+                             
+                
+                <li class="first"><a href="/index.cfm?ty=daa" target="_top" class="top2" title="Data Analysis Tools">Data Analysis Tools</a>
+                <ul  class="singleline" style="margin: 0px 0 0 -10px;">
+					
+                    <li><img src="/images/arrow_blk.gif" width="8" height="8" alt="Arrow" style="float: right; padding-top: 4px;"><a href="/index.cfm?ty=daa" target="_top" class="topnavdd">View Dynamic Tools</a>
+                    <ul>
+						
+						
+						
+
+<style type="text/css" >
+ ul li a	{
+		color: #000000; 
+		font-weight: normal;
+		text-decoration: none;
+	}
+
+
+ ul li ul li a	{
+		color: #000000; 
+		font-weight: normal;
+		text-decoration: none;
+	}
+
+</style>
+
+                        
+							<li 
+							
+                            >
+                            
+							<a  class="topnavdd" target="_top" href = "/index.cfm?ty=datool&surl=/arrests/index.cfm">Arrest Data Analysis Tool Home Page (Updated)</a> 
+							</li>
+						
+						
+						
+                        
+							<li 
+							
+                            >
+                            
+							<a  class="topnavdd" target="_top" href = "/index.cfm?ty=nps">Corrections Statistical Analysis Tool (CSAT) - Prisoners (Updated)</a> 
+							</li>
+						
+						
+						
+                        
+							<li 
+							
+                            >
+                            
+							<a  class="topnavdd" target="_top" href = "/ucrdata">Uniform Crime Reports (UCR) Data Tool</a> 
+							</li>
+						
+						
+						
+                        
+							<li 
+							
+                            >
+                            
+							<a  class="topnavdd" target="_top" href = "/fjsrc">Federal Criminal Case Processing Statistics (FCCPS) (Updated)</a> 
+							</li>
+						
+						
+						
+                        
+							<li 
+							
+                            >
+                            
+							<a  class="topnavdd" target="_top" href = "/index.cfm?ty=nvat">NCVS Victimization Analysis Tool (Updated)</a> 
+							</li>
+						
+						
+						
+                        
+							<li 
+							
+                            >
+                            
+							<a  class="topnavdd" target="_top" href = "/developer/ncvs/index.cfm">National Crime Victimization Survey (NCVS) API</a> 
+							</li>
+						
+						
+						
+                        
+							<li 
+							 class="bannerMenulast"
+                            >
+                            
+							<a  class="topnavdd" target="_top" href = "/index.cfm?ty=datool&surl=/recidivism/index.cfm">Prisoner Recidivism Analysis Tool Home Page</a> 
+							</li>
+						
+						
+						
+                        
+                        
+
+                        
+						
+                    </ul></li>
+                    <li><img src="/images/arrow_blk.gif" width="8" height="8" alt="Arrow" style="float: right; padding-top: 4px;"><a href="/index.cfm?ty=daa" target="_top" class="topnavdd">View By Topic</a>
+                    <ul>
+                        
+                        <li><a href="/index.cfm?ty=datp&tid=1" target="_top" class="topnavdd">Corrections</a></li>
+                        
+                        <li><a href="/index.cfm?ty=datp&tid=2" target="_top" class="topnavdd">Courts</a></li>
+                        
+                        <li><a href="/index.cfm?ty=datp&tid=3" target="_top" class="topnavdd">Crime Type </a></li>
+                        
+                        <li><a href="/index.cfm?ty=datp&tid=4" target="_top" class="topnavdd">Criminal Justice Data Improvement Program</a></li>
+                        
+                        <li><a href="/index.cfm?ty=datp&tid=5" target="_top" class="topnavdd">Employment and Expenditure</a></li>
+                        
+                        <li><a href="/index.cfm?ty=datp&tid=6" target="_top" class="topnavdd">Federal</a></li>
+                        
+                        <li><a href="/index.cfm?ty=datp&tid=200000" target="_top" class="topnavdd">Indian Country Justice Statistics</a></li>
+                        
+                        <li><a href="/index.cfm?ty=datp&tid=7" target="_top" class="topnavdd">Law Enforcement</a></li>
+                        
+                        <li class="bannerMenulast"><a href="/index.cfm?ty=datp&tid=9" target="_top" class="topnavdd">Victims</a></li>
+                        
+                    </ul></li>
+					
+                    <li class="bannerMenulast"><a href="/index.cfm?ty=daa" target="_top" class="topnavdd">View All</a></li>
+                </ul></li>
+                
+
+             	<li class="first"><a href="/index.cfm?ty=abu" target="_top" class="top2" title="About Us">About Us</a>
+                
+            </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+<!--googleon: index-->
+<!--googleon: snippet-->
+
+
+
+
+
+<!--
+END FILE /COMMON/HEADERBODY.CFM 
+--->
+
+
+
+
+
+
+
+<!--  Accordian - Content Area -->
+<script language="JavaScript" type="text/javascript" src="/inc/jquery-1.2.2.pack.js"></script>
+<script language="JavaScript" type="text/javascript" src="/inc/ddaccordion.js"></script>
+<script language="JavaScript" type="text/javascript" >
+//Initialize for Left Navigation Accordian Feature:
+ddaccordion.init({
+	headerclass: "topItem", //Shared CSS class name of headers group
+	//headerclass: "topItemToggleOnly", //change it to make it toggle only, yma
+	contentclass: "subMenu", //Shared CSS class name of contents group
+	collapseprev: true, //Collapse previous content (so only one open at any time)? true/false
+	defaultexpanded: [], //index of content(s) open by default [index1, index2, etc]. [] denotes no content.
+	animatedefault: false, //Should contents open by default be animated into view?
+	persiststate: true, //persist state of opened contents within browser session?
+	toggleclass: ["closedlanguage", "openlanguage"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+	//togglehtml: ["prefix", "<img src='/images/1_plus_icon2.gif' /> ", "<img src='/images/1_minus_icon2.gif' /> "], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+	
+	togglehtml: ["src", "/images/1_plus_icon2.gif", "/images/1_minus_icon2.gif"], //change it to make toggle only, yma
+	
+	animatespeed: "fast" //speed of animation: "fast", "normal", or "slow"
+	,
+	
+	oninit:function(expandedindices){ //custom code to run when headers have initalized
+	//do nothing
+	},
+	
+	onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
+	 if (state=="block" && isuseractivated==false){ //if header is expanded and NOT as the result of the user 's action (click or mouseover)
+	  header.style.backgroundColor="black"
+	  header.style.color="white"
+	 }
+	}
+})
+</script>
+
+<script language="JavaScript" type="text/javascript" >
+
+function unpopupall()
+{
+	var newitem="";
+	var unpopitem="";
+	var msg="";
+	var rightarrow="";	
+	var tempsubmenu_arr=new Array(1);	
+	var submenu1=new Array("11","12","13","14","15","16","17","18","19","20","26","30","27","28","29","23","45","67","31","32","35","36","37","41","42","43","44","47","48","49","62","63","64","65","71","72","74","75","76","77","78","70","82","81","80","91","92","93","94","95","96","97","98");
+	var submenu_arr=new Array(submenu1);		
+	for (var n=0; n<submenu_arr.length; n++)
+	{
+		tempsubmenu_arr=submenu_arr[n];
+		for (var i=0; i<tempsubmenu_arr.length; i++)
+		{
+			newitem=tempsubmenu_arr[i];
+			//alert(newitem);
+			rightarrow="imgsrc" + newitem;
+			unpopitem="popme" + newitem;
+			document.getElementById(newitem).style.backgroundColor=""; 
+			if (document.getElementById(rightarrow)!=null){document.getElementById(rightarrow).style.display="block";}
+			document.getElementById(unpopitem).style.display="none";
+		}
+	}
+}
+</script>
+
+
+
+
+
+<!--googleoff: index-->
+<!--googleoff: snippet-->
+
+
+
+
+
+
+<div id="container_core">
+<!-- ------------------------------------ Left Containers ------------------------------------ -->
+<div id="container_left">
+
+<!-- skip navigation anchor for main mast --><a name="skipnav1" id="skipnav1"></a><!-- skip navigation link for left navigation and links --><a href="#skipnav2" title="skip navigation for left navigation and links"><img src="/images/clear.gif" width="1" height="1" alt="" class="skipnav" /></a>
+
+
+<div id="box_left" style='display:none'>  
+	
+    <div class="navbar">
+                                     
+                <div class="topItem"><img src="/images/1_plus_icon2.gif">&nbsp;<a href="#" class="tlink" onClick="javascript: window.setTimeout(function() {window.location.href='/index.cfm?ty=tp&amp;tid=1';}, 400);
+" >Corrections</a></div>                
+                
+                	<div class="subMenu" style="display:none;">
+                                    
+                    <div class="subItem" id="11" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=11">Total correctional population</a></div>
+                                        
+                    <div class="subItem" id="12" >  
+                     
+                        <a href="JavaScript:popup('popme12');" style="padding-left: 0px;" border="0"><img id="imgsrc12" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme12');" /></a><a href="/index.cfm?ty=tp&amp;tid=12">Local jail inmates and jail facilities</a></div>
+                                        
+                    <div class="subItem" id="13" >  
+                     
+                        <a href="JavaScript:popup('popme13');" style="padding-left: 0px;" border="0"><img id="imgsrc13" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme13');" /></a><a href="/index.cfm?ty=tp&amp;tid=13">State and federal prisoners and prison facilities</a></div>
+                                        
+                    <div class="subItem" id="14" >  
+                     
+                        <a href="JavaScript:popup('popme14');" style="padding-left: 0px;" border="0"><img id="imgsrc14" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme14');" /></a><a href="/index.cfm?ty=tp&amp;tid=14">Special populations</a></div>
+                                        
+                    <div class="subItem" id="15" >  
+                     
+                        <a href="JavaScript:popup('popme15');" style="padding-left: 0px;" border="0"><img id="imgsrc15" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme15');" /></a><a href="/index.cfm?ty=tp&amp;tid=15">Community Corrections (Probation and Parole)</a></div>
+                                        
+                    <div class="subItem" id="16" >  
+                     
+                        <a href="JavaScript:popup('popme16');" style="padding-left: 0px;" border="0"><img id="imgsrc16" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme16');" /></a><a href="/index.cfm?ty=tp&amp;tid=16">Expenditures/Employment</a></div>
+                                        
+                    <div class="subItem" id="17" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=17">Recidivism</a></div>
+                                        
+                    <div class="subItem" id="18" >  
+                     
+                        <a href="JavaScript:popup('popme18');" style="padding-left: 0px;" border="0"><img id="imgsrc18" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme18');" /></a><a href="/index.cfm?ty=tp&amp;tid=18">Capital Punishment</a></div>
+                                        
+                    <div class="subItem" id="19" >  
+                     
+                        <a href="JavaScript:popup('popme19');" style="padding-left: 0px;" border="0"><img id="imgsrc19" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme19');" /></a><a href="/index.cfm?ty=tp&amp;tid=19">Deaths in Custody Reporting Program</a></div>
+                                        
+                    <div class="subItem" id="20" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=20">Prison Rape Elimination Act (Sexual Violence in Correctional Facilities)</a></div>
+                    
+                    </div>
+                    <div class="topItem"><img src="/images/1_plus_icon2.gif">&nbsp;<a href="#" class="tlink" onClick="javascript:window.setTimeout(function() {window.location.href='/index.cfm?ty=tp&amp;tid=2';}, 400);" >Courts</a></div>
+                    
+              		  	<div class="subMenu" style="display:none;">
+               		                    
+                    <div class="subItem" id="26" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=26">State Court Organization</a></div>
+                                        
+                    <div class="subItem" id="30" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=30">State Court Caseload Statistics</a></div>
+                                        
+                    <div class="subItem" id="27" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=27">Prosecutors Offices</a></div>
+                                        
+                    <div class="subItem" id="28" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=28">Indigent Defense Systems</a></div>
+                                        
+                    <div class="subItem" id="29" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=29">Tribal courts</a></div>
+                                        
+                    <div class="subItem" id="23" >  
+                     
+                        <a href="JavaScript:popup('popme23');" style="padding-left: 0px;" border="0"><img id="imgsrc23" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme23');" /></a><a href="/index.cfm?ty=tp&amp;tid=23">Criminal Cases</a></div>
+                                        
+                    <div class="subItem" id="45" >  
+                     
+                        <a href="JavaScript:popup('popme45');" style="padding-left: 0px;" border="0"><img id="imgsrc45" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme45');" /></a><a href="/index.cfm?ty=tp&amp;tid=45">Civil cases</a></div>
+                                        
+                    <div class="subItem" id="67" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=67">Civil Rights</a></div>
+                    
+                    </div>
+                    <div class="topItem"><img src="/images/1_plus_icon2.gif">&nbsp;<a href="#" class="tlink" onClick="javascript:window.setTimeout(function() {window.location.href='/index.cfm?ty=tp&amp;tid=3';}, 400);" >Crime Type </a></div>
+                    
+              		  	<div class="subMenu" style="display:none;">
+               		                    
+                    <div class="subItem" id="31" >  
+                     
+                        <a href="JavaScript:popup('popme31');" style="padding-left: 0px;" border="0"><img id="imgsrc31" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme31');" /></a><a href="/index.cfm?ty=tp&amp;tid=31">Violent Crime</a></div>
+                                        
+                    <div class="subItem" id="32" >  
+                     
+                        <a href="JavaScript:popup('popme32');" style="padding-left: 0px;" border="0"><img id="imgsrc32" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme32');" /></a><a href="/index.cfm?ty=tp&amp;tid=32">Property Crime</a></div>
+                                        
+                    <div class="subItem" id="35" >  
+                     
+                        <a href="JavaScript:popup('popme35');" style="padding-left: 0px;" border="0"><img id="imgsrc35" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme35');" /></a><a href="/index.cfm?ty=tp&amp;tid=35">Drugs and crime</a></div>
+                                        
+                    <div class="subItem" id="36" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=36">Gangs</a></div>
+                                        
+                    <div class="subItem" id="37" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=37">Hate Crime</a></div>
+                                        
+                    <div class="subItem" id="41" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=41">Cybercrime</a></div>
+                                        
+                    <div class="subItem" id="42" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=42">Identity Theft</a></div>
+                                        
+                    <div class="subItem" id="43" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=43">Weapon Use </a></div>
+                                        
+                    <div class="subItem" id="44" >  
+                     
+                        <a href="JavaScript:popup('popme44');" style="padding-left: 0px;" border="0"><img id="imgsrc44" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme44');" /></a><a href="/index.cfm?ty=tp&amp;tid=44">Location</a></div>
+                    
+                    </div>
+                    <div class="topItem"><img src="/images/1_plus_icon2.gif">&nbsp;<a href="#" class="tlink" onClick="javascript:window.setTimeout(function() {window.location.href='/index.cfm?ty=tp&amp;tid=4';}, 400);" >Criminal Justice Data Improvement Program</a></div>
+                    
+              		  	<div class="subMenu" style="display:none;">
+               		                    
+                    <div class="subItem" id="47" >  
+                     
+                        <a href="JavaScript:popup('popme47');" style="padding-left: 0px;" border="0"><img id="imgsrc47" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme47');" /></a><a href="/index.cfm?ty=tp&amp;tid=47">National Criminal History Improvement Program</a></div>
+                                        
+                    <div class="subItem" id="48" >  
+                     
+                        <a href="JavaScript:popup('popme48');" style="padding-left: 0px;" border="0"><img id="imgsrc48" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme48');" /></a><a href="/index.cfm?ty=tp&amp;tid=48">State Justice Statistics Program</a></div>
+                                        
+                    <div class="subItem" id="49" >  
+                     
+                        <a href="JavaScript:popup('popme49');" style="padding-left: 0px;" border="0"><img id="imgsrc49" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme49');" /></a><a href="/index.cfm?ty=tp&amp;tid=49">The NICS Improvement Amendments Act of 2007</a></div>
+                    
+                    </div>
+                    <div class="topItem"><img src="/images/1_plus_icon2.gif">&nbsp;<a href="#" class="tlink" onClick="javascript:window.setTimeout(function() {window.location.href='/index.cfm?ty=tp&amp;tid=5';}, 400);" >Employment and Expenditure</a></div>
+                    
+              		  	<div class="subMenu" style="display:none;">
+               		
+                    </div>
+                    <div class="topItem"><img src="/images/1_plus_icon2.gif">&nbsp;<a href="#" class="tlink" onClick="javascript:window.setTimeout(function() {window.location.href='/index.cfm?ty=tp&amp;tid=6';}, 400);" >Federal</a></div>
+                    
+              		  	<div class="subMenu" style="display:none;">
+               		                    
+                    <div class="subItem" id="62" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=62">Law Enforcement</a></div>
+                                        
+                    <div class="subItem" id="63" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=63">Prosecution</a></div>
+                                        
+                    <div class="subItem" id="64" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=64">Courts</a></div>
+                                        
+                    <div class="subItem" id="65" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=65">Corrections</a></div>
+                    
+                    </div>
+                    <div class="topItem"><img src="/images/1_plus_icon2.gif">&nbsp;<a href="#" class="tlink" onClick="javascript:window.setTimeout(function() {window.location.href='/index.cfm?ty=tp&amp;tid=200000';}, 400);" >Indian Country Justice Statistics</a></div>
+                    
+              		  	<div class="subMenu" style="display:none;">
+               		
+                    </div>
+                    <div class="topItem"><img src="/images/1_plus_icon2.gif">&nbsp;<a href="#" class="tlink" onClick="javascript:window.setTimeout(function() {window.location.href='/index.cfm?ty=tp&amp;tid=7';}, 400);" >Law Enforcement</a></div>
+                    
+              		  	<div class="subMenu" style="display:none;">
+               		                    
+                    <div class="subItem" id="71" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=71">Local Police</a></div>
+                                        
+                    <div class="subItem" id="72" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=72">Sheriffs' Offices</a></div>
+                                        
+                    <div class="subItem" id="74" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=74">Federal Law Enforcement</a></div>
+                                        
+                    <div class="subItem" id="75" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=75">Tribal Law Enforcement</a></div>
+                                        
+                    <div class="subItem" id="76" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=76">Campus Law Enforcement</a></div>
+                                        
+                    <div class="subItem" id="77" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=77">Law Enforcement Training Academies</a></div>
+                                        
+                    <div class="subItem" id="78" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=78">Forensic Investigation</a></div>
+                                        
+                    <div class="subItem" id="70" >  
+                     
+                        <a href="JavaScript:popup('popme70');" style="padding-left: 0px;" border="0"><img id="imgsrc70" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme70');" /></a><a href="/index.cfm?ty=tp&amp;tid=70">Police-Public Contacts</a></div>
+                                        
+                    <div class="subItem" id="82" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=82">Arrest-Related Deaths</a></div>
+                                        
+                    <div class="subItem" id="81" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=81">Community Policing</a></div>
+                                        
+                    <div class="subItem" id="80" >  
+                     
+                        <a href="JavaScript:popup('popme80');" style="padding-left: 0px;" border="0"><img id="imgsrc80" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme80');" /></a><a href="/index.cfm?ty=tp&amp;tid=80">Special Topics</a></div>
+                    
+                    </div>
+                    <div class="topItem"><img src="/images/1_plus_icon2.gif">&nbsp;<a href="#" class="tlink" onClick="javascript:window.setTimeout(function() {window.location.href='/index.cfm?ty=tp&amp;tid=9';}, 400);" >Victims</a></div>
+                    
+              		  	<div class="subMenu" style="display:none;">
+               		                    
+                    <div class="subItem" id="91" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=91">NCVS redesign</a></div>
+                                        
+                    <div class="subItem" id="92" >  
+                     
+                        <a href="JavaScript:popup('popme92');" style="padding-left: 0px;" border="0"><img id="imgsrc92" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme92');" /></a><a href="/index.cfm?ty=tp&amp;tid=92">Victim characteristics</a></div>
+                                        
+                    <div class="subItem" id="93" >  
+                     
+                        <a href="JavaScript:popup('popme93');" style="padding-left: 0px;" border="0"><img id="imgsrc93" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme93');" /></a><a href="/index.cfm?ty=tp&amp;tid=93">Crime characteristics and trends</a></div>
+                                        
+                    <div class="subItem" id="94" >  
+                     
+                        <a href="JavaScript:popup('popme94');" style="padding-left: 0px;" border="0"><img id="imgsrc94" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme94');" /></a><a href="/index.cfm?ty=tp&amp;tid=94">Victims and offenders</a></div>
+                                        
+                    <div class="subItem" id="95" >  
+                     
+                        <a href="JavaScript:popup('popme95');" style="padding-left: 0px;" border="0"><img id="imgsrc95" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme95');" /></a><a href="/index.cfm?ty=tp&amp;tid=95">The Crime event</a></div>
+                                        
+                    <div class="subItem" id="96" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=96">Reporting crimes to police</a></div>
+                                        
+                    <div class="subItem" id="97" >  
+                     
+                        <a href="JavaScript:popup('popme97');" style="padding-left: 0px;" border="0"><img id="imgsrc97" src="/images/flyout_icon.png" width="13" height="11" alt="Click on arrow to view list of topics for this heading" border="0" style="padding-top: 0px; margin-right: 0px; float: right;" onmouseover="JavaScript:popup('popme97');" /></a><a href="/index.cfm?ty=tp&amp;tid=97">Special topics</a></div>
+                                        
+                    <div class="subItem" id="98" >  
+                    
+                        <a href="/index.cfm?ty=tp&amp;tid=98">Victim Service Organizations</a></div>
+                    
+        </div>  
+    </div>    
+
+
+<noscript>
+
+<div class="topItemNoScript">
+<ul>
+
+		<li><a href="/index.cfm?ty=tp&amp;tid=1">Corrections</a></li>
+	
+      	<ul><li><a href="/index.cfm?ty=tp&amp;tid=11">Total correctional population</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=12">Local jail inmates and jail facilities</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=13">State and federal prisoners and prison facilities</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=14">Special populations</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=15">Community Corrections (Probation and Parole)</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=16">Expenditures/Employment</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=17">Recidivism</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=18">Capital Punishment</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=19">Deaths in Custody Reporting Program</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=20">Prison Rape Elimination Act (Sexual Violence in Correctional Facilities)</a></li>
+    
+    	</ul><li><a href="/index.cfm?ty=tp&amp;tid=2">Courts</a>	
+        </li>
+	
+      	<ul><li><a href="/index.cfm?ty=tp&amp;tid=26">State Court Organization</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=30">State Court Caseload Statistics</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=27">Prosecutors Offices</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=28">Indigent Defense Systems</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=29">Tribal courts</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=23">Criminal Cases</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=45">Civil cases</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=67">Civil Rights</a></li>
+    
+    	</ul><li><a href="/index.cfm?ty=tp&amp;tid=3">Crime Type </a>	
+        </li>
+	
+      	<ul><li><a href="/index.cfm?ty=tp&amp;tid=31">Violent Crime</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=32">Property Crime</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=35">Drugs and crime</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=36">Gangs</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=37">Hate Crime</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=41">Cybercrime</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=42">Identity Theft</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=43">Weapon Use </a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=44">Location</a></li>
+    
+    	</ul><li><a href="/index.cfm?ty=tp&amp;tid=4">Criminal Justice Data Improvement Program</a>	
+        </li>
+	
+      	<ul><li><a href="/index.cfm?ty=tp&amp;tid=47">National Criminal History Improvement Program</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=48">State Justice Statistics Program</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=49">The NICS Improvement Amendments Act of 2007</a></li>
+    
+    	</ul><li><a href="/index.cfm?ty=tp&amp;tid=5">Employment and Expenditure</a>	
+        </li>
+	
+		<li><a href="/index.cfm?ty=tp&amp;tid=6">Federal</a></li>
+	
+      	<ul><li><a href="/index.cfm?ty=tp&amp;tid=62">Law Enforcement</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=63">Prosecution</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=64">Courts</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=65">Corrections</a></li>
+    
+    	</ul><li><a href="/index.cfm?ty=tp&amp;tid=200000">Indian Country Justice Statistics</a>	
+        </li>
+	
+		<li><a href="/index.cfm?ty=tp&amp;tid=7">Law Enforcement</a></li>
+	
+      	<ul><li><a href="/index.cfm?ty=tp&amp;tid=71">Local Police</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=72">Sheriffs' Offices</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=74">Federal Law Enforcement</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=75">Tribal Law Enforcement</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=76">Campus Law Enforcement</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=77">Law Enforcement Training Academies</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=78">Forensic Investigation</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=70">Police-Public Contacts</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=82">Arrest-Related Deaths</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=81">Community Policing</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=80">Special Topics</a></li>
+    
+    	</ul><li><a href="/index.cfm?ty=tp&amp;tid=9">Victims</a>	
+        </li>
+	
+      	<ul><li><a href="/index.cfm?ty=tp&amp;tid=91">NCVS redesign</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=92">Victim characteristics</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=93">Crime characteristics and trends</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=94">Victims and offenders</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=95">The Crime event</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=96">Reporting crimes to police</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=97">Special topics</a></li>
+    
+    	<li><a href="/index.cfm?ty=tp&amp;tid=98">Victim Service Organizations</a></li>
+    
+</ul>
+</div>
+</noscript>
+
+<br/>
+
+
+
+
+
+        <div id="popme11" class="flyoutframer" style="top: 180px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme11');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Corrections | Total correctional population</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme12" class="flyoutframer" style="top: 200px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme12');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Corrections | Local jail inmates and jail facilities</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=122">Jail inmate characteristics</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=123">Local jail facility characteristics</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme13" class="flyoutframer" style="top: 220px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme13');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Corrections | State and federal prisoners and prison facilities</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=131">Prison population counts</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=132">Prison inmate characteristics </a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=133">State and federal prison facility characteristics</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=134">Special topics </a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme14" class="flyoutframer" style="top: 240px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme14');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Corrections | Special populations</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=141">Federal Bureau of Prisons</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=142">Jails in Indian Country</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=143">Military</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=144">Territories</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=145">Immigration and Customs Enforcement </a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=146">Juveniles</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme15" class="flyoutframer" style="top: 260px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme15');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Corrections | Community Corrections (Probation and Parole)</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=151">Probation</a></li>
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=1511">Probation population counts</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=1512">Offender characteristics</a></li>
+
+        	</ul>
+        
+    <li><a href="/index.cfm?ty=tp&amp;tid=152">Parole</a></li>
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=1521">Parole population counts</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=1522">Offender characteristics</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=1523">Parole agencies</a></li>
+
+            </ul>
+        
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme16" class="flyoutframer" style="top: 280px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme16');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Corrections | Expenditures/Employment</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=161">Justice Expenditures and Employment data</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=162">Prison Expenditures</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme17" class="flyoutframer" style="top: 300px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme17');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Corrections | Recidivism</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme18" class="flyoutframer" style="top: 320px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme18');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Corrections | Capital Punishment</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=181">Number under sentence of death</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=182">Executions</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme19" class="flyoutframer" style="top: 340px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme19');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Corrections | Deaths in Custody Reporting Program</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=192">Local Jails</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=193">State Prisons</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=194">Federal Prisons</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme20" class="flyoutframer" style="top: 360px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme20');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Corrections | Prison Rape Elimination Act (Sexual Violence in Correctional Facilities)</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme26" class="flyoutframer" style="top: 205px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme26');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Courts | State Court Organization</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme30" class="flyoutframer" style="top: 225px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme30');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Courts | State Court Caseload Statistics</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme27" class="flyoutframer" style="top: 245px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme27');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Courts | Prosecutors Offices</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme28" class="flyoutframer" style="top: 265px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme28');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Courts | Indigent Defense Systems</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme29" class="flyoutframer" style="top: 285px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme29');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Courts | Tribal courts</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme23" class="flyoutframer" style="top: 305px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme23');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Courts | Criminal Cases</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=231">Felony defendants</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=233">Felony Sentences</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=234">Criminal appeals</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=235">Domestic violence cases</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=236">Juvenile defendants</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme45" class="flyoutframer" style="top: 325px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme45');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Courts | Civil cases</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=451">Tort, contract and real property trials</a></li>
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=4511">Medical malpractice trials</a></li>
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=45111">Punitive damages in civil trials</a></li>
+
+        	</ul>
+        
+        	</ul>
+        
+    <li><a href="/index.cfm?ty=tp&amp;tid=452">Civil Appeals</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme67" class="flyoutframer" style="top: 345px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme67');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Courts | Civil Rights</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme31" class="flyoutframer" style="top: 230px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme31');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Crime Type  | Violent Crime</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=311">Homicide</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=317">Rape and Sexual Assault</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=313">Robbery</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=316">Assault</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=314">Stalking/intimidation</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme32" class="flyoutframer" style="top: 250px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme32');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Crime Type  | Property Crime</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=321">Burglary</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=322">Larceny/theft</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=323">Motor vehicle theft</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=324">Cybercrime - Electronic crime</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=326">Identity theft</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme35" class="flyoutframer" style="top: 270px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme35');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Crime Type  | Drugs and crime</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=352">Drug use and crime</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme36" class="flyoutframer" style="top: 290px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme36');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Crime Type  | Gangs</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme37" class="flyoutframer" style="top: 310px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme37');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Crime Type  | Hate Crime</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme41" class="flyoutframer" style="top: 330px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme41');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Crime Type  | Cybercrime</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme42" class="flyoutframer" style="top: 350px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme42');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Crime Type  | Identity Theft</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme43" class="flyoutframer" style="top: 370px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme43');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Crime Type  | Weapon Use </div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme44" class="flyoutframer" style="top: 390px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme44');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Crime Type  | Location</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=444">Schools</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=446">Workplace</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme47" class="flyoutframer" style="top: 255px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme47');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Criminal Justice Data Improvement Program | National Criminal History Improvement Program</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=471">State profiles</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=472">Special projects/collections</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme48" class="flyoutframer" style="top: 275px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme48');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Criminal Justice Data Improvement Program | State Justice Statistics Program</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=481">State profiles</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme49" class="flyoutframer" style="top: 295px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme49');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Criminal Justice Data Improvement Program | The NICS Improvement Amendments Act of 2007</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=491">State profiles</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme62" class="flyoutframer" style="top: 305px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme62');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Federal | Law Enforcement</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme63" class="flyoutframer" style="top: 325px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme63');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Federal | Prosecution</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme64" class="flyoutframer" style="top: 345px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme64');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Federal | Courts</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme65" class="flyoutframer" style="top: 365px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme65');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Federal | Corrections</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme71" class="flyoutframer" style="top: 355px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme71');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Law Enforcement | Local Police</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme72" class="flyoutframer" style="top: 375px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme72');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Law Enforcement | Sheriffs' Offices</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme74" class="flyoutframer" style="top: 395px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme74');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Law Enforcement | Federal Law Enforcement</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme75" class="flyoutframer" style="top: 415px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme75');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Law Enforcement | Tribal Law Enforcement</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme76" class="flyoutframer" style="top: 435px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme76');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Law Enforcement | Campus Law Enforcement</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme77" class="flyoutframer" style="top: 455px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme77');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Law Enforcement | Law Enforcement Training Academies</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme78" class="flyoutframer" style="top: 475px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme78');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Law Enforcement | Forensic Investigation</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme70" class="flyoutframer" style="top: 495px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme70');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Law Enforcement | Police-Public Contacts</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=702">Traffic Stops</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=703">Use of Force</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme82" class="flyoutframer" style="top: 515px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme82');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Law Enforcement | Arrest-Related Deaths</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme81" class="flyoutframer" style="top: 535px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme81');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Law Enforcement | Community Policing</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme80" class="flyoutframer" style="top: 555px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme80');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Law Enforcement | Special Topics</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=801">Aviation Units</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme91" class="flyoutframer" style="top: 380px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme91');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Victims | NCVS redesign</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme92" class="flyoutframer" style="top: 400px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme92');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Victims | Victim characteristics</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=921">Age</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=922">Race/ethnicity</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=923">Sex</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=924">Disabilities</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme93" class="flyoutframer" style="top: 420px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme93');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Victims | Crime characteristics and trends</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=931">Violent crime </a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=932">Property crime</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme94" class="flyoutframer" style="top: 440px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme94');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Victims | Victims and offenders</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=941">Stranger and non-stranger crime</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=942">Offenders demographics</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme95" class="flyoutframer" style="top: 460px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme95');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Victims | The Crime event</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme96" class="flyoutframer" style="top: 480px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme96');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Victims | Reporting crimes to police</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme97" class="flyoutframer" style="top: 500px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme97');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Victims | Special topics</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+        
+        <UL>            
+    
+    <li><a href="/index.cfm?ty=tp&amp;tid=972">Identity theft</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=973">Stalking</a></li>
+
+    <li><a href="/index.cfm?ty=tp&amp;tid=974">School crime</a></li>
+
+            </ul>
+          
+        </td></tr></TABLE></div>
+
+		
+        <div id="popme98" class="flyoutframer" style="top: 520px; width: 350px">
+    
+   
+    <div class="flyoutheader"><div class="flyoutheader_l"><a href="JavaScript:unpopup('popme98');" class="flyoutcloser"><img src="/images/btnClose_16x16_3.gif" width="16" height="16" alt="close window" border="0" class="flyoutclosericon"></a> Victims | Victim Service Organizations</div></div>  
+    <table border=0 class="flywin">
+    	<tr><td valign="top" align="left">
+  
+</td></tr></table></div>
+
+
+</div>  
+
+</div> 
+
+
+
+
+
+<!--googleon: index-->
+<!--googleon: snippet-->
+
+
+
+
+
+
+
+<script>
+document.getElementById('box_left').style.display="";
+</script> 
+
+<div id="container_content"> 
+	<div id="container_right"> 
+
+	</div>
+ 
+	<div id="container_content_5">
+
+
+
+
+
+<!--googleoff: snippet-->
+
+
+
+
+   
+    <div id="box_content_breadcrumbs">        
+                
+            <a href="index.cfm">Home</a> 
+            &nbsp;|&nbsp;<span class="breadcrumbs_link_page">Publication &amp; Product Detail</span> 
+     </div>
+     
+
+
+
+<!--googleon: snippet-->
+
+
+
+     
+     
+     
+  
+
+         
+
+          
+     
+
+<script>    
+function fnGetSelectItem(item)
+{
+  for (i=0;i<item.length;i++)
+  {
+     if (item[i].selected)
+     {
+       
+        return item[i].value;
+     }
+  } 
+  return false;
+}
+</script>
+
+<script type="text/javascript">
+//anylinkmenu.init("menu_anchors_class") //Pass in the CSS class of anchor links (that contain a sub menu)
+anylinkmenu.init("menuanchorclass")
+</script>
+<noscript><font color='Maroon' size='2' face='arial'><strong>
+				&nbsp;&nbsp;This site requires a Javascript-enabled browser, 
+				<a href='/index.cfm?ty=enablejs'>click here</a> for additional information.
+			</strong></font></noscript> 
+
+
+
+
+<!--googleoff: snippet-->
+
+
+
+
+
+<div id="box3_content">
+	
+       
+
+        <div class="box3_content_header">
+		
+            <img src="/images/sm_pub.gif"  alt="Publication">
+		Measuring the Prevalence of Crime with the National Crime Victimization Survey</div>
+		
+        
+	    <div id="box3_content_inside">
+		<p>Janet L. Lauritsen, Ph.D., BJS Visiting Fellow, Maribeth L. Rezey, University of Missouri - St. Louis</p> 
+		<p>September 5, 2013&nbsp;&nbsp;&nbsp;&nbsp;NCJ 241656</p>
+		
+
+
+
+
+<!--googleon: snippet-->
+
+
+
+
+
+		<p><p>Presents comparisons of victimization rates and prevalence rates of nonfatal violent crime and household property crime from 1993 to 2010. The report uses prevalence rates to describe patterns of repeat victimization for violent and property crime and to identify specific population subgroups at the highest risk for repeat victimization. It compares violent victimization and prevalence rates across victim age and sex and according to victim-offender relationships. Data on nonfatal victimizations are from the National Crime Victimization Survey (NCVS), which collects information on nonfatal crimes reported and not reported to the police against persons age 12 or older from a nationally representative sample of U.S. households.</p></p> <p>Highlights:</p><ul>
+    <li>From 1993 to 2010, the decline in violent victimization rates (down 76%) was greater than the decline in prevalence rates (down 63%).</li>
+    <li>The percentage of violent crime victims who experienced two or more victimizations during a year declined from 23% in 1993 to 17% in 2010. In 2010, this 17% accounted for more than half (54%) of all violent victimizations.</li>
+    <li>Victims of intimate partner violence (21%) were more likely to experience repeat victimization within the year than were victims of stranger violence (9%).</li>
+    <li>The proportion of household property crime victims who reported two or more incidents during the year decreased from 25% in 1993 to 18% in 2010. In 2010, the 18% of repeat household victims accounted for about 41% of all household property victimizations.</li>
+</ul>
+
+
+
+
+<!--googleoff: snippet-->
+
+
+
+
+
+        
+        <p><a href = "/content/pub/press/mpcncvspr.cfm">Press Release</a> <br><a href = "/content/pub/pdf/mpcncvs.pdf">PDF</a> (1.18K)<br><a href = "/content/pub/ascii/mpcncvs.txt">ASCII file</a> (55K)<br><a href = "/content/pub/sheets/mpcncvs.zip">Comma-delimited format (CSV)</a> (Zip format)</p>
+		<p><a href="/content/help.cfm">Help for using BJS products</a></p>
+        
+        
+        
+            About the Source Data<br>
+            
+                <a href=index.cfm?ty=dcdetail&iid=245>National Crime Victimization Survey (NCVS)</a><br />
+            
+        
+		<p>To cite this product, use the following link:<br/><a href="http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4759">http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4759</a></p>
+        
+        
+        <p><a href="/index.cfm?ty=pba">View All Publications and Products</a></p>
+	
+	</div>
+</div>
+
+
+
+
+
+<!--googleon: snippet-->
+
+
+
+
+	</div>
+</div>
+
+
+	<br style="clear: both;">   
+    
+	     
+    <div id="box3_content_inside"><div class="backtotop" align="right"><a href="#top"><font size="2">Back to Top</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</div></div>
+    
+    
+    <div id="footer">
+    
+        
+        
+		
+        
+
+
+        <table id="footerBox" align="center">
+            <tr style="vertical-align:top;">
+                <td width="25%">
+                    <h2>Bureau of Justice Statistics</h2>
+                    <p><a href="/index.cfm?ty=abu">About Us</a></p>
+                    <p><a href="/content/dataquality/dataquality.cfm">BJS Data Quality Guidelines</a></p>
+                    <p><a href="/index.cfm?ty=pri">BJS Statistical Principals and Practices</a></p>
+                    <p><a href="/content/scientificintegrity.pdf">Scientific Integrity Statement</a></p>
+                    <p><a href="http://www.ojp.usdoj.gov/about/foia/foia.htm">OJP Freedom of Information Act</a></p>
+                    <p><a href="http://www.usdoj.gov/legalpolicies.htm">Legal Policies and Disclaimers</a></p>
+                    <p><a href="/content/jobs.cfm">Jobs</a></p>
+                </td>
+                <td width="25%">
+                    <h2>Web Site</h2>
+                    <p><a href="/">Home</a></p>
+                    <p><a href="/index.cfm?ty=smp">Site Map</a></p>
+                    <p><a href="/index.cfm?ty=rla">Related Links</a></p>
+                    <p><a href="/index.cfm?ty=qaa">FAQ</a></p>
+                    <p><a href="/index.cfm?ty=tda">Terms and Definitions</a></p>
+                    <p><a href="/help/index.cfm">Help</a></p>
+                    <p><a href="/index.cfm?ty=atoz">A-Z Topical Index</a></p>
+                    <p><a href="http://www.justice.gov/" target="_blank">Department of Justice</a></p>
+                 </td>
+                <td width="25%">
+                    <h2>Partners</h2>
+           			<p><a href="http://www.crimesolutions.gov/">Crime SOLUTIONS.gov</a></p>
+                    <p><a href="http://www.fbi.gov">Federal Bureau of Investigation</a></p>
+                    <p><a href="http://fjsrc.urban.org/">Federal Justice Statistics Resource Center</a></p>
+                    <p><a href="http://www.icpsr.umich.edu/icpsrweb/NACJD/index.jsp">National Archive of Criminal Justice Data (NACJD)</a></p>
+                    <p>&nbsp;</p>
+                </td>
+                <td width="25%">
+                    <h2>Stay Connected</h2>
+                     <p><a href="/index.cfm?ty=contactus">Contact Us</a></p>
+                    <p><a href="/index.cfm?ty=signup">Subscribe to "JUSTSTATS"</a></p>
+                    <p><a href="/index.cfm?ty=rss">BJS RSS Feed</a></p>
+					<p><a href="http://www.usdoj.gov/cgi-bin/outside.cgi?http://service.govdelivery.com/service/multi_subscribe.html?code=USDOJOJP">GOV Delivery: Start, Change or Cancel Your Subscription</a></p>                    
+
+                </td>
+            </tr>
+        </table>
+
+        <p>&nbsp;<p/>
+		
+                    <div class="footer_date">
+                        Page last revised on 12/03/2013
+                    </div>        
+            
+        
+        
+        
+        
+    </div>    
+    
+<!-- ------------------------------------ Footer (end) ------------------------------------ -->
+
+</body>
+</html>
+

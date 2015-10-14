@@ -1,0 +1,816 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+----------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4801
+
+This report is one in a series. More recent editions may be
+available. To view a list of all in the series go to
+http://bjs.gov/index.cfm?ty=pbse&sid=78
+---------------------------------------------------------
+
+****************
+Special Report
+****************
+
+Intimate Partner Violence: Attributes of Victimization, 
+1993–2011
+
+Shannan Catalano, Ph.D., BJS Statistician
+
+This report examines nonfatal intimate partner violence, 
+including rape or sexual assault, robbery, aggravated 
+assault, and simple assault committed by the victim’s 
+current or former spouse, boyfriend, or girlfriend. It 
+focuses on the attributes of intimate partner victimization 
+as measured by the type of crime, type of attack, whether 
+the victim was threatened before the attack, weapon use by 
+the offender, victim injury, and medical treatment received 
+for injuries. The report presents these characteristics as 
+measures of the seriousness or severity of the incident. For 
+example, victimizations involving a physical injury are 
+considered more severe than those without a physical injury. 
+
+The rate of serious intimate partner violence (rape or 
+sexual assault, robbery, and aggravated assault) against 
+females declined by 72%, from 5.9 victimizations per 1,000 
+females age 12 or older in 1994 to 1.6 per 1,000 in 2011 
+(figure 1). The majority of the decline occurred from 1994 
+to 2001, when the rate of serious intimate partner violence 
+against females declined by 59%. The rate fluctuated between 
+2 and 3 victimizations per 1,000 from 2001 to 2011. Similar 
+to the rate of serious intimate partner violence, the rate 
+of simple assault against females by an intimate partner 
+declined by 70%, from 10.3 victimizations per 1,000 females 
+in 1994 to 3.1 per 1,000 in 2011. (See definition of 
+intimate partner violence and crime types in Methodology.)
+
+***********************************************************
+**********
+Highlights
+**********
+
+* From 1994 to 2011, the rate of serious intimate partner 
+violence declined 72% for females and 64% for males.
+
+* Nonfatal serious violence comprised more than a third of 
+intimate partner violence against females and males during 
+the most recent 10-year period (2002-11).
+
+* An estimated two-thirds of female and male intimate 
+partner victimizations involved a physical attack in 2002-
+11; the remaining third involved an attempted attack or 
+verbal threat of harm.
+
+* In 2002–11, 8% of female intimate partner victimizations 
+involved some form of sexual violence during the incident.
+
+* About 4% of females and 8% of males who were victimized by 
+an intimate partner were shot at, stabbed, or hit with a 
+weapon in 2002–11.
+
+* In 2002–11, a larger percentage of male (27%) than female 
+(18%) intimate partner victimizations involved a weapon. 
+
+* In 2002–11, 5% of females and 19% of males were hit by an 
+object their intimate partner held or threw at them.
+
+* An estimated 50% of females victimized by an intimate 
+partner, compared to 44% of males, suffered an injury in 
+2002–11.
+
+* In 2002–11, a greater percentage of female (13%) than male 
+(5%) intimate partner victimizations resulted in a serious 
+injury such as internal injury, unconsciousness, or broken 
+bones.
+
+* An average of 18% of females and 11% of males were 
+medically treated for injuries sustained during intimate 
+partner violent victimizations in 2002–11.
+***********************************************************
+
+One dimension of severity that is not explored here is the 
+repeated nature of these victimizations. A victim who is 
+repeatedly assaulted either by threats or direct physical 
+attacks may be exposed to more severe intimate partner 
+violence than someone who experiences a single 
+victimization, all else being equal. Estimates presented in 
+this report do not address the potentially increased 
+severity of repeated intimate partner violence.
+
+The report presents trend estimates based on 2-year rolling 
+averages centered on the most recent year. For example, 
+estimates reported for 1994 represent the average estimates 
+for 1993 and 1994. For ease of discussion, the report refers 
+to all 2-year estimates by the most recent year. This method 
+generally improves the reliability and stability of estimate 
+comparisons over time. However, estimates based on 2 years 
+of data are still insufficient to present reliable and 
+stable comparisons for some subgroups. For example, the 
+number of males seriously injured by intimate partner 
+violence during a 2-year period is not large enough to 
+produce reliable estimates. For this reason the report 
+focuses on 2-year trends for females only. Other tables in 
+this report focus on a single 10-year aggregate period from 
+2002 through 2011 for females and males. These approaches—
+using rolling averages and aggregating years—increase the 
+reliability and stability of estimates and facilitates 
+comparisons of detailed victimization attributes.
+
+To examine the attributes of intimate partner victimization, 
+it is important to determine how measures of seriousness 
+differ between intimate and nonintimate violence. To enable 
+these comparisons, the aggregate tables also include 
+estimates of nonintimate violent victimization. These 
+comparisons are discussed in Comparing intimate and 
+nonintimate violent victimization of females and males in 
+this report.
+
+The data in this report were drawn from the Bureau of 
+Justice Statistics’ (BJS) National Crime Victimization 
+Survey (NCVS), which collects information on nonfatal 
+victimizations reported and not reported to the police 
+against persons age 12 or older from a nationally 
+representative sample of U.S. households.  For additional 
+estimates not included in this report, see the NCVS 
+Victimization Analysis Tool (NVAT) on the BJS website.
+
+****************************************
+From 1994 to 2011, the rate of serious 
+intimate partner violence against 
+males declined by 64%
+****************************************
+
+For males, the rate of serious intimate partner violence 
+declined by 64%, from 1.1 victimizations per 1,000 in 1994  
+to 0.4 per 1,000 in 2011. Similar to the pattern observed 
+for females, the majority of this decline occurred from 1994 
+to 2001. Rates of serious intimate partner violence against 
+males declined by 71% from 1994 to 2001 and fluctuated 
+between 0.4 and 1.0 victimizations per 1,000 through 2011. 
+
+The rate of simple assault against males by an intimate 
+partner decreased by 44% from 1994 to 2005, from 1.9 
+victimizations per 1,000 males to 1.0 per 1,000, with no 
+further change observed in the trend through 2010. The rate 
+of simple assault against males by an intimate partner 
+increased from 0.7 victimization per 1,000 males age 12 or 
+older in 2010 to 1.1 victimizations per 1,000 in 2011.
+
+****************************************
+In 2002–11, nonfatal serious violence 
+comprised more than a third of intimate 
+partner violence experienced by females 
+and males
+****************************************
+
+From 1994 to 2011, the percentage of serious intimate 
+partner violence experienced by females fluctuated between 
+28% to 42% (figure 2). On average during this period, 
+serious intimate partner violence accounted for more than a 
+third (34%) of intimate violence against females. Following 
+a decline in the percentage of serious intimate partner 
+violence against females between 1994 (36%) and 1996 (28%), 
+no changes were observed through 2002 in the proportion of 
+female intimate partner violence that was serious. After 
+this period of stability, serious intimate violence 
+increased briefly from 33% in 2002 to 42% in 2004. From 2005 
+to 2011, the percentage of serious intimate partner violence 
+against females fluctuated between 28% and 36%.
+
+During the most recent 10-year period (2002–11), aggravated 
+assault accounted for the largest percentage of serious 
+intimate partner violence experienced by females (16%), 
+while rape or sexual assault (10%) and robbery (9%) 
+contributed a similar percentage (table 1).
+
+Serious violent crime accounted for 39% of intimate partner 
+violence committed against males. As for females, aggravated 
+assault (22%) accounted for the largest percentage of 
+serious intimate partner violence against males. However, 
+16% of intimate violence against males was comprised of 
+robbery, while rape or sexual assault accounted for the 
+smallest percentage of intimate partner violence experienced 
+by males (about 1%).
+***********************************************************
+
+****************************************
+A larger percentage of female than male 
+homicide victims were killed by an 
+intimate partner when the offender 
+relationship was known
+****************************************
+
+Although the majority of homicides recorded by the FBI’s 
+Supplementary Homicide Report involved male victims, a 
+larger percentage of females than males were murdered by an 
+intimate partner when the offender relationship was known 
+(table 2). Of the 3,032 homicide incidents involving females 
+in 2010, 39% were committed by an intimate, 37% were 
+committed by a nonintimate, and 24% by an unknown offender. 
+During the same year, of the 10,878 homicide incidents 
+involving males, 3% were committed by an intimate, 48% by a 
+nonintimate, and 50% by an offender with an unknown 
+relationship to the victim.
+
+The classification of a homicide by victim-offender 
+relationship is limited by what is known about the offender. 
+Often the relationship between a victim and the offender is 
+not known when an offender is not identified or apprehended 
+during subsequent criminal investigations. From 1993 to 
+2010, the relationship between the victim and offender was 
+not known or missing in 24% to 32% of homicide incidents 
+involving female victims and 40% to 51% of homicide 
+incidents involving male victims. Homicide is an important 
+factor when examining the attributes of intimate partner 
+violence. However, caution should be exercised when 
+describing victim-offender relationships and homicide due to 
+the limitations of missing data.
+***********************************************************
+
+****************************************
+In 2002–11, about 4% of females and 8% 
+of males victimized by an intimate 
+partner were shot at, stabbed, or hit 
+with a weapon
+****************************************
+
+From 1994 to 2011, the percentage of female victimizations 
+involving a physical attack by an intimate partner 
+fluctuated between 60% and 72% (figure 3). The remainder of 
+these victimizations involved an attempted attack or threat 
+of harm by the offender (not shown in figure). The 
+percentage of female intimate partner victimizations in 
+which the offender threatened a victim before the attack 
+fluctuated between 39% and 63%. 
+
+The percentage of physical attacks and threats prior to the 
+attack followed similar patterns of increase and decrease 
+from 1994 to 1999. From 1999 to 2007, the percentage of 
+physical attacks against female victims of intimate partner 
+violence steadily increased from 62% to 72%, while threats 
+prior to the attack against female victims of intimate 
+partner violence fluctuated between 39% and 63%. From 2007 
+to 2011, both physical attacks (down 16%) and threats of 
+harm (down 30%) against female victims of intimate partner 
+violence decreased.
+
+During the most recent 10-year period (2002-11), about 8% of 
+female intimate partner victimizations included some form of 
+sexual violence (table 3). In 4% of intimate partner 
+victimizations against females, the victim was shot at, 
+stabbed, or hit with a weapon. In approximately 5% of 
+intimate partner violence against females, the victim was 
+hit by an object that her intimate partner held or threw at 
+her. Physical attacks involving hitting, slapping, or 
+knocking the victim down accounted for the largest 
+percentage of intimate partner violence against females 
+(45%). 
+
+For male intimate partner violence, in 8% of the 
+victimizations the victim was shot at, stabbed, or hit with 
+a weapon, while in 19%, the victim was hit by an object that 
+an intimate partner held or threw at him. The most common 
+form of physical attack against male victims of intimate 
+partner violence was being hit, slapped, or knocked down by 
+the offender (43%). In approximately 31% of male intimate 
+partner victimizations that involved a physical attack, the 
+offender threatened the victim with harm prior to the 
+attack.
+
+****************************************
+In 2002–11, about 18% of female and 27% 
+of male intimate partner violence 
+victimizations involved an offender 
+with a weapon
+****************************************
+
+From 1994 to 2011, the percentage of weapon-related intimate 
+partner violence against females fluctuated between 13% and 
+25% (figure 4). The highest percentages were observed in 
+2003 and 2004, when approximately a quarter of females 
+victimized by an intimate faced an offender armed with a 
+weapon. In 2011, 18% of female intimate partner 
+victimizations involved an offender with a weapon, similar 
+to the percentage observed in 1994.
+
+In 2002–11, about 5% of female intimate partner 
+victimizations involved a firearm, 6% involved a knife, and 
+7% involved some other type of weapon (e.g., broken bottle, 
+cookware, or another household object) (table 4). In 
+contrast to females, a weapon was present in a larger 
+percentage (27%) of male intimate partner victimizations. 
+When analyzed by weapon type, intimate partner 
+victimizations against males involving an offender with a 
+knife (11%) accounted for a slightly smaller percentage of 
+violence than those with other types of weapons (15%).
+ 
+****************************************
+In 2002–11, a larger percentage of female
+(13%) than male (5%) intimate partner 
+victimizations resulted in serious physical 
+injury
+****************************************
+
+From 1994 to 2011, the percentage of female intimate partner 
+victimizations resulting in physical injury fluctuated 
+between 42% and 59% (figure 5). Physical injuries suffered 
+by female victims of intimate partner violence decreased 
+from 56% in 1994 to 45% in 1996. From 1999 to 2006, the 
+percentage of females physically injured during intimate 
+partner victimization increased from 47% to a high of 59%. 
+This period of increase was followed by a decrease, and in 
+2011, about 42% of females victimized by an intimate were 
+physically injured during the incident.
+
+In 2002–11, 13% of female intimate partner victimizations 
+resulted in serious physical injury (table 5). Internal 
+injuries, unconsciousness, and broken bones accounted for 
+about 5%; gunshot and knife wounds accounted for 1%; and 
+sexual violence accounted for 7%. Bruises, cuts, and other 
+injuries accounted for 46% of female intimate partner 
+violence. 
+
+During the same period, 44% of male intimate partner 
+victimizations resulted in a physical injury. About 5% of 
+the victimizations resulted in serious physical injury. 
+Gunshot and knife wounds accounted for 2% of serious injury 
+against males. Bruises, cuts, and other injuries accounted 
+for 41% of male intimate partner violence.
+
+****************************************
+In 2002–11, a larger percentage of 
+female (18%) than male (11%) victims were 
+treated for injuries sustained during 
+intimate partner violence
+****************************************
+
+After a brief decrease between 1994 and 1996, the percentage 
+of female intimate partner victimizations in which the 
+victim sought medical treatment was relatively stable from 
+1997 to 2001, fluctuating from 18% to 21% (figure 6). In 
+2003, about 27% of females victimized by an intimate partner 
+received treatment for injuries. The percentage decreased to 
+13% from 2003 to 2009 and then increased to 18% in 2011. 
+
+In 2002–11, an estimated 18% of females victimized by an 
+intimate partner received medical treatment. A similar 
+percentage of females victimized by an intimate partner were 
+treated at the scene, the victim’s home, or the home of a 
+neighbor or friend (8%) or in a formal hospital setting (8%) 
+(table 6). Another 2% of females victimized by an intimate 
+partner received treatment at a medical office, local 
+clinic, or health unit.
+ 
+Compared to females, a smaller percentage (11%) of males 
+victimized by an intimate partner received medical 
+treatment. Of male intimate partner victimizations, 6% 
+received treatment at the scene, the victim’s home, or the 
+home of a neighbor or friend, and 4% were treated in a 
+hospital setting.
+***********************************************************
+
+****************************************
+Comparing intimate and nonintimate 
+violent victimization of females 
+and males
+****************************************
+
+* This section presents aggregated estimates from 2002-11 
+and compares intimate and nonintimate victimization by sex. 
+Serious violence against females accounted for a similar 
+percentage of intimate partner violence (35%) and 
+nonintimate violence (34%) (table 7).
+
+* A larger percentage of males experienced serious violence 
+when victimized by an intimate (39%) than by a nonintimate 
+(32%). 
+
+* A larger percentage of females were physically attacked 
+when victimized by an intimate partner (67%) than by a 
+nonintimate offender (40%). 
+
+* A larger percentage of males were physically attacked when 
+victimized by an intimate partner (65%) than by a 
+nonintimate offender (40%).
+
+* A larger percentage of females were threatened prior to a 
+victimization by an intimate (52%) than a nonintimate (34%) 
+offender.
+
+* A larger percentage of males were threatened prior to a 
+victimization by an nonintimate (39%) than a intimate (31%).
+
+* A larger percentage of females faced an offender with a 
+weapon when victimized by a nonintimate (20%) than by an 
+intimate (18%). No statistically significant differences 
+were detected in the percentage of male intimate and 
+nonintimate victimizations involving weapons.
+ 
+* A larger percentage of females were injured when the 
+offender was an intimate (50%) than a nonintimate (24%).
+  
+* A larger percentage of males were injured when the 
+offender was an intimate (44%) than a nonintimate (22%).
+* A larger percentage of females suffered serious physical 
+injuries when the offender was an intimate (13%) than a 
+nonintimate (5%).
+
+* A similar percentage of males suffered serious physical 
+injuries whether the offender was an intimate (5%) or a 
+nonintimate (4%).
+
+* A larger percentage of females sought treatment for their 
+injuries when victimized by an intimate partner (18%) than a 
+nonintimate offender (10%).
+
+* A similar percentage of males sought treatment for 
+injuries when victimized by an intimate (11%) or a 
+nonintimate (10%).
+***********************************************************
+
+****************
+Methodology 
+****************
+
+The National Crime Victimization Survey (NCVS) is a data 
+collection conducted by the U.S. Census Bureau for the 
+Bureau of Justice Statistics (BJS). The NCVS is a self-
+report survey in which interviewed persons are asked about 
+the number and characteristics of victimizations experienced 
+during the past 6 months. The NCVS collects information on 
+nonfatal personal crimes (rape or sexual assault, robbery, 
+aggravated assault, and simple assault) and property crimes 
+(burglary, larceny-theft, arson, motor vehicle theft, and 
+other theft) both reported and not reported to police. In 
+addition to providing annual level and change estimates on 
+criminal victimization, the NCVS is the primary source of 
+information on the nature of criminal victimization 
+incidents. Survey respondents provide information about 
+themselves (such as age, sex, race and ethnicity, marital 
+status, education level, and income) and whether they 
+experienced victimization. Information is collected for each 
+victimization incident about the offender (such as age, race 
+and ethnicity, sex, and victim-offender relationship), 
+characteristics of the crime (including time and place of 
+occurrence, use of weapons, nature of injury, and economic 
+consequences), whether the crime was reported to police, 
+reasons the crime was or was not reported, and experiences 
+with the criminal justice system. 
+
+The NCVS is administered to persons age 12 or older from a 
+nationally representative sample of households in the United 
+States. The NCVS defines a household as a group of members 
+who all reside at a sampled address. Persons are considered 
+household members when the sampled address is their usual 
+place of residence at the time of the interview and when 
+they have no usual place of residence elsewhere. Once 
+selected, households remain in the sample for 3 years, and 
+eligible persons in these households are interviewed every 6 
+months for a total of seven interviews. New households 
+rotate into the sample on an ongoing basis to replace 
+outgoing households that have been in the sample for the 3-
+year period. The sample includes persons living in group 
+quarters, such as dormitories, rooming houses, and religious 
+group dwellings, and excludes persons living in military 
+barracks and institutional settings, such as correctional or 
+hospital facilities, and the homeless. (For more detail, see 
+the Survey Methodology for Criminal Victimization in the 
+United States, 2008, NCJ 231173, BJS website, May 2011.) 
+
+In 2011, about 143,120 persons age 12 or older from 79,800 
+households across the country were interviewed during the 
+year. The response rate was 88% of eligible individuals and 
+90% of eligible households. Victimizations that occurred 
+outside of the United States were excluded from this report. 
+From 1993 to 2011, 291 (0.7%) of the total 43,805 unweighted 
+nonfatal violent victimizations occurred outside of the 
+United States and were excluded from the analysis. 
+
+Weighting adjustments for estimating 
+personal victimization 
+****************************************
+
+Estimates in this report use data from the 1993 to 2011 NCVS 
+data files weighted to produce annual estimates of 
+victimization for persons age 12 or older living in U.S. 
+households. Because the NCVS relies on a sample rather than 
+a census of the entire U.S. population, weights are designed 
+to inflate sample point estimates to known population totals 
+and to compensate for survey nonresponse and other aspects 
+of the sample design. 
+
+The NCVS data files include both person and household 
+weights. Household weights provide an estimate of the total 
+U.S. household population. Person weights provide an 
+estimate of the population represented by each person in the 
+sample. Person weights are most frequently used to compute 
+estimates of criminal victimizations of persons in the total 
+population. Both household and person weights, after proper 
+adjustment, are also used to form the denominator in 
+calculations of crime rates. 
+
+Victimization weights used in this analysis account for the 
+number of persons present during an incident and for repeat 
+victims of series incidents. The weight counts series 
+incidents as the actual number of incidents reported by the 
+victim, up to a maximum of 10 incidents. Series 
+victimizations are similar in type but occur with such 
+frequency that a victim is unable to recall each individual 
+event or to describe each event in detail. Survey procedures 
+allow NCVS interviewers to identify and classify these 
+similar victimizations as series victimizations and to 
+collect detailed information on only the most recent 
+incident in the series. In 2011, about 3% of all 
+victimizations were series incidents. Weighting series 
+incidents as the number of incidents up to a maximum of 10 
+incidents produces more reliable estimates of crime levels, 
+while the cap at 10 minimizes the effect of extreme outliers 
+on the rates. Additional information on the series 
+enumeration is detailed in Methods for Counting High-
+Frequency Repeat Victimizations in the National Crime 
+Victimization Survey, NCJ 237308, BJS website, April 2012.
+ 
+Standard error computations
+**************************************** 
+
+When national estimates are derived from a sample, as is the 
+case with the NCVS, caution must be taken when comparing one 
+estimate to another estimate or when comparing estimates 
+over time. Although one estimate may be larger than another, 
+estimates based on a sample have some degree of sampling 
+error. The sampling error of an estimate depends on several 
+factors, including the amount of variation in the responses, 
+the size of the sample, and the size of the subgroup for 
+which the estimate is computed. When the sampling error 
+around the estimates is taken into consideration, the 
+estimates that appear dif
+ferent may, in fact, not be 
+statistically different. 
+One measure of the sampling error associated with an 
+estimate is the standard error. The standard error can vary 
+from one estimate to the next. In general, for a given 
+metric, an estimate with a small standard error provides a 
+more reliable approximation of the true value than an 
+estimate with a large standard error. Estimates with 
+relatively large standard errors are associated with less 
+precision and reliability and should be interpreted with 
+caution. 
+
+In order to generate standard errors around estimates from 
+the NCVS, the Census Bureau produced generalized variance 
+function (GVF) parameters for BJS. The GVFs take into 
+account aspects of the NCVS complex sample design and 
+represent the curve fitted to a selection of individual 
+standard errors based on the Jackknife Repeated Replication 
+technique. The GVF parameters were used to generate standard 
+errors for each point estimate (such as counts, percentages, 
+and rates) in the report. For average annual estimates, 
+standard errors were based on the ratio of the sums of 
+victimizations and respondents across years. 
+
+In this report, BJS conducted tests to determine whether 
+differences in estimated numbers and percentages were 
+statistically significant once sampling error was taken into 
+account. Using statistical programs developed specifically 
+for the NCVS, all comparisons in the text were tested for 
+significance. The primary test procedure used was Student’s 
+t-statistic, which tests the difference between two sample 
+estimates. To ensure that the observed differences between 
+estimates were larger than might be expected due to sampling 
+variation, BJS set the significance level at the 95% 
+confidence level. 
+
+Data users can use the estimates and the standard errors of 
+the estimates provided in this report to generate a 
+confidence interval around the estimate as a measure of the 
+margin of error. The following example illustrates how 
+standard errors can be used to generate confidence 
+intervals: 
+
+* According to the NCVS, in 2011, the rate intimate partner 
+violence against females was 4.7 victimizations per 1,000 
+females age 12 or older (see appendix table 1). Using the 
+GVFs, BJS determined that the estimate has a standard error 
+of 0.32 (see appendix table 2). A confidence interval around 
+the estimate was generated by multiplying the standard error 
+by ±1.96 (the t-score of a normal, two-tailed distribution 
+that excludes 2.5% at either end of the distribution). 
+Therefore, the confidence interval around the 4.7 estimate 
+from 2011 is 4.7 ± .63 (0.32 X 1.96) or (4.07 to 5.33). In 
+other words, if different samples using the same procedures 
+were taken from the U.S. population in 2011, 95% of the time 
+the rate of intimate partner victimization against females 
+would fall between 4.07 and 5.33 per 1,000. 
+
+In this report, BJS also calculated a coefficient of 
+variation (CV) for all estimates, representing the ratio of 
+the standard error to the estimate. CVs provide a measure of 
+reliability and a means to compare the precision of 
+estimates across measures with differing levels or metrics. 
+In cases where the CV was greater than 50% or the unweighted 
+sample had 10 or fewer cases, the estimate was noted with a 
+“!” symbol (interpret data with caution; estimate is based 
+on 10 or fewer sample cases, or the coefficient of variation 
+exceeds 50%).
+
+Many of the variables examined in this report may be related 
+to one another and to other variables not included in the 
+analyses. Complex relationships among variables were not 
+fully explored in this report and warrant more extensive 
+analysis. Readers are cautioned not to draw causal 
+inferences based on the results presented. 
+
+Intimate partner violence and crime 
+types defined
+****************************************
+
+As defined in the NCVS, intimate partner violence includes 
+rape or sexual assault, robbery, aggravated assault, and 
+simple assault (see definitions below) committed by an 
+offender who is the victim’s current or former spouse, 
+boyfriend, or girlfriend. For some victims, intimates are 
+primarily restricted to boyfriends and girlfriends. Others 
+may be inclined to perceive romantic relationships as 
+friends or acquaintances rather than ascribing the level of 
+intimacy associated with a boyfriend or girlfriend. 
+Therefore, the characteristics of intimate partner violence 
+as defined in this report may differ based on how the 
+respondent perceives the relationship with the offender.
+Crime types defined
+
+Rape--Unlawful penetration of a person against the will of 
+the victim, with use or threatened use of force, or 
+attempting such an act. Includes psychological coercion and 
+physical force. Forced sexual intercourse means vaginal, 
+anal, or oral penetration by the offender. Also includes 
+incidents where penetration is from a foreign object, such 
+as a bottle. Includes male and female victims, and both 
+heterosexual and same-sex rape. Attempted rape includes 
+verbal threats of rape. (Rape and sexual assault are 
+combined into one victimization measure.)
+
+Robbery--The unlawful taking or attempted taking of property 
+that is in the immediate possession of another, by force or 
+threat of force, with or without a weapon, and with or 
+without injury. 
+
+Aggravated assault--An attack or attempted attack with a 
+weapon, regardless of whether the victim is injured, or an 
+attack without a weapon when serious injury results. 
+
+Simple assault--An attack or attempted attack without a 
+weapon that results in either no injury, minor injury (e.g., 
+bruises, black eyes, cuts, scratches, or swelling) or an 
+undetermined injury requiring less than 2 days of 
+hospitalization
+
+Attacks, attempted attacks, and 
+threats of harm
+****************************************
+
+The NCVS used a two-part screening strategy. First, a 
+screener was administered to a respondent, and if a 
+potential crime was identified, a detailed incident form was 
+then administered to the respondent to gather additional 
+detail on the characteristics of the incident. The details 
+gathered by the incident form were used in an algorithm that 
+subsequently classified the event into specific crime types. 
+During administration of the detailed incident form, 
+respondents were asked a series of questions regarding 
+attacks, attempted attacks, and threats of harm that they 
+may have experienced during the crime. Respondents were 
+first asked whether a physical attack occurred, and if so, 
+the nature of the physical attack. For this report, response 
+options for the type of attack in the NCVS were combined 
+into similar categories of physical attack. See survey 
+questions below.
+
+Q. 24. Did the offender hit you, knock you down or actually 
+attack you in any way? 
+Yes
+No
+
+Q. 29a.­ How were you attacked?
+Respondents who were attacked were asked if the offender 
+threatened them prior to the attack: 
+
+Q. 30a. Did the offender THREATEN to hurt you before you 
+were actually attacked?
+Yes
+No
+Other
+
+Victims who were attacked were not subsequently asked 
+detailed information regarding the type of threat that 
+preceded the attack. In addition, it is not possible to 
+ascertain from the survey whether the threat of harm 
+immediately preceded the attack or whether the victim was 
+threatened days, weeks, or even months earlier.
+
+Victims who were not physically attacked were subsequently 
+asked if the offender attempted to attack them or threatened 
+them with harm. The victim was then asked to describe the 
+nature of the attempted attack or threat. These 
+victimizations are excluded from estimates of intimate 
+partner violence involving physical attacks.
+
+Methodological changes to 
+the NCVS in 2006 
+****************************************
+
+Methodological changes implemented in 2006 may have affected 
+the crime estimates for that year to such an extent that 
+they are not comparable to estimates from other years. 
+Evaluation of 2007 and later data from the NCVS conducted by 
+BJS and the Census Bureau found a high degree of confidence 
+that estimates for 2007, 2008, 2009, 2010, and 2011 are 
+consistent with and comparable to estimates for 2005 and 
+previous years. For more information, see Criminal 
+Victimization, 2006, NCJ 219413, BJS website, December 2007; 
+Criminal Victimization, 2007, NCJ 224390, BJS website, 
+December 2008; Criminal Victimization, 2008, NCJ 227777, BJS 
+website, September 2009; Criminal Victimization, 2009, NCJ 
+231327, BJS website, October 2010; Criminal Victimization, 
+2010, NCJ 235508, BJS website, September 2011; and Criminal 
+Victimization, 2011, NCJ 239437, BJS website, October 2012. 
+
+Although caution is warranted when comparing data from 2006 
+to other years, the combination of 2-year rolling averages 
+and 10 years of aggregated data in this report diminishes 
+the potential variation between 2006 and later years. Slight 
+increases are observed when comparing averaged 2005–06 and 
+2006–07 estimates. However, these increases do not change 
+the findings when the long-term trends are examined. The 
+effect of 2006 methodological changes on the aggregated 2002 
+to 2011 analyses is less pronounced. In general, findings do 
+not change significantly if the year 2006 is excluded from 
+the analysis. The 2002 to 2011 average annual number of 
+intimate partner victimizations, attacks by an intimate 
+partner, and injuries sustained during intimate partner 
+violence were not significantly different from the annual 
+averages when 2006 data were excluded.
+ 
+FBI’s Supplementary Homicide Reports (SHR)
+**************************************** 
+
+The homicide data in this report are from the FBI’s 
+Supplementary Homicide Reports (SHR), which are a part of 
+the Uniform Crime Reporting (UCR) program. Supplemental data 
+about homicide incidents are submitted monthly with details 
+on location, victim, and offender characteristics. These 
+reports include information on the reporting agency and its 
+residential population, county and Metropolitan Statistical 
+Area (MSA) codes, geographical division, and population 
+group; on the age, race, and sex of victims and offenders; 
+and on the victim-offender relationship, weapon use, and 
+circumstance of the crime. From 1993 to 2010, contributing 
+agencies provided supplemental data for 282,009 (or 88.7%) 
+of the estimated 318,098 homicides.
+
+Homicide includes murder and nonnegligent manslaughter, or 
+the willful killing of one human being by another. This 
+report excludes deaths caused by negligence, suicide, or 
+accident; justifiable homicides; and attempts to murder. 
+These homicide data are based solely on police 
+investigation, as opposed to the determination of a court, 
+medical examiner, coroner, jury, or other judicial body. Not 
+all agencies that report offense information to the FBI also 
+submit supplemental data on homicides. To compensate for 
+nonreported homicides, BJS weighted the total number of 
+homicide victims included in the SHR data to match the FBI’s 
+state and national estimates of the total number of homicide 
+victims.
+
+***********************************************************
+The Bureau of Justice Statistics, located in the Office of 
+Justice Programs, U.S. Department of Justice, collects, 
+analyses, and disseminates statistical information on crime, 
+criminal offenders, victims of crime, and the operation of 
+justice systems at all levels of government. William J. 
+Sabol is acting director. 
+
+This report was written by Shannan Catalano. Jennifer Truman 
+verified the report.
+
+Vanessa Curto and Morgan Young edited the report. Barbara 
+Quinn produced the report.
+
+November 2013, NCJ 243300
+***********************************************************
+
+***********************************************************
+Office of Justice Programs
+Innovation • Partnerships • Safer Neighborhoods
+www.ojp.usdoj.gov
+***********************************************************
+
+**********************
+11/6/2013/JER/ 12:40
+**********************

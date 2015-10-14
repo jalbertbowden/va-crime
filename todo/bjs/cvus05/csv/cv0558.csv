@@ -1,0 +1,75 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,
+filename:  cv0558.csv,,,,,,,,,,,,,,
+"Table 58. Victimization rates by type of crime, region and locality of residence",,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,
+
+"Table 58. Property crimes, 2005: Victimization rates by type of crime, region and locality of residence",,,,,,,,,,,,,,
+                                                                                           ,"Rate per 1,000 households",,,,,,,,,,,,,
+,All regions,,,,,,,Northeast,,,,,,
+Type of crime,All areas,Urban ,,Suburban,,Rural,,All areas,,Urban ,,Suburban,,Rural
+Property crimes,154,200,,141.4,,125.1,,103.9,,130.9,,96.2,,81.1
+  Household burglary,29.5,37.7,,24.7,,29.4,,18.1,,24.8,,14.9,,16.6
+    Completed,24.8,31.1,,20.8,,25.2,,14.9,,19.9,,12.4,,13.9
+      Forcible entry,9.1,13,,7,,8.8,,6.5,,8.6,,5.7,,5.3,*
+      Unlawful entry without force,15.6,18,,13.8,,16.5,,8.4,,11.3,,6.6,,8.6,*
+    Attempted forcible entry,4.7,6.7,,3.9,,4.2,,3.3,,4.9,*,2.5,*,2.7,*
+  Motor vehicle theft,8.4,12.7,,7.7,,4.6,,5.9,,11,,4.5,,1.4,*
+    Completed,6.6,10,,6.3,,3.2,,4.2,,8.2,,3.4,,0,*
+    Attempted,1.7,2.8,,1.4,,1.3,,1.7,*,2.9,*,1.2,*,1.4,*
+  Theft,116.2,149.6,,109,,91.1,,79.9,,95.1,,76.8,,63.1,
+    Completed,112,142.9,,105,,89.6,,78.1,,92.1,,75.3,,62.5,
+       Less than $50,34.8,41.9,,32.9,,30.3,,25.9,,28.1,,25.3,,24.2,
+       $50 - $249,39.8,53.7,,34.8,,33.1,,27.5,,33,,25.8,,23.4,
+       $250 or more,27.6,35.5,,27.4,,18.7,,14.2,,17.6,,14.1,,8.3,*
+       Amount not available,9.8,11.8,,9.9,,7.4,,10.5,,13.4,,10.2,,6.5,*
+     Attempted,4.2,6.7,,4,,1.5,,1.8,,2.9,*,1.5,*,0.6,*
+Total number of households,"117,110,800","33,045,250",,"56,101,350",,"27,964,200",,"21,191,890",,"6,350,350",,"11,101,200",,"3,740,340",
+,"Rate per 1,000 households",,,,,,,,,,,,,,
+,Midwest,,,,,,,South,,,,,,,
+Type of crime,All areas,Urban ,,Suburban,,Rural,,All areas,,Urban ,,Suburban,,Rural,
+Property crimes,155.8,203.9,,140.7,,138.8,,146.8,,214.5,,136.1,,105.6,
+  Household burglary,34.8,49.2,,25.4,,36.9,,31.3,,45.1,,25.2,,28.9,
+    Completed,29,38.1,,22.4,,31.1,,26.6,,37.7,,21.7,,24.8,
+      Forcible entry,10.1,17.5,,7,,8.4,,10.9,,17.9,,8,,9.4,
+      Unlawful entry without force,18.9,20.5,,15.4,,22.7,,15.7,,19.8,,13.7,,15.3,
+    Attempted forcible entry,5.8,11.1,,3,,5.8,,4.7,,7.4,,3.5,,4.2,
+  Motor vehicle theft,6.8,11.3,,5.2,,5.6,,7.2,,11.5,,7.5,,2.8,*
+    Completed,5.3,8.2,,4.1,,4.6,,5.8,,9.5,,6.3,,1.9,*
+    Attempted,1.5,3,*,1,*,1.1,*,1.4,,2,*,1.3,*,0.9,*
+  Theft,114.1,143.4,,110.1,,96.2,,108.4,,157.9,,103.3,,73.8,
+    Completed,109.2,134.5,,104.9,,94.9,,105,,151.3,,100.2,,72.8,
+       Less than $50,36.9,44.4,,35.9,,32.2,,31.8,,45,,30.4,,22.6,
+       $50 - $249,40.8,53.2,,36.7,,36.7,,37.5,,56.4,,34.6,,25.7,
+       $250 or more,21.9,29,,21.5,,16.7,,27.6,,38.8,,27,,18.9,
+       Amount not available,9.7,7.9,,10.8,,9.3,,8.1,,11.1,,8.1,,5.5,
+     Attempted,5,8.8,,5.2,,1.4,*,3.4,,6.6,,3.1,,1,*
+Total number of households,"27,836,820","6,891,510",,"12,511,970",,"8,433,340",,"42,851,180",,"10,698,980",,"19,723,360",,"12,428,840",
+,"Rate per 1,000 households",,,,,,,,,,,,,,
+,West,,,,,,,,,,,,,,
+Type of crime,All areas,Urban ,,Suburban,,Rural,,,,,,,,,
+Property crimes,206.5,228.5,,189.5,,211.7,,,,,,,,,
+  Household burglary,30.3,29.4,,31.8,,26.9,,,,,,,,,
+    Completed,25.3,25.7,,25.3,,24.5,,,,,,,,,
+      Forcible entry,7.2,6.9,,6.5,,10.8,*,,,,,,,,
+      Unlawful entry without force,18.1,18.8,,18.7,,13.7,,,,,,,,,
+    Attempted forcible entry,4.9,3.7,*,6.5,,2.4,*,,,,,,,,
+  Motor vehicle theft,14.1,16.5,,13,,11.9,,,,,,,,,
+    Completed,11.5,13.2,,11,,8.5,*,,,,,,,,
+    Attempted,2.6,3.3,*,2,*,3.3,*,,,,,,,,
+  Theft,162.2,182.6,,144.7,,172.9,,,,,,,,,
+    Completed,155.5,174.8,,138.2,,168.5,,,,,,,,,
+       Less than $50,45.2,46.1,,40.4,,60.9,
+       $50 - $249,52.8,65.3,,41.3,,62.4,
+       $250 or more,45.2,49,,45.1,,34.7,
+       Amount not available,12.3,14.4,,11.3,,10.4,*
+     Attempted,6.7,7.8,,6.5,,4.4,*
+Total number of households,"25,230,910","9,104,400",,"12,764,830",,"3,361,680",
+Note: Detail may not add to total shown because of rounding.,,,,,,,
+"The term ""Urban"" is used to denote ""Central cities.""",,,,,,,
+"The term ""Suburban"" is used to denote ""Outside central cities.""",,,,,,,
+"The term ""Rural"" is used to denote ""Nonmetropolitan areas.""",,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,

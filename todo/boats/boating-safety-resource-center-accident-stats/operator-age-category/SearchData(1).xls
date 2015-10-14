@@ -1,0 +1,27 @@
+<div>
+	<table class="gridcontent" cellspacing="0" cellpadding="5" rules="all" bordercolor="#999999" border="1" id="exportgrid" style="border-color:#999999;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+		<tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<td align="center" colspan="4" style="color:Black;">Recreational Boating Statistics by Operator Age Category for VA 2005-2011</td>
+		</tr><tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<th scope="col">Operator Age Category</th><th scope="col">Vessels</th><th scope="col">Injuries</th><th scope="col">Deaths</th>
+		</tr><tr>
+			<td>-No Operator-</td><td>6</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>12 years and under</td><td>6</td><td>9</td><td>1</td>
+		</tr><tr>
+			<td>13 to 18 years</td><td>77</td><td>58</td><td>6</td>
+		</tr><tr>
+			<td>19 to 25 years</td><td>152</td><td>101</td><td>9</td>
+		</tr><tr>
+			<td>26 to 35 years</td><td>194</td><td>128</td><td>21</td>
+		</tr><tr>
+			<td>36 to 55 years</td><td>496</td><td>292</td><td>60</td>
+		</tr><tr>
+			<td>Over 55 years</td><td>236</td><td>112</td><td>39</td>
+		</tr><tr>
+			<td>Unknown</td><td>137</td><td>20</td><td>18</td>
+		</tr><tr>
+			<td align="right" valign="middle" colspan="4" style="background-color:LightGrey;font-size:8pt;height:20px;">www.uscgboating.org &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/7/2015 3:46:09 AM</td>
+		</tr>
+	</table>
+</div>

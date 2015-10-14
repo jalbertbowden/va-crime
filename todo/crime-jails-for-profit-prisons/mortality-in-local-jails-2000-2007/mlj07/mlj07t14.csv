@@ -1,0 +1,24 @@
+Bureau of Justice Statistics,,,,
+Filename: mlj07t14.csv,,,,
+"Table 14. Suicide rates in U.S. population and local jails, by sex, race, and Hispanic origin, 2000–2006",,,,
+"Report title: Mortality in Local Jails, 2000-2007  NCJ 222988",,,,
+"Data source(s): Deaths in Custody Reporting Program, Center for Disease Control and Prevention, National Center for Injury Prevention and Control, and 2002 Survey of Inmates in Local Jails ",,,,
+Author(s): Margaret E. Noonan,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,
+Date of version: 10-27-2010,,,,
+,,,,
+"Table 14. Suicide rates in U.S. population and local jails, by sex, race, and Hispanic origin, 2000–2006",,,,
+,,"Average annual suicide rate per 100,000",,
+,,Jail inmates,,
+,,Unadjusted,Age-adjusted/a,U.S. resident population
+,All/b,42,57,13
+Male/b,,45,59,21
+,White ,83,126,22
+,Black,18,20,12
+,Hispanic,30,32,11
+Female/b,,28,27,5
+,White,55,45,6
+,Black ,9,7,2
+,Hispanic,26,21,2
+"a/Adjustment based on age distribution in U.S. resident population by sex, race, and Hispanic origin. See Methodology for more information on calculation of age-adjusted rates.",,,,
+b/Includes other racial groups not shown in detail.,,,,

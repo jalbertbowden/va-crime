@@ -1,0 +1,40 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,
+filename:  cv05102x.csv,,,,,,,,,,,,,,,,,
+"Table 102x. Percent of reasons for not reporting victimizations to the police, by type of crime (continued)",,,,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,,,
+
+"Table 102x. Personal and property crimes, 2005: Percent of reasons for not reporting victimizations to the police, by type of crime (continued)",,,,,,,,,,,,,,,,,
+,,Percent of reasons for not reporting,,,,,,,,,,,,,,,
+Type of crime,Number of reasons for not reporting,Not aware crime occurred until later,,Unable to recover property; no ID no.,,Lack of proof,,Police would not want to be bothered,,"Police inefficient ineffective, or biased",, Fear of reprisal,,Too inconvenient or time consuming,,Other reasons,
+All personal crimes,"3,447,480",0.8,%*,0.8,%*,5.2,%,5.8,%,3.9,%,3.7,%,4,%,16.3,%
+Crimes of violence,"3,271,670",0.5,*,0.6,*,4.7,,5.5,,4,,3.8,,4.2,,16.7,
+   Completed violence,"828,580",0.8,*,1.7,*,6.9,,8.2,,6.9,,5,,3.3,*,24.2,
+   Attempted/threatened violence,"2,443,100",0.3,*,0.2,*,3.9,,4.6,,3,,3.4,,4.6,,14.1,
+   Rape/Sexual assault/a,"142,410",0,*,0,*,0,*,13.5,*,4,*,3.2,*,1.7,*,33.7,
+   Robbery,"392,510",1.7,*,4.6,*,17.5,,9.9,,7.7,*,1.2,*,6.4,*,14.2,
+      Completed/property taken,"229,230",3,*,6.3,*,15.3,*,14.1,*,9.6,*,2,*,6.9,*,13.1,*
+         With injury,"60,390",11.3,*,6.3,*,26.9,*,8.1,*,6.8,*,0,*,8.1,*,21.2,*
+         Without injury,"168,840",0,*,6.2,*,11.2,*,16.2,*,10.6,*,2.7,*,6.4,*,10.2,*
+      Attempted to take property,"163,280",0,*,2.3,*,20.6,*,4.1,*,5,*,0,*,5.7,*,15.6,*
+         With injury,"38,960",0,*,9.7,*,29,*,0,*,0,*,0,*,8.5,*,8,*
+         Without injury,"124,320",0,*,0,*,18,*,5.3,*,6.6,*,0,*,4.9,*,18,*
+   Assault,"2,736,760",0.3,*,0,*,3.1,,4.4,,3.5,,4.2,,4.1,,16.2,
+      Aggravated,"497,490",0,*,0,*,7,*,1.9,*,4.4,*,4.2,*,6.5,*,12.5,
+      Simple,"2,239,270",0.4,*,0,*,2.2,,5,,3.3,,4.2,,3.5,,17,
+Purse snatching/Pocket picking,"175,810",7.8,*,5.1,*,16.2,*,11.1,*,1.8,*,1.7,*,0,*,8.4,*
+All property crimes,"14,073,950",5.6,%,7.4,%,13,%,8.7,%,2.9,%,0.6,%,3.9,%,10.4,%
+Household burglary,"2,023,280",7.6,,7.9,,16.4,,7.8,,4.5,,0.9,*,3.9,,12.2,
+   Completed,"1,710,040",7.8,,9.4,,16.7,,7.9,,4.2,,1,*,4.4,,12.7,
+      Forcible entry,"381,430",5.3,*,9.5,*,15.9,,9.5,*,6.6,*,2.2,*,7,*,18.8,
+      Unlawful entry without force,"1,328,610",8.5,,9.4,,17,,7.5,,3.5,,0.7,*,3.7,,10.9,
+   Attempted forcible entry,"313,240",6.4,*,0,*,14.8,,7.4,*,6.7,*,0,*,0.9,*,9.2,*
+Motor vehicle theft,"211,600",4.8,*,2.3,*,9,*,7.9,*,6.2,*,4.4,*,4.1,*,13.8,*
+   Completed,"81,870",0,*,6,*,7.1,*,3.7,*,9.5,*,11.3,*,8,*,21.4,*
+   Attempted,"129,730",7.8,*,0,*,10.2,*,10.5,*,4.2,*,0,*,1.7,*,9,*
+Theft,"11,839,070",5.3,,7.5,,12.5,,8.9,,2.6,,0.5,,3.9,,10,
+   Completed,"11,455,860",5.3,,7.7,,12.7,,8.9,,2.5,,0.5,,3.9,,9.9,
+   Attempted,"383,210",5.3,*,0,*,7.4,*,9.3,*,3.2,*,0.7,*,2.8,*,12,

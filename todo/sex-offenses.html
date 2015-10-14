@@ -1,0 +1,126 @@
+<?php
+
+require_once("year-vars.php");
+require_once("../page-meta.php");
+
+$titleVar = $titleIIEA;
+
+require_once("../page-vars.php");
+require_once("../../dev/parsecsv/parsecsv.lib.php");
+require_once("../header.php");
+
+$csv00 = new parseCSV();
+$csv00->auto("data/forcible-sex-offenses-1999-relationship-of-victim-to-offender.csv");
+$csv01 = new parseCSV();
+$csv01->auto("data/forcible-sex-offenses-1999-resident-status-of-victim.csv");
+$csv02 = new parseCSV();
+$csv02->auto("data/forcible-sex-offenses-1999-how-suspect-left-the-scene.csv");
+$csv03 = new parseCSV();
+$csv03->auto("data/forcible-sex-offenses-1999-by-day-of-week-and-time-of-day.csv");
+$csv04 = new parseCSV();
+$csv04->auto("data/forcible-sex-offenses-1999-victim-age-gender-and-race.csv");
+$csv05 = new parseCSV();
+$csv05->auto("data/forcible-sex-offenses-1999-offender-age-gender-and-race.csv");
+ 
+// data/forcible-sex-offenses-1999.ods
+// data/forcible-sex-offenses-1999.xlsx
+
+?>
+      <main>
+        <section id="river" role="main">
+          <h1><?php echo $docTitle; ?> &#45; <?php echo $htmlH1Branding; ?></h1>
+          <h2><a id="fso-relationship" href="#nogo"><?php echo $themeForcibleSexOffenses[0]; ?></a></h2>
+          <table>
+            <?php // echo $tableCaptionCitation; 
+            ?>
+            <thead><tr><?php foreach ($csv00->titles as $value): ?>
+		<th><?php echo $value; ?></th>
+		<?php endforeach; ?></tr>
+	    </thead>
+	    <tbody>
+	<?php foreach ($csv00->data as $key => $row): ?>
+	<tr><?php foreach ($row as $value): ?>
+		<td><?php echo $value; ?></td>
+		<?php endforeach; ?>
+	</tr>
+	<?php endforeach; ?>
+	    </tbody>
+	  </table>
+	  <h2><a id="fso-resident-status" href="#nogo"><?php echo $themeForcibleSexOffenses[1]; ?></a></h2>
+	  <table>
+	    <thead>
+	      <tr><?php foreach ($csv01->titles as $value): ?>
+		<th><?php echo $value; ?></th>
+		<?php endforeach; ?>
+	      </tr>
+	    </thead>
+	    <tbody>
+	<?php foreach ($csv01->data as $key => $row): ?>
+	      <tr><?php foreach ($row as $value): ?>
+		<td><?php echo $value; ?></td>
+		<?php endforeach; ?>
+	      </tr>
+	<?php endforeach; ?>
+	    </tbody>
+	  </table>
+          <h2><a id="fso-how-suspect-fled" href="#nogo"><?php echo $themeForcibleSexOffenses[2]; ?></a></h2>
+          <table>
+            <?php // echo $tableCaptionCitation; 
+            ?>
+            <thead><tr><?php foreach ($csv02->titles as $value): ?>
+		<th><?php echo $value; ?></th>
+		<?php endforeach; ?></tr>
+	    </thead>
+	    <tbody>
+	<?php foreach ($csv02->data as $key => $row): ?>
+	<tr><?php foreach ($row as $value): ?>
+		<td><?php echo $value; ?></td>
+		<?php endforeach; ?>
+	</tr>
+	<?php endforeach; ?>
+	    </tbody>
+	  </table>
+	  <h2><a id="id-day-and-time" href="#nogo"><?php echo $themeForcibleSexOffenses[3]; ?></a></h2>
+	  <table>
+	    <thead>
+	      <tr><?php foreach ($csv03->titles as $value): ?>
+		<th><?php echo $value; ?></th>
+		<?php endforeach; ?>
+	      </tr>
+	    </thead>
+	    <tbody>
+	<?php foreach ($csv03->data as $key => $row): ?>
+	      <tr><?php foreach ($row as $value): ?>
+		<td><?php echo $value; ?></td>
+		<?php endforeach; ?>
+	      </tr>
+	<?php endforeach; ?>
+	    </tbody>
+	  </table>
+	  <h2><a id="agr-victim" href="#nogo"><?php echo $themeForcibleSexOffenses[4]; ?></a></h2>
+	  <table>
+	    <thead><tr><th rowspan="2">Race&#47;Age</th><th colspan="3">Male</th><th colspan="3">Female</th></tr><tr><th>0-18</th><th>19-35</th><th>36+</th><th>0-18</th><th>19-35</th><th>36+</th></tr></thead>
+	    <tbody>
+	      <tr><td>White</td><td>255</td><td>34</td><td>17</td><td>1158</td><td>470</td><td>202</td></tr>
+	      <tr><td>Black</td><td>105</td><td>9</td><td>6</td><td>434</td><td>182</td><td>73</td></tr>
+	      <tr><td>Am. Ind./Alskn</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td></tr>
+	      <tr><td>Asian/Pacfc Isl.</td><td>1</td><td>0</td><td>0</td><td>8</td><td>10</td><td>2</td></tr>
+	      <tr><td>Unknown</td><td>9</td><td>0</td><td>0</td><td>20</td><td>7</td><td>0</td></tr>
+	      <tr><td>Total</td><td>370</td><td>43</td><td>23</td><td>1621</td><td>670</td><td>277</td></tr>
+	    </tbody>
+	  </table>
+	  <h2><a id="agr-offender" href="#nogo"><?php echo $themeForcibleSexOffenses[5]; ?></a></h2>
+	  <table>
+	    <thead><tr><th rowspan="2">Race&#47;Age</th><th colspan="3">Male</th><th colspan="3">Female</th></tr><tr><th>0-18</th><th>19-35</th><th>36+</th><th>0-18</th><th>19-35</th><th>36+</th></tr></thead>
+	    <tbody>
+	      <tr><td>White</td><td>454</td><td>718</td><td>515</td><td>25</td><td>28</td><td>18</td></tr>
+	      <tr><td>Black</td><td>352</td><td>440</td><td>256</td><td>8</td><td>8</td><td>5</td></tr>
+	      <tr><td>Am. Ind./Alskn</td><td>1</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td></tr>
+	      <tr><td>Asian/Pacfc Isl.</td><td>0</td><td>4</td><td>8</td><td>0</td><td>1</td><td>0</td></tr>
+	      <tr><td>Unknown</td><td>52</td><td>8</td><td>9</td><td>3</td><td>0</td><td>1</td></tr>
+	      <tr><td>Total</td><td>859</td><td>1170</td><td>791</td><td>36</td><td>37</td><td>24</td></tr>
+	    </tbody>
+	  </table>
+        </section>
+      </main>
+<?php require_once("../footer.php"); ?>

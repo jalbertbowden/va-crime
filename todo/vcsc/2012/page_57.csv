@@ -1,0 +1,49 @@
+Name: “Table 1 of 1 on page 57 of 98”,Name: “Table 1 of 1 on page 57 of 98”,Name: “Table 1 of 1 on page 57 of 98”,Name: “Table 1 of 1 on page 57 of 98”,Name: “Table 1 of 1 on page 57 of 98”,Name: “Table 1 of 1 on page 57 of 98”
+Table: 54,Table: 54,Table: 54,Table: 54,Table: 54,Table: 54
+,,,,,
+,,,Nonviolent Risk Assessment Study,Nonviolent Risk Assessment Study,
+Technical,Appendix,,"2003). Cross-validation, another","2003). Cross-validation, another",Among drug offenders in the validation
+,,,"technique, can be viewed as an","technique, can be viewed as an","sample, the actual recidivism rate was"
+The proposed nonviolent offender risk,The proposed nonviolent offender risk,The proposed nonviolent offender risk,extension of the split sample technique.,extension of the split sample technique.,"23.8%, which is substantially lower than"
+assessment instruments are based on,assessment instruments are based on,assessment instruments are based on,"In its simplest form, cross-validation","In its simplest form, cross-validation",the default cut point of 50%. While
+historical data and are designed to,historical data and are designed to,historical data and are designed to,involves randomly splitting the sample,involves randomly splitting the sample,larceny and fraud offenders had a higher
+predict the likelihood that certain,predict the likelihood that certain,predict the likelihood that certain,"into two groups, developing the model","into two groups, developing the model","recidivism rate at 30.3%, it still was well"
+offenders will not recidivate. Validation,offenders will not recidivate. Validation,offenders will not recidivate. Validation,"on one group, testing it on the other, and","on one group, testing it on the other, and",below the default rate/cut point.
+of a model gives confidence that the,of a model gives confidence that the,of a model gives confidence that the,vice versa. A third alternative for,vice versa. A third alternative for,"Therefore, the analysis was refined to"
+factors and scores that characterize,factors and scores that characterize,factors and scores that characterize,estimating internal validity is,estimating internal validity is,incorporate the percentage of sampled
+historical data will accurately predict,historical data will accurately predict,historical data will accurately predict,bootstrapping. This technique allows,bootstrapping. This technique allows,offenders who did not recidivate into the
+outcomes for current and future,outcomes for current and future,outcomes for current and future,for the use of the entire sample for model,for the use of the entire sample for model,process of determining the appropriate
+offenders who will be sentenced in,offenders who will be sentenced in,offenders who will be sentenced in,construction. Once a prospective model,construction. Once a prospective model,cut point for classifying cases as
+Virginia.,,,"has been determined, it is tested by","has been determined, it is tested by",successes (non-recidivists) or failures
+,,,measuring the performance of the model,measuring the performance of the model,(recidivists).
+"When time and resources are unlimited,","When time and resources are unlimited,","When time and resources are unlimited,","on numerous random samples, drawn","on numerous random samples, drawn",
+data from another location or group can,data from another location or group can,data from another location or group can,"with replacement, from the existing data","with replacement, from the existing data",For each sample drawn using the
+be collected and analyzed to help,be collected and analyzed to help,be collected and analyzed to help,set. This results in more robust and,set. This results in more robust and,"bootstrap procedure, predicted values"
+validate a model. When this is not an,validate a model. When this is not an,validate a model. When this is not an,stable models.,,vary based on the number of valid cases
+"option, research has shown that other","option, research has shown that other","option, research has shown that other",,,selected for inclusion in the bootstrap
+steps may be taken to gauge the validity,steps may be taken to gauge the validity,steps may be taken to gauge the validity,Enhanced Methodology.,Commission,sample. To improve the precision in
+of a statistical model.,of a statistical model.,,staff incorporated an additional step into,staff incorporated an additional step into,"model testing, Commission staff first"
+,,,the bootstrapping procedure used to,the bootstrapping procedure used to,completed the bootstrapping procedure
+Internal Validation Methods.,Internal Validation Methods.,When the,test the predictive accuracy of the,test the predictive accuracy of the,to identify the percentage of offenders
+accuracy of a predictive model is,accuracy of a predictive model is,accuracy of a predictive model is,models across different samples of,models across different samples of,selected for inclusion in each bootstrap
+assessed using the same sample from,assessed using the same sample from,assessed using the same sample from,offenders. In a logistic regression,offenders. In a logistic regression,sample who did not recidivate. For each
+"which it is developed, the estimates of","which it is developed, the estimates of","which it is developed, the estimates of","model, a case is predicted to recidivate","model, a case is predicted to recidivate","sample, this percentage was saved and"
+accuracy can be overly optimistic.,accuracy can be overly optimistic.,accuracy can be overly optimistic.,when its predicted probability is at or,when its predicted probability is at or,then used as the cut point for the
+Several methods exist for assessing the,Several methods exist for assessing the,Several methods exist for assessing the,"above a specified percentage, or cut","above a specified percentage, or cut",logistic regression model that was
+degree of optimism and extent to which,degree of optimism and extent to which,degree of optimism and extent to which,"point. By default, a value of .5 (or 50%)","point. By default, a value of .5 (or 50%)",applied to the specific bootstrap sample.
+the observed results of a predictive,the observed results of a predictive,the observed results of a predictive,"is used, allowing for an equal probability","is used, allowing for an equal probability",This ensured that the model for each
+model may be applicable to a different,model may be applicable to a different,model may be applicable to a different,of success (non-recidivism) or failure,of success (non-recidivism) or failure,sample used in the validation procedure
+sample of individuals. The simplest way,sample of individuals. The simplest way,sample of individuals. The simplest way,(recidivism).,,classified successes and failures
+to test internal validity is the split-,to test internal validity is the split-,to test internal validity is the split-,,,according to the actual recidivism/non-
+"sample method, where one portion of a","sample method, where one portion of a","sample method, where one portion of a",,,recidivism rate for offenders selected in
+sample is used to develop a model and,sample is used to develop a model and,sample is used to develop a model and,,,each bootstrap sample.
+the remaining portion of the sample is,the remaining portion of the sample is,the remaining portion of the sample is,,,
+used to test the model. While this,used to test the model. While this,used to test the model. While this,,,
+method is the most straightforward,method is the most straightforward,method is the most straightforward,,,
+"technique, it also tends to produce","technique, it also tends to produce","technique, it also tends to produce",,,
+overly pessimistic results and reduces,overly pessimistic results and reduces,overly pessimistic results and reduces,,,
+the number of cases that may be used,the number of cases that may be used,the number of cases that may be used,,,
+for model development (Brunelli &,for model development (Brunelli &,for model development (Brunelli &,,,
+"Rocco, 2006; Harrell, Lee, & Mark, 1996;","Rocco, 2006; Harrell, Lee, & Mark, 1996;","Rocco, 2006; Harrell, Lee, & Mark, 1996;",,,
+"Steyerberg et al., 2001; Steyerberg et al.,","Steyerberg et al., 2001; Steyerberg et al.,","Steyerberg et al., 2001; Steyerberg et al.,",,,
+,,,49,,

@@ -1,0 +1,2506 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" id="NACJD" lang="en">
+<head>
+    <title>Series</title>
+	
+	
+
+	
+
+
+<script src="/icpsrweb/shared/js/modernizr-2.6.2.js"></script>
+<script src="/icpsrweb/shared/js/jquery-1.9.1.min.js"></script>
+<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.min.js"></script> 
+
+
+
+
+
+
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+		
+		
+	
+	
+	
+
+
+
+
+
+	
+	
+		
+	
+
+
+	
+	<script src="/icpsrweb/shared/js/scroll-to-top.js"></script> 
+
+
+
+
+
+<link href="http://code.jquery.com/ui/1.10.1/themes/base/minified/jquery-ui.min.css" type="text/css" rel="stylesheet" media="screen"  /> 
+<link href="/icpsrweb/shared/css/print-css.jsp" type="text/css" rel="stylesheet" media="print" />
+<link href="/icpsrweb/shared/css/allsites-html5-css.jsp" type="text/css" rel="stylesheet" media="screen" />
+
+<!--[if lte IE 8]>
+<link href="/icpsrweb/shared/css/ie8.jsp" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+
+<!--[if lte IE 7]>
+<script src="/icpsrweb/shared/js/ie7_warning.js"></script>
+<![endif]-->
+
+<link href="http://www.icpsr.umich.edu/files/emergency.css" type="text/css" rel="stylesheet" media="screen" />
+<script src="http://www.icpsr.umich.edu/files/emergency.js"></script>
+
+	<script type="text/javascript">
+		// This controls the click toggle when the summary field is long. Just surround material you want to hide initially with div.subTable.
+		$(document).ready(function(e){
+			$('.subTable').attr('style','display:none;');
+			$('.subTable').before('<p class=\"moreLink\">(<a href=\"#\" id=\"moreLink\">more</a>)</p>');
+			$('#moreLink').click(function(e){
+				e.preventDefault();
+				$('.subTable').fadeToggle();
+				$('.moreLink').attr('style','display:none;');
+			});
+		});
+	</script>
+
+    <link rel="stylesheet" href="/icpsrweb/NACJD/css/nacjd-css.jsp" media="screen" type="text/css" />
+	<link rel="stylesheet" href="/icpsrweb/NACJD/css/html5-extras.jsp" media="screen" type="text/css" />
+
+	<!--[if lte IE 8]>
+	<link href="/icpsrweb/NACJD/css/ie9.css" type="text/css" rel="stylesheet" />
+	<![endif]-->
+
+	<script src="/icpsrweb/ICPSR/js/jquery.main.js"></script>
+	<script src="/icpsrweb/NACJD/js/search.js"></script>
+
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-6287011-16']);
+	  _gaq.push(['_trackPageview']);
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+	
+	
+	
+</head>
+<body id="" class="aside">
+
+
+
+<header class="pageContainer">
+
+<div id="skip">
+	<a href="#main">Skip to Main Content</a>
+</div>
+
+<div id="tagline">The Source for Crime and Justice Data</div>
+<div id="logo"><a href="/icpsrweb/NACJD/"><img src="/icpsrweb/NACJD/images/nacjd-logo-02.png" alt="N A C J D logo" class="png" /></a></div>
+
+<div id="search">
+	<div id="search-fields">   
+		<div id="search-table">
+			<form id="search-toggle" action="">
+				<input type="radio" class="toggle-search" id="search-nacjd" name="searchOption" value="nacjd" onclick="swapSearch('nacjd-search')" checked="checked" />
+				<label for="search-nacjd">NACJD&nbsp;Data</label><br />
+				<input type="radio" class="toggle-search" id="search-related" name="searchOption" value="related" onclick="swapSearch('related-search')" />
+				<label for="search-related">Related&nbsp;Literature</label>
+				<script type="text/javascript">resetSearch();</script>
+			</form>
+			<div id="nacjd-search" class="search-option" style="display:block;">
+				<form action="/icpsrweb/NACJD/studies" method="get">
+					<input type="hidden" name="archive" value="NACJD" />
+                    <input type="text" name="q" size="15" maxlength="125" id="studies_q" />
+                    <input type="hidden" name="permit[0]" value="AVAILABLE" />
+                    <input type="image" id="go" src="/icpsrweb/NACJD/images/go-up.gif" alt="GO" />
+                </form>
+			</div>
+            <div id="related-search" class="search-option" style="display:none;">
+				<form action="/icpsrweb/NACJD/biblio/resources" method="get">
+					<input type="hidden" name="collection" value="DATA" />
+                    <input type="text" name="q" size="15" maxlength="125" id="studies_q" />
+                    <input type="image" id="go" src="/icpsrweb/NACJD/images/go-up.gif" alt="GO" />
+                </form>
+            </div>
+		</div> 
+	</div> 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="my-data">
+	
+		
+		
+			
+			
+				
+				
+					<a href="http://www.icpsr.umich.edu/rpxlogin?path=NACJD&request_uri=http%3a%2f%2fwww.icpsr.umich.edu%2ficpsrweb%2fNACJD%2fseries%2f95">Log In/Create Account</a>
+				
+			
+		
+	
+</div>
+
+</div> 
+
+<nav>
+	<div id="homeLink"><a href="/icpsrweb/NACJD/index.jsp">home</a></div>
+	<div class="mainNavLink"><a href="/icpsrweb/NACJD/archive.jsp">Download Data</a></div>
+	<div class="mainNavLink"><a href="/icpsrweb/NACJD/das.jsp">Analyze Data Online</a></div>
+	<div class="mainNavLink"><a href="/icpsrweb/NACJD/archiving/">Deposit Data</a></div>
+	<div class="mainNavLink"><a href="/icpsrweb/NACJD/publications.jsp">Publications</a></div>
+	<div class="mainNavLink"><a href="/icpsrweb/content/NACJD/mission.html">About NACJD</a></div>
+	<div class="mainNavLink"><a href="/icpsrweb/NACJD/help/index.jsp">Help</a></div>
+</nav>
+
+<div style="clear:both;"></div>
+
+</header>
+
+<div id="beigeBorder" class="pageContainer"> </div>
+<div id="pano" class="pageContainer"><div id="pano2"> </div></div>
+<div id="beigeBorder2" class="pageContainer"> </div>
+
+
+
+
+<!-- end header.mkup -->
+
+<section id="main" class="pageContainer">
+
+<aside>
+
+<div id="floatingNavigation">
+
+<h2>Table of Contents</h2>
+
+<ul>
+	<li><a href="#skipto">Top of page</a></li>
+	<li><a href="#title">Description</a>
+		
+		
+			
+			
+			
+		
+	</li>	
+	<li><a href="#studies">Most Recent Studies</a></li>
+	
+		<li><a href="#pubs">Related Publications</a></li>
+	
+	
+		<li><a href="#vars">Variables</a></li>
+	
+</ul>
+</div>
+</aside>
+
+<article>
+
+<h1 id="title">National Crime Victimization Survey (NCVS) Series <a href="/icpsrweb/NACJD/feeds/series/95/studies?sortBy=5" onclick="_gaq.push(['_trackPageview','/rss/series']);" class="noExternalIcon"><img src="/icpsrweb/shared/images/rss.gif" border="0" alt="RSS" /></a></h1>
+
+<!-- National Crime Victimization Survey (NCVS) Series -->
+
+<p class="investigator"><strong>Investigator(s):</strong> Bureau of Justice Statistics</p>
+
+
+
+<p>The National Crime Victimization Survey (NCVS) series was 
+designed to achieve three primary objectives: to develop detailed information 
+about the victims and consequences of crime, to estimate the number and types of 
+crimes not reported to police, and to provide uniform measures of selected types 
+of crime.</p><p>All persons in the United States 12 years of age and older 
+were interviewed in each household sampled. Each respondent was asked a series 
+of screen questions to determine if he or she was victimized during the six-month 
+period preceding the first day of the month of the interview. Screen questions 
+cover the following types of crimes, including attempts: rape, robbery, assault, 
+burglary, larceny, and motor vehicle theft.</p><p>The data include type of 
+crime; severity of the crime; injuries or losses; time and place of occurrence; 
+medical expenses incurred; number, age, race, and sex of offender(s); and 
+relationship of offender(s) to the victim (stranger, casual acquaintance, 
+relative, etc.). Demographic information on household members includes age, sex, 
+race, education, employment, median family income, marital status, and military 
+history. A stratified multistage cluster sample technique was employed, with the 
+person-level files consisting of a full sample of victims and a 10 percent 
+sample of nonvictims for up to four incidents.</p><p>The NCVS data are 
+organized by collection quarter, and six quarters comprise an annual file. For 
+example, for a 1979 file, the four quarters of 1979 are included as well as the 
+first two quarters of 1980.</p><p>NACJD has prepared a <a href="http://www.icpsr.umich.edu/NACJD/NCVS/">resource guide on NCVS</a>.</p><p><strong>Years Produced:</strong> Updated annually</p>
+
+<p><strong>Online Analysis</strong></p>
+
+<ul>
+<li><a href="http://www.icpsr.umich.edu/icpsrweb/NACJD/studies?q=%22national+crime+victimization+survey%22">View NCVS data</a></li>
+<li><a href="http://www.icpsr.umich.edu/icpsrweb/NACJD/studies?q=%22national+crime+surveys%22">View NCS data</a></li>
+</ul>
+
+
+
+
+
+
+<h2 id="studies">Most Recent Studies</h2>
+
+
+<div class="studies">
+	<ul>
+		
+			
+				<li>
+					<a href="../studies/34735">National Crime Victimization Survey: Identity Theft Supplement, 2012</a>
+				</li>
+			
+		
+			
+				<li>
+					<a href="../studies/34650">National Crime Victimization Survey, 2012</a>
+				</li>
+			
+		
+			
+				<li>
+					<a href="../studies/34276">Police-Public Contact Survey, 2011</a>
+				</li>
+			
+		
+			
+				<li>
+					<a href="../studies/33081">National Crime Victimization Survey: School Crime Supplement, 2011</a>
+				</li>
+			
+		
+			
+				<li>
+					<a href="../studies/34061">National Crime Victimization Survey, 2011</a>
+				</li>
+			
+		
+			
+				<li>
+					<a href="../studies/31202">National Crime Victimization Survey, 2010</a>
+				</li>
+			
+		
+			
+				<li>
+					<a href="../studies/28543">National Crime Victimization Survey, 2009</a>
+				</li>
+			
+		
+			
+				<li>
+					<a href="../studies/28201">National Crime Victimization Survey: School Crime Supplement, 2009</a>
+				</li>
+			
+		
+			
+				<li>
+					<a href="../studies/26382">National Crime Victimization Survey, 2008 [Record-Type Files]</a>
+				</li>
+			
+		
+			
+				<li>
+					<a href="../studies/25461">National Crime Victimization Survey, 2008 [Collection Year Record-Type Files]</a>
+				</li>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	</ul>
+	
+		
+		<p class="indent"><a href="95/studies?archive=NACJD&sortBy=7">View all studies in the series</a> (~53) </p>
+	
+</div>
+
+
+	<h2 id="pubs">Related Publications</h2>
+	
+		<ul>
+			<li><a href="../biblio/series/95/resources?sortBy=1">View all publications</a></li>
+		</ul>
+		
+	<h3>Most Recent Publications</h3>
+	<div class="indent pubs" id="pubsList">
+		
+			
+				
+				
+				
+
+
+
+
+
+
+	
+		
+		
+							
+		
+	
+
+	
+	
+	<div class="rowOdd">
+
+	    <div class="cellYear">2014</div>
+
+		<div class="cellCitation" itemprop="citation">
+			
+	        	Ackerman, Jeffrey,&nbsp;
+	        	
+			
+	        	Love, Tony P.
+	        	
+			
+		        
+		    <a href="/icpsrweb/NACJD/biblio/studies/95/resources/114856?collection=DATA&sortBy=1"><strong>Ethnic group differences in police notification about intimate partner violence</strong></a>. 
+		    
+		    
+				
+			        <cite>Violence Against Women</cite>.
+			        20, 
+			        (2), 
+			        162-185.
+					        
+				
+				
+				
+				
+				
+				
+				
+			
+		
+			
+				
+					<div class="fullText">
+						Full Text Options:
+						
+							
+								<a href="http://doi.org/10.1177/1077801214521327" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" title="Persistent link to the publication.">DOI</a>  
+														
+							
+						
+						
+						
+						
+							
+							
+							<a href="http://worldcatlibraries.org/registry/gateway?atitle=%22Ethnic+group+differences+in+police+notification+about+intimate+partner+violence%22&date=2014&volume=20&issue=2&spage=162&issn=1077-8012&aulast=&resourceId=114856" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" title="Check to see if your library has access to this publication." class="externalUrl">Worldcat</a>	
+							
+							<a href="http://scholar.google.com/scholar?q=%22Ethnic+group+differences+in+police+notification+about+intimate+partner+violence%22&hl=en&lr=&num=100&as_epq=&resourceId=114856" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" class="externalUrl">Google Scholar</a>	
+						
+	
+						
+	
+						<br />
+						Export Options: <a href="/icpsrweb/ICPSR/biblio/ris/resources/114856.ris" onclick="_gaq.push(['_trackPageview','/bibliography/export']);">RIS/EndNote</a> 
+					</div>
+				
+							
+			
+			
+		</div>
+
+
+	</div>
+
+
+			
+		
+			
+				
+				
+				
+
+
+
+
+
+
+	
+		
+			
+		
+		
+	
+
+	
+	
+	<div class="rowEven">
+
+	    <div class="cellYear">2014</div>
+
+		<div class="cellCitation" itemprop="citation">
+			
+	        	Addington, Lynn A.,&nbsp;
+	        	
+			
+	        	Rennison, Callie Marie
+	        	.
+			
+		        
+		    <a href="/icpsrweb/NACJD/biblio/studies/95/resources/113042?collection=DATA&sortBy=1"><strong>US National Crime Victimization Survey</strong></a>. 
+		    
+		    
+					        
+				
+				
+				
+				
+			        <cite>Encyclopedia of Criminology and Criminal Justice</cite>.
+			        New York, NY: 
+			        Springer.
+				
+				
+				
+				
+			
+		
+			
+				
+				
+					<div class="fullText">
+						Export Options: <a href="/icpsrweb/ICPSR/biblio/ris/resources/113042.ris" onclick="_gaq.push(['_trackPageview','/bibliography/export']);">RIS/EndNote</a>
+					</div> 
+							
+			
+			
+		</div>
+
+
+	</div>
+
+
+			
+		
+			
+				
+				
+				
+
+
+
+
+
+
+	
+		
+		
+							
+		
+	
+
+	
+	
+	<div class="rowOdd">
+
+	    <div class="cellYear">2014</div>
+
+		<div class="cellCitation" itemprop="citation">
+			
+	        	Bunch, Jackson,&nbsp;
+	        	
+			
+	        	Clay-Warner, Jody,&nbsp;
+	        	
+			
+	        	Mcmahon-Howard, Jennifer
+	        	.
+			
+		        
+		    <a href="/icpsrweb/NACJD/biblio/studies/95/resources/113507?collection=DATA&sortBy=1"><strong>The effects of victimization on routine activities</strong></a>. 
+		    
+		    
+				
+			        <cite>Criminal Justice and Behavior</cite>.
+			        41, 
+			        (5), 
+			        574-592.
+					        
+				
+				
+				
+				
+				
+				
+				
+			
+		
+			
+				
+					<div class="fullText">
+						Full Text Options:
+						
+							
+								<a href="http://doi.org/10.1177/0093854813508286" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" title="Persistent link to the publication.">DOI</a>  
+														
+							
+						
+						
+						
+						
+							
+							
+							<a href="http://worldcatlibraries.org/registry/gateway?atitle=%22The+effects+of+victimization+on+routine+activities%22&date=2014&volume=41&issue=5&spage=574&issn=0093-8548&aulast=&resourceId=113507" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" title="Check to see if your library has access to this publication." class="externalUrl">Worldcat</a>	
+							
+							<a href="http://scholar.google.com/scholar?q=%22The+effects+of+victimization+on+routine+activities%22&hl=en&lr=&num=100&as_epq=&resourceId=113507" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" class="externalUrl">Google Scholar</a>	
+						
+	
+						
+	
+						<br />
+						Export Options: <a href="/icpsrweb/ICPSR/biblio/ris/resources/113507.ris" onclick="_gaq.push(['_trackPageview','/bibliography/export']);">RIS/EndNote</a> 
+					</div>
+				
+							
+			
+			
+		</div>
+
+
+	</div>
+
+
+			
+		
+			
+				
+				
+				
+
+
+
+
+
+
+	
+		
+			
+		
+		
+	
+
+	
+	
+	<div class="rowEven">
+
+	    <div class="cellYear">2014</div>
+
+		<div class="cellCitation" itemprop="citation">
+			
+	        	Harrell, Erika
+	        	.
+			
+		        
+		    <a href="/icpsrweb/NACJD/biblio/studies/95/resources/115005?collection=DATA&sortBy=1"><strong>Crime Against Persons With Disabilities, 2009-2012</strong></a>. 
+		    
+		    
+					        
+				
+			        <cite>Statistical Tables</cite>.
+			        NCJ 244525, 
+			        Washington, DC: 
+			        United States Department of Justice, Office of Justice Programs, Bureau of Justice Statistics.
+				
+				
+				
+				
+				
+				
+				
+			
+		
+			
+				
+					<div class="fullText">
+						Full Text Options:
+						
+														
+							
+								<a href="http://www.bjs.gov/content/pub/ascii/capd0912st.txt" onclick="_gaq.push(['_trackPageview','/bibliography/download']);">Original Source</a>
+							
+						
+						
+								<a href="http://www.bjs.gov/content/pub/pdf/capd0912st.pdf" onclick="_gaq.push(['_trackPageview','/bibliography/download']);">PDF</a>  
+						
+						
+						
+						
+	
+						
+	
+						<br />
+						Export Options: <a href="/icpsrweb/ICPSR/biblio/ris/resources/115005.ris" onclick="_gaq.push(['_trackPageview','/bibliography/export']);">RIS/EndNote</a> 
+					</div>
+				
+							
+			
+			
+		</div>
+
+
+	</div>
+
+
+			
+		
+			
+				
+				
+				
+
+
+
+
+
+
+	
+		
+		
+							
+		
+	
+
+	
+	
+	<div class="rowOdd">
+
+	    <div class="cellYear">2014</div>
+
+		<div class="cellCitation" itemprop="citation">
+			
+	        	Harrell, Erika
+	        	.
+			
+		        
+		    <a href="/icpsrweb/NACJD/biblio/studies/95/resources/114488?collection=DATA&sortBy=1"><strong>Crimes Against Persons with Disabilities, 2009-2012 - Statistical Tables</strong></a>. 
+		    
+		    
+					        
+				
+			        
+			        NCJ 244525, 
+			        Washington, DC: 
+			        United States Department of Justice, Office of Justice Programs, Bureau of Justice Statistics.
+				
+				
+				
+				
+				
+				
+				
+			
+		
+			
+				
+					<div class="fullText">
+						Full Text Options:
+						
+														
+							
+								<a href="http://www.bjs.gov/content/pub/ascii/capd0912st.txt" onclick="_gaq.push(['_trackPageview','/bibliography/download']);">Original Source</a>
+							
+						
+						
+								<a href="http://www.bjs.gov/content/pub/pdf/capd0912st.pdf" onclick="_gaq.push(['_trackPageview','/bibliography/download']);">PDF</a>  
+						
+						
+						
+						
+	
+						
+	
+						<br />
+						Export Options: <a href="/icpsrweb/ICPSR/biblio/ris/resources/114488.ris" onclick="_gaq.push(['_trackPageview','/bibliography/export']);">RIS/EndNote</a> 
+					</div>
+				
+							
+			
+			
+		</div>
+
+
+	</div>
+
+
+			
+		
+			
+				
+				
+				
+
+
+
+
+
+
+	
+		
+			
+		
+		
+	
+
+	
+	
+	<div class="rowEven">
+
+	    <div class="cellYear">2014</div>
+
+		<div class="cellCitation" itemprop="citation">
+			
+	        	James, Katie,&nbsp;
+	        	
+			
+	        	Clay-Warner, Jody,&nbsp;
+	        	
+			
+	        	Bunch, Jackson
+	        	.
+			
+		        
+		    <a href="/icpsrweb/NACJD/biblio/studies/95/resources/114326?collection=DATA&sortBy=1"><strong>Perceived injustice and school violence: An application of General Strain Theory</strong></a>. 
+		    
+		    
+				
+			        <cite>Youth Violence and Juvenile Justice</cite>.
+			        
+			        
+			        
+					        
+				
+				
+				
+				
+				
+				
+				
+			
+		
+			
+				
+					<div class="fullText">
+						Full Text Options:
+						
+							
+								<a href="http://doi.org/10.1177/1541204014521251" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" title="Persistent link to the publication.">DOI</a>  
+														
+							
+						
+						
+						
+						
+							
+							
+							<a href="http://worldcatlibraries.org/registry/gateway?atitle=%22Perceived+injustice+and+school+violence%3a+An+application+of+General+Strain+Theory%22&date=2014&volume=&issue=&spage=&issn=1541-2040&aulast=&resourceId=114326" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" title="Check to see if your library has access to this publication." class="externalUrl">Worldcat</a>	
+							
+							<a href="http://scholar.google.com/scholar?q=%22Perceived+injustice+and+school+violence%3a+An+application+of+General+Strain+Theory%22&hl=en&lr=&num=100&as_epq=&resourceId=114326" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" class="externalUrl">Google Scholar</a>	
+						
+	
+						
+	
+						<br />
+						Export Options: <a href="/icpsrweb/ICPSR/biblio/ris/resources/114326.ris" onclick="_gaq.push(['_trackPageview','/bibliography/export']);">RIS/EndNote</a> 
+					</div>
+				
+							
+			
+			
+		</div>
+
+
+	</div>
+
+
+			
+		
+			
+				
+				
+				
+
+
+
+
+
+
+	
+		
+		
+							
+		
+	
+
+	
+	
+	<div class="rowOdd">
+
+	    <div class="cellYear">2014</div>
+
+		<div class="cellCitation" itemprop="citation">
+			
+	        	Kang, Ji Hyon,&nbsp;
+	        	
+			
+	        	Lynch, James P.
+	        	
+			
+		        
+		    <a href="/icpsrweb/NACJD/biblio/studies/95/resources/110809?collection=DATA&sortBy=1"><strong>Calling the police in instances of family violence: Effects of victim-offender relationship and life stages</strong></a>. 
+		    
+		    
+				
+			        <cite>Crime and Delinquency</cite>.
+			        60, 
+			        (1), 
+			        34-59.
+					        
+				
+				
+				
+				
+				
+				
+				
+			
+		
+			
+				
+					<div class="fullText">
+						Full Text Options:
+						
+							
+								<a href="http://doi.org/10.1177/0011128709359655" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" title="Persistent link to the publication.">DOI</a>  
+														
+							
+						
+						
+						
+						
+							
+							
+							<a href="http://worldcatlibraries.org/registry/gateway?atitle=%22Calling+the+police+in+instances+of+family+violence%3a+Effects+of+victim-offender+relationship+and+life+stages%22&date=2014&volume=60&issue=1&spage=34&issn=0011-1287&aulast=&resourceId=110809" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" title="Check to see if your library has access to this publication." class="externalUrl">Worldcat</a>	
+							
+							<a href="http://scholar.google.com/scholar?q=%22Calling+the+police+in+instances+of+family+violence%3a+Effects+of+victim-offender+relationship+and+life+stages%22&hl=en&lr=&num=100&as_epq=&resourceId=110809" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" class="externalUrl">Google Scholar</a>	
+						
+	
+						
+	
+						<br />
+						Export Options: <a href="/icpsrweb/ICPSR/biblio/ris/resources/110809.ris" onclick="_gaq.push(['_trackPageview','/bibliography/export']);">RIS/EndNote</a> 
+					</div>
+				
+							
+			
+			
+		</div>
+
+
+	</div>
+
+
+			
+		
+			
+				
+				
+				
+
+
+
+
+
+
+	
+		
+			
+		
+		
+	
+
+	
+	
+	<div class="rowEven">
+
+	    <div class="cellYear">2014</div>
+
+		<div class="cellCitation" itemprop="citation">
+			
+	        	Lauritsen, Janet L.,&nbsp;
+	        	
+			
+	        	Rezey, Maribeth L.,&nbsp;
+	        	
+			
+	        	Heimer, Karen
+	        	.
+			
+		        
+		    <a href="/icpsrweb/NACJD/biblio/studies/95/resources/113250?collection=DATA&sortBy=1"><strong>Violence and economic conditions in the United States, 1973-2011: Gender, race, and ethnicity patterns in the National Crime Victimization Survey</strong></a>. 
+		    
+		    
+				
+			        <cite>Journal of Contemporary Criminal Justice</cite>.
+			        30, 
+			        (1), 
+			        7-28.
+					        
+				
+				
+				
+				
+				
+				
+				
+			
+		
+			
+				
+					<div class="fullText">
+						Full Text Options:
+						
+							
+								<a href="http://doi.org/10.1177/1043986213509024" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" title="Persistent link to the publication.">DOI</a>  
+														
+							
+						
+						
+						
+						
+							
+							
+							<a href="http://worldcatlibraries.org/registry/gateway?atitle=%22Violence+and+economic+conditions+in+the+United+States%2c+1973-2011%3a+Gender%2c+race%2c+and+ethnicity+patterns+in+the+National+Crime+Victimization+Survey%22&date=2014&volume=30&issue=1&spage=7&issn=1043-9862&aulast=&resourceId=113250" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" title="Check to see if your library has access to this publication." class="externalUrl">Worldcat</a>	
+							
+							<a href="http://scholar.google.com/scholar?q=%22Violence+and+economic+conditions+in+the+United+States%2c+1973-2011%3a+Gender%2c+race%2c+and+ethnicity+patterns+in+the+National+Crime+Victimization+Survey%22&hl=en&lr=&num=100&as_epq=&resourceId=113250" onclick="_gaq.push(['_trackPageview','/bibliography/download']);" class="externalUrl">Google Scholar</a>	
+						
+	
+						
+	
+						<br />
+						Export Options: <a href="/icpsrweb/ICPSR/biblio/ris/resources/113250.ris" onclick="_gaq.push(['_trackPageview','/bibliography/export']);">RIS/EndNote</a> 
+					</div>
+				
+							
+			
+			
+		</div>
+
+
+	</div>
+
+
+			
+		
+			
+				
+				
+				
+
+
+
+
+
+
+	
+		
+		
+							
+		
+	
+
+	
+	
+	<div class="rowOdd">
+
+	    <div class="cellYear">2014</div>
+
+		<div class="cellCitation" itemprop="citation">
+			
+	        	Like-Haislip, Toya
+	        	.
+			
+		        
+		    <a href="/icpsrweb/NACJD/biblio/studies/95/resources/113095?collection=DATA&sortBy=1"><strong>Racial and ethnic patterns in criminality and victimization</strong></a>. 
+		    
+		    
+					        
+				
+				
+				
+				
+			        <cite>The Oxford Handbook of Ethnicity, Crime, and Immigration</cite>.
+			        Oxford, UK: 
+			        Oxford University Press.
+				
+				
+				
+				
+			
+		
+			
+				
+				
+					<div class="fullText">
+						Export Options: <a href="/icpsrweb/ICPSR/biblio/ris/resources/113095.ris" onclick="_gaq.push(['_trackPageview','/bibliography/export']);">RIS/EndNote</a>
+					</div> 
+							
+			
+			
+		</div>
+
+
+	</div>
+
+
+			
+		
+			
+				
+				
+				
+
+
+
+
+
+
+	
+		
+			
+		
+		
+	
+
+	
+	
+	<div class="rowEven">
+
+	    <div class="cellYear">2014</div>
+
+		<div class="cellCitation" itemprop="citation">
+			
+	        	National Research Council
+	        	.
+			
+		        
+		    <a href="/icpsrweb/NACJD/biblio/studies/95/resources/115027?collection=DATA&sortBy=1"><strong>Estimating the Incidence of Rape and Sexual Assault</strong></a>. 
+		    
+		    
+					        
+				
+				
+				
+				
+				
+			        <cite>Panel on Measuring Rape and Sexual Assault in Bureau of Justice Statistics Household Surveys</cite>.
+			        Washington, DC: 
+			        The National Academies Press.
+				
+				
+				
+			
+		
+			
+				
+				
+					<div class="fullText">
+						Export Options: <a href="/icpsrweb/ICPSR/biblio/ris/resources/115027.ris" onclick="_gaq.push(['_trackPageview','/bibliography/export']);">RIS/EndNote</a>
+					</div> 
+							
+			
+			
+		</div>
+
+
+	</div>
+
+
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	</div>				
+
+
+
+	<h2 id="vars">Variables</h2>
+	<ul>
+		<li><p><a href="/icpsrweb/NACJD/ssvd/series/95/variables">List all variables in this series</a></p></li>
+		<li><p><label for="varsearch">Search the variables in this series</label>
+
+
+
+
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+		
+		
+	
+
+
+
+
+	
+	
+		
+	
+
+
+
+
+</p>
+			<form method="get" action="/icpsrweb/NACJD/ssvd/series/95/variables" style="margin-bottom:10px;">
+				<input type="text" size="15" name="q" id="varsearch" /> 
+				<input type="submit" value="Search for Variables" />
+			</form>
+		</li>
+	</ul>
+
+
+</article>
+
+</section>
+
+
+
+<footer class="pageContainer">
+	<div id="blueFooter">
+		<div id="footer-sponsors">OUR SPONSORS:</div>
+        <div id="footer-host">OUR HOST:</div>
+		<div id="logos-container">
+	        <div style="padding-bottom:7px;padding-left:185px;">
+ 		       <a href="http://bjs.ojp.usdoj.gov/"><img src="/icpsrweb/NACJD/images/bjs-logo.jpg" alt="Bureau of Justice Statistics" /></a>
+ 		    </div>
+ 		    <a href="http://www.ojp.usdoj.gov/nij/"><img src="/icpsrweb/NACJD/images/nij-logo.png" alt="National Institute of Justice" /></a>&nbsp;&nbsp;
+ 		    <a href="http://www.ojjdp.gov/"><img src="/icpsrweb/NACJD/images/ojjdp-logo.jpg" alt="Office of Juvenile Justice and Deliquency Prevention" /></a>
+		</div>
+		<div id="icpsr-logo"><a href="/icpsrweb/ICPSR/"><img src="/icpsrweb/NACJD/images/icpsr-logo.png" alt="I C P S R" /></a></div>
+	</div>
+	<div class="footWrap">
+    	<p id="copyright">&copy; Copyright 2010 The Regents of the University of Michigan</p>
+    	<p><a href="/icpsrweb/content/membership/policies/privacy.html">Privacy Policy</a></p>
+    </div>
+</footer>  
+ 
+
+
+</body>
+</html>

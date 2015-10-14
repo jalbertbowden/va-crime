@@ -1,0 +1,31 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+filename:  cv0536.csv,,,,,,,,,,,
+"Table 36. Percent distribution of incidents, by type of crime and number of victims",,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,
+
+"Table 36. Personal crimes of violence, 2005:  Percent distribution of incidents, by type of crime and number of victims",,,,,,,,,,,
+,,Percent of incidents,,,,,,,,,
+,,,,Number of victims,,,,,,,
+Type of crime,Number of incidents,Total/a,,  One,,  Two,,  Three,, Four or more,
+Crimes of violence,"4,718,330",100,%,93.3,%,5.2,%,0.9,%,0.5,%*
+   Completed violence,"1,536,990",100,,93.7,,5.2,,0.8,*,0.2,*
+   Attempted/threatened violence,"3,181,340",100,,93.1,,5.2,,1,*,0.7,*
+   Rape/Sexual assault/b,"188,960",100,,98.6,,1.4,*,0,*,0,*
+   Robbery,"569,470",100,,91.1,,8.3,,0.4,*,0.2,*
+      Completed/property taken,"381,070",100,,91.3,,8.5,*,0.3,*,0,*
+         With injury,"126,430",100,,87.8,,11.4,*,0.8,*,0,*
+         Without injury,"254,630",100,,93,,7,*,0,*,0,*
+      Attempted to take property,"188,390",100,,90.8,,7.8,*,0.6,*,0.7,*
+         With injury,"62,230",100,,98.2,,0,*,1.8,*,0,*
+         Without injury,"126,160",100,,87.2,,11.7,*,0,*,1.1,*
+   Assault,"3,959,890",100,,93.4,,5,,1.1,,0.6,*
+      Aggravated,"926,050",100,,90.2,,7.8,,1.5,*,0.5,*
+      Simple,"3,033,840",100,,94.3,,4.1,,0.9,*,0.6,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,
+a/Excludes incidents for which the number of victims was not ascertained.,,,,,,,,,,,
+b/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,

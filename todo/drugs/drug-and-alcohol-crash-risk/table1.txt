@@ -1,0 +1,11 @@
+Drug or Drug Class	Crash N	Crash %	Control N	Control %	P Value
+THC (Marijuana)	234	7.6%	379	6.1%	0.01
+Stimulants	116	3.8%	225	3.6%	0.78
+Narcotic-Analgesics	105	3.4%	188	3.0%	0.36
+Sedatives	90	2.9%	139	2.3%	0.05
+Antidepressants	44	1.4%	82	1.3%	0.70
+Other	23	0.7%	30	0.5%	0.12
+More than 1 Class	92	3.0%	132	2.1%	0.01
+Overall Drug Positive	495	16.0%	889	14.4%	0.04
+Negative	2,600	84.0%	5,301	85.6%	0.04
+All	3,095		6,190

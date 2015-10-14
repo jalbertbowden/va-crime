@@ -1,0 +1,25 @@
+Bureau of Justice Statistics,,,,,,,,,
+Filename: mlj07t03.csv,,,,,,,,,
+"Table 3. Mortality rate per 100,000 jail inmates, by cause and year, 2000–2007",,,,,,,,,
+"Report title: Mortality in Local Jails, 2000-2007  NCJ222988",,,,,,,,,
+Data source(s): Deaths in Custody Reporting Program,,,,,,,,,
+Author(s): Margaret E. Noonan,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,,,,,
+Date of version: 10-27-2010,,,,,,,,,
+,,,,,,,,,
+"Table 3. Mortality rate per 100,000 jail inmates, by cause and year, 2000–2007",,,,,,,,,
+All causes,,2000,2001,2002,2003,2004,2005,2006,2007
+,Total ,151,148,145,146,143,140,142,141
+Suicide,,48,49,47,43,42,38,36,36
+Illness,,86,77,76,75,74,67,79,78
+,Heart disease,33,34,33,35,32,27,32,30
+,AIDS,10,9,8,8,7,5,7,5
+,Cancer,5,4,6,5,4,5,5,5
+,Liver disease,4,4,4,4,5,4,3,5
+,All other illnesses*,34,25,26,23,27,26,31,32
+Drug/alcohol intoxication,,6,9,8,13,11,11,11,10
+Accident,,4,5,5,4,4,3,4,2
+Homicide,,3,3,3,2,3,3,5,3
+Other/unknown,,3,5,6,9,8,17,7,12
+Note: Mortality rates are based on the average daily population as reported to the Deaths in Custody Reporting Program.,,,,,,,,,
+"*Includes other specified (such as influenza, septicemia, diabetes, and hepatitis) and unspecified or unknown illnesses. See appendix tables 2 and 3 of this report for a list of the more than 50 illnesses reported to the program. See Methodology for details on illness classifications.",,,,,,,,,

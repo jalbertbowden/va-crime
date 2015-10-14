@@ -1,0 +1,34 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+filename:  cv0595.csv,,,,,,,,,,,,
+"Table 95. Percent of victimizations reported to the police, by type of crime, victim-offender relationship and ethnicity of victims",,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,
+
+"Table 95. Violent crimes, 2005: Percent of victimizations reported to the police, by type of crime, victim-offender relationship and ethnicity of victims",,,,,,,,,,,,
+,Percent of all victimizations reported to the police,,,,,,,,,,,
+                                                                                               ,All victimizations,,,,Involving strangers,,,,Involving nonstrangers,,,
+Type of crime,Hispanic,,Non-Hispanic,,Hispanic,,Non-Hispanic,,Hispanic,,Non-Hispanic,
+Crimes of violence,50.7,%,46.9,%,44.2,%,46.3,%,61,%,47.6,%
+   Completed violence,70.7,,60,,63.4,,61.4,,82.4,,58.5,
+   Attempted/threatened violence,41.5,,40.8,,35.2,,39.4,,51.3,,42.3,
+   Rape/Sexual assault/a,45.6,*,36.6,,36.3,*,65.5,*,60.4,*,24.3,*
+   Robbery,53.7,,52.1,,45.2,,48.4,,100,*,65.3,
+      Completed/property taken,63,,59.7,,54.1,,58.7,,100,*,62.8,
+         With injury,71.3,*,75,,69,*,71.2,,100,*,100,*
+         Without injury,56.1,*,52.9,,37.7,*,51.9,,100,*,55.3,*
+      Attempted to take property,17.2,*,39.1,,17.2,*,32.6,,0,*,71.8,*
+         With injury,0,*,47.9,*,0,*,44.2,*,0,*,65.9,*
+         Without injury,30.5,*,35.5,,30.5,*,27.9,*,0,*,74.3,*
+   Assault,50.4,,46.7,,44.3,,45.4,,58.3,,47.9,
+      Aggravated,58.7,,63,,44.2,,61.4,,78.6,,65.1,
+         With injury,83.5,,74.7,,81.2,*,80,,84.7,*,68.3,
+         Threatened with weapon,47.7,,57.6,,35.6,*,53.3,,73.1,*,63.5,
+      Simple,46.9,,41.7,,44.4,,39.5,,50.1,,43.6,
+         With minor injury,74.3,,57.5,,71,,52,,80.2,*,61.6,
+         Without injury,40.7,,36.5,,37.3,,35.9,,44.8,,37.1,
+Note: Excludes data on persons whose ethnicity was not ascertained.,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.
+a/Includes verbal threats of rape and threats of sexual assault.

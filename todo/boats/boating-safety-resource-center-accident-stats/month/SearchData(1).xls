@@ -1,0 +1,35 @@
+<div>
+	<table class="gridcontent" cellspacing="0" cellpadding="5" rules="all" bordercolor="#999999" border="1" id="exportgrid" style="border-color:#999999;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+		<tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<td align="center" colspan="5" style="color:Black;">Recreational Boating Statistics by Month for VA 2005-2011</td>
+		</tr><tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<th scope="col">Month</th><th scope="col">Accidents</th><th scope="col">Vessels</th><th scope="col">Injuries</th><th scope="col">Deaths</th>
+		</tr><tr>
+			<td>January</td><td>18</td><td>19</td><td>12</td><td>8</td>
+		</tr><tr>
+			<td>February</td><td>6</td><td>6</td><td>4</td><td>3</td>
+		</tr><tr>
+			<td>March</td><td>31</td><td>44</td><td>20</td><td>4</td>
+		</tr><tr>
+			<td>April</td><td>47</td><td>55</td><td>28</td><td>14</td>
+		</tr><tr>
+			<td>May</td><td>140</td><td>189</td><td>105</td><td>16</td>
+		</tr><tr>
+			<td>June</td><td>187</td><td>245</td><td>123</td><td>25</td>
+		</tr><tr>
+			<td>July</td><td>244</td><td>316</td><td>219</td><td>20</td>
+		</tr><tr>
+			<td>August</td><td>182</td><td>227</td><td>127</td><td>23</td>
+		</tr><tr>
+			<td>September</td><td>71</td><td>90</td><td>48</td><td>14</td>
+		</tr><tr>
+			<td>October</td><td>38</td><td>47</td><td>21</td><td>9</td>
+		</tr><tr>
+			<td>November</td><td>19</td><td>24</td><td>5</td><td>4</td>
+		</tr><tr>
+			<td>December</td><td>34</td><td>42</td><td>8</td><td>14</td>
+		</tr><tr>
+			<td align="right" valign="middle" colspan="5" style="background-color:LightGrey;font-size:8pt;height:20px;">www.uscgboating.org &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/7/2015 3:48:29 AM</td>
+		</tr>
+	</table>
+</div>

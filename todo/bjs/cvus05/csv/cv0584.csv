@@ -1,0 +1,54 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,
+filename:  cv0584.csv,,,,,,,,,,,,,,,,
+"Table 84. Percent distribution of victimizations resulting in theft loss, by type of crime and type of property stolen",,,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,,
+
+"Table 84. Personal and property crimes, 2005: Percent distribution of victimizations resulting in theft loss, by type of crime and type of property stolen",,,,,,,,,,,,,,,,
+,Percent of property stolen,,,,,,,,,,,,,,,
+,Personal crimes,,,,   Crimes of violence/a,,,,Robbery,,,,Purse snatching/Pocket picking,,,
+Type of property loss,Number,,Percent,,Number,,Percent,,Number,,Percent,,Number,,Percent,
+Total,"1,257,930",,100,%,"743,220",,100,%,"728,110",,100,%,"514,710",,100,%
+Cash,"370,680",,29.5,,"192,130",,25.9,,"192,130",,26.4,,"178,550",,34.7,
+"Purse, wallet, credit cards","483,950",,38.5,,"210,690",,28.3,,"210,690",,28.9,,"273,260",,53.1,
+Vehicle or parts,"54,580",,4.3,,"54,580",,7.3,,"54,580",,7.5,,0,*,0,*
+   Motor vehicles,"49,510",,3.9,,"49,510",,6.7,,"49,510",,6.8,,0,*,0,*
+   Vehicle parts,0,*,0,*,0,*,0,*,0,*,0,*,0,*,0,*
+   Unattached vehicle accessories,0,*,0,*,0,*,0,*,0,*,0,*,0,*,0,*
+   Bicycle or parts,"5,070",*,0.4,*,"5,070",*,0.7,*,"5,070",*,0.7,*,0,*,0,*
+Household furnishings,"7,140",*,0.6,*,"7,140",*,1,*,"4,090",*,0.6,*,0,*,0,*
+Personal effects,"309,440",,24.6,,"250,900",,33.8,,"241,820",,33.2,,"58,540",,11.4,
+"   Portable electronic,  photographic gear","104,780",,8.3,,"99,430",,13.4,,"99,430",,13.7,,"5,350",*,1,*
+"   Jewelry, clothing","103,600",,8.2,,"94,540",,12.7,,"91,490",,12.6,,"9,060",*,1.8,*
+   Other personal effects,"101,060",,8,,"56,930",,7.7,,"50,890",,7,,"44,130",,8.6,
+Firearms,0,*,0,*,0,*,0,*,0,*,0,*,0,*,0,*
+"Tools, machinery","6,120",*,0.5,*,"6,120",*,0.8,*,"3,130",*,0.4,*,0,*,0,*
+Other,"26,020",*,2.1,*,"21,660",*,2.9,*,"21,660",*,3,*,"4,360",*,0.8,*
+Don't know,0,*,0,*,0,*,0,*,0,*,0,*,0,*,0,*
+,Percent of victimizations resulting in theft loss,,,,,,,,,,,,,,,
+,Property crimes,,,,Household burglary,,,,Motor vehicle theft,,,,           Theft,,,
+Type of property loss,Number,,Percent,,Number,,Percent,,Number,,Percent,,Number,,Percent,
+Total,"23,886,570",,100,%,"4,639,280",,100,%,"1,204,590",,100,%,"18,042,690",,100,%
+Cash,"2,418,100",,10.1,,"460,270",,9.9,,"41,140",,3.4,,"1,916,680",,10.6,
+"Purse, wallet, credit cards","2,597,760",,10.9,,"267,340",,5.8,,"30,940",*,2.6,*,"2,299,480",,12.7,
+Vehicle or parts,"4,841,430",,20.3,,"327,370",,7.1,,"836,800",,69.5,,"3,677,270",,20.4,
+   Motor vehicles,"822,400",,3.4,,"47,750",,1,,"774,650",,64.3,,0,*,0,*
+   Vehicle parts,"2,289,020",,9.6,,"42,900",,0.9,,"49,110",,4.1,,"2,197,020",,12.2,
+   Unattached vehicle accessories,"448,470",,1.9,,"49,150",,1.1,,"13,040",*,1.1,*,"386,290",,2.1,
+   Bicycle or parts,"1,281,540",,5.4,,"187,570",,4,,0,*,0,*,"1,093,960",,6.1,
+Household furnishings,"1,145,650",,4.8,,"626,770",,13.5,,"10,200",*,0.8,*,"508,670",,2.8,
+Personal effects,"8,331,640",,34.9,,"1,891,620",,40.8,,"206,660",,17.2,,"6,233,360",,34.5,
+"Portable electronic, photographic gear","3,007,520",,12.6,,"617,290",,13.3,,"68,380",,5.7,,"2,321,850",,12.9,
+"   Jewelry, clothing","2,049,950",,8.6,,"601,920",,13,,"54,470",,4.5,,"1,393,560",,7.7,
+   Other personal effects,"3,274,170",,13.7,,"672,410",,14.5,,"83,810",,7,,"2,517,950",,14,
+Firearms,"157,100",,0.7,,"111,760",,2.4,,"6,620",*,0.5,*,"38,720",,0.2,
+"Tools, machinery","1,845,160",,7.7,,"573,480",,12.4,,"49,480",,4.1,,"1,222,200",,6.8,
+Other,"2,549,740",,10.7,,"380,670",,8.2,,"22,760",*,1.9,*,"2,146,310",,11.9,
+Don't know,0,*,0,*,0,*,0,*,0,*,0,*,0,*,0,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,,
+Some respondents may have cited multiple items as being stolen.,,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,,
+"a/Crimes of violence includes data on rape and sexual assault, not shown separately.",,,,,,,,,,,,,,,,

@@ -1,0 +1,35 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  cv0516.csv,,,,,,,,,,,,,,,
+Table 16. Number of victimizations and victimization rates by type of crime and race of head of household,,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,
+
+"Table 16. Property crimes, 2005:  Number of victimizations and victimization rates by type of crime and race of head of household",,,,,,,,,,,,,,,
+,"Rate per 1,000 households",,,,,,,,,,,,,,
+,         All Races,,White only,,Black only,,,,Other race only/a,,,,Two or more races/b,,
+Type of crime,Number,Rate,Number,Rate,Number,,Rate,,Number,,Rate,,Number,,Rate
+Property crimes,"18,039,930",154,"15,025,220",155.7,"2,106,020",,144.6,,"635,210",,122.8,,"273,480",,308.9
+   Household burglary,"3,456,220",29.5,"2,757,440",28.6,"510,080",,35,,"120,800",,23.3,,"67,900",,76.7
+      Completed,"2,900,460",24.8,"2,314,160",24,"441,970",,30.3,,"85,730",,16.6,,"58,610",,66.2
+         Forcible entry,"1,068,430",9.1,"794,180",8.2,"235,210",,16.1,,"21,650",*,4.2,*,"17,390",*,19.6,*
+         Unlawful entry without force,"1,832,030",15.6,"1,519,980",15.8,"206,760",,14.2,,"64,080",,12.4,,"41,210",,46.5,
+      Attempted forcible entry,"555,760",4.7,"443,280",4.6,"68,110",,4.7,,"35,070",*,6.8,*,"9,290",*,10.5,*
+   Motor vehicle theft,"978,120",8.4,"731,160",7.6,"184,490",,12.7,,"51,450",,9.9,,"11,020",*,12.4,*
+      Completed,"774,650",6.6,"556,970",5.8,"169,820",,11.7,,"36,840",,7.1,,"11,020",*,12.4,*
+      Attempted,"203,470",1.7,"174,190",1.8,"14,660",*,1,*,"14,610",*,2.8,*,0,*,0,*
+   Theft,"13,605,590",116.2,"11,536,620",119.6,"1,411,450",,96.9,,"462,950",,89.5,,"194,560",,219.7,
+      Completed,"13,116,270",112,"11,151,040",115.6,"1,358,870",,93.3,,"428,210",,82.8,,"178,150",,201.2,
+         Less than $50,"4,079,120",34.8,"3,537,120",36.7,"357,740",,24.6,,"127,800",,24.7,,"56,460",,63.8,
+         $50 - $249,"4,656,120",39.8,"3,917,150",40.6,"532,380",,36.5,,"146,770",,28.4,,"59,810",,67.6,
+         $250 or more,"3,231,440",27.6,"2,703,640",28,"339,830",,23.3,,"130,900",,25.3,,"57,080",,64.5,
+         Amount not available,"1,149,590",9.8,"993,140",10.3,"128,910",,8.8,,"22,740",*,4.4,*,"4,800",*,5.4,*
+      Attempted,"489,320",4.2,"385,580",4,"52,580",,3.6,,"34,740",*,6.7,*,"16,410",*,18.5,*
+Total number of households,"117,110,800",...,"96,483,760",...,"14,567,210",,...,,"5,174,380",,...,,"885,450",,...,
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,,
+... Not applicable.
+"a/Includes American Indian, Eskimo, Asian Pacific Islander if only one of these races is given."
+"b/Includes all persons of any race, indicating two or more races."

@@ -1,0 +1,51 @@
+Name: “Table 1 of 1 on page 97 of 141”,Name: “Table 1 of 1 on page 97 of 141”,Name: “Table 1 of 1 on page 97 of 141”,Name: “Table 1 of 1 on page 97 of 141”,Name: “Table 1 of 1 on page 97 of 141”,Name: “Table 1 of 1 on page 97 of 141”,Name: “Table 1 of 1 on page 97 of 141”,Name: “Table 1 of 1 on page 97 of 141”,Name: “Table 1 of 1 on page 97 of 141”,Name: “Table 1 of 1 on page 97 of 141”,Name: “Table 1 of 1 on page 97 of 141”
+Table: 95,Table: 95,Table: 95,Table: 95,Table: 95,Table: 95,Table: 95,Table: 95,Table: 95,Table: 95,Table: 95
+,,,,,,,,,,
+88,•,Offender Risk Assessment in Virginia,Offender Risk Assessment in Virginia,,,,,,,
+,The test results in Figure 5.30 show that the hazard ratio is proportional for all indepen-,The test results in Figure 5.30 show that the hazard ratio is proportional for all indepen-,The test results in Figure 5.30 show that the hazard ratio is proportional for all indepen-,The test results in Figure 5.30 show that the hazard ratio is proportional for all indepen-,The test results in Figure 5.30 show that the hazard ratio is proportional for all indepen-,The test results in Figure 5.30 show that the hazard ratio is proportional for all indepen-,The test results in Figure 5.30 show that the hazard ratio is proportional for all indepen-,The test results in Figure 5.30 show that the hazard ratio is proportional for all indepen-,The test results in Figure 5.30 show that the hazard ratio is proportional for all indepen-,The test results in Figure 5.30 show that the hazard ratio is proportional for all indepen-
+"dent variables, and that the Cox proportional hazards model is appropriate for estimating both","dent variables, and that the Cox proportional hazards model is appropriate for estimating both","dent variables, and that the Cox proportional hazards model is appropriate for estimating both","dent variables, and that the Cox proportional hazards model is appropriate for estimating both","dent variables, and that the Cox proportional hazards model is appropriate for estimating both","dent variables, and that the Cox proportional hazards model is appropriate for estimating both","dent variables, and that the Cox proportional hazards model is appropriate for estimating both","dent variables, and that the Cox proportional hazards model is appropriate for estimating both","dent variables, and that the Cox proportional hazards model is appropriate for estimating both","dent variables, and that the Cox proportional hazards model is appropriate for estimating both","dent variables, and that the Cox proportional hazards model is appropriate for estimating both"
+models of recidivism.,models of recidivism.,,,,,,,,,
+Figure 5.30,Figure 5.30,,,,,,,,,
+Test of Proportional Hazards Assumption for Arrest and Conviction,Test of Proportional Hazards Assumption for Arrest and Conviction,Test of Proportional Hazards Assumption for Arrest and Conviction,Test of Proportional Hazards Assumption for Arrest and Conviction,Test of Proportional Hazards Assumption for Arrest and Conviction,Test of Proportional Hazards Assumption for Arrest and Conviction,Test of Proportional Hazards Assumption for Arrest and Conviction,Test of Proportional Hazards Assumption for Arrest and Conviction,,,
+,,,,Arrest,,,,Conviction,Conviction,
+,,Chi-Square,Chi-Square,,Prob>chi2,Prob>chi2,Chi-Square,,Prob>chi2,Prob>chi2
+Gender,Gender,1.19,1.19,,0.27,0.27,0.27,,0.60,
+Age less than 20?,Age less than 20?,1.75,1.75,,0.19,0.19,2.52,,0.11,
+Age between 20 and 27?,Age between 20 and 27?,0.17,0.17,,0.68,0.68,0,,1.00,
+Ever Married?,Ever Married?,0.05,0.05,,0.83,0.83,0.18,,0.67,
+Employment Status,Employment Status,1.23,1.23,,0.27,0.27,0.21,,0.64,
+Offender Alone?,Offender Alone?,0.16,0.16,,0.69,0.69,0.28,,0.60,
+Additional Offenses?,Additional Offenses?,1.76,1.76,,0.18,0.18,0.24,,0.62,
+Prior Offense Score,Prior Offense Score,0.21,0.21,,0.65,0.65,1.05,,0.31,
+Drug Offense?,Drug Offense?,1.80,1.80,,0.18,0.18,0,,0.97,
+Fraud Offense?,Fraud Offense?,0.01,0.01,,0.93,0.93,0.88,,0.35,
+From Norfolk?,From Norfolk?,1.52,1.52,,0.22,0.22,0.19,,0.66,
+From Suffolk?,From Suffolk?,0.89,0.89,,0.35,0.35,0.94,,0.33,
+From Newport News?,From Newport News?,,0,,0.96,0.96,0.59,,0.44,
+From Henrico County?,From Henrico County?,0.23,0.23,,0.63,0.63,0.44,,0.51,
+From Danville County?,From Danville County?,0.01,0.01,,0.91,0.91,0.75,,0.39,
+Global Test,Global Test,14.78,14.78,,0.47,0.47,10.97,,0.75,
+,Figure 5.31 displays the results for both models of recidivism—new arrest and new convic-,Figure 5.31 displays the results for both models of recidivism—new arrest and new convic-,Figure 5.31 displays the results for both models of recidivism—new arrest and new convic-,Figure 5.31 displays the results for both models of recidivism—new arrest and new convic-,Figure 5.31 displays the results for both models of recidivism—new arrest and new convic-,Figure 5.31 displays the results for both models of recidivism—new arrest and new convic-,Figure 5.31 displays the results for both models of recidivism—new arrest and new convic-,Figure 5.31 displays the results for both models of recidivism—new arrest and new convic-,Figure 5.31 displays the results for both models of recidivism—new arrest and new convic-,Figure 5.31 displays the results for both models of recidivism—new arrest and new convic-
+tion. 52,tion. 52,The significant predictors53,The significant predictors53,"of recidivism for “new arrest” were Gender, Prior Offenses, and","of recidivism for “new arrest” were Gender, Prior Offenses, and","of recidivism for “new arrest” were Gender, Prior Offenses, and","of recidivism for “new arrest” were Gender, Prior Offenses, and","of recidivism for “new arrest” were Gender, Prior Offenses, and","of recidivism for “new arrest” were Gender, Prior Offenses, and","of recidivism for “new arrest” were Gender, Prior Offenses, and"
+Drug (the dummy comparing drug offenders to larceny offenders). The coefficient for Gender was,Drug (the dummy comparing drug offenders to larceny offenders). The coefficient for Gender was,Drug (the dummy comparing drug offenders to larceny offenders). The coefficient for Gender was,Drug (the dummy comparing drug offenders to larceny offenders). The coefficient for Gender was,Drug (the dummy comparing drug offenders to larceny offenders). The coefficient for Gender was,Drug (the dummy comparing drug offenders to larceny offenders). The coefficient for Gender was,Drug (the dummy comparing drug offenders to larceny offenders). The coefficient for Gender was,Drug (the dummy comparing drug offenders to larceny offenders). The coefficient for Gender was,Drug (the dummy comparing drug offenders to larceny offenders). The coefficient for Gender was,Drug (the dummy comparing drug offenders to larceny offenders). The coefficient for Gender was,Drug (the dummy comparing drug offenders to larceny offenders). The coefficient for Gender was
+"positive, indicating that males are more likely to recidivate than females.","positive, indicating that males are more likely to recidivate than females.","positive, indicating that males are more likely to recidivate than females.","positive, indicating that males are more likely to recidivate than females.","positive, indicating that males are more likely to recidivate than females.","positive, indicating that males are more likely to recidivate than females.","positive, indicating that males are more likely to recidivate than females.","positive, indicating that males are more likely to recidivate than females.",The hazard ratio for,The hazard ratio for,The hazard ratio for
+Figure 5.31,Figure 5.31,,,,,,,,,
+Cox Regression Results for Arrest and Conviction,Cox Regression Results for Arrest and Conviction,Cox Regression Results for Arrest and Conviction,Cox Regression Results for Arrest and Conviction,Cox Regression Results for Arrest and Conviction,Cox Regression Results for Arrest and Conviction,,,,,
+,,,,Arrest,,,,Conviction,Conviction,
+,,Coeff,,z,P>|z|,Haz R,Coeff,z,P>|z|,Haz R
+Gender,Gender,0.399,2.09,2.09,0.04,1.491,0.631,2.15,0.03,1.879
+Age less than 20?,Age less than 20?,-0.066,-0.21,-0.21,0.83,0.936,0.029,0.07,0.95,1.030
+Age between 20 and 27?,Age between 20 and 27?,0.208,0.96,0.96,0.34,1.231,0.051,0.16,0.87,1.053
+Ever Married?,Ever Married?,-0.127,-0.66,-0.66,0.51,0.880,-0.049,-0.18,0.86,0.952
+Employment Status,Employment Status,0.240,1.43,1.43,0.15,1.271,-0.222,-0.89,0.37,0.800
+Offender Alone?,Offender Alone?,0.014,0.16,0.16,0.87,1.015,-0.062,-0.49,0.63,0.940
+Additional Offenses?,Additional Offenses?,0.126,0.59,0.59,0.56,1.134,0.169,0.54,0.59,1.184
+Prior Offense Score,Prior Offense Score,0.067,2.26,2.26,0.02,1.069,0.132,3.27,0,1.141
+Drug Offense?,Drug Offense?,-0.352,-1.70,-1.70,0.09,0.703,-0.095,-0.33,0.74,0.910
+Fraud Offense?,Fraud Offense?,-0.222,-0.99,-0.99,0.32,0.801,-0.358,-1.05,0.3,0.699
+From Norfolk?,From Norfolk?,0.270,1.04,1.04,0.30,1.310,-0.746,-1.61,0.11,0.474
+From Suffolk?,From Suffolk?,0.240,0.90,0.90,0.37,1.271,0.339,0.91,0.36,1.403
+From Newport News?,From Newport News?,0.175,0.46,0.46,0.65,1.191,0.450,0.97,0.33,1.568
+From Henrico County?,From Henrico County?,0.356,1.54,1.54,0.12,1.427,0.375,1.14,0.25,1.455
+From Danville County?,From Danville County?,-0.143,-0.41,-0.41,0.68,0.867,0.037,0.08,0.94,1.037
+Prob > chi2,Prob > chi2,0.021,,,,,0.007,,,

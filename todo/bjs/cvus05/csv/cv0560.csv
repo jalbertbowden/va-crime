@@ -1,0 +1,22 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  cv0560.csv,,,,,,,,,,,,,,,
+"Table 60. Percent distribution of incidents, by type of crime, type of offender and time of occurrence",,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,
+
+"Table 60. Personal robbery and assault by armed or unarmed offenders, 2005: Percent distribution of incidents, by type of crime, type of offender and time of occurrence",,,,,,,,,,,,,,,
+,,Percent of incidents,,,,,,,,,,,,,
+,,,,Daytime,,Nighttime,,,,,,,,,
+Type of crime and offender, Number of incidents,Total,,6 a.m. - 6 p.m.,,  Total,,6 p.m.- midnight,,Midnight - 6 a.m.,,Not known,,Not known and not available,
+Robbery,,,,,,,,,,,,,,,
+By armed offenders,"275,210",100,%,31,%,67.9,%,46.7,%,21.2,%,0,%*,1.1,%*
+By unarmed offenders,"219,090",100,%,46.1,,46.1,,28.3,,12.9,*,4.9,*,7.8,*
+Assault,,,,,,,,,,,,,,,
+By armed offenders,"859,350",100,%,47.1,,52.1,,38.7,,12.2,,1.3,*,0.8,*
+By unarmed offenders,"2,802,510",100,%,58.2,,40.5,,32.4,,6.9,,1.2,*,1.3,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,
+Excludes data in which the presence of a weapon was not ascertained.,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,

@@ -1,0 +1,33 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+filename:  cv05mmon.csv,,,,,,,,,,,,
+Month of Interview by Month of reference,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005 NCJ  215244",,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,
+
+Month of Interview by Month of Reference,,,,,,,,,,,,
+(X's denote months in the  6-month reference period),,,,,,,,,,,,
+Month of interview,,             Period of reference within bounded period,,,,,,,,,,
+,First Quarter,,,Second Quarter,,,Third Quarter,,,Fourth Quarter,,
+,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+January,,,,,,,,,,,,
+February,X,,,,,,,,,,,
+March,X,X,,,,,,,,,,
+April,X,X,X,,,,,,,,,
+May,X,X,X,X,,,,,,,,
+June,X,X,X,X,X,,,,,,,
+July,X,X,X,X,X,X,,,,,,
+August,,X,X,X,X,X,X,,,,,
+September,,,X,X,X,X,X,X,,,,
+October,,,,X,X,X,X,X,X,,,
+November,,,,,X,X,X,X,X,X,,
+December,,,,,,X,X,X,X,X,X,
+January,,,,,,,X,X,X,X,X,X
+February,,,,,,,,X,X,X,X,X
+March,,,,,,,,,X,X,X,X
+April,,,,,,,,,,X,X,X
+May,,,,,,,,,,,X,X
+June,,,,,,,,,,,,X
+July

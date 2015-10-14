@@ -1,0 +1,39 @@
+Bureau of Justice Statistics,,,,,,,,,
+filename:  cv0518.csv,,,,,,,,,
+"Table 18. Number of victimizations and victimization rates on the basis of thefts per 1,000 households and of thefts per 1,000 vehicles owned, by selected household characteristics",,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,
+
+"Table 18. Motor vehicle theft, 2005:  Number of victimizations and victimization rates on the basis of thefts per 1,000 households and of thefts per 1,000 vehicles owned, by selected household characteristics",,,,,,,,,
+,Based on households,,,,,Based on vehicles owned,,,
+Characteristic,Number of households,Number of thefts,,"Rate per 1,000",,Number of vehicles owned,Number of thefts,,"Rate per 1,000"
+Race of head of household,,,,,,,,,
+   All races,"117,110,800","978,120",,8.4,,"221,122,000","1,070,390",,4.8
+      White only,"96,483,760","731,160",,7.6,,"189,896,660","803,920",,4.2
+      Black only,"14,567,210","184,490",,12.7,,"20,561,390","190,700",,9.3
+      Other race only,"5,174,380","51,450",,9.9,,"8,973,490","56,440",,6.3,
+      Two or more races,"885,450","11,020",*,12.4,*,"1,690,460","19,330",*,11.4,*
+Age of head of household,,,,,,,,,,
+   12-19,"1,115,140","16,010",*,14.4,*,"1,566,670","18,590",*,11.9,*
+   20-34,"26,698,630","333,630",,12.5,,"46,493,900","366,490",,7.9,
+   35-49,"36,673,480","358,930",,9.8,,"76,863,480","401,060",,5.2,
+   50-64,"29,315,290","205,100",,7,,"62,171,830","217,800",,3.5,
+   65 and over,"23,308,250","64,440",,2.8,,"34,026,120","66,460",,2,
+Form of tenure,,,,,,,,,,
+   Owned or being bought,"80,293,070","488,990",,6.1,,"172,367,690","551,270",,3.2,
+   Rented,"36,817,730","489,120",,13.3,,"48,754,320","519,120",,10.6,
+Locality of residence,,,,,,,,,,
+   Urban,"33,045,250","420,720",,12.7,,"50,773,500","452,690",,8.9,
+   Suburban,"56,101,350","429,850",,7.7,,"113,042,700","476,180",,4.2,
+   Rural,"27,964,200","127,540",,4.6,,"57,305,800","141,520",,2.5,
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.
+"The number of thefts based on vehicles owned is equal to or higher than the corresponding figure based on households because the former includes all completed or attempted vehicle thefts, regardless of the final classification of the event; personal crimes of contact and burglary occurring in conjunction with motor vehicle thefts take precedence in determining the final classification based on the number of households."
+"The term ""Urban"" is used to denote ""Central cities."""
+"The term ""Suburban"" is used to denote ""Outside central cities."""
+"The term ""Rural"" is used to denote ""Nonmetropolitan areas."""
+"a/Includes American Indian, Eskimo, Asian pacific Islander if only one of these races is given."
+"b/Includes all persons of any race, indicating two or more races."

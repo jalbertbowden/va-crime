@@ -1,0 +1,25 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  cv05106.csv,,,,,,,,,,,,,,,
+"Table 106. Percent distribution of police response to a reported incident, by type of crime",,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,
+
+"Table 106. Personal and property crimes, 2005: Percent distribution of police response to a reported incident, by type of crime",,,,,,,,,,,,,,,
+,,Percent of incidents,,,,,,,,,,,,,
+Type of crime,Number of incidents,Total,,Police came to victim,,Victim went to police,,Contact with police-don't know how,,Police did not come,,Not known if police came,,Police were at the scene,
+Crimes of violence,"2,100,200",100,%,78.2,%,3.2,%,0,%*,11,%,2.9,%,4.7,%
+   Rape/Sexual assault/a,"70,700",100,%,74.7,,13.3,*,0,*,8,*,0,*,3.9,*
+   Robbery,"287,260",100,%,84.8,,1.1,*,0,*,8,*,5.1,*,1.1,*
+   Aggravated assault,"522,910",100,%,79,,3.5,*,0,*,12,,3.8,*,1.7,*
+   Simple assault,"1,219,320",100,%,76.5,,2.9,*,0,*,11.4,,2.2,*,6.9,
+Purse snatching/Pocket picking,"79,970",100,%,64.2,,9.2,*,0,*,26.6,*,0,*,0,*
+Property crimes,"6,998,740",100,%,66.5,%,4.6,%,0.1,%*,24.7,%,2.6,%,1.5,%
+   Household burglary,"1,906,390",100,%,81.4,,2.3,,0.3,*,13.4,,1.6,*,1,*
+   Motor vehicle theft,"786,800",100,%,70.2,,2.6,*,0,*,21.1,,4,*,2,*
+   Theft,"4,305,550",100,%,59.2,,5.9,,0,*,30.3,,2.8,,1.7,
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,,,,

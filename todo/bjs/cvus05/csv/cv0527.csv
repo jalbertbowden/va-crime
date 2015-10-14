@@ -1,0 +1,39 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+filename:  cv0527.csv,,,,,,,,,,,
+"Table 27. Number and percent distribution of incidents, by type of crime and victim-offender relationship",,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,
+
+"Table 27. Personal crimes of violence, 2005:  Number and percent distribution of incidents, by type of crime and victim-offender relationship",,,,,,,,,,,
+,Percent of incidents,,,,,,,,,,
+,All incidents,,,Involving strangers,,,,Involving nonstrangers,,,
+Type of crime         ,    Number,Percent,,    Number,,Percent,,    Number,,Percent,
+Crimes of violence,"4,718,330",100,%,"2,465,360",,52.3,%,"2,252,970",,47.7,%
+   Completed violence,"1,536,990",100,%,"799,680",,52,,"737,320",,48,
+   Attempted/threatened violence,"3,181,340",100,%,"1,665,690",,52.4,,"1,515,650",,47.6,
+   Rape/Sexual assault,"188,960",100,%,"65,960",,34.9,,"123,010",,65.1,
+      Rape/Attempted rape,"127,430",100,%,"44,730",,35.1,,"82,700",,64.9,
+         Rape,"69,370",100,%,"16,810",*,24.2,*,"52,560",,75.8,
+         Attempted rape/a,"58,060",100,%,"27,910",*,48.1,*,"30,150",*,51.9,*
+      Sexual assault/b,"61,530",100,%,"21,230",*,34.5,*,"40,300",,65.5,
+   Robbery,"569,470",100,%,"454,990",,79.9,,"114,490",,20.1,
+      Completed/property taken,"381,070",100,%,"293,300",,77,,"87,780",,23,
+         With injury,"126,440",100,%,"112,110",,88.7,,"14,320",*,11.3,*
+         Without injury,"254,640",100,%,"181,180",,71.2,,"73,460",,28.8,
+      Attempted to take property,"188,400",100,%,"161,690",,85.8,,"26,710",*,14.2,*
+         With injury,"62,230",100,%,"55,350",,88.9,,"6,880",*,11.1,*
+         Without injury,"126,170",100,%,"106,340",,84.3,,"19,830",*,15.7,*
+   Assault,"3,959,900",100,%,"1,944,420",,49.1,,"2,015,480",,50.9,
+      Aggravated,"926,060",100,%,"524,430",,56.6,,"401,620",,43.4,
+         With injury,"306,480",100,%,"154,340",,50.4,,"152,140",,49.6,
+         Threatened with weapon,"619,580",100,%,"370,090",,59.7,,"249,480",,40.3,
+      Simple,"3,033,840",100,%,"1,419,990",,46.8,,"1,613,860",,53.2
+         With minor injury,"732,080",100,%,"327,530",,44.7,,"404,540",,55.3
+         Threatened without weapon,"2,301,770",100,%,"1,092,450",,47.5,,"1,209,310",,52.5
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,
+a/Includes verbal threats of rape.,,,,,,,,,,
+b/Includes threats.,,,,,,,,,,

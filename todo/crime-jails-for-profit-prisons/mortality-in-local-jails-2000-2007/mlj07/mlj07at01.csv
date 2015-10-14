@@ -1,0 +1,19 @@
+Bureau of Justice Statistics,,,,,,,,,
+Filename: mlj07at01.csv,,,,,,,,,
+"Appendix table 1. Number of reported deaths by size of jail jurisdiction, 2000–2007",,,,,,,,,
+"Report title: Mortality in Local Jails, 2000-2007  NCJ 222988",,,,,,,,,
+Data source(s): Deaths in Custody Reporting Program,,,,,,,,,
+Author(s): Margaret E. Noonan,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,,,,,
+Date of version: 10-27-2010,,,,,,,,,
+,,,,,,,,,
+"Appendix table 1. Number of reported deaths by size of jail jurisdiction, 2000–2007",,,,,,,,,
+,Percent of unique facilities in all 8 years,,"Number of deaths reported by facilities reporting in all 8 years, by size of jail jurisdiction",,,,,,
+Number of deaths,,,Total,Fewer than 50,50 to 99, 250 to 499,250 to 499,500 to 999,"1,000 or more"
+0,42,%,"1,219",780,253,160,22,2,1
+1,48,,"1,371",362,303,376,192,93,32
+2,6,,181,8,12,43,43,48,26
+3,2,,47,0,0,0,11,12,24
+4 or more ,2,,58,0,0,0,1,3,54
+Total,100,%,"2,876","1,150",568,579,269,158,137
+Note: Unique facilities are jail facilities or jurisdictions that reported in all 8 years of the reporting period. Detail may not sum to total due to missing cases.,,,,,,,,,

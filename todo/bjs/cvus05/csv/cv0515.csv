@@ -1,0 +1,52 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  cv0515.csv,,,,,,,,,,,,,,,
+"Table 15. Victimization rates for persons age 12 and over, by race and annual family income of victims and type of crime",,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,
+
+"Table 15. Personal crimes, 2005:  Victimization rates for persons age 12 and over, by race and annual family income of victims and type of crime",,,,,,,,,,,,,,,
+,,,,,,"Rate per 1,000 persons in each age group",,,,,,,,,
+,,,,,,,,,,,,Robbery,,,
+Race and income,Total population,Crime of violence,,Completed violence,,Attempted/threatened violence,,Rape/Sexual assault/a,,Total,,With Injury,,Without Injury,
+White only,,,,,,,,,,,,,,,
+"Less than $7,500","5,754,980",35.6,,15,,20.6,,2.8,*,4.9,*,2.4,*,2.5,*
+"$7,500-$14,999","10,781,650",26.2,,9.4,,16.8,,0.5,*,3.5,,1.5,*,2,*
+"$15,000-$24,999","17,431,830",27.5,,7.9,,19.6,,1.2,*,3.5,,2.4,,1.2,*
+"$25,000-$34,999","18,070,310",23.2,,6.9,,16.3,,0.8,*,2.2,,0.9,*,1.4,*
+"$35,000-$49,999","25,467,570",21.9,,6.2,,15.6,,0.4,*,2.4,,1.2,*,1.2,*
+"$50,000-$74,999","31,054,040",20.5,,5.2,,15.3,,0.4,*,1.6,,0.4,*,1.2,
+"$75,000 or more","46,821,960",16,,4.6,,11.4,,0.6,*,1.8,,0.4,*,1.4,
+Black only,,,,,,,,,,,,,,,
+"Less than $7,500","2,032,410",44.6,,15.5,*,29.1,,1.4,*,9.2,*,3.3,*,5.8,*
+"$7,500-$14,999","2,981,690",27.1,,14.7,,12.3,,1,*,8.2,*,2.1,*,6.1,*
+"$15,000-$24,999","3,620,250",44,,19.5,,24.5,,2.3,*,4.9,*,2.6,*,2.4,*
+"$25,000-$34,999","3,138,230",38,,21.6,,16.4,,7.4,*,7.6,*,1.3,*,6.2,*
+"$35,000-$49,999","3,413,920",25.1,,12.4,,12.7,,4.2,*,4.9,*,0,*,4.9,*
+"$50,000-$74,999","2,702,720",24.6,,10.4,*,14.2,,0,*,3.7,*,0,*,3.7,*
+"$75,000 or more","2,668,710",24.4,,12.3,*,12.2,*,0,*,4.6,*,0,*,4.6,*
+,"Rate per 1,000 persons in each age group",,,,,,,,,,,,,,
+,,Assault,,,,,,,,,,,,,
+Race and income,  Total, Aggravated,,Simple,,  Purse snatching/Pocket picking,,,,,,,,,
+White only,,,,,,,
+"Less than $7,500",27.9,9.5,,18.4,,3.6,*
+"$7,500-$14,999",22.2,7.8,,14.4,,1.2,*
+"$15,000-$24,999",22.8,4.4,,18.4,,1,*
+"$25,000-$34,999",20.1,5,,15.2,,1,*
+"$35,000-$49,999",19.1,3.8,,15.3,,1,*
+"$50,000-$74,999",18.5,3.8,,14.7,,0.7,*
+"$75,000 or more",13.7,2.3,,11.3,,1.1,
+Black only,,,,,,,
+"Less than $7,500",34,13.2,*,20.8,,2.9,*
+"$7,500-$14,999",17.8,4,*,13.8,,3.5,*
+"$15,000-$24,999",36.8,16.6,,20.2,,2.2,*
+"$25,000-$34,999",23,7,*,16,,1.4,*
+"$35,000-$49,999",15.9,7.5,*,8.5,*,3.2,*
+"$50,000-$74,999",21,6.8,*,14.1,,0,*
+"$75,000 or more",19.8,7,*,12.8,*,0,*
+Note: Detail may not add to total shown because of rounding.
+"Excludes data on persons whose family income level was not ascertained and data on persons of ""Other "" races and persons indicating two or more races."
+*Estimate is based on about 10 or fewer sample cases.
+a/Includes verbal threats of rape and threats of sexual assault.

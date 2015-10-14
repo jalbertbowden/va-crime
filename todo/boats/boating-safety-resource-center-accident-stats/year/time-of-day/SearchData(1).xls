@@ -1,0 +1,37 @@
+<div>
+	<table class="gridcontent" cellspacing="0" cellpadding="5" rules="all" bordercolor="#999999" border="1" id="exportgrid" style="border-color:#999999;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+		<tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<td align="center" colspan="5" style="color:Black;">Recreational Boating Statistics by Time Of Day for VA 2005-2011</td>
+		</tr><tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<th scope="col">Time of Day</th><th scope="col">Accidents</th><th scope="col">Vessels</th><th scope="col">Injuries</th><th scope="col">Deaths</th>
+		</tr><tr>
+			<td>12:00AM - 02:30AM</td><td>42</td><td>52</td><td>31</td><td>12</td>
+		</tr><tr>
+			<td>02:31AM - 04:30AM</td><td>17</td><td>27</td><td>12</td><td>2</td>
+		</tr><tr>
+			<td>04:31AM - 06:30AM</td><td>22</td><td>28</td><td>19</td><td>4</td>
+		</tr><tr>
+			<td>06:31AM - 08:30AM</td><td>31</td><td>36</td><td>10</td><td>8</td>
+		</tr><tr>
+			<td>08:31AM - 10:30AM</td><td>72</td><td>88</td><td>45</td><td>12</td>
+		</tr><tr>
+			<td>10:31AM - 12:30PM</td><td>118</td><td>145</td><td>70</td><td>20</td>
+		</tr><tr>
+			<td>12:31PM - 02:30PM</td><td>157</td><td>210</td><td>120</td><td>12</td>
+		</tr><tr>
+			<td>02:31PM - 04:30PM</td><td>200</td><td>257</td><td>163</td><td>24</td>
+		</tr><tr>
+			<td>04:31PM - 06:30PM</td><td>163</td><td>207</td><td>128</td><td>16</td>
+		</tr><tr>
+			<td>06:31PM - 08:30PM</td><td>89</td><td>112</td><td>51</td><td>19</td>
+		</tr><tr>
+			<td>08:31PM - 10:30PM</td><td>71</td><td>101</td><td>50</td><td>14</td>
+		</tr><tr>
+			<td>10:31PM - 11:59PM</td><td>25</td><td>30</td><td>19</td><td>1</td>
+		</tr><tr>
+			<td>Unknown</td><td>10</td><td>11</td><td>2</td><td>10</td>
+		</tr><tr>
+			<td align="right" valign="middle" colspan="5" style="background-color:LightGrey;font-size:8pt;height:20px;">www.uscgboating.org &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/7/2015 3:47:38 AM</td>
+		</tr>
+	</table>
+</div>

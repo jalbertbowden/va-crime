@@ -1,0 +1,67 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: mlj07at05.csv,,,,,,,,,,,
+"Appendix table 5. Jail inmate mortality rate per 100,000 inmates, by the 50 largest jail jurisdictions and selected cause of death, 2000–2007",,,,,,,,,,,
+"Report title: Mortality in Local Jails, 2000-2007",,,,,,,,,,,
+"Data source(s): Deaths in Custody Reporting Program, Annual Survey of Jails",,,,,,,,,,,
+Author(s): Margaret E. Noonan,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,,,,,,,
+Date of version: 10-27-2010,,,,,,,,,,,
+,,,,,,,,,,,
+"Appendix table 5. Jail inmate mortality rate per 100,000 inmates, by the 50 largest jail jurisdictions and selected cause of death, 2000–2007",,,,,,,,,,,
+Jurisdiction,"Average annual mortality rate, per 100,000 jail inmates, 2000–2007","Average annual mortality rate, per 100,000 jail inmates by cause of death, 2000–2007",,,,,,,,,
+,"Average annual mortality rate, per 100,000 jail inmates, 2000–2007",Suicide,Heart disease,AIDS,Cancer,Liver disease,All other illnesses/a,Drug/alcohol intoxication,Accident,Homicide,Other/unkown
+ Total,167,26,40,15,10,6,43,7,5,6,9
+"Los Angeles County, CA",178,22,45,9,9,10,57,6,6,11,3
+"New York City, NY",218,22,63,29,9,11,49,9,4,7,14
+"Maricopa County, AZ",136,34,20,3,14,1,44,7,6,0,6
+"Cook County, IL",160,12,44,11,16,7,56,2,1,9,1
+"Harris County, TX",201,16,47,14,23,16,58,6,5,0,17
+"Philadelphia City, PA",230,31,56,34,20,5,55,11,1,16,2
+"Dallas County, TX",152,24,43,11,11,7,38,7,4,2,5
+"Dade County, FL",231,15,52,58,17,2,48,13,4,6,17
+"Orange County, CA",80,13,16,2,11,0,25,2,6,2,4
+"Broward County, FL",158,17,19,35,2,15,50,2,5,0,7
+"San Bernardino County, CA",129,28,18,0,10,0,33,11,0,5,24
+"San Diego County, CA",195,46,49,2,12,5,32,22,17,5,5
+"Shelby County, TN",153,17,39,22,14,0,43,2,5,3,7
+"Santa Clara County, CA",122,44,29,6,6,6,9,9,0,8,5
+"Hillsborough County, FL/b",115,15,41,11,3,10,21,0,0,7,7
+"Baltimore City, MD",326,89,63,58,0,6,76,3,0,22,9
+"Sacramento County, CA",170,65,32,7,9,7,39,6,6,0,0
+"Bexar County, TX",246,27,65,10,14,3,71,13,3,11,30
+"Alameda County, CA",215,41,65,3,6,10,74,6,0,3,6
+"Orange County, FL",107,9,28,25,6,0,32,3,3,0,0
+District of Columbia,315,19,72,37,36,4,36,11,7,18,75
+"Fresno County, CA",152,34,29,0,16,5,39,5,5,11,7
+"Pinellas County, FL",167,24,49,11,5,9,40,12,8,8,0
+"Tarrant County, TX",118,7,51,7,4,7,28,0,0,0,14
+"Jacksonville City, FL",226,20,44,13,7,22,52,9,4,9,47
+"Clark County, NV",187,53,45,14,8,0,52,0,10,0,5
+"Allegheny County, PA",207,66,40,0,15,0,59,8,8,0,9
+"Riverside County, CA",145,44,24,7,0,11,27,28,0,4,0
+"Davidson County, TN",228,32,63,25,8,16,45,13,17,9,0
+"De Kalb County, GA",126,23,27,21,0,0,40,0,5,5,4
+"Marion County, IN",176,39,29,21,10,10,38,10,5,5,10
+"Fulton County, GA",68,18,28,9,0,0,9,4,0,0,0
+"Milwaukee County, WI",96,4,31,0,0,0,25,17,15,4,0
+"Wayne County, MI",152,45,47,0,13,14,14,0,9,4,5
+"Oklahoma County, OK",184,38,40,6,12,0,42,23,0,24,0
+"Gwinnett County, GA",124,39,33,20,9,0,14,30,0,0,9
+"Palm Beach County, FL",168,0,49,43,5,19,43,4,5,0,0
+"Polk County, FL",80,11,21,0,0,0,27,0,10,0,12
+"Travis County, TX",139,24,28,10,10,14,33,9,0,0,10
+"Franklin County, OH",110,40,25,5,6,0,16,5,5,0,10
+"King County, WA",88,10,15,0,5,10,34,14,0,0,0
+"Cobb County, GA",116,38,26,0,6,5,16,15,5,5,0
+"Denver County, CO",140,46,26,20,0,0,12,5,5,11,16
+"Suffolk County, MA/c",62,10,5,5,0,5,10,0,0,0,26
+"Hamilton County, OH",183,36,73,0,0,0,45,0,6,6,17
+"Mecklenburg County, NC",81,6,26,5,0,0,37,0,6,0,0
+"Bernalillo County, NM",211,29,11,0,0,18,52,38,0,9,54
+"Kern County, CA",128,30,37,6,0,0,38,5,0,11,0
+"El Paso County, TX",172,40,33,0,0,0,65,6,18,5,6
+"Hampden County, MA",128,22,8,15,27,6,44,0,0,0,6
+"Note: The 50 largest jurisdictions as of June 30, 2006; displayed from largest to smallest.",,,,,,,,,,,
+"a/Includes other specified and unspecified or unknown illnesses such as influenza, septicemia, diabetes, and hepatitis. See appendix tables 2 and 3 to see a full display of the more than 50 illnesses reported to the program. See Methodology for details on illness classifications.",,,,,,,,,,,
+b/Hillsborough County data for 2003 cover the first calendar quarter; quarters 2 through 4 were not reported.,,,,,,,,,,,
+c/Suffolk County data for 2000 excludes the Suffolk County House of Corrections.,,,,,,,,,,,

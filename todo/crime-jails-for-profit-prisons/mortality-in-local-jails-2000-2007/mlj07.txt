@@ -1,0 +1,722 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Special Report
+
+Deaths in Custody Reporting Program
+
+Mortality in Local Jails, 2000-2007
+
+July 2010   NCJ 222988
+-------------------------------------------------------------
+
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available from:
+http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&iid=2197
+
+This report is associated with the Deaths in Custody 
+Reporting Program. For a list of related publications 
+go to 
+http://bjs.ojp.usdoj.gov/index.cfm?ty=tp&tid=19
+-------------------------------------------------------------
+
+Margaret Noonan
+BJS Statistician
+
+A total of 8,110 inmate deaths in local jails were reported to
+the Deaths in Custody Reporting Program (DCRP) from 2000 to
+2007 (table 1). The program received data from at least 99%
+of the roughly 3,000 jail jurisdictions each year. Annually,
+more than 80% of the nation's jails reported no deaths in
+their custody. For the 8-year period between 2000-2007, 42%
+of the jails nationwide reported no deaths.
+
+The number of deaths in local jails increased each year, from
+905 in 2000 to 1,103 in 2007. During the same period, the
+growth in the average daily population of jail inmates (31%)
+outpaced the increase in inmate deaths (22%). This resulted
+in a decline in the mortality rate of jail inmates from 152
+deaths per 100,000 inmates to 141 per 100,000 between 2000
+and 2007 (figure 1). (see Methodology for calculation of
+mortality rates).
+
+Highlights
+
+*From 2000 through 2007, local jail administrators reported
+8,110 inmate deaths in custody. Deaths in jails increased
+each year, from 905 in 2000 to 1,103 in 2007.
+
+*The mortality rate per 100,000 local jail inmates declined
+from 152 deaths per 100,000 inmates to 141 per 100,000
+between 2000 and 2007, while the jail inmate population
+increased 31% from 597,226 to 782,592.
+
+*Annually, more than 80% of the nation's jails reported no
+deaths in their custody.
+
+*Deaths from any illness, including AIDS, accounted for more
+than half (53%) of all deaths in local jails. 
+
+*Heart disease was the leading cause among illness deaths in
+local jails (42%).
+
+*Suicide was the single leading cause of unnatural deaths in
+local jails, accounting for 29% of all jail deaths between
+2000 and 2007, but the suicide rate declined from 49 to 36
+deaths per 100,000 inmates.
+
+*Between 2000 and 2007, the suicide rates were higher in
+small jails than large jails. In jails holding 50 or fewer
+inmates, the suicide rate was 169 per 100,000; in the largest
+jails, the suicide rate was 27 per 100,000 inmates.
+
+*After adjusting for differences associated with the age,
+sex, race, and Hispanic origin, suicide was the only cause of
+death that occurred at a higher rate in local jails than in
+the U.S. general population. 
+
+From 2000 to 2007, between 3,072 and 2,924 jail jurisdictions, 
+reported data to the DCRP (table 2). In 2000,nearly 9 out of 
+10 jails (86%) reported zero deaths. By 2007, 8 out of 10 jails 
+(81%) of jails reported zero deaths. For the eight-year period 
+between 2000 and 2007, about 8 in 10 jails (83%) reported zero 
+deaths. For the same period, about 1 in 10 jails (12%) reported 
+a single death, and less than 1 in 10 jails (5%) reported 2 or 
+more deaths. During this time,no more than 2% of jails reported 
+more than 3 deaths (appendix table 1).
+
+Between 2000 and 2007, suicides were the leading cause of
+death, but suicide rates continued to decline
+
+Suicide was the single leading cause of death in local jails
+(29%), followed by deaths associated with heart disease
+(22%), intoxication (7%), and AIDS-related causes (5%)
+(figure 2). No other single known cause of death, including
+accidents (3%) and homicides (2%), accounted for at least 5%
+of deaths. Collectively, deaths from any illness, such as
+heart disease, AIDS, cancer, and liver disease, accounted for
+the majority (53%) of jail deaths during 2000 to 2007. (See
+Methodology for a discussion on the nature of illness
+deaths). 
+
+While suicide has been the leading cause of death in local
+jails since the 1980s, it has declined over time. The suicide
+rate among jail inmates was 129 per 100,000 inmates in 1983,
+but 10 years later the rate had declined by more than half to
+54 per 100,000 inmates.***Footnote 1 See Suicide and Homicide
+in State Prisons and Local Jails, BJS Web, 21 August 2005.***
+From 2000 to 2007, the suicide rate declined by about a
+quarter, from 49 to 36 suicide deaths per 100,000 jail
+inmates. (table 3). 
+
+Besides suicide, AIDS-related deaths were the only other
+leading cause of death that declined among jail inmates. Over
+the 8-year period, mortality due to AIDS declined by 50%,
+from 10 to 5 deaths per 100,000 inmates. The mortality rates
+for deaths from all other leading causes of illness in jails
+during this time period showed little variation.
+ 
+Deaths due to accidents (4 per 100,000) and homicides (3 per
+100,000) also remained relatively constant throughout 2000 to
+2007. By comparison, the mortality rate for intoxication
+nearly doubled from 6 per 100,000 inmates in 2000 to 10 per
+100,000 in 2007.
+
+Ten types of medical conditions accounted for about 8 in 10
+illness deaths in jail
+
+Local jail administrators reported over 50 different medical
+conditions that led to an inmate's death between 2000 and
+2007. Of these 50 fatal medical conditions, 10 accounted for
+77% of all illness-related deaths in local jails (appendix
+table 2). Heart disease was the leading cause of
+illness-related deaths (42% of illness deaths), and was
+reported at least 3 times as frequently as any other death
+due to illness (appendix table 4). Besides heart disease and
+AIDS, no single medical cause of death accounted for more
+than 5% of the illness-related deaths in jails between 2000
+and 2007. 
+
+Overall, 93% of deaths reported to DCRP during the 8-year
+period indicated that an autopsy was completed. A definitive
+cause of death could not be determined for 6% (or 491) of
+deaths in local jails, and an autopsy was conducted in the
+majority (86%) of these unresolved cases (not shown in a
+table). No additional information was provided in about
+two-thirds of all undetermined deaths. In the remaining
+cases, either the information given was insufficient to
+determine the manner of death or the autopsy was
+inconclusive. 
+
+Over half of deaths occurred within 1 month of admission
+
+Nearly a quarter (24%) of deaths occurred within 2 days of
+admission (not shown in table). Overall, more than a third
+(38%) of deaths took place within the first 7 days (table 4).
+Over half (56%) of inmate deaths occurred within 30 days of
+admission. 
+
+The distribution of inmate deaths occurring in the first
+month varied by cause. The majority of suicides (64%),
+intoxication (80%) and accidental deaths (62%) occurred in
+the first month. Deaths due to other illness-related causes
+were more frequently observed among inmates serving longer
+sentences. Over a third of cancer deaths (36%) and a fifth of
+AIDS-related deaths occurred more than 180 days after
+admission.
+
+The pattern of deaths since admission generally corresponds
+with the length of stay in jail and whether an inmate has
+been detained long enough to be at risk of dying during a
+certain time period. The number of deaths occurring within
+the first month of admission generally corresponds with the
+number of inmates who spend less than one month in jail. The
+Annual Survey of Jails (ASJ) found local jails admitted an
+estimated 13 million inmates during the 12 months ending June
+29, 2007, with an estimated 80% (10.4 million) serving their
+time within one month. Data from the 2004 Survey of Large
+Jails (SLJ), which collected discharge data from the largest
+jail jurisdictions (1,000 or more inmates), found that more
+than two-thirds (46%) of jail inmates were released within
+two days of admission, and a majority (80%) served less than
+a month (figure 3). Between 3 and 6% of jail inmates served
+past day 31. While the survey was limited to the largest
+jails, these facilities held more than half of the U.S. jail
+inmate population (52%). These facilities' turnover rates
+(54%) were half the turnover rate for the smallest jails
+(110%). If the sample included all jails, the inverse
+relationship between expected length of stay and facility
+size would likely increase the frequency of inmates serving
+less than 30 days and reduce the pool of inmates at risk of
+dying during lengthier stays.
+
+Suicide rates in the nation's smallest jails were 6 times
+higher than in the largest facilities
+
+Suicide rates were higher in smaller facilities than in
+larger facilities. According to the 2005 Census of Jails,
+large jails holding an average daily population (ADP) of
+1,000 or more inmates made up about 6% of all jails, and in
+2007 these jails held 52% of the nation's jail population.
+About 40% of all jails held fewer than 50 inmates on an
+average day, and in 2007 these jails held about 3% of all
+jail inmates. The smallest jails had the highest average
+annual suicide rate (169 per 100,000 inmates), while the 50
+largest jails had the lowest average annual suicide rate (27
+per 100,000 inmates) (table 5). 
+
+The lower rate of suicide in large jails may reflect the
+capacity of these jails to provide a variety of suicide
+prevention measures. According to the most recent data
+available in the 1999 Census of Jails, over half (54%) of
+jails holding fewer than 50 inmates provided staff training
+in suicide prevention, compared to 91% of the largest jails.
+Fewer than half (41%) of the smallest jails provided inmate
+counseling or psychiatric services, while such services were
+provided by over 90% of the largest facilities (table 6).
+Overall, the availability of various suicide prevention
+measures increased with facility size.
+
+This comparatively high suicide rate may be due in part to
+the high turnover rate and the resulting shorter inmate stays
+in small facilities. ***Footnote 2 Turnover rate is
+calculated by taking the sum of admissions plus releases, and
+dividing by the average daily population. For more
+information on frequency of turnover, see Jail Inmates at
+Midyear 2007, BJS Web, 6 June 2008.***
+ 
+The mortality rate for jails holding more than 50 but fewer
+than 500 inmates decreased as facility size increased. The
+mortality rate of facilities with an ADP of fewer than 50
+inmates (284 per 100,000) was at least 60% higher than that
+of any other facility size category. Medium-sized jails,
+holding between 100 and 499 inmates, had the lowest overall
+mortality rate (113 and 115 per 100,000). Larger jails (those
+holding more than 500 inmates) generally had higher mortality
+rates from illness deaths, such as AIDS, cancer, and liver
+disease.
+
+Small jails, holding fewer than 50 inmates, had an
+intoxication mortality rate (31 per 100,000) that was three
+times higher than the 50 largest jails (8 per 100,000). Also,
+the smallest jails had the highest accident mortality rate
+(11 per 100,000), and the highest rate of deaths without a
+known cause (13 per 100,000). However, homicide rates were
+highest in the 50 largest jails with 6 per 100,000 inmates,
+compared to 1 per 100,000 for the smallest jails.
+
+Despite the higher mortality rates experienced by the
+nation's smallest jails, these facilities accounted for a
+small percentage of all jail deaths (7%) (table 7). Jails
+holding at least 1,000 inmates accounted for 4,251 (52%) of
+deaths reported over the 8-year period. Between 2000 to 2007,
+with the exception of one jail in 2002, no jails holding
+fewer than 500 inmates reported more than 3 deaths.
+
+The 50 largest jail jurisdictions accounted for a third of
+all jail deaths in the United States
+
+The 50 largest jails accounted for about a third of the jail
+population in the United States and 35% of all jail deaths.
+These large urban jails accounted for about 60% of the jail
+deaths from cancer, AIDS, and homicide. In contrast, 19% of
+jail suicides and 23% of jail intoxication deaths occurred in
+the 50 largest jurisdictions.
+
+Heart disease was the leading cause of death in the 50
+largest jail jurisdictions (41 per 100,000), followed by
+suicide (27 per 100,000). For all other jails, suicide was
+the leading cause of death, followed by heart disease. The
+death rate from AIDS in the 50 largest jails (15 per 100,000)
+was 7.5 times higher than the rate in jails holding less than
+1,000 inmates (2 per 100,000) (not shown in a table). The
+homicide rate in the 50 largest jails was 3 times that of all
+other jails. The rate of intoxication deaths was 4 times
+higher in the smallest jails (31 per 100,000), compared to
+the 50 largest jails (8 per 100,000).
+
+Mortality differs among prison and jail populations
+
+Local jails and state prisons differ in their general
+purposes, populations housed, and terms of confinement.
+3***Footnote 3 For details on the differences between prison
+and jail populations, see page 6 of Prison and Jail Inmates
+at Midyear 2000, BJS Web, 25 March 2001.*** Jails are locally
+operated facilities that confine persons before or after
+adjudication. In addition to convicted inmates, jails also
+hold inmates awaiting arraignment, trial, and conviction or
+sentencing. The annual volume of admissions into jails is
+about 17 times the size of the jail population at midyear.
+The mean time served in local jails is about 21 days. 
+
+State prisons typically only house sentenced felons, with
+annual admissions that amount to just over half of their
+yearend population. In 2006 the mean time served by offenders
+released from state prison was 32 months. 
+
+As a result of the differences between jails and state
+prisons, the number, rate, and pattern of deaths differed.
+Between 2000 and 2007, an average of 3,134 state prisoner
+deaths occurred each year, compared to 1,029 jail inmate
+deaths each year (table 8).
+
+The overall mortality rate in state prisons (251 per 100,000
+prisoners) was 1.7 times higher than that of local jails (143
+per 100,000 inmates) for the same period.*** Footnote 4 The
+DCRP began collecting death data from state prisons starting
+in 2001. Prior to 2001, data was limited to counts of deaths
+by manner of death and sex. For more information, See Medical
+Causes of Death in State Prisons, 2001-2004, BJS Web, 21
+January 2007.*** In both jails (22%) and state prisons (27%),
+heart disease accounted for about a quarter of all deaths.
+The rate of heart disease deaths in state prisons (69 per
+100,000) was twice that reported by local jails (32 per
+100,000). 
+
+In state prisons, cancer also accounted for a quarter of all
+deaths (23%), while cancer accounted for 3% of jail
+fatalities. The cancer mortality rate in state prison (58 per
+100,000) was 12 times that observed in jails (5 per 100,000).
+The suicide mortality rate in jails (42 per 100,000) was 2.6
+times that in state prisons (16 per 100,000).
+
+Mortality rate for males was slightly higher than females
+
+Males were slightly more likely than females to die in local
+jails. The mortality rate for males was 146 per 100,000
+compared to 136 per 100,000 for female jail inmates (table
+9). Males (33 per 100,000) were 1.3 times more likely than
+females to die of heart disease (25 per 100,000), while
+females were 1.4 times more likely to die from all other
+illnesses (table 10) than males. Also, males (44 per 100,000)
+were 1.6 times more likely to commit suicide than females (28
+per 100,000), and nearly half as likely as females to die
+from intoxication (9 and 17 per 100,000, respectively). 
+
+The overall mortality rate increased dramatically with age,
+although older inmates accounted for a small proportion of
+the total population. Inmates age 55 and older accounted for
+2% of jail inmates, but 14% of jail deaths. The mortality
+rate of inmates age 55 and older (892 per 100,000) was more
+than twice the rate for inmates age 45 to 54 (383 per
+100,000), and 10 times higher than the rate for inmates age
+25 to 34 (88 per 100,000), which was the largest age group of
+inmates.***Footnote 5 See Profile of Jail Inmates, 2002, BJS
+Web, 18 July 2004, and Jail Inmates at Midyear 2007, BJS Web,
+6 June 2008.*** AIDS and intoxication were the only causes of
+death for which inmates age 55 and older did not die at the
+highest rate of all age groups.
+
+Inmates age 45 or older died at a rate nearly 5 times higher
+than younger inmates
+
+The overall mortality rate of inmates age 45 and older (474
+per 100,000) was nearly 5 times that of younger inmates (98
+per 100,000). For all age groups under 45 years old, suicide
+was the leading cause of death. Older inmates were 9 times
+more likely to die due to an illness. Specifically, older
+inmates were 11 times more likely to die from heart disease
+and 19 times more likely to die of cancer than inmates
+younger than 45. Among causes unrelated to illness, older
+inmates were between 1.5 times (suicide) and 2.8 times
+(accident) more likely to die than younger inmates.
+
+Hispanic inmates were less likely than whites or blacks to
+die in jail; blacks were less likely to commit suicide
+
+White inmates, accounting for nearly half of all jail
+inmates, died in local jails at a higher rate (172 per
+100,000) than black (123 per 100,000) or Hispanic inmates
+(111 per 100,000). Whites (68 per 100,000) committed suicide
+at 4 times the rate of black inmates (16 per 100,000) and
+twice the rate of Hispanic inmates (33 per 100,000). Whites
+and blacks died of heart disease at comparable rates (34 and
+35 per 100,000, respectively). Each group was nearly twice as
+likely as Hispanics (18 per 100,000) to die of heart disease.
+ 
+Heart disease was the leading cause of death for black
+inmates (35 per 100,000), and accounted for more than twice
+as many deaths as suicide among blacks (16 per 100,000).
+Blacks (13 per 100,000) were 4 times as likely to die from
+AIDS-related causes as white inmates (3 per 100,000) and
+about twice as likely as Hispanic inmates (6 per 100,000).
+Suicide was the single leading cause of death among Hispanic
+inmates (33 per 100,000). 
+
+Violent offenders had the highest overall mortality, suicide
+and homicide rates 
+
+Overall, violent offenders (191 per 100,000) and public order
+offenders (185 deaths per 100,000) were more likely to die in
+local jails than other offenders (table 11). Violent
+offenders (80 per 100,000) and public-order offenders (68 per
+100,000) were the most likely to commit suicide.
+Specifically, offenders serving time for homicide, rape, and
+kidnapping (200, 197, and 195 per 100,000, respectively) had
+the highest suicide rates. Violent offenders also had the
+highest rates of cancer and homicide mortality. In
+particular, offenders serving time for homicide or kidnapping
+were the most likely to be killed (13 per 100,000) while in
+jail.
+
+Property and drug offenders (106 per 100,000) had the lowest
+overall mortality rates. Drug offenders had the lowest
+mortality rates from suicide (22 per 100,000) and homicide (1
+per 100,000). 
+
+Public-order offenders had the second highest overall
+mortality rate (185 per 100,000), but the mortality rate for
+most categories of public-order offenders were below the
+overall average. The mortality rate for public order
+offenders varied from a high of 432 per 100,000 for
+probation/parole violators to a low of 61 per 100,000 for
+offenders held on weapons charges. The mortality rates for
+all other public-order offenders were equal to or less than
+145 per 100,000. 
+
+Leading causes of death in the jail population differed from
+the U.S. resident population 
+
+Mortality in local jails differed from mortality in the U.S.
+resident population in both prevalence and leading causes of
+death. In the resident population, heart disease was the
+leading cause and suicide was the tenth leading cause of
+death between 2000 and 2006 (the most recent year finalized
+mortality data were available) (table 12). By comparison,
+suicide was the leading cause of jail deaths, followed by
+heart disease (table 13). Among both jail inmates and the
+U.S. resident population, the rates of heart disease deaths
+increased with age. Similar rates of death from heart disease
+were observed for persons under 45 years old in both groups. 
+Among persons age 45 and older, the heart disease mortality
+rate in jails was higher than in the resident population. 
+
+Cancer was the fourth leading cause of death in jails, but
+the second leading cause of death in the resident population.
+Across all age groups, death rates from cancer in jails were
+consistently lower than in the resident population. The
+largest difference was observed among persons age 45 to 54.
+The U.S. resident population rate of cancer deaths (122 per
+100,000 residents) in this age group was 7 times that of jail
+inmates (17 per 100,000 inmates).
+
+Jail suicide rates are consistently higher than suicide rates
+in the general U.S. population
+
+Suicide rates for all age groups were at least 3 times higher
+among local jail inmates than the general population. The
+largest differences were seen among persons age 55 and older.
+These jail inmates had a rate of suicide (70 per 100,000
+inmates) that was 5 times higher than U.S. residents (14 per
+100,000 residents). 
+
+For violent deaths, such as suicide, specific data collected
+by the Centers for Disease Control and Prevention (CDC) allow
+for standardized comparisons between jail and U.S. resident
+mortality rates (table 14). Standardizing these rates
+accounts for variations in the age, race, and sex composition
+of the two groups. For example, males make up 88% of jail
+inmates, but 49% of the adult resident population. 
+
+The jail population was adjusted through a direct
+standardization so that it would reflect the composition of
+the general population. For all groups, the adjusted jail
+suicide rates remain consistently higher than that of U.S.
+residents. The standardized jail suicide rate was 3.6 times
+higher than the suicide rate in the general population, and
+the standardized jail suicide rate was higher for both males
+and females. Males were 2.9 times more likely to commit
+suicide in jail, and females were 5.4 times more likely.
+White males (106 per 100,000) had the highest standardized
+jail suicide rate, which was 4.8 times higher than the
+suicide rate of white males in the general population (22 per
+100,000). The standardized suicide rate for Hispanic males
+was about twice as high as the general population. Black
+males in local jails had the lowest standardized suicide
+rate, which nearly matched their suicide rate in the general
+population (17 and 12 per 100,000 residents).
+
+The suicide rate of females in jail was five times that of
+the suicide rate of females in the general population
+
+Females account for 51% of the general population and 12% of
+the jail population, so adjusting the jail population to
+reflect the general population would deflate the standardized
+suicide rate for females. White females had the highest
+standardized jail suicide rate at 37 per 100,000 inmates. The
+standardized suicide rate for Hispanic females (17 per
+100,000) was lower than that of white females (37 per
+100,000), but suicide among Hispanic females in jail occurred
+8.5 times more than in the general population (2 per 100,000)
+post-standardization. Blacks had the lowest standardized
+suicide rate among females (6 per 100,000), but it was 3
+times higher than the suicide rate of black females (2 per
+100,000) in the general population. 
+
+The actual suicide rate in jail varies from the standardized
+jail suicide rate based on race and sex
+
+Overall, the actual (observed) suicide rate (42 per 100,000
+inmates) in jail is nearly equal to the standardized jail
+suicide rate (47 per 100,000 inmates). Female suicide rates
+in jails are nearly equal regardless of the standardization,
+while the male suicide rate is 1.3 times higher
+post-standardization. With the exception of whites, the jail
+suicide rates both before and after standardization show
+little variation. Among females, the standardized suicide
+rate was lower for every race or ethnic group.
+
+Methodology
+
+Deaths in Custody Reporting Program
+
+The local jail portion of the Deaths in Custody Reporting
+Program began in 2000 after the passage of the Deaths in
+Custody Reporting Act of 2000. The Governments Division of
+the U.S. Census Bureau, as an agent for BJS, collected
+facility-level information, death counts, and information
+surrounding the death from local jails. Data on inmate deaths
+were requested at the end of each calendar quarter. At
+yearend, jails submitted a reconciled annual count that
+summed to the quarterly count. Additionally, jail
+administrators submitted data on inmate population and
+admission counts, which were the basis for the calculation of
+inmate mortality rates. 
+
+Jail respondents were instructed to report the death of any
+inmate in their custody, even if the inmate was held for
+other jurisdictions. Respondents were also instructed to
+include the death of any inmate in transit or sent outside
+the jail facility for medical, mental health, or substance
+abuse treatment services. Inmates who died while on or
+traveling to or from work-release programs were also
+included. Deaths of jail inmates who were released on
+temporary furloughs or who had escaped the jail facility were
+excluded.
+
+Medical cause of death information was collected for illness
+deaths, but not for other manners of death. The illness
+category is a heterogeneous category for natural causes of
+death associated with an underlying illness. Due to the
+variation within the illness category, each illness death was
+discussed in terms of the known medical cause of death as
+determined by the autopsy. For each death marked as
+illness/natural cause, respondents were directed to specify a
+medical cause of death based on an autopsy review, if
+available.
+
+These text entries were later coded by clinical data
+specialists according to the World Health Organization's
+International Statistical Classification of Diseases and
+Related Health Problems, Tenth Revision (ICD-10). BJS
+analysis of causes of death used categories of disease
+published by the National Center for Health Statistics
+(NCHS). For this report, accidents, suicides, and homicides
+were discussed in terms of cause of death. While there is a
+clear distinction between manner and cause of death from a
+medical-legal standpoint, no such distinction was made in
+this report. 
+
+More information on state prison death data and the Deaths in
+Custody Reporting Program is available on the BJS Website at
+<http://bjs.ojp.usdoj.gov/index.cfm?ty=dcdetail&iid=243#Metho
+dology>. 
+
+Average daily population used in calculating mortality rates
+ 
+Mortality rates were calculated as the number of deaths per
+year divided by the annual average daily population (ADP) of
+jail inmates and expressed in terms of deaths per 100,000
+jail inmates. The measure of ADP was for the 12-month period
+ending December 31.
+ 
+The ADP implicitly measures the number of jail inmate days
+per year, thereby annualizing the mortality rates. The ADP
+reflects the number of admissions and their length of stay
+and can be expressed as the product of the number of
+admissions times mean length of stay. When mean length of
+stay is expressed in years, the ADP is equivalent to the
+number of person-years spent by jail inmates during a given
+year. This allows for reporting annualized mortality rates
+that are comparable in concept to the annual mortality rates
+reported by the National Center on Health Statistics. NCHS
+calculates (crude) mortality rates as the number of events
+for a period (e.g., year) divided by the population estimated
+at the midpoint of the period. For general population
+mortality statistics the use of the population at the
+midpoint of a year is employed as an approximation to the
+average population exposed to risk of death during the year.
+(See, e.g., Jacob S. Siegal and David Swanson (2004). The
+Methods and Materials of Demography, Second Edition, San
+Diego, CA: Elsevier Academic Press, p. 269.) 
+
+Because length of stay in jail is comparatively short (i.e.,
+about 21 days) the ADP is preferred over the midyear jail
+population count in the estimation of the average population
+exposed to risk of dying in jail. The average daily
+population is an appropriate measure because it is the
+closest measure of the accepted epidemiology model of "person
+years," or the number of years the person lives in the
+population prior to death (Gaswirth, J.L. (2006) "Case
+Comment-Buncher v. Brown County: the need for an appropriate
+comparison of suicide rates." Law, Probability and Risk
+(2005) 4, 257-263). Unless otherwise specified, the jail
+mortality rate was expressed in terms of the number of jail
+inmate days throughout the report.
+
+For 2000 and 2001, data on ADP were not collected by the
+DCRP. To estimate each jail's ADP for these two years, an
+average of the inmate custody population on January 1st of
+the reference year and on December 31st of the year was used.
+From 2002-forward, the ADP was collected by the DCRP and was
+as the estimate of the population at risk of dying in jail.
+To estimate the ADP of the characteristics of jail
+inmates-such as age, race, and gender-population proportions
+from BJS' 2002 Survey of Inmates in Local Jails were
+generated and applied to the average of each year's ADP.
+These were the most recently available data for selected jail
+inmate population characteristics nationwide. Data from BJS'
+Annual Survey of Jails indicate that the distribution of
+inmate characteristics such as gender and race have changed
+slowly over time. See Jail Inmates at Midyear 2008 -
+Statistical Tables,BJS web, 31 March 2009 more information. 
+Using the 2002 inmate survey data to estimate the distributions 
+of inmate characteristics and applying these distributions to 
+the average ADP over the period results in a reasonable estimate 
+of the ADP of inmate characteristics.
+
+U.S. resident population sources
+
+The NCHS's vital statistics program provided the U.S.
+resident population mortality data and rates presented in
+this report. See the NCHS website for mortality data for the
+U.S. resident population at
+<http://www.cdc.gov/nchs/deaths.htm>. The Center for Disease
+Control's (CDC) Web-based Injury Statistics Query and
+Reporting System was the source for age-specific suicide data
+in the U.S. resident population. See
+<http://www.cdc.gov/injury/wisqars/index.html> for more
+information.
+
+Medical cause of death in state prisons
+
+2004 was the last year finalized clinical ICD data was
+available for state prisons. ICD distributions from 2001-2004
+were applied to prison data reported to the DCRP for
+2005-2007. More information on state prison death data and
+the Deaths in Custody Reporting Program is available on the
+BJS Website at
+<http://bjs.ojp.usdoj.gov/index.cfm?ty=dcdetail&iid=243#Metho
+dology>. 
+
+Discharge data
+
+Inmates are typically discharged from jail through bail,
+release by a court order, community supervision, time served
+or death. Estimates of time served by inmates discharged from
+jail are based on unpublished BJS data. 
+
+Direct standardization of suicide rates in jail and U.S.
+resident populations
+
+The method of direct standardization was used to compare
+suicide rates in the jail inmate population with suicide
+rates in the general population. Because the characteristics
+of the jail inmate population differ from the characteristics
+of the general population, and as some characteristics are
+associated with suicide rates, a direct comparison of the
+crude suicide mortality rates between jail inmates and the
+general population can be misleading. For example, in jails,
+older white males are more likely to commit suicide than
+other groups, but older white males comprise a smaller
+fraction of the jail population than they comprise of the
+general population.
+
+In order to compare the jail and U.S. resident population
+suicide rates, the differences in these two populations'
+gender, race, and age distributions were taken into account
+by method of direct standardization. The jail population was
+adjusted to the age distribution of the general population,
+creating the standardized population; this was done within
+race and gender groups. The age-specific jail suicide rates
+were applied to the standardized population to produce an
+estimate of the expected number of suicides that would occur
+in jail if the age distribution of the jail population were
+the same as that of the general population. Again, this was
+done within race and gender groups. The expected numbers of
+suicides across age groups were summed and the total divided
+by the ADP of jail population to produce the standardized
+suicide rates that were compared to the general population
+rates.
+-------------------------------------------------------------
+The Bureau of Justice Statistics is the statistical agency of
+the U.S. Department of Justice. James P. Lynch is director.
+
+This Special Report was written by Margaret Noonan. William
+Sabol and Spencer Li verified the report.
+
+Doris J. James, Catherine Bird, and Jill Duncan edited the
+report, Barbara Quinn and Tina Dorsey produced the report,
+and Jayne E. Robinson prepared the report for final printing
+under the supervision of Doris J. James.
+
+July 2010, NCJ 222988
+
+------------------------------------------------------------
+
+This report in portable document format and in ASCII and its
+related statistical data and tables are available at the BJS
+World Wide Web Internet site:
+http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&iid=2197.
+
+------------------------------------------------------------
+Office of Justice Programs
+Innovation -Partnerships- Safer Neighborhoods
+http://www.ojp.usdoj.gov
+
+------------------------------------------------------------
+
+7/6/2010/JER/ 9:00 Edits/TD/10:10

@@ -1,0 +1,26 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,,
+filename:  cv0576.csv,,,,,,,,,,,,,,,,,,
+"Table 76. Percent distribution of victims receiving medical care, by type of crime and where care was received",,,,,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,,,,
+
+"Table 76. Personal crimes of violence, 2005: Percent distribution of victims receiving medical care, by type of crime and where care was received",,,,,,,,,,,,,,,,,,
+,,,Percent distribution of where care was received,,,,,,,,,,,,,,,
+Type of crime,Number of victims receiving medical care,, Total,,At the scene,,At home or neighbor's or friend's home,,Health unit at work or first-aid station,,Doctor's office or health clinic,,Emergency room at hospital; emergency clinic,,  Hospital,,Other,
+Crimes of violence,"789,510",,100,%,9.2,%,27.5,%,3.6,%*,7.5,%,36.7,%,11.9,%,3,%*
+   Completed violence,"736,780",,100,%,9,,24.1,,3.9,*,8,,38.8,,12.3,,3.3,*
+   Attempted/threatened violence,"52,730",,100,%,12,*,74.2,,0,*,0,*,6.9,*,6.9,*,0,*
+   Rape/Sexual assault/a,"61,620",,100,%,4.8,*,21.1,*,0,*,0,*,55,*,19.1,*,0,*
+   Robbery,"145,910",,100,%,6.2,*,38.6,,2,*,6.7,*,35.4,,11.1,*,0,*
+      Completed/property taken,"110,090",,100,%,5.2,*,21.6,*,2.7,*,8.9,*,46.9,,14.8,*,0,*
+      Attempted to take property,"35,820",*,100,%*,9.3,*,90.7,*,0,*,0,*,0,*,0,*,0,*
+   Assault,"581,980",,100,%,10.5,,25.4,,4.4,*,8.4,,35.1,,11.4,,4.1,*
+      Aggravated,"248,870",,100,%,10.8,*,6.6,*,2.7,*,9.9,*,51.7,,17.1,,1.2,*
+      Simple,"333,110",,100,%,10.2,*,39.4,,5.7,*,7.3,*,22.7,,7.1,*,6.3,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,,,,
+Some respondents may have received medical attention at more than one location.,,,,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,,,,,,,

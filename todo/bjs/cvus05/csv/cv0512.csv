@@ -1,0 +1,40 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  cv0512.csv,,,,,,,,,,,,,,,
+"Table 12. Victimization rates for persons age 12 and over, by gender and marital status of victims and type of crime",,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,
+
+"Table 12. Personal crimes, 2005:  Victimization rates for persons age 12 and over, by gender and marital status of victims and type of crime",,,,,,,,,,,,,,,
+,,,"Rate per 1,000 persons age 12 and over",,,,,,,,,,,,
+,,,,,,,,,,,Robbery,,,,
+Gender and marital status,Total population,,Crimes of violence,,Completed violence,,Attempted/threatened violence,,Rape/Sexual assault/a,,Total,, With injury,,  Without injury
+Male,,,,,,,,,,,,,,,
+Never married,"42,578,470",,44.5,,16,,28.6,,0.2,*,7,,2.2,,4.8
+Married,"61,416,700",,12.7,,3,,9.7,,0.1,*,1.6,,0.6,*,1
+Widowed,"2,872,990",,5.6,*,3.2,*,2.4,*,0,*,2.2,*,1.2,*,1.1,*
+Divorced or separated,"10,989,230",,29.2,,7.9,,21.3,,0,*,4.8,,2,,2.8,
+Female,,,,,,,,,,,,,,,,
+Never married,"37,085,750",,29.3,,9.2,,20,,2.8,,2.3,,0.6,*,1.6,
+Married,"60,781,390",,7.8,,1.9,,5.9,,0.4,*,0.5,*,0.1,*,0.4,*
+Widowed,"11,439,370",,6.3,,2.9,*,3.4,,0.9,*,1.1,*,1.1,*,0,*
+Divorced or separated,"15,090,680",,33.4,,13,,20.4,,2.5,,3,,0.9,*,2.2,*
+,"                 Rate per 1,000 persons age 12 and over",,,,,,,,,,,,,,,
+,Assault,,,,,,,,,,,,,,,
+Gender and marital status,Total,, Aggravated,,   Simple,,Purse snatching/Pocket picking,,,,,,,,,
+Male,,,,,,,,,,,,,,,,
+Never married,37.3,,9.7,,27.6,,1.5,,,,,,,,,
+Married,11.1,,2.7,,8.3,,0.4,*,,,,,,,,
+Widowed,3.4,*,2.3,*,1.1,*,0,*,,,,,,,,
+Divorced or separated,24.4,,6.7,,17.7,,1,,,,,,,,,
+Female,,,,,,,,,,,,,,,,
+Never married,24.2,,5.4,,18.8,,1.5,
+Married,7,,2.1,,4.9,,0.7,
+Widowed,4.2,,0,*,4.2,,0.9,*
+Divorced or separated,27.9,,4.1,,23.8,,1.2,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,
+Excludes data on persons whose marital status was not ascertained.,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,

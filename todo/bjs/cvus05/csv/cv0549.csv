@@ -1,0 +1,38 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,
+filename:  cv0549.csv,,,,,,,,,,,,,,,,
+"Table 49. Percent distribution of multiple-offender victimizations, by type of crime and detailed victim-offender relationship",,,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,,
+
+"Table 49. Personal crimes of violence, 2005:  Percent distribution of multiple-offender victimizations, by type of crime and detailed victim-offender relationship",,,,,,,,,,,,,,,,
+,,,Percent of multiple-offender victimizations,,,,,,,,,,,,,
+,,,,,Some or all related,,,,,,,,,,,
+Type of crime,Number of multiple-offender victimizations,,Total,,Total,,Spouses and ex-spouses,,Parents,,Own children,,Brothers and sisters,,Other relatives,
+Crimes of violence,"1,056,740",,100,%,1.6,%*,0,%*,0.3,%*,0.3,%*,0.4,%*,0.6,%*
+   Completed violence,"419,330",,100,%,2.3,*,0,*,0.7,*,0.7,*,0,*,0.9,*
+   Attempted/threatened violence,"637,410",,100,%,1.1,*,0,*,0,*,0,*,0.7,*,0.4,*
+   Rape/Sexual assault/b,"28,350",*,100,%*,0,*,0,*,0,*,0,*,0,*,0,*
+   Robbery,"261,320",,100,%,0,*,0,*,0,*,0,*,0,*,0,*
+      Completed/property taken,"188,760",,100,%,0,*,0,*,0,*,0,*,0,*,0,*
+      Attempted to take property,"72,560",,100,%,0,*,0,*,0,*,0,*,0,*,0,*
+   Assault,"767,070",,100,%,2.2,*,0,*,0.4,*,0.4,*,0.5,*,0.8,*
+      Aggravated,"281,260",,100,%,2.5,*,0,*,0,*,1,*,1.5,*,0,*
+      Simple,"485,810",,100,%,2,*,0,*,0.6,*,0,*,0,*,1.3,*
+Type of crime,"Some or all well known, not related/a",,Some or all casual acquaintances,,Don't know,,Stranger,,,,,,,,,
+Crimes of violence,11.3,%,10.2,%,3.2,%*,73.7,%,,,,,,,,
+   Completed violence,9.2,,7.8,*,3.8,*,76.8,,,,,,,,,
+   Attempted/threatened violence,12.6,,11.8,,2.8,*,71.7,,,,,,,,,
+   Rape/Sexual assault/b,21.3,*,23.4,*,0,*,55.3,*,,,,,,,,
+   Robbery,2.9,*,1.3,*,2.3,*,93.5,,,,,,,,,
+      Completed/property taken,2.2,*,1.7,*,3.2,*,92.9,,,,,,,,,
+      Attempted to take property,4.8,*,0,*,0,*,95.2,,,,,,,,,
+   Assault,13.8,,12.8,,3.6,*,67.7,,,,,,,,,
+      Aggravated,14.4,,13.7,,4.8,*,64.5
+      Simple,13.4,,12.2,,3,*,69.5
+Note: Detail may not add to total shown because of rounding.,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,
+a/Includes data on offenders well known to the victim whose relationship to the victim was not ascertained.,,,,,,,
+b/Includes verbal threats of rape and threats of sexual assault.,,,,,,,

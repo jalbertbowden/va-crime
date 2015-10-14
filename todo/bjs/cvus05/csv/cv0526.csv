@@ -1,0 +1,42 @@
+Bureau of Justice Statistics,,,,,
+filename:  cv0526.csv,,,,,
+"Table 26. Number of incidents and victimizations and ratio of victimizations to incidents, by type of crime",,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,
+produced by:  Cathy Maston ,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,
+data of version:  12/08/06,,,,,
+
+"Table 26. Personal crimes, 2005:  Number of incidents and victimizations and ratio of victimizations to incidents, by type of crime",,,,,
+Type of crime         ,     Incidents,,Victimizations,, Ratio
+Personal crimes,"4,945,400",,"5,400,790",,1.09
+  Crimes of violence,"4,718,330",,"5,173,720",,1.1
+    Completed violence,"1,536,990",,"1,658,660",,1.08
+    Attempted/threatened violence,"3,181,340",,"3,515,060",,1.1
+   Rape/Sexual assault,"188,960",,"191,670",,1.01
+      Rape/Attempted rape,"127,430",,"130,140",,1.02
+         Rape,"69,370",,"69,370",,1
+         Attempted rape/a,"58,060",,"60,770",,1.05
+      Sexual assault/b,"61,530",,"61,530",,1
+    Robbery,"569,470",,"624,850",,1.1
+      Completed/property taken,"381,070",,"415,320",,1.09
+         With injury,"126,440",,"142,830",,1.13
+         Without injury,"254,640",,"272,490",,1.07
+      Attempted to take property,"188,400",,"209,530",,1.11
+         With injury,"62,230",,"64,450",,1.04
+         Without injury,"126,170",,"145,090",,1.15
+    Assault,"3,959,900",,"4,357,190",,1.1
+      Aggravated,"926,060",,"1,052,260",,1.14
+         With injury,"306,480",,"330,730",,1.08
+         Threatened with weapon,"619,580",,"721,530",,1.16
+      Simple,"3,033,840",,"3,304,930",,1.09
+         With minor injury,"732,080",,"795,240",,1.09,
+         Without injury,"2,301,770",,"2,509,690",,1.09,
+ Purse snatching/Pocket picking,"227,070",,"227,070",,1,
+    Completed purse snatching,"43,550",,"43,550",,1,
+    Attempted purse snatching,"3,260",*,"3,260",*,1,*
+    Pocket picking,"180,260",,"180,260",,1,
+Note: Detail may not add to total shown because of rounding.,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,
+a/Includes verbal threats of rape.,,,,,,
+b/Includes threats.,,,,,,

@@ -1,0 +1,41 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+Filename: mlj07t11.csv,,,,,,,,,,,,
+"Table 11. Average annual mortality rate per 100,000 jail inmates, by most serious current offense and cause of death, 2000–2007",,,,,,,,,,,,
+"Report title: Mortality in Local Jails, 2000-2007  NCJ 222988",,,,,,,,,,,,
+Data source(s): Deaths in Custody Reporting Program,,,,,,,,,,,,
+Author(s): Margaret E. Noonan,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,,,,,,,,
+Date of version: 10-27-2010,,,,,,,,,,,,
+,,,,,,,,,,,,
+"Table 11. Average annual mortality rate per 100,000 jail inmates, by most serious current offense and cause of death, 2000–2007",,,,,,,,,,,,
+Current offense/a,,All causes,Suicide,Heart disease,AIDS,Cancer,Liver disease,All other illnesses,Drug/alcohol intoxication,Accident,Homicide,Other/unknown
+,All offenses,145,42,32,7,5,4,28,10,4,3,8
+Violent offenses,,191,80,35,8,9,4,30,7,4,5,10
+,Homicide/b,406,200,65,15,24,9,47,10,6,13,17
+,Kidnapping,284,195,31,0,5,0,23,0,3,13,15
+,Rape,392,194,67,18,21,3,47,8,3,3,26
+,Other sexual assault,244,90,58,5,25,4,43,3,1,2,13
+,Robbery,101,40,19,9,4,1,13,2,3,4,6
+,Assault,158,56,31,7,4,5,29,11,3,4,9
+Property offenses,,106,30,21,9,3,3,22,6,3,2,6
+,Burglary,112,38,17,13,4,2,21,5,2,2,8
+,Larceny/theft,138,34,33,10,4,5,31,7,3,3,8
+,Auto theft,44,14,7,4,2,0,8,7,1,2,0
+,Arson,233,94,36,18,0,7,48,0,12,0,18
+,Fraud,66,19,13,6,1,2,13,4,2,1,5
+,Stolen property,44,19,8,0,3,1,10,1,0,1,1
+Drug offenses,,102,19,23,7,3,4,25,12,3,1,5
+,Possession,162,29,34,11,6,5,39,22,4,3,8
+,Trafficking,49,9,12,4,2,2,12,4,2,0,2
+Public order offenses,,152,35,42,5,4,5,29,13,7,3,10
+,Weapons,61,20,16,2,1,2,5,4,4,2,5
+,Obstruction of justice,147,39,41,2,3,6,26,8,6,5,10
+,Trafficking,125,30,37,3,3,2,22,16,2,2,8
+,Driving while intoxicated/c,100,18,30,1,3,7,19,13,6,0,5
+,Public intoxication/morals/d,292,61,83,13,3,11,45,33,17,7,19
+,Violation of parole/probation/e,431,94,114,23,13,10,99,23,16,10,29
+a/Includes other offense categories not shown in detail.,,,,,,,,,,,,
+b/Includes murder and manslaughter.,,,,,,,,,,,,
+c/Includes driving while intoxicated and driving under the influence of drugs or alcohol.,,,,,,,,,,,,
+"d/Includes public intoxication, vagrancy, disorderly conduct, unlawful assembly, morals, and commercialized vice.",,,,,,,,,,,,
+"e/Includes parole or probation violations, escape, AWOL, and flight to avoid prosecution.",,,,,,,,,,,,

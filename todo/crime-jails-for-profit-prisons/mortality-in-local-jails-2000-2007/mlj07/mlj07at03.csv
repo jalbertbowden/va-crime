@@ -1,0 +1,38 @@
+Bureau of Justice Statistics,,,,,,,,,,
+Filename: mlj07at03.csv,,,,,,,,,,
+"Appendix table 3. Mortality rate of jail inmates, by cause of death, per 100,000 jail inmates 2000-2007",,,,,,,,,,
+"report title: Mortality in Local Jails, 2000-2007",,,,,,,,,,
+Data source(s): Deaths in Custody Reporting Program,,,,,,,,,,
+Author(s): Margaret E. Noonan,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,,,,,,
+Date of version: 10-27-2010,,,,,,,,,,
+,,,,,,,,,,
+"Appendix table 3. Mortality rate of jail inmates, by cause of death, per 100,000 jail inmates 2000-2007",,,,,,,,,,
+,,"Average annual mortality rate per 100,000 jail inmates, 2000-2007","Mortality rate per 100,000 jail inmates",,,,,,,
+Cause of death,,,2000,2001,2002,2003,2004,2005,2006,2007
+ ,All causes,145,151,148,145,146,143,140,142,141
+Illness,,77,86,77,76,75,74,67,79,78
+,Heart disease,32,33,34,33,35,32,27,32,30
+,AIDS,7,10,9,8,8,7,5,7,5
+,Cancer,5,5,4,6,5,4,5,5,5
+,Liver disease,4,4,4,4,4,5,4,3,5
+,Cebrovascular diseases,3,3,3,3,3,3,2,4,3
+,Respiratory diseasesa,2,3,2,2,2,3,2,2,3
+,Digestive diseasesb,2,3,3,1,2,2,2,3,3
+,Septicemia,2,2,1,2,2,1,1,2,1
+,Influenza/pneumonia,2,2,1,2,2,2,1,2,3
+,Aortic aneurysm,1,1,1,1,1,1,1,1,1
+,Chronic substance abusec,1,1,2,2,1,2,1,2,2
+,Diabetes mellitus,1,1,0,1,1,1,1,1,1
+,Kidney disease,1,1,0,1,1,1,1,1,0
+,All other illnessd,13,19,13,11,9,13,13,14,14
+Suicide,,42,48,49,47,43,42,38,36,36
+Drug/alcohol intoxication,,10,6,9,8,13,11,11,11,10
+Accidental,,4,4,5,5,4,4,3,4,2
+Homicide,,3,3,3,3,2,3,3,5,3
+Unknown/other cause,,8,3,5,6,9,8,17,7,12
+"Note: Mortality rates are based on the average daily population (ADP). In 2000 and 2001, ADP was estimated by taking the average of the January 1 and December 31 one-day inmate population counts. See appendix table 1 for the number of deaths by cause.",,,,,,,,,,
+a/Excludes influenza and pneumonia.,,,,,,,,,,
+b/Excludes diseases of the liver.,,,,,,,,,,
+c/Excludes acute intoxication deaths. ,,,,,,,,,,
+"d/Includes other specified and unspecified or unknown illnesses such as influenza, septicemia, diabetes, and hepatitis. See appendix tables 2 for a full display of the more than 50 illnesses reported to the program. Mortality rates for illnesses not shown were less than 1 per 100,000 jail inmates. See Methodology for details on illness classifications.",,,,,,,,,,

@@ -1,0 +1,30 @@
+Bureau of Justice Statistics,,,,,,
+filename:  cv0593a.csv,,,,,,
+"Table 93a. Number and percent distribution of victimizations reported to the police, by type of crime, and gender of head of household",,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,
+produced by:  Cathy Maston ,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,
+data of version:  12/08/06,,,,,,
+
+"Table 93a. Property crimes, 2005: Number and percent distribution of victimizations reported to the police, by type of crime, and gender of head of household",,,,,,
+,Percent of all victimizations reported to the police,,,,,
+, Both Genders,,Male,,Female,
+Type of crime,Number,Percent,Number,Percent,Number,Percent
+Property crimes,"7,147,180",39.6,"3,734,060",40,"3,413,120",39.2
+   Household burglary,"1,944,610",56.3,"944,870",54.9,"999,740",57.6
+      Completed,"1,657,290",57.1,"807,350",55.6,"849,930",58.7
+           Forcible entry,"798,570",74.7,"409,840",72,"388,720",77.8
+           Unlawful entry/without force,"858,720",46.9,"397,510",45,"461,210",48.6
+      Attempted forcible entry,"287,320",51.7,"137,520",51.1,"149,800",52.2
+  Motor vehicle theft,"814,260",83.2,"440,410",80.8,"373,860",86.3
+     Completed,"716,110",92.4,"379,940",91.1,"336,170",94.1
+     Attempted,"98,150",48.2,"60,470",47.4,"37,680",49.7
+   Theft,"4,388,310",32.3,"2,348,780",33.2,"2,039,530",31.2
+    Completed,"4,199,260",32,"2,240,540",32.8,"1,958,720",31.2
+          Less than $50,"760,730",18.6,"382,850",18.3,"377,880",19.1
+          $50 - $249,"1,286,780",27.6,"731,260",29.7,"555,510",25.3
+          $250 or more,"1,703,650",52.7,"931,490",53.6,"772,160",51.7
+          Amount not available,"448,100",39,"194,940",36.4,"253,160",41.2
+   Attempted,"189,050",38.6,"108,250",43.9,"80,810",33.3
+Note: Detail may not add to total shown because of rounding.,,,,,,

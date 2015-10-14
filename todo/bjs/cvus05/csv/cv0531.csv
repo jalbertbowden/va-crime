@@ -1,0 +1,31 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+filename:  cv0531.csv,,,,,,,,,,,,
+"Table 31. Percent of victimizations involving strangers, by gender and marital status of victims and type of crime",,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,
+
+"Table 31. Personal crimes of violence, 2005:  Percent of victimizations involving strangers, by gender and marital status of victims and type of crime",,,,,,,,,,,,
+,,Percent of victimizations involving strangers,,,,,,,,,,
+,,,,,,,,Assault,,,,
+Gender and marital status,,Crimes of violence,,Rape/Sexual assault/a,,Robbery,,     Total,,Aggravated,,   Simple
+Both genders,,,,,,,,,,,,
+,Never married,54.9,,30.4,*,81.9,,51.9,,55.3,,50.8
+,Married,57.5,,38.6,*,83,,55.1,,62.8,,52.3
+,Widowed,66.7,,100,*,84.1,*,54.6,*,100,*,48.7,*
+,Divorced or separated,38.4,,32,*,65.4,,34.8,,45.3,,32.2,
+Male,,,,,,,,,,,,,
+,Never married,62.5,,100,*,88.3,,57.4,,63.4,,55.3,
+,Married,65.6,,100,*,89.8,,61.9,,64.3,,61.1,
+,Widowed,80.9,*,0,*,52.2,*,100,*,100,*,100,*
+,Divorced or separated,52.3,,0,*,78.9,,47,,48,*,46.6,
+Female,,,,,,,,,,,,,
+,Never married,41.7,,24,*,59.2,,42.2,,38.7,,43.2,
+,Married,44.1,,24,*,60.5,*,44.1,,60.6,,37.2,
+,Widowed,63.5,,100,*,100,*,45.4,*,0,*,45.4,*
+,Divorced or separated,29.5,,32,*,49.9,*,27.1,,42.2,*,24.5,
+Note: Excludes data on persons whose marital status was not ascertained.,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,,

@@ -1,0 +1,55 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+filename:  cv0554.csv,,,,,,,,,,,,
+"Table 54. Victimization rates for persons age 12 and over, by locality of residence, race, gender and ethnicity of victims and type of crime",,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,
+
+"Table 54. Personal crimes, 2005:  Victimization rates for persons age 12 and over, by locality of residence, race, gender and ethnicity of victims and type of crime",,,,,,,,,,,,
+,,,,,"            Rate per 1,000 persons age 12 and over",,,,,,,
+"Locality of residence, race, gender and ethnicity",,Total population,All personal crimes,,Crimes of violence,,Completed violence,,Attempted/threatened violence,,Rape/Sexual assault/a,
+All areas,,,,,,,,,,,,
+,  White male only,"98,238,010",25.5,,24.6,,7.1,,17.5,,0.1,*
+,  White female only,"102,025,400",16.5,,15.6,,4.7,,10.9,,1.1,
+                     Black        Male                                                                                                   ,  Black male only,"13,422,840",32.6,,31.6,,15.8,,15.7,,0.2,*
+                                  Female                                                                                                 ,  Black female only,"16,055,050",25.5,,23.2,,9.5,,13.8,,3.1,
+,  Hispanic male,"16,122,710",29.3,,28.2,,10,,18.2,,0.8,*
+,  Hispanic female,"15,689,570",22.6,,21.6,,5.7,,15.9,,1.5,*
+,  Non-Hispanic male,"102,340,840",25.9,,25.1,,7.9,,17.2,,0,*
+,  Non-Hispanic female,"109,289,040",17.4,,16.4,,5.4,,11,,1.4,
+Urban,,,,,,,,,,,,
+,  White male only,"23,298,930",34.7,,34,,11.2,,22.8,,0,*
+,  White female only,"23,886,630",24.3,,22.2,,7.7,,14.5,,2,
+,  Black male only,"6,442,080",46.9,,44.7,,24.7,,20,,0,*
+,  Black female only,"8,041,410",35.2,,31.9,,11.8,,20.1,,6.1,
+,  Hispanic male,"6,988,260",37.5,,36,,14.2,,21.9,,0,*
+                                                                                                                                         ,  Hispanic female,"7,121,920",25.2,,23.5,,7.4,,16,,2.5,*
+,  Non-Hispanic male,"25,461,870",35.1,,34.3,,13.2,,21.1,,0,*
+,  Non-Hispanic female,"27,466,520",28,,25.7,,9,,16.7,,3.1,*
+Suburban,,,,,,,,,,,,
+,  White male only,"50,380,220",22.2,,21.7,,5.7,,15.9,,0.2,*
+,  White female only,"52,406,670",15.4,,14.8,,4,,10.8,,1.1,
+,  Black male only,"4,814,900",23.4,,23.4,,9.8,,13.6,,0.6,*
+,  Black female only,"5,481,180",16.6,,14.8,,7.5,,7.3,,0,*
+,  Hispanic male,"7,487,050",22.7,,22.7,,6.4,,16.3,,1.7,*
+                                                                                                                                         ,  Hispanic female,"7,151,640",22.2,,21.8,,4.8,*,17,,0.9,*
+,  Non-Hispanic male,"51,026,580",22.6,,22.1,,6,,16.1,,0.1,*
+,  Non-Hispanic female,"54,237,750",14.9,,14.2,,4.4,,9.8,,1.1,
+Rural,,,,,,,,,,,,
+,  White male only,"24,558,860",23.6,,21.9,,6.1,,15.8,,0,*
+,  White female only,"25,732,100",11.6,,11.2,,3.3,,7.9,,0.2,*
+,  Black male only,"2,165,860",10.5,*,10.5,*,2.9,*,7.6,*,0,*
+,  Black female only,"2,532,450",13.9,*,13.9,*,6.2,*,7.7,*,0,*
+,  Hispanic male,"1,647,400",24.1,,20.2,*,8.8,*,11.5,*,0,*
+                                                                                                                                         ,  Hispanic female,"1,416,020",11.4,*,11.4,*,1.8,*,9.6,*,0,*
+,  Non-Hispanic male,"25,852,390",23.1,,21.7,,6.3,,15.4,,0,*
+,  Non-Hispanic female,"27,584,770",11.9,,11.5,,3.8,,7.7,,0.2,*
+Note: Detail may not add to total shown because of rounding.
+"The term ""Urban"" is used to denote ""Central cities."""
+"The term ""Suburban"" is used to denote ""Outside central cities."""
+"The term ""Rural"" is used to denote ""Nonmetropolitan areas."""
+"Excludes data on persons of ""Other"" races and persons indicating two or more races and persons whose ethnicity was not ascertained."
+*Estimate is based on about 10 or fewer sample cases.
+a/Includes verbal threats of rape and threats of sexual assault.

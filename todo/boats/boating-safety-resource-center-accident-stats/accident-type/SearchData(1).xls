@@ -1,0 +1,61 @@
+<div>
+	<table class="gridcontent" cellspacing="0" cellpadding="5" rules="all" bordercolor="#999999" border="1" id="exportgrid" style="border-color:#999999;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+		<tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<td align="center" colspan="5" style="color:Black;">Recreational Boating Statistics by Accident Type for VA 2005-2011</td>
+		</tr><tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<th scope="col">Accident Event</th><th scope="col">Accidents</th><th scope="col">Vessels</th><th scope="col">Injuries</th><th scope="col">Deaths</th>
+		</tr><tr>
+			<td>Capsizing</td><td>86</td><td>90</td><td>35</td><td>55</td>
+		</tr><tr>
+			<td>Carbon Monoxide Exposure</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Collision with Commercial Vessel</td><td>2</td><td>5</td><td>2</td><td>2</td>
+		</tr><tr>
+			<td>collision with fixed object</td><td>127</td><td>135</td><td>104</td><td>12</td>
+		</tr><tr>
+			<td>Collision with floating object</td><td>13</td><td>18</td><td>5</td><td>0</td>
+		</tr><tr>
+			<td>Collision with Recreational Vessel</td><td>84</td><td>176</td><td>55</td><td>5</td>
+		</tr><tr>
+			<td>Collision with Submerged Object</td><td>40</td><td>40</td><td>15</td><td>1</td>
+		</tr><tr>
+			<td>Collision with Vessel</td><td>139</td><td>281</td><td>112</td><td>6</td>
+		</tr><tr>
+			<td>Departed vessel</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>Ejected from vessel</td><td>4</td><td>4</td><td>5</td><td>0</td>
+		</tr><tr>
+			<td>Fall in vessel</td><td>41</td><td>41</td><td>45</td><td>0</td>
+		</tr><tr>
+			<td>Fall Overboard</td><td>72</td><td>75</td><td>39</td><td>35</td>
+		</tr><tr>
+			<td>Falls overboard</td><td>8</td><td>9</td><td>3</td><td>5</td>
+		</tr><tr>
+			<td>Fire/explosion (fuel)</td><td>37</td><td>47</td><td>28</td><td>1</td>
+		</tr><tr>
+			<td>Fire/explosion (non-fuel)</td><td>15</td><td>17</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>Flooding/swamping</td><td>78</td><td>78</td><td>31</td><td>16</td>
+		</tr><tr>
+			<td>Grounding</td><td>65</td><td>66</td><td>43</td><td>1</td>
+		</tr><tr>
+			<td>Other</td><td>15</td><td>17</td><td>11</td><td>1</td>
+		</tr><tr>
+			<td>Person Departed Vessel</td><td>19</td><td>19</td><td>11</td><td>8</td>
+		</tr><tr>
+			<td>Person Ejected from Vessel</td><td>16</td><td>19</td><td>16</td><td>2</td>
+		</tr><tr>
+			<td>Person Struck by Propeller</td><td>13</td><td>13</td><td>13</td><td>0</td>
+		</tr><tr>
+			<td>Person struck by vessel</td><td>10</td><td>14</td><td>9</td><td>0</td>
+		</tr><tr>
+			<td>Sinking</td><td>8</td><td>8</td><td>4</td><td>1</td>
+		</tr><tr>
+			<td>Skier mishap</td><td>122</td><td>127</td><td>129</td><td>2</td>
+		</tr><tr>
+			<td>unknown</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td align="right" valign="middle" colspan="5" style="background-color:LightGrey;font-size:8pt;height:20px;">www.uscgboating.org &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/7/2015 3:38:34 AM</td>
+		</tr>
+	</table>
+</div>

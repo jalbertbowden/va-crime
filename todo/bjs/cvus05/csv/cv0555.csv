@@ -1,0 +1,30 @@
+Bureau of Justice Statistics,,,,,,,
+filename:  cv0555.csv,,,,,,,
+"Table 55. Victimization rates by locality of residence, race of head of household and type of crime",,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,
+produced by:  Cathy Maston ,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,
+data of version:  12/08/06,,,,,,,
+
+"Table 55. Property crimes, 2005:  Victimization rates by locality of residence, race of head of household and type of crime",,,,,,,
+,,,"Rate per 1,000 households",,,,
+Locality and race,,Total households,Property crimes,Household burglary,Motor vehicle theft,,Theft
+All areas,,,,,,,
+,White only,"96,483,760",155.7,28.6,7.6,,119.6
+,Black only,"14,567,210",144.6,35,12.7,,96.9
+Urban,,,,,,,
+,White only,"23,374,070",213.1,35.2,12.6,,165.4
+,Black only,"7,305,850",170.4,44.2,13.3,,112.9
+Suburban,,,,,,,
+,White only,"48,168,670",142.4,25,6.8,,110.6
+,Black only,"4,938,180",131.7,24.9,15.3,,91.6
+Rural ,,,,,,,
+,White only,"24,941,020",127.7,29.4,4.4,,93.9
+,Black only,"2,323,180",90.6,27.6,5.1,*,57.9
+Note: Detail may not add to total shown because of rounding.,,,,,,,
+"The term ""Urban"" is used to denote ""Central cities.""",,,,,,,
+"The term ""Suburban"" is used to denote ""Outside central cities.""",,,,,,,
+"The term ""Rural"" is used to denote ""Nonmetropolitan areas.""",,,,,,,
+"Excludes data on persons of ""Other"" races and persons indicating two or more races.",,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,

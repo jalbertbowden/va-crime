@@ -1,0 +1,511 @@
+		
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+	<html>
+	<head>
+
+<script type="text/javascript" src="/static/js/analytics.js" ></script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+
+
+		<title>Virginia Beach County Public Records Virginia</title>
+		<meta name="keywords" content="virginia beach public records, virginia beach county public records">
+	<meta name="description" content="Virginia Beach County, Virginia public records directory offering public records searches for court records, inmates, sex offenders, property records, and more."><br>
+		<style type="text/css">
+    body
+		{
+		margin:0px;
+		padding:0px;
+		}
+	td
+		{
+		font-family: courier new;
+		font-size:10pt;
+		text-align:left;
+		}
+	span
+		{
+		font-family: courier new;
+		text-align:left;
+		}
+	div
+		{
+		font-family: courier new;
+		font-size:10pt;
+		text-align:left;
+		}
+	a:link { color:#496295;text-decoration:none; }
+	a:visited { color:#496295;text-decoration:none; }
+	a:hover { color:#990000;text-decoration:underline; }
+	</style>
+</head>
+<body>
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script> if (window.archive_analytics) { window.archive_analytics.values['server_name']="wwwb-app19.us.archive.org";}; </script>
+
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+var firstDate = 820454400000;
+var lastDate = 1420070399999;
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http:\/\/www.prsearch.com\/virginia\/virginia_beach.htm";
+
+var curYear = -1;
+var curMonth = -1;
+var yearCount = 18;
+var firstYear = 1996;
+var imgWidth = 475;
+var yearImgWidth = 25;
+var monthImgWidth = 2;
+var trackerVal = "none";
+var displayDay = "20";
+var displayMonth = "Apr";
+var displayYear = "2013";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+function showTrackers(val) {
+	if(val == trackerVal) {
+		return;
+	}
+	if(val == "inline") {
+		document.getElementById("displayYearEl").style.color = "#ec008c";
+		document.getElementById("displayMonthEl").style.color = "#ec008c";
+		document.getElementById("displayDayEl").style.color = "#ec008c";		
+	} else {
+		document.getElementById("displayYearEl").innerHTML = displayYear;
+		document.getElementById("displayYearEl").style.color = "#ff0";
+		document.getElementById("displayMonthEl").innerHTML = displayMonth;
+		document.getElementById("displayMonthEl").style.color = "#ff0";
+		document.getElementById("displayDayEl").innerHTML = displayDay;
+		document.getElementById("displayDayEl").style.color = "#ff0";
+	}
+   document.getElementById("wbMouseTrackYearImg").style.display = val;
+   document.getElementById("wbMouseTrackMonthImg").style.display = val;
+   trackerVal = val;
+}
+function getElementX2(obj) {
+	var thing = jQuery(obj);
+	if((thing == undefined) 
+			|| (typeof thing == "undefined") 
+			|| (typeof thing.offset == "undefined")) {
+		return getElementX(obj);
+	}
+	return Math.round(thing.offset().left);
+}
+function trackMouseMove(event,element) {
+
+   var eventX = getEventX(event);
+   var elementX = getElementX2(element);
+   var xOff = eventX - elementX;
+	if(xOff < 0) {
+		xOff = 0;
+	} else if(xOff > imgWidth) {
+		xOff = imgWidth;
+	}
+   var monthOff = xOff % yearImgWidth;
+
+   var year = Math.floor(xOff / yearImgWidth);
+	var yearStart = year * yearImgWidth;
+   var monthOfYear = Math.floor(monthOff / monthImgWidth);
+   if(monthOfYear > 11) {
+       monthOfYear = 11;
+   }
+   // 1 extra border pixel at the left edge of the year:
+   var month = (year * 12) + monthOfYear;
+   var day = 1;
+	if(monthOff % 2 == 1) {
+		day = 15;
+	}
+	var dateString = 
+		zeroPad(year + firstYear) + 
+		zeroPad(monthOfYear+1,2) +
+		zeroPad(day,2) + "000000";
+
+	var monthString = prettyMonths[monthOfYear];
+	document.getElementById("displayYearEl").innerHTML = year + 1996;
+	document.getElementById("displayMonthEl").innerHTML = monthString;
+	// looks too jarring when it changes..
+	//document.getElementById("displayDayEl").innerHTML = zeroPad(day,2);
+
+	var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+	document.getElementById('wm-graph-anchor').href = url;
+
+   //document.getElementById("wmtbURL").value="evX("+eventX+") elX("+elementX+") xO("+xOff+") y("+year+") m("+month+") monthOff("+monthOff+") DS("+dateString+") Moy("+monthOfYear+") ms("+monthString+")";
+   if(curYear != year) {
+       var yrOff = year * yearImgWidth;
+       document.getElementById("wbMouseTrackYearImg").style.left = yrOff + "px";
+       curYear = year;
+   }
+   if(curMonth != month) {
+       var mtOff = year + (month * monthImgWidth) + 1;
+       document.getElementById("wbMouseTrackMonthImg").style.left = mtOff + "px";
+       curMonth = month;
+   }
+}
+//]]>
+</script>
+
+<style type="text/css">body{margin-top:0!important;padding-top:0!important;min-width:800px!important;}#wm-ipp a:hover{text-decoration:underline!important;}</style>
+<div id="wm-ipp" lang="en" class="__wb_banner_div" style="display:none; position:relative;padding:0 5px;min-height:70px;min-width:800px">
+
+
+<div id="wm-ipp-inside" class="__wb_banner_div" style="position:fixed;padding:0!important;margin:0!important;width:97%;min-width:780px;border:5px solid #000;border-top:none;background-image:url(/static/images/toolbar/wm_tb_bk_trns.png);text-align:center;-moz-box-shadow:1px 1px 3px #333;-webkit-box-shadow:1px 1px 3px #333;box-shadow:1px 1px 3px #333;font-size:11px!important;font-family:'Lucida Grande','Arial',sans-serif!important;">
+   <table style="border-collapse:collapse;margin:0;padding:0;width:100%;"><tbody><tr>
+   <td style="padding:10px;vertical-align:top;min-width:110px;">
+   <a href="/web/" title="Wayback Machine home page" style="background-color:transparent;border:none;"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0"/></a>
+   </td>
+   <td style="padding:0!important;text-align:center;vertical-align:top;width:100%;">
+
+       <table style="border-collapse:collapse;margin:0 auto;padding:0;width:570px;"><tbody><tr>
+       <td style="padding:3px 0;" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb" style="margin:0!important;padding:0!important;"><input type="text" name="url" id="wmtbURL" value="http://www.prsearch.com/virginia/virginia_beach.htm" style="width:400px;font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;" onfocus="javascript:this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20130420130911" /><input type="submit" value="Go" style="font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;margin-left:5px;width: inherit !important" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td style="vertical-align:bottom;padding:5px 0 0 0!important;" rowspan="2">
+           <table style="border-collapse:collapse;width:110px;color:#99a;font-family:'Helvetica','Lucida Grande','Arial',sans-serif;"><tbody>
+			
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr style="width:110px;height:16px;font-size:10px!important;">
+           	<td style="padding-right:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="/web/20110106051048/http://www.prsearch.com/virginia/virginia_beach.htm" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="6 Jan 2011"><strong>JAN</strong></a>
+		                
+               </td>
+               <td id="displayMonthEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight:bold;text-transform:uppercase;width:34px;height:15px;padding-top:1px;text-align:center;" title="You are here: 13:09:11 Apr 20, 2013">APR</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       May
+                       
+               </td>
+           </tr>
+
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr>
+               <td style="padding-right:9px;white-space:nowrap;overflow:visible;text-align:right!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+		                <a href="/web/20110106051048/http://www.prsearch.com/virginia/virginia_beach.htm" title="5:10:48 Jan 6, 2011" style="background-color:transparent;border:none;"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+		                
+               </td>
+               <td id="displayDayEl" style="background:#000;color:#ff0;width:34px;height:24px;padding:2px 0 0 0;text-align:center;font-size:24px;font-weight: bold;" title="You are here: 13:09:11 Apr 20, 2013">20</td>
+				<td style="padding-left:9px;white-space:nowrap;overflow:visible;text-align:left!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+                       <img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0"/>
+                       
+			    </td>
+           </tr>
+
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr style="width:110px;height:13px;font-size:9px!important;">
+				<td style="padding-right:9px;font-size:11px!important;font-weight: bold;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="/web/20110106051048/http://www.prsearch.com/virginia/virginia_beach.htm" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="6 Jan 2011"><strong>2011</strong></a>
+		                
+               </td>
+               <td id="displayYearEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight: bold;padding-top:1px;width:34px;height:13px;text-align:center;" title="You are here: 13:09:11 Apr 20, 2013">2013</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight: bold;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       2014
+                       
+				</td>
+           </tr>
+           </tbody></table>
+       </td>
+
+       </tr>
+       <tr>
+       <td style="vertical-align:middle;padding:0!important;">
+           <a href="/web/20130420130911*/http://www.prsearch.com/virginia/virginia_beach.htm" style="color:#33f;font-size:11px;font-weight:bold;background-color:transparent;border:none;" title="See a list of every capture for this URL"><strong>3 captures</strong></a>
+           <div class="__wb_banner_div" style="margin:0!important;padding:0!important;color:#666;font-size:9px;padding-top:2px!important;white-space:nowrap;" title="Timespan for captures of this URL">4 Jun 09 - 20 Apr 13</div>
+       </td>
+       <td style="padding:0!important;">
+       <a style="position:relative; white-space:nowrap; width:475px;height:27px;" href="" id="wm-graph-anchor">
+       <div class="__wb_banner_div" id="wm-ipp-sparkline" style="position:relative; white-space:nowrap; width:475px;height:27px;background-color:#fff;cursor:pointer;border-right:1px solid #ccc;" title="Explore captures for this URL">
+			<img id="sparklineImgId" style="position:absolute; z-index:9012; top:0px; left:0px;"
+				onmouseover="showTrackers('inline');" 
+				onmouseout="showTrackers('none');"
+				onmousemove="trackMouseMove(event,this)"
+				alt="sparklines"
+				width="475"
+				height="27"
+				border="0"
+				src="/web/jsp/graph.jsp?graphdata=475_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000001000000_2010:-1:000000000000_2011:-1:100000000000_2012:-1:000000000000_2013:3:000100000000_2014:-1:000000000000"></img>
+			<img id="wbMouseTrackYearImg" 
+				style="display:none; position:absolute; z-index:9010;"
+				width="25" 
+				height="27"
+				border="0"
+				src="/static/images/toolbar/transp-yellow-pixel.png"></img>
+			<img id="wbMouseTrackMonthImg"
+				style="display:none; position:absolute; z-index:9011; " 
+				width="2"
+				height="27" 
+				border="0"
+				src="/static/images/toolbar/transp-red-pixel.png"></img>
+       </div>
+		</a>
+
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td style="text-align:right;padding:5px;width:65px;font-size:11px!important;">
+       <a href="javascript:;" onclick="document.getElementById('wm-ipp').style.display='none';" style="display:block;padding-right:18px;background:url(/static/images/toolbar/wm_tb_close.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;margin-bottom:23px;background-color:transparent;border:none;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="display:block;padding-right:18px;background:url(/static/images/toolbar/wm_tb_help.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;background-color:transparent;border:none;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+
+</div>
+</div>
+<script type="text/javascript">
+ var wmDisclaimBanner = document.getElementById("wm-ipp");
+ if(wmDisclaimBanner != null) {
+   disclaimElement(wmDisclaimBanner);
+ }
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+<table style='width:100%;'><tr><td style='padding:10px;'>
+	<a href='/web/20130420130911/http://www.prsearch.com/'><span style='font-size:24px;color:#000000;'><b>Public Records Search</b></span></a><br>
+	Find Public Records Quickly and Easily
+</td></tr></table>
+
+<div style="width:100%;border-bottom:dotted 2px #404040;"></div>
+
+<br>
+<div style="border:solid 1px #000000;background-color:#2071A5;width:640px;margin-left:10px;">
+
+<div style='font-size:1.2em;padding:5px;color:#ffffff;text-align:center;'>
+	<b>Public Records Search</b>
+</div>
+
+<div style="border-top:solid 1px #000000;background-color:#E7F0F8;width:640px;"><br>
+	<form name="public records search" action="/web/20130420130911/http://www.prsearch.com/_redir/prredir.htm" method=get style="display:inline;">
+<table><tr>
+	<td style='padding-left:10px;'>First Name <span style="font:500 9px verdana;color:#696969;">(required)</span><br><input name=fname style="width:160px;font:500 11px verdana;"></td>
+	<td style='padding-left:10px;'>MI<br><input name=mname style="width:20px;font:500 11px verdana;"></td>
+	<td style='padding-left:10px;'>Last Name <span style="font:500 9px verdana;color:#696969;">(required)</span><br><input name=lname style="width:160px;font:500 11px verdana;"></td>
+	<td style='padding-left:10px;'>State<br>
+		 <select name=state style="font:500 11px verdana;"><OPTION VALUE="" SELECTED>All States<OPTION VALUE="AL">Alabama<OPTION VALUE="AK">Alaska<OPTION VALUE="AZ">Arizona<OPTION VALUE="AR">Arkansas<OPTION VALUE="CA">California<OPTION VALUE="CO">Colorado<OPTION VALUE="CT">Connecticut<OPTION VALUE="DE">Delaware<OPTION VALUE="FL">Florida<OPTION VALUE="GA">Georgia<OPTION VALUE="HI">Hawaii<OPTION VALUE="ID">Idaho<OPTION VALUE="IL">Illinois<OPTION VALUE="IN">Indiana<OPTION VALUE="IA">Iowa<OPTION VALUE="KS">Kansas<OPTION VALUE="KY">Kentucky<OPTION VALUE="LA">Louisiana<OPTION VALUE="ME">Maine<OPTION VALUE="MD">Maryland<OPTION VALUE="MA">Massachusetts<OPTION VALUE="MI">Michigan<OPTION VALUE="MN">Minnesota<OPTION VALUE="MS">Mississippi<OPTION VALUE="MO">Missouri<OPTION VALUE="MT">Montana<OPTION VALUE="NE">Nebraska<OPTION VALUE="NV">Nevada<OPTION VALUE="NH">New Hampshire<OPTION VALUE="NJ">New Jersey<OPTION VALUE="NM">New Mexico<OPTION VALUE="NY">New York<OPTION VALUE="NC">North Carolina<OPTION VALUE="ND">North Dakota<OPTION VALUE="OH">Ohio<OPTION VALUE="OK">Oklahoma<OPTION VALUE="OR">Oregon<OPTION VALUE="PA">Pennsylvania<OPTION VALUE="RI">Rhode Island<OPTION VALUE="SC">South Carolina<OPTION VALUE="SD">South Dakota<OPTION VALUE="TN">Tennessee<OPTION VALUE="TX">Texas<OPTION VALUE="UT">Utah<OPTION VALUE="VT">Vermont<OPTION VALUE="VA">Virginia<OPTION VALUE="WA">Washington<OPTION VALUE="DC">Washington D.C.<OPTION VALUE="WV">West Virginia<OPTION VALUE="WI">Wisconsin<OPTION VALUE="WY">Wyoming</select></td>
+	<td style='padding-left:10px;vertical-align:bottom'><br><input type="hidden" name="type" value="name_address"><input type=image src="/web/20130420130911im_/http://www.prsearch.com/_images/search.gif" style="height:20px;">
+</td></tr></table>
+	</form>
+<br></div>
+</div>
+<br>
+
+	
+	<div style='width:750px;padding-left:10px;'>
+		<p>
+		<span style="font-size:14pt;"><b>Virginia Beach County, Virginia Public Records</b></span><br>
+		Here you will find a wide variety of free Virginia Beach County public records sources. Most resources will provide information or searches for free and charge a small fee for processing requests or obtaining official records.  You can choose a different county from the <a href="/web/20130420130911/http://www.prsearch.com/virginia/counties.htm">Virginia Counties</a> page.
+	</div>
+	
+	<div style='width:750px;padding-left:10px;'>
+		<p>
+		<a href='/web/20130420130911/http://quickfacts.census.gov/qfd/states/50/50810.html'>Virginia Beach County Census</a> <br>
+		General county data such as demographics, ethnicity, housing, income, labor force, employment, occupations, industries, government employees, businesses, and more. <br>
+		Population in 2006: 425257 <br>
+		Land Area: 248 Square Miles <br>
+		County Seat: N/A <br>
+		
+		<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?vgnextoid=1e6bb2c08804c010VgnVCM1000006310640aRCRD&amp;vgnextchannel=92d154cf18ad9010VgnVCM100000870b640aRCRD&amp;vgnextfmt=default'>Building Inspection</a><br>
+Permits and inspections for building renovations and construction<br>
+2405 Courthouse Drive Room 100<br>
+Municipal Center, Bldg. 2<br>
+Virginia Beach, VA 23456<br>
+Phone: (757) 385-8060<br>
+Fax: (757) 385-5777<br>
+Email: perminsp@vbgov.com<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?vgnextchannel=d878e492917dd010VgnVCM1000006310640aRCRD&amp;vgnextparchannel=4c767e192ca49010VgnVCM100000870b640aRCRD'>Business Licenses</a><br>
+Licensing for construction or renovation for private or commercial construction<br>
+2401 Courthouse Dr.<br>
+Municipal Center, Bldg. 1<br>
+Virginia Beach, VA 23456<br>
+Phone: (757) 385-4515<br>
+Fax: (757) 385-4183<br>
+Toll-free: (800) 828-1140<br>
+Email: business@vbgov.com<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?vgnextoid=aa5e964c2b04c010VgnVCM1000006310640aRCRD&amp;vgnextchannel=93515bdd8cd5c010VgnVCM1000006310640aRCRD&amp;vgnextparchannel=0b81fd67f3ad9010VgnVCM100000870b640aRCRD'>Careers And Jobs</a><br>
+Start here for job descriptions and applications.<br>
+4100 Virginia Beach Blvd.<br>
+Virtual Library<br>
+Virginia Beach, VA 23452<br>
+Email: chart@vbgov.com<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?vgnextchannel=d3a354cf18ad9010VgnVCM100000870b640aRCRD&amp;vgnextparchannel=92d154cf18ad9010VgnVCM100000870b640aRCRD'>Devenopment Ordinances</a><br>
+City code and development ordinances and regulations.<br>
+2405 Courthouse Drive Room 115<br>
+Municipal Center, Bldg. 2<br>
+Virginia Beach, VA 23456<br>
+Phone: (757) 385-4621<br>
+Fax: (757) 385-5667<br>
+Email: planadmn@vbgov.com<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?vgnextoid=2a2aa334b955d010VgnVCM1000006310640aRCRD&amp;vgnextchannel=3851a87860a5d010VgnVCM1000006310640aRCRD&amp;vgnextfmt=default'>Elections Results</a><br>
+Information on elections and the results from 2000 to present.<br>
+2449 Princess Anne Rd<br>
+Municipal Center, Bldg 14<br>
+Virginia Beach, VA 23456<br>
+Phone: (757) 385-8683<br>
+Fax: (757) 385-5632<br>
+Email: voter@vbgov.com<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?vgnextoid=e8a5340df304c010VgnVCM1000006310640aRCRD&amp;vgnextchannel=98c47e192ca49010VgnVCM100000870b640aRCRD&amp;vgnextfmt=default'>Gis</a><br>
+Center of Geospatial Information Systems<br>
+2405 Courthouse Dr, Suite 170<br>
+Municipal Center, Building 2<br>
+Virginia Beach, VA 23456<br>
+Phone: (757) 385-4121<br>
+Fax: (757) 385-8482<br>
+Email: cvbGIS@vbgov.com<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?vgnextoid=7469cbddf990e010VgnVCM1000006310640aRCRD&amp;vgnextchannel=ba10476215ced010VgnVCM1000006310640aRCRD&amp;vgnextfmt=default'>Marriage License</a><br>
+How to conduct your marriage so to be licensed and acknowledged by the law.<br>
+2425 Nimmo Parkway<br>
+Build 10-B 3rd Floor<br>
+Virginia Beach, VA 23456<br>
+Phone: (757) 385-8822<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?vgnextchannel=4c742c3aeb42b010VgnVCM100000870b640aRCRD&amp;vgnextparchannel=92d154cf18ad9010VgnVCM100000870b640aRCRD'>Permits And Inspections</a><br>
+Search for permits for various types.<br>
+2405 Courthouse Drive Room 100<br>
+Municipal Center, Bldg. 2<br>
+Virginia Beach, VA 23456<br>
+Phone: (757) 385-4211<br>
+Fax: (757) 385-5777<br>
+Email: perminsp@vbgov.com<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?vgnextoid=f368b2c08804c010VgnVCM1000006310640aRCRD&amp;vgnextchannel=aae9068d7ae1b010VgnVCM100000870b640aRCRD&amp;vgnextfmt=default'>Warrant And Fugative Unit</a><br>
+Department of police and detective bureau that deals with warrants and fugitives.<br>
+2509 Princess Anne Rd.<br>
+Municipal Center, Bldg. 11<br>
+Virginia Beach, VA 23456<br>
+Phone: (757) 385-4101<br>
+</p>
+
+<p>
+Chamber Of Commerce<br>
+Visit the local chamber to find groups and businesses in your area to improve your daily life such as restaurants, music, museums and art galleries.<br>
+4512 Virginia Beach Blvd<br>
+Virginia Beach, VA 23462<br>
+Phone: (757) 622-2312<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?dept_list=aa98fd67f3ad9010VgnVCM100000870b640aRCRD'>City Elections</a><br>
+Find the deadline for registering to vote for the next upcoming election and read about your voting rights.<br>
+2449 Princess Anne Road Bldg 14<br>
+Virginia Beach, VA 23462<br>
+Phone: (757) 385-8683<br>
+</p>
+
+<p>
+Inmate And Prison Records<br>
+Request a prisoner records search or obtain a list of criminals currently detained in a particular prison<br>
+2501 James Madison Blvd<br>
+Virginia Beach, VA 23462<br>
+Phone: (757) 479-2007<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/'>Official Website</a><br>
+View city codes, ordinances, city and state laws as well as information on local law enforcement and city courts.<br>
+1800 College Crescent<br>
+Virginia Beach, VA 23462<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?dept_list=f0447e192ca49010VgnVCM100000870b640aRCRD'>Recorder - Probate Office</a><br>
+Pay many of the fees for building permits, drivers permits, licenses, fines and more.<br>
+2401 Courthouse Dr.,Bldg 1 Suite 281<br>
+Virginia Beach, VA 23462<br>
+Phone: (757) 385-4303<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbso.net/'>Sheriffs Office</a><br>
+Read news and public information regarding the area as well as community awareness programs and safety groups.<br>
+2501 James Madison Blvd<br>
+Virginia Beach, VA 23462<br>
+Phone: (757) 385-4555<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?dept_list=bd8efd67f3ad9010VgnVCM100000870b640aRCRD'>Tax Assessor</a><br>
+Historical data on appraised home values and other information such a owner history and home specifications<br>
+2424 Courthouse Dr. Bldg 18<br>
+Virginia Beach, VA 23462<br>
+Phone: (757) 385-4601<br>
+</p>
+
+<p>
+<a href='/web/20130420130911/http://www.vbgov.com/vgn.aspx?dept_list=a8ebfd67f3ad9010VgnVCM100000870b640aRCRD'>Tax Collector</a><br>
+Read the latest news and policy changes for real property and city tax collections and distribution.<br>
+2401 Courthouse Dr. Bldg 1<br>
+Virginia Beach, VA 23462<br>
+Phone: (757) 385-4445<br>
+</p>
+
+<p>
+Transportation Department<br>
+Claim a lost, stolen or abandoned vehicle that was left on a roadway or report incidents involving motor vehicles or property.<br>
+970 Reon Dr<br>
+Virginia Beach, VA 23464<br>
+Phone: (757) 424-9904<br>
+</p>
+
+	</div>
+	
+	<div style='width:750px;padding-left:10px;'>
+		<p>
+		<a href='/web/20130420130911/http://www.prsearch.com/virginia/'>Virginia Public Records</a><br>
+		Public records resources for the state of Virginia.<br>
+	</div>
+	
+	<br><br>
+<div style="width:100%;border-bottom:dotted 2px #909090;"></div>
+
+<table style='width:100%;'><tr><td style='padding:10px;'>
+	<div style='width:50%;float:left;'>&copy; 2013 Public Records Search</div>
+	<div style='width:50%;float:left;text-align:right;'>All Rights Reserved. </div>
+</td></tr></table>
+
+</body>
+</html>
+
+
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 13:09:11 Apr 20, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:04:41 Apr 24, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

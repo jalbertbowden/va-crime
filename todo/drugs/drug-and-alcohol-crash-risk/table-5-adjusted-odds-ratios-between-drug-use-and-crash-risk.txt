@@ -1,0 +1,8 @@
+Drug of Interest	Adjusted Odds Ratio	95% CI*	P Value
+THC (Marijuana)	1.00	0.83 – 1.22	0.98
+Antidepressants	0.86	0.56 – 1.33	0.50
+Narcotic Analgesics	1.17	0.87 – 1.56	0.30
+Sedatives	1.19	0.86 – 1.64	0.29
+Stimulants	0.92	0.70 – 1.19	0.51
+Illegal Drugs	0.99	0.84 – 1.18	0.99
+Legal Drugs	1.02	0.83 – 1.26	0.83

@@ -1,0 +1,812 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+----------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4779
+---------------------------------------------------------
+
+*******************
+Special Report
+*******************
+
+Police Behavior during Traffic and Street Stops, 2011
+
+Lynn Langton, Ph.D., and Matthew Durose, BJS Statisticians
+
+In 2011, over 62.9 million U.S. residents age 16 or older, or 
+26% of the population, had one or more contacts with police 
+during the prior 12 months (figure 1). For about half (49%) 
+of persons experiencing contact with police, the most recent 
+contact was involuntary or police-initiated. In 2011, 86% of 
+persons involved in traffic stops during their most recent 
+contact with police and 66% of persons involved in street 
+stops (i.e., stopped in public but not in a moving vehicle) 
+believed that the police both behaved properly and treated 
+them with respect during the contact. A greater percentage of 
+persons involved in street stops (25%) than those pulled over 
+in traffic stops (10%) believed the police had not behaved 
+properly. Regardless of the reason for the stop, less than 5% 
+of persons who believed the police had not behaved properly 
+filed a complaint. 
+
+The data in this report were drawn from the Bureau of Justice 
+Statistics’ (BJS) 2011 Police-Public Contact Survey (PPCS), a 
+supplement to the National Crime Victimization Survey (NCVS), 
+which collects information from a nationally representative 
+sample of persons in U.S. households. The PPCS collects 
+information on contact with police during a 12-month period. 
+This report examines involuntary contacts with police, 
+specifically those that occurred when the person was the 
+driver of a motor vehicle (i.e., traffic stops) or when the 
+person was stopped by the police while in a public place but 
+not in a moving vehicle (i.e., street stops). It describes 
+variations in perceptions of police behavior and police 
+legitimacy during traffic and street stops. (For more 
+information on how perceptions of police behavior and 
+legitimacy were measured in this report, see survey questions 
+on page 12.) All findings in this report are based on persons 
+for whom the most recent contact in 2011 was in a street stop 
+or as the driver in a traffic stop. For information on 
+voluntary contacts with police, see Requests for Police 
+Assistance, 2011, NCJ 242938, BJS website, September 2013.
+
+*****************************************************
+
+************
+Highlights
+************
+
+* Relatively more black drivers (13%) than white (10%) and 
+Hispanic (10%) drivers were pulled over in a traffic stop 
+during their most recent contact with police. There were no 
+statistical differences in the race or Hispanic origin of 
+persons involved in street stops.
+
+* Persons involved in street stops were less likely (71%) 
+than drivers in traffic stops (88%) to believe that the 
+police behaved properly.
+
+* Of those involved in traffic and street stops, a smaller 
+percentage of blacks than whites believed the police behaved 
+properly during the stop. 
+
+* Drivers pulled over by an officer of the same race or 
+ethnicity were more likely (83%) than drivers pulled over by 
+an officer of a different race or ethnicity (74%) to believe 
+that the reason for the traffic stop was legitimate.
+
+* White drivers were both ticketed and searched at lower 
+rates than black and Hispanic drivers.
+
+* Across race and Hispanic origin, persons who were searched 
+during traffic stops were less likely than persons who were 
+not searched to believe the police behaved properly during 
+the stop. 
+
+* About 1% of drivers pulled over in traffic stops had 
+physical force used against them by police. Of these drivers, 
+55% believed the police behaved properly during the stop.
+
+* About 6 in 10 persons age 16 or older involved in street 
+stops believed they were stopped for a legitimate reason.
+
+* About 19% of persons involved in street stops were searched 
+or frisked by police. The majority of persons who were 
+searched or frisked did not believe the police had a 
+legitimate reason for the search.
+*****************************************************
+
+****************************************
+About 71% of persons involved in streets 
+stops thought the police behaved properly,
+compared to 88% of drivers pulled over 
+in traffic stops
+****************************************
+
+In 2011, less than 1% of the 241.4 million U.S. residents age 
+16 or older were involved in a street stop during their most 
+recent contact with police (table 1; appendix table 2). A 
+greater percentage of males (1%) than females (less than 1%) 
+were involved in street stops during 2011. Persons ages 16 to 
+24 were more likely than persons age 35 or older to be 
+involved in street stops. While no differences were observed 
+in the percentage of non-Hispanic white, non-Hispanic black, 
+and Hispanic populations age 16 or older involved in a street 
+stop, among those who were stopped, a smaller percentage of 
+blacks (38%) than Hispanics (63%) or whites (78%) felt the 
+police behaved properly during the stop.
+
+Traffic stops were a more common form of police contact than 
+street stops in 2011. About 10% of the 212.3 million U.S. 
+drivers age 16 or older were stopped while operating a motor 
+vehicle during their most recent contact with police. 
+***Footnote 1 The driving population includes persons age 16 
+or older who reported driving a few or more times during the 
+year or who were stopped as the driver in a traffic stop 
+during 2011.*** As with street stops, a greater percentage of 
+male drivers (12%) than female drivers (8%) were pulled over 
+in traffic stops. Across age groups, the highest percentage 
+of stopped drivers was among drivers ages 18 to 24 (18%). A 
+higher percentage of black drivers (13%) than white (10%) and 
+Hispanic (10%) drivers age 16 or older were pulled over in a 
+traffic stop during their most recent contact with police.
+
+A higher percentage of drivers in traffic stops (88%) than 
+persons involved in street stops (71%) believed the police 
+behaved properly during the stop. White drivers pulled over 
+by police (89%) were more likely than black drivers (83%) to 
+think that the police behaved properly, while no difference 
+was observed between the percentages of stopped white drivers 
+and Hispanic drivers who thought that the police behaved 
+properly. There was also no statistical difference in the 
+percentages of black and Hispanic stopped drivers who 
+believed the police behaved properly.
+
+***************
+Traffic stops
+***************
+
+Regardless of the reason for the traffic stop, black (67%) 
+and Hispanic (74%) drivers were less likely than white 
+drivers (84%) to believe the reason for the stop was 
+legitimate 
+
+In 2011, a greater percentage of white drivers (84%) than 
+Hispanic (74%) or black drivers (67%) who were stopped by 
+police believed they were pulled over for a legitimate reason 
+(table 2). Across all races and Hispanic origin, drivers 
+stopped for speeding were among the most likely to perceive 
+that the reason for the traffic stop was legitimate (90% of 
+white, 83% of Hispanic, and 73% of black drivers). In 
+general, drivers who were pulled over and not given a reason 
+for the traffic stop were the least likely to think the 
+traffic stop was legitimate. For example, 51% of white 
+drivers who were stopped without the police giving a reason 
+believed the stop was legitimate, whereas 84% who were given 
+a reason believed that the stop was legitimate.
+
+Among other reasons for traffic stops that were associated 
+with comparatively lower perceptions that the stop was 
+legitimate, less than 70% of white (69%), black (69%), and 
+Hispanic (64%) drivers who were pulled over for a stop light 
+or stop sign violation believed the police had a legitimate 
+reason for stopping them. Less than 70% of black drivers 
+stopped due to a vehicle defect (69%), a seatbelt or cell 
+phone violation (64%), or an illegal turn or lane change 
+violation (65%) thought the police had a legitimate reason 
+for stopping them.
+
+***************************************************
+A greater percentage of drivers pulled over by an 
+officer of the same race or ethnicity (83%) than 
+drivers stopped by an officer of a different race 
+or ethnicity (74%) believed the reason for the 
+traffic stop was legitimate 
+**************************************************
+
+About 83% of drivers pulled over by an officer of the same 
+race or Hispanic origin thought the reason for the traffic 
+stop was legitimate, compared to 74% of drivers pulled over 
+by an officer of a different race or Hispanic origin (table 
+3).***Footnote 2 Data on officer race or Hispanic origin are 
+based on respondent’s perception..*** However, drivers’ 
+perceptions of traffic stop legitimacy varied somewhat by the 
+reason for the stop and whether the driver and officer were 
+the same race or Hispanic origin. When the reason for the 
+stop was speeding, a vehicle defect, a roadside sobriety 
+check, or a seatbelt or cell phone violation, drivers pulled 
+over by an officer of a different race or ethnicity were less 
+likely than drivers pulled over by an officer of the same 
+race or ethnicity to perceive the reason for the traffic stop 
+to be legitimate. In comparison, a similar percentage of 
+drivers stopped for a record check, an illegal turn or lane 
+change, or a stop light or stop sign violation perceived the 
+stop to be legitimate, regardless of whether the officer was 
+the same race or ethnicity as the driver or a different race 
+or ethnicity. Whether the driver and officer were intraracial 
+(41%) or interracial (42%), the officer’s failure to give a 
+reason for the stop resulted in less than half of stopped 
+drivers believing the stop was legitimate.
+
+While the majority of drivers pulled over in a traffic stop 
+were stopped by white officers, a larger percentage of black 
+drivers (14%) than white (4%) or Hispanic (3%) drivers were 
+stopped by black officers (table 4). Similarly, a greater 
+percentage of Hispanic drivers was stopped by Hispanic 
+officers (17%) than were white (3%) or black (6%) drivers.
+
+A similar percentage of white drivers believed the reason for 
+the stop was legitimate, regardless of whether they were 
+stopped by white, Hispanic, or black officers. While black 
+drivers had similar perceptions of police legitimacy when 
+pulled over by white (70%) or black (71%) officers, a lower 
+percentage of black drivers stopped by Hispanic officers 
+perceived the stop to be legitimate (47%). Among Hispanic 
+drivers, no differences were observed in perceptions of 
+traffic stop legitimacy, regardless of the race or Hispanic 
+origin of the officer. 
+
+************************************************
+Among drivers who thought the reason for the 
+stop was not legitimate, 65% believed the police 
+behaved properly, compared to 94% among drivers
+who thought the stop was legitimate
+*************************************************
+
+When the reason for the traffic stop was not seen as 
+legitimate, a smaller percentage of white, black, and 
+Hispanic drivers believed the police behaved properly during 
+the stop than when the reason for the stop was legitimate. 
+Whether the driver and officer were intra- or inter- racial, 
+relatively fewer whites, blacks, and Hispanics thought the 
+police behaved properly when the reason for the stop was 
+perceived to be illegitimate. Regardless of the race or 
+Hispanic of the officer, over 90% of white, black, and 
+Hispanic drivers who believed the stop was legitimate also 
+thought that the police behaved properly. Among white and 
+Hispanic drivers who believed the police had no legitimate 
+reason for the stop, the percentage who also believed that 
+the police behaved properly did not vary, regardless of 
+whether the officer was white, black, or Hispanic. Among 
+black drivers who believed the officer had no legitimate 
+reason for the traffic stop, a higher percentage thought the 
+police behaved properly when the officer was black (87%) than 
+when the officer was white (58%) or Hispanic (55%).
+
+***********************************************
+In 2011, there were small racial differences 
+in the percentage of drivers who were ticketed
+************************************************
+
+About 5% of the 212.3 million drivers age 16 or older were 
+pulled over and ticketed in the most recent contact with 
+police (table 5). Another 3% of all drivers were pulled over 
+and given a verbal or written warning and 1% were allowed to 
+proceed with no enforcement action after being stopped. 
+
+A greater percentage of male drivers (6%) were ticketed than 
+female drivers (4%), and a greater percentage of black (7%) 
+and Hispanic (6%) drivers were ticketed than white drivers 
+(5%). A greater percentage of black drivers (2%) were stopped 
+and allowed to proceed with a no enforcement action than 
+white (1%) and Hispanic (1%) drivers. A greater percentage of 
+drivers ages 18 to 24 (10%) were ticketed than drivers in any 
+other age group. 
+
+The majority (93%) of stopped drivers who were issued a 
+warning believed that the police behaved properly during the 
+stop. Regardless of the demographic characteristics of the 
+driver, 87% to 95% of drivers who were issued a warning after 
+being stopped believed the police behaved properly. Among 
+drivers of all sexes, ages, races and Hispanic origin 
+ticketed by police, the percentage who believed the police 
+behaved properly ranged from 81% to 90%.
+
+Across most demographic characteristics examined, stopped 
+drivers who were allowed to proceed without any enforcement 
+action were less likely than drivers who were issued a 
+warning to believe the police behaved properly. Since 
+previous findings in this report suggest an association 
+between perceptions of traffic stop legitimacy and 
+perceptions that police behaved properly, this may suggest 
+that drivers were less likely to believe the reason for the 
+stop was legitimate when no enforcement action occurred as a 
+result of the stop.
+
+In 2011, 1% of stopped drivers were arrested during the stop. 
+The majority of arrested drivers also received a ticket or a 
+warning during the stop. Among stopped drivers who were 
+arrested, 76% believed the police behaved properly (not shown 
+in table).
+
+*******************************************
+Among black and Hispanic stopped drivers, 
+a similar percentage of ticketed and not 
+ticketed drivers believed the police 
+behaved properly during the traffic stop
+*******************************************
+
+Among drivers stopped in traffic stops, there was no 
+statistical difference in the percentage of white (50%) and 
+black (55%) stopped drivers were ticketed in 2011. Hispanic 
+stopped drivers (60%) were more likely than white stopped 
+drivers to receive a ticket. A greater percentage of white 
+drivers were ticketed when stopped by black officers (64%) 
+than white officers (49%) (table 6). However, for black and 
+Hispanic drivers stopped by police, the percentage issued a 
+ticket did not vary by the race or Hispanic origin of the 
+officer. These differences and similarities in enforcement 
+practices by race or Hispanic origin of the driver and 
+officer may be related to the reason for the traffic stop or 
+other factors and do not necessarily reflect biased or 
+unbiased treatment.
+
+Among white, black, and Hispanic drivers who were stopped and 
+ticketed, the percentage who believed the police behaved 
+properly did not vary regardless of whether the officer was 
+white, black, or Hispanic. Overall, for most racial and 
+ethnic groups, the majority of stopped drivers believed the 
+police behaved properly whether a ticket was issued or not.
+
+**********************************************
+Stopped drivers who were searched were less 
+likely than drivers who were not searched to 
+believe that the police behaved properly
+**********************************************
+
+In 2011, 3% of drivers pulled over by police in a traffic 
+stop had their person or vehicle searched (table 7). A 
+greater percentage of male drivers (4%) than female drivers 
+(2%) were searched during traffic stops. Male drivers 
+accounted for 76% of searches conducted among stopped 
+drivers. A lower percentage of white drivers stopped by 
+police were searched (2%) than black (6%) or Hispanic (7%) 
+drivers. A greater percentage of stopped drivers ages 18 to 
+34 (5%) than those age 55 or older (1%) was searched during 
+traffic stops. 
+
+Across all demographic groups examined, a smaller percentage 
+of drivers who had their person or vehicle searched by police 
+during a traffic stop than drivers who were not searched 
+believed the police behaved properly. Overall, 61% of 
+searched drivers believed the police behaved properly, 
+compared to 89% of drivers who were stopped but not searched. 
+The percentage of searched drivers who believed the police 
+behaved properly did not vary by sex, race or Hispanic 
+origin, or age.
+
+********************************************
+When the police did not ask permission to 
+conduct a search, less than half of 
+searched drivers thought the officers
+behaved properly during the traffic stop
+********************************************
+
+Less than half (46%) of drivers believed the police behaved 
+properly when a person or vehicle search was conducted 
+without the police first asking permission to conduct the 
+search or without the police having a perceived legitimate 
+reason to conduct the search (table 8). When the police asked 
+permission before conducting a search during a traffic stop, 
+a greater percentage of drivers believed the police behaved 
+properly (72%). Similarly, a greater percentage of drivers 
+thought the police behaved properly when they believed the 
+police had a legitimate reason for conducting the search 
+(86%) than when the reason for the search was not seen as 
+legitimate (46%). About 6% of searched drivers reported that 
+the police uncovered illegal items during the search (not 
+shown in table).
+
+********************************************
+More than half of drivers who experienced 
+police use of physical force or verbal 
+threats thought police behaved properly
+********************************************
+
+In 2011, 6% of drivers pulled over in traffic stops 
+experienced some type of force used against them, from 
+shouting and cursing, to verbal threats of force or other 
+action, to physical force, including hitting, handcuffing, 
+and pointing a gun (table 9). Of the 1% of stopped drivers 
+who experienced physical force during the traffic stop, more 
+than half (55%) believed the police behaved properly during 
+the contact. A similar percentage of drivers who experienced 
+verbal threats of force believed the police behaved properly 
+(56%).
+
+Three in 4 (75%) stopped drivers who experienced any type of 
+force believed the police actions were unnecessary. About 
+two-thirds (65%) of drivers who experienced police use of 
+force did not think the force was excessive. Among stopped 
+drivers who experienced any type of verbal or physical force, 
+83% who believed the force used or threatened against them 
+was necessary also thought police behaved properly, compared 
+to 38% of those who did not believe the use of force was 
+necessary.
+
+*************
+Street stops
+*************
+
+About 6 in 10 persons involved in 
+street stops believed they were 
+stopped for a legitimate reason
+----------------------------------
+
+In 2011, less than 1% of persons age 16 or older were stopped 
+by the police while in a public place (table 10). Among 
+persons stopped by the police in a street stop during their 
+most recent police contact, at least 41% were stopped because 
+the police suspected them of something or they matched the 
+description of someone for whom the police were looking. At 
+least 16% of persons involved in street stops said the police 
+did not provide a reason for the stop or the police were 
+seeking information about another person or investigating a 
+crime, and at least 7% were stopped because the police were 
+providing a service. About 20% of persons involved in street 
+stops did not report a reason for the stop.
+
+Overall, 64% of persons involved in street stops believed the 
+police stopped them for a legitimate reason. Among persons 
+who were stopped because the police suspected them of 
+something, 61% thought the reason for the stop was 
+legitimate. The percentage of persons who thought the reason 
+for the stop was legitimate was higher among those who were 
+stopped because the police were providing a service (91%) or 
+seeking information or investigating a crime (92%). 
+Similarly, compared to those who were stopped because the 
+police were investigating a crime (90%) or were providing 
+assistance (96%), a lower percentage of persons stopped 
+because they were suspected of something believed the police 
+behaved properly (68%).
+
+Regardless of the reason for the stop, a slightly higher 
+percentage of persons involved in a street stop with an 
+officer of the same race or ethnicity believed that the 
+police behaved properly (79%) than persons stopped by an 
+officer of a different race or ethnicity (62%) (table 11). 
+Persons least likely to believe the police behaved properly 
+during street stops were those stopped for reasons they did 
+not believe were legitimate (38%), persons who were searched 
+without a perceived legitimate reason (29%), and persons who 
+had force used against them (30%).3
+
+********************************************
+Police–Public Contact Survey questions 
+pertaining to perceptions of police 
+behavior and legitimacy of police actions
+*****************************************
+Perceptions of police behavior
+
+Q. Looking back in this contact, do you feel the police 
+behaved properly?
+Perceptions of legitimacy of stop
+
+Q. Would you say that the police officer(s) had a legitimate 
+reason for stopping you?
+Perceptions of legitimacy of search
+
+Q. Do you think the police officers had a legitimate reason 
+to search the vehicle (asked of drivers in traffic stops 
+only)?
+
+Q. Do you think that police officers had a legitimate reason 
+to search you, frisk you, or pat you down?
+Perceptions of police use of force
+
+Q. Did you feel that this/these action(s) [used by police 
+against you] was/were necessary?
+
+Q. Did you feel any of the force used or force threatened 
+against you was excessive?
+
+*************
+Methodology
+*************
+
+Data collection
+----------------
+
+The Police-Public Contact Survey (PPCS) is a supplement to 
+the National Crime Victimization Survey (NCVS). The NCVS 
+annually collects data on crime reported and not reported to 
+the police against persons age 12 or older from a nationally 
+representative sample of U.S. households. The sample includes 
+persons living in group quarters (such as dormitories, 
+rooming houses, and religious group dwellings) and excludes 
+persons living in military barracks and institutional 
+settings (such as correctional or hospital facilities) and 
+the homeless. (For more information, see the Survey 
+Methodology in Criminal Victimization in the United States, 
+2008, NCJ 231173, BJS website, May 2011.)
+
+Since 1999, the PPCS has been administered every 3 years at 
+the end of the NCVS interview to persons age 16 or older 
+within households sampled for the NCVS. Proxy responders and 
+those who complete the NCVS interview in a language other 
+than English were not eligible to receive the PPCS. 
+
+The U.S. Census Bureau administered the 2011 PPCS 
+questionnaire between July 1, 2011, and December 31, 2011, 
+and processed the survey data. Respondents were provided a 
+list of specific reasons for having contact with police and 
+were asked if they had experienced any of those types of 
+contacts during the prior 12 months. For example, persons 
+interviewed in July 2011 were asked about contacts that 
+occurred between August 2010 and July 2011. Persons who said 
+they had a contact during 2011 were asked to describe the 
+nature of the contact, and those who had more than one 
+contact were asked about only their most recent contact 
+during the period. To simplify the discussion of the 
+findings, this report describes all contacts reported during 
+the 12 months prior to the interviews as 2011 contacts.
+
+PPCS nonrespondents consisted of persons whose household did 
+not respond to the NCVS (NCVS household nonresponse), persons 
+within an interviewed NCVS household who did not respond to 
+the NCVS (NCVS person nonresponse), and persons who responded 
+to the NCVS but did not complete the PPCS (PPCS person 
+nonresponse). The NCVS household response rate was 89% and 
+the person response rate was 88%. In 2011, PPCS interviews 
+were obtained from 49,246 of the 62,280 individuals age 16 or 
+older in the NCVS sample (79%). A total of 13,034 
+nonrespondents were excluded from the 2011 PPCS as 
+noninterviews or as proxy interviews. Noninterviews (10,907) 
+included respondents who were not available for the 
+interview, those who refused to participate, and non-English-
+speaking respondents. (Unlike the NCVS interviews, PPCS 
+interviews were conducted only in English.) The remaining 
+2,127 were proxy interviews representing household members 
+who were unable to participate for physical, mental, or other 
+reasons.
+
+To produce national estimates on police-public contacts, 
+sample weights were applied to the survey data so that the 
+respondents represented the entire population, including the 
+nonrespondents. After adjustment for nonresponse, the sample 
+cases in 2011 were weighted to produce a national population 
+estimate of 241,404,142 persons age 16 or older.
+
+Despite the nonresponse adjustments, low overall response 
+rates and response rates to particular survey items can still 
+increase variance in these estimates and produce bias when 
+the nonrespondents have characteristics that differ from the 
+respondents. The Office of Management and Budget guidelines 
+require a nonresponse bias study when the overall response 
+rate is below 80%. The Bureau of Justice Statistics (BJS) and 
+the Census Bureau compared the distributions of respondents 
+as well as nonrespondents and nonresponse estimates for 
+various household and demographic characteristics, and 
+examined their impact on the national estimates produced for 
+the 2011 PPCS. The study looked at household-level and 
+person-level response rates and found some evidence of bias 
+in the rates among blacks and persons of Hispanic origin. 
+Blacks accounted for 12% of the U.S. population in 2011 but 
+about 11% of PPCS respondents after weighting adjustments. 
+Hispanics accounted for 14% of the U.S. population but about 
+12% of the PPCS respondents after weighting adjustments. 
+Because the largest bias in person nonresponse was observed 
+in the Hispanic origin characteristics, future iterations of 
+the PPCS will address this issue by administering the survey 
+in languages other than English and including Hispanic origin 
+as a factor in the noninterview adjustment. Item nonresponse 
+statistics were also computed for key survey questions from 
+the PPCS, and no evidence of bias was found during the 
+analysis.
+
+Changes to the 2011 PPCS
+-------------------------
+
+Since its inception in 1996, the PPCS has captured 
+information about in-person (i.e., face-to-face) contacts 
+between police and the public. Telephone contacts were 
+previously not included. The survey also excluded face-to-
+face interactions in which persons approached an officer or 
+an officer initiated contact with them in a social setting or 
+because their work brought them into regular contact. In 
+March 2010, BJS hosted a series of meetings with subject-
+matter experts in the area of policing and police legitimacy 
+to initiate discussion and work on substantive changes to the 
+PPCS questionnaire. In 2011, based in part on these meetings, 
+the PPCS was revised to expand the scope of the survey and to 
+better capture contacts with police.
+
+First, to determine if contact occurred and to enhance 
+individuals’ recollections about their interactions with 
+police over a 12-month period, BJS implemented new screening 
+procedures in the 2011 PPCS that describe a broad range of 
+situations known to bring people in contact with police. 
+Second, the scope of the PPCS was expanded to collect 
+information about interactions that people had with the 
+police that did not result in a face-to-face contact (e.g., 
+reporting a crime to the police by phone or email). 
+Additionally, a new set of questions was added to the 
+instrument to collect detailed information about requests for 
+police assistance (e.g., reporting a crime or noncrime 
+emergency) and contacts in which the police stopped someone 
+in a public place or on the street but not in a motor vehicle 
+(known as street stops).
+
+These revisions, which included adding new questions and 
+reordering existing questions, were significant when compared 
+to the 2008 version of the questionnaire. To assess the 
+impact of the survey redesign on trends in rates and types of 
+contact, BJS administered a split-sample design in which a 
+subset of the sample was interviewed using the 2008 version 
+of the questionnaire, and the remaining sample was 
+interviewed using the 2011 version. Based on the evaluation, 
+it was determined that a 15/85 split would provide sufficient 
+power to measure a 15% change in contact rate. In other 
+words, about 85% of the 2011 sample was randomly assigned the 
+revised questionnaire and the other 15% received the 
+questionnaire designed for the 2008 survey. The Census Bureau 
+completed interviews for 41,408 (79%) of the 52,529 residents 
+who received the revised questionnaire.
+
+The findings in this report are based on data collected from 
+the revised questionnaire. An evaluation of the impact of the 
+changes to the 2011 PPCS instrument on trends in contacts 
+between the police and the public is underway, and the 
+results of that assessment will be made available through the 
+BJS website.
+
+Standard error computations
+----------------------------- 
+
+When national estimates are derived from a sample, as is the 
+case with the PPCS, caution must be taken when comparing one 
+estimate to another estimate. Although one estimate may be 
+larger than another, estimates based on a sample have some 
+degree of sampling error. The sampling error of an estimate 
+depends on several factors, including the amount of variation 
+in the responses, the size of the sample, and the size of the 
+subgroup for which the estimate is computed. When the 
+sampling error around the estimates is taken into 
+consideration, the estimates that appear different may, in 
+fact, not be statistically different.
+
+One measure of the sampling error associated with an estimate 
+is the standard error. The standard error can vary from one 
+estimate to the next. In general, for a given metric, an 
+estimate with a smaller standard error provides a more 
+reliable approximation of the true value than an estimate 
+with a larger standard error. Estimates with relatively large 
+standard errors are associated with less precision and 
+reliability and should be interpreted with caution.
+
+In order to generate standard errors around estimates from 
+the PPCS, the Census Bureau produces generalized variance 
+function (GVF) parameters for BJS. The GVFs take into account 
+aspects of the NCVS complex sample design and represent the 
+curve fitted to a selection of individual standard errors 
+based on the Jackknife Repeated Replication technique. The 
+GVF parameters were used to generate standard errors for each 
+point estimate (i.e., numbers or percentages) in the report.
+
+In this report, BJS conducted tests to determine whether 
+differences in estimated numbers and percentages were 
+statistically significant once sampling error was taken into 
+account. Using statistical programs developed specifically 
+for the NCVS, all comparisons in the text were tested for 
+significance. The primary test procedure used was Student’s 
+t-statistic, which tests the difference between two sample 
+estimates. To ensure that the observed differences between 
+estimates were larger than might be expected due to sampling 
+variation, the significance level was set at the 95% 
+confidence level.
+Data users can use the estimates and the standard errors of 
+the estimates provided in this report to generate a 
+confidence interval around the estimate as a measure of the 
+margin of error. The following example illustrates how 
+standard errors can be used to generate confidence intervals:
+
+* According to the NCVS, in 2011, an estimated 88.2% of 
+drivers stopped by police in traffic stops believed that the 
+police behaved properly during the contact (see table 1). 
+Using the GVFs, BJS determined that the estimate has a 
+standard error of 1.13 (see appendix table 3). A confidence 
+interval around the estimate was generated by multiplying the 
+standard errors by ±1.96 (the t-score of a normal, two-tailed 
+distribution that excludes 2.5% at either end of the 
+distribution). Thus, the confidence interval around the 
+estimate is 88.2 ± (1.13 X 1.96) or 86.1 to 90.4. In other 
+words, if different samples using the same procedures were 
+taken from the U.S. population in 2011, 95% of the time the 
+percentage of stopped drivers who believed the police behaved 
+properly would be between 86% and 90%.
+
+In this report, BJS also calculated a coefficient of 
+variation (CV) for all estimates, representing the ratio of 
+the standard error to the estimate. CVs provide a measure of 
+reliability and a means to compare the precision of estimates 
+across measures with differing levels or metrics. In cases 
+where the CV was greater than 50%, or the unweighted sample 
+had 10 or fewer cases, the estimate was noted with a “!” 
+symbol (interpret data with caution; estimate is based on 10 
+or fewer sample cases, or the coefficient of variation 
+exceeds 50%).
+
+Many of the variables examined in this report may be related 
+to one another and to other variables not included in the 
+analyses. Complex relationships among variables were not 
+fully explored in this report and warrant more extensive 
+analysis. Readers are cautioned not to draw causal inferences 
+based on the results presented.
+
+******************************************************
+The Bureau of Justice Statistics, located in the Office of 
+Justice Programs, U.S. Department of Justice, collects, 
+analyses, and disseminates statistical information on crime, 
+criminal offenders, victims of crime, and the operation of 
+justice systems at all levels of government. William J. Sabol 
+is acting director.
+
+This report was written by Lynn Langton and Matthew Durose. 
+Matthew Durose verified the report.
+
+Morgan Young edited the report. Tina Dorsey and Morgan Young 
+produced the report.
+
+September 2013, NCJ 242938
+******************************************************
+
+***********************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+************************************************
+
+************************
+9/18/13/JER/11:40am
+************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  cv05103.csv,,,,,,,,,,,,,,,
+"Table 103. Percent of reasons for not reporting victimizations to the police, by race of victims and type of crime",,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,
+
+"Table 103. Personal crimes, 2005: Percent of reasons for not reporting victimizations to the police, by race of victims and type of crime",,,,,,,,,,,,,,,
+,,Percent of reasons for not reporting,,,,,,,,,,,,,
+Race and type of crime,, Total,,Reported to another official,,Private or personal matter ,,Object recovered; offender unsuccessful,,Not important enough,,Insurance would not cover,,Not aware crime occurred until later,
+White only,,,,,,,,,,,,,,,
+                                            All Personal crimes                                                                         ,All personal crimes,100,%,13.2,%,20.6,%,20.9,%,6.1,%,0.1,%*,1.1,%*
+                                     Crimes of violence                                                                                 ,Crimes of violence,100,%,13.6,,21.1,,20.8,,6,,0.1,*,0.6,*
+                                        Rape                                                                                             ,   Rape/Sexual assault/a,100,%,19.5,*,23.2,*,2.8,*,0,*,0,*,0,*
+                                        Robbery                                                                                          ,   Robbery,100,%,3.6,*,18.3,,21.6,,0,*,0,*,2.7,*
+                                        Assault                                                                                         ,   Assault,100,%,14.5,,21.3,,21.4,,6.9,,0.1,*,0.4,*
+,Purse snatching/Pocket Picking,100,%,4.1,*,11.6,*,23.7,*,8.3,*,0,*,10.6,*
+Black only,,,,,,,,,,,,,,,
+,All personal crimes,100,%,15.5,%,17.9,%,19.3,%,6.1,%*,0,%*,0,%*
+                                     Crimes of violence                                                                                  ,Crimes of violence,100,%,14.6,,19,,19.7,,6.7,*,0,*,0,*
+                                        Rape                                                                                             ,   Rape/Sexual assault/a,100,%,17.9,*,22.2,*,5.9,*,0,*,0,*,0,*
+                                        Assault                                                                                          ,   Robbery,100,%,0,*,5.5,*,23.9,*,0,*,0,*,0,*
+,   Assault,100,%,19,,23,,20.5,,10.1,*,0,*,0,*
+,Purse snatching/Pocket Picking,100,%,24.8,*,7.8,*,15.6,*,0,*,0,*,0,*
+,,Percent of reasons for not reporting,,,,,,,,,,,,,
+Race and type of crime,,Unable to recover property; no ID no.,,Lack of proof,,Police would not want to be bothered,,"Police inefficient, ineffective or biased",, Fear of reprisal,,Too inconvenient or time consuming,,Other reasons,
+White only,,,,,,,,,,,,,,,
+                                            All Personal crimes                                                                         ,All personal crimes,0.6,%*,5,%,5.2,%,3.4,%,3.3,%,3.7,%,16.9,%
+                                     Crimes of violence                                                                                 ,Crimes of violence,0.3,*,4.6,,4.9,,3.6,,3.3,,3.9,,17.2,
+                                        Rape                                                                                             ,   Rape/Sexual assault/a,0,*,0,*,11,*,0,*,5.2,*,2.8,*,35.5,*
+                                        Robbery                                                                                          ,   Robbery,3,*,17.1,,7.6,*,3.2,*,0,*,5.6,*,17.2,
+                                        Assault                                                                                         ,   Assault,0,*,3.4,,4.3,,3.8,,3.6,,3.7,,16.4,
+,Purse snatching/Pocket picking,6.9,*,11,*,10,*,0,*,2.3,*,0,*,11.4,*
+Black only,,,,,,,,,,,,,,,
+,All personal crimes,2.1,%*,7.7,%,6.2,%*,6.8,%*,4.2,%*,3.1,%*,11,%
+                                     Crimes of violence                                                                                  ,Crimes of violence,2.3,*,5.4,*,5.4,*,6.8,*,4.6,*,3.4,*,12.2,
+                                        Rape                                                                                             ,   Rape/Sexual assault/a,0,*,0,*,19.5,*,5.9,*,0,*,0,*,28.7,*
+                                        Assault                                                                                          ,   Robbery,10.2,*,14.1,*,8.7,*,21.4,*,4.4,*,0,*,11.7,*
+,   Assault,0,*,3.2,*,2,*,1.9,*,5.4,*,5.2,*,9.6,*
+,Purse snatching/Pocket picking,0,*,30.7,*,14.2,*,6.9,*,0,*,0,*,0,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,
+"Excludes data on persons of ""Other"" races and persons indicating two or more races.",,,,,,,,,,,,,,,
+Some respondents may have cited more than one reason for not reporting victimizations to the police.,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,,,,

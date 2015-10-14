@@ -1,0 +1,59 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+filename:  cv0542.csv,,,,,,,,,,,,
+"Table 42. Percent distribution of single-offender victimizations, based on race of victims, by type of crime and perceived race of offender",,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,
+data of version:  11/09/07,,,,,,,,,,,,
+
+"Table 42. Personal crimes of violence, 2005: Percent distribution of single-offender victimizations, based on race of victims, by type of crime and perceived race of offender",,,,,,,,,,,,
+,,,Percent of single-offender victimizations,,,,,,,,,
+,,,,,Perceived race of offender,,,,,,,
+Type of crime and race of victim,Number of single-offender victimizations,,Total,,White,,Black,, Other,,Not known and not available,
+Crimes of violence,,,,,,,,,,,,
+White only,"3,201,320",,100,%,63.6,%,17.2,%,13.3,%,5.9,%
+Black only,"507,210",,100,%,10.4,,73.3,,8.5,,7.8,
+   Completed violence,,,,,,,,,,,,
+White only,"916,130",,100,%,66,,18,,11.5,,4.5,
+Black only,"192,040",,100,%,4.7,*,78.9,,2.4,*,14,*
+   Attempted/threatened violence,,,,,,,,,,,,
+White only,"2,285,190",,100,%,62.6,,16.9,,14,,6.5,
+Black only,"315,170",,100,%,13.9,,69.9,,12.2,,4.1,*
+   Rape/Sexual assault/a,,,,,,,,,,,,
+White only,"111,490",,100,%,44.5,,33.6,,19.6,*,2.3,*
+Black only,"36,620",,100,%,0,*,100,,0,*,0,*
+   Robbery,,,,,,,,,,,,
+White only,"266,900",,100,%,37.1,,36.3,,18.2,,8.4,*
+Black only,"54,990",,100,%,4.9,*,87.9,,0,*,7.2,*
+       Completed/property taken,,,,,,,,,,,,
+White only,"141,910",,100,%,44.6,,33,,15.3,*,7.1,*
+Black only,"46,480",,100,%,5.8,*,85.7,,0,*,8.5,*
+         With injury,,,,,,,,,,,,
+White only,"33,400",*,100,%*,42.2,*,57.8,*,0,*,0,*
+Black only,"8,290",*,100,%*,0,*,100,*,0,*,0,*
+         Without injury,,,,,,,,,,,,
+White only,"108,520",,100,%,45.4,,25.4,*,20,*,9.3,*
+Black only,"38,180",,100,%,7.1,*,82.6,*,0,*,10.4,*
+      Attempted to take property,,,,,,,,,,,,
+White only,"124,990",,100,%,28.5,*,40,,21.6,*,9.9,*
+Black only,"8,510",*,100,%*,0,*,100,*,0,*,0,*
+         With injury,,,,,,,,,,,,
+White only,"34,160",*,100,%*,39,*,20.8,*,40.2,*,0,*
+Black only,"2,670",*,100,%*,0,*,100,*,0,*,0,*
+         Without injury,,,,,,,,,,,,
+White only,"90,830",,100,%,24.5,*,47.3,,14.5,*,13.7,*
+Black only,"5,840",*,100,%*,0,*,100,*,0,*,0,*
+   Assault,,,,,,,,,,,,
+White only,"2,822,940",,100,%,66.9,,14.7,,12.6,,5.8,
+Black only,"415,600",,100,%,12.1,,69,,10.4,,8.6,*
+      Aggravated,,,,,,,,,,,,
+White only,"540,290",,100,%,60.8,,16.3,,14.9,,8,
+Black only,"150,150",,100,%,12.2,*,61.2,,16.5,*,10,*
+      Simple,,,,,,,,,,,,
+White only,"2,282,650",,100,%,68.3,,14.3,,12,,5.3,
+Black only,"265,450",,100,%,12,*,73.4,,6.9,*,7.7,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,
+"Excludes data on persons of ""Other"" races and persons indicating two or more races.",,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,

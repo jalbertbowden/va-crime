@@ -1,0 +1,34 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+Filename: mlj07t12.csv,,,,,,,,,,,,,
+"Table 12. Average annual mortality rate, by the 15 leading causes of death in the U.S. general population by age, 2000–2006",,,,,,,,,,,,,
+"Report title: Mortality in Local Jails, 2000-2007 NCJ 229988",,,,,,,,,,,,,
+Data source(s): Deaths in Custody Reporting Program and Vital Statistics Cooperative Program,,,,,,,,,,,,,
+Author(s): Margaret E. Noonan,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,,,,,,,,,
+Date of version: 10-27-2010,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Table 12. Average annual mortality rate, by the 15 leading causes of death in the U.S. general population by age, 2000–2006",,,,,,,,,,,,,
+,,"Average annual mortality rate per 100,000 U.S. residents, age 15-64, 2000–2006/a",,,,,,"Average annual mortality rate per 100,000 local jail inmates, 2000–2006/b",,,,,
+,,Total/c,15–24,25–34,35–44,45–54,55–64,Total,15–24,25–34,35–44,45–54,55–64
+,Total,835,81,104,198,429,937,145,53,90,165,379,731
+Diseases of heart,,233,3,8,30,92,232,32,3,10,33,112,288
+Malignant neoplasms,,191,4,9,35,122,346,5,0,0,3,7,66
+Cerebrovascular diseases,,53,0.5,1,5,15,37,3,0,0,3,10,21
+Chronic lower respiratory diseases,,43,0.5,1,2,9,43,1,0,1,2,3,7
+Accidents/d,,38,37,32,37,39,32,4,2,3,5,10,13
+Diabetes mellitus,,25,0,2,5,14,38,1,0,1,1,4,3
+Alzheimer’s disease,,21,*,*,*,0,2,2,0,1,1,6,10
+Influenza and pneumonia,,22,0,1,2,5,11,0,0,0,0,0,0
+Nephritis,,14,0,1,2,5,13,1,0,0,1,1,7
+Suicide,,11,10,13,15,16,13,43,32,42,50,55,69
+Septicemia,,11,0,1,2,5,13,1,0,0,2,6,9
+"Chronic liver disease, cirrhosis",,9,0,1,7,18,23,2,0,0,2,11,14
+Essential (primary) hypertension and hypertensive renal disease,,7,0,0,1,3,6,0,0,0,0,1,3
+Parkinson’s disease,,6,*,*,*,0,1,0,0,0,0,0,0
+Homicide,,6,13,12,7,5,3,3,3,2,3,6,9
+"Note: Age is limited to ages 15 to 64 because this range represents more than 99% of the jail population and 96% of all deaths in jails. The 15 leading causes of death are the most common causes of death in the U.S. resident population as determined by the Center for Disease Control's National Vital Statistics System. For more information, see <http://www.cdc.gov/nchs/deaths.htm>. ",,,,,,,,,,,,,
+*Number does not meet standards of reliability or precision according to the Technical Notes of National Vital Statistic Reports Deaths: Final Data for 2006 <http://www.cdc.gov/nchs/data/nvsr/nvsr57/nvsr57_14.pdf>. ,,,,,,,,,,,,,
+a/Source: Vital Statistics Cooperative Program of the Centers for Disease Control and Prevention’s National Center for Health Statistics.,,,,,,,,,,,,,
+"b/The general population and jail mortality rates were based on CDC classification for cause of death. As a result, the mortality rates for jail inmates in this table may differ from rates in other tables.",,,,,,,,,,,,,
+c/Includes all causes of death for all age groups.,,,,,,,,,,,,,
+d/Includes transportation and intoxication deaths. ,,,,,,,,,,,,,

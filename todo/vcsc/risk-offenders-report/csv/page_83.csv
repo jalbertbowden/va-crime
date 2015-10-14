@@ -1,0 +1,49 @@
+Name: “Table 1 of 1 on page 83 of 141”,Name: “Table 1 of 1 on page 83 of 141”,Name: “Table 1 of 1 on page 83 of 141”,Name: “Table 1 of 1 on page 83 of 141”,Name: “Table 1 of 1 on page 83 of 141”,Name: “Table 1 of 1 on page 83 of 141”,Name: “Table 1 of 1 on page 83 of 141”
+Table: 81,Table: 81,Table: 81,Table: 81,Table: 81,Table: 81,Table: 81
+,,,,,,
+74,•,Offender Risk Assessment in Virginia,,,,
+*,What risk factors are important in predicting recidivism?,What risk factors are important in predicting recidivism?,What risk factors are important in predicting recidivism?,What risk factors are important in predicting recidivism?,What risk factors are important in predicting recidivism?,
+The risk total on Worksheet D is calculated by summing the scores of 11 separate factors. We,The risk total on Worksheet D is calculated by summing the scores of 11 separate factors. We,The risk total on Worksheet D is calculated by summing the scores of 11 separate factors. We,The risk total on Worksheet D is calculated by summing the scores of 11 separate factors. We,The risk total on Worksheet D is calculated by summing the scores of 11 separate factors. We,The risk total on Worksheet D is calculated by summing the scores of 11 separate factors. We,The risk total on Worksheet D is calculated by summing the scores of 11 separate factors. We
+"have just shown that as the risk total rises, so does the likelihood of future recidivism. But what","have just shown that as the risk total rises, so does the likelihood of future recidivism. But what","have just shown that as the risk total rises, so does the likelihood of future recidivism. But what","have just shown that as the risk total rises, so does the likelihood of future recidivism. But what","have just shown that as the risk total rises, so does the likelihood of future recidivism. But what","have just shown that as the risk total rises, so does the likelihood of future recidivism. But what","have just shown that as the risk total rises, so does the likelihood of future recidivism. But what"
+is the relationship between each of the 11 individual factors (also called covariates) on Worksheet,is the relationship between each of the 11 individual factors (also called covariates) on Worksheet,is the relationship between each of the 11 individual factors (also called covariates) on Worksheet,is the relationship between each of the 11 individual factors (also called covariates) on Worksheet,is the relationship between each of the 11 individual factors (also called covariates) on Worksheet,is the relationship between each of the 11 individual factors (also called covariates) on Worksheet,is the relationship between each of the 11 individual factors (also called covariates) on Worksheet
+D and our ability to predict recidivism? We found that only a subset of factors on the instru-,D and our ability to predict recidivism? We found that only a subset of factors on the instru-,D and our ability to predict recidivism? We found that only a subset of factors on the instru-,D and our ability to predict recidivism? We found that only a subset of factors on the instru-,D and our ability to predict recidivism? We found that only a subset of factors on the instru-,D and our ability to predict recidivism? We found that only a subset of factors on the instru-,D and our ability to predict recidivism? We found that only a subset of factors on the instru-
+ment (i.e. prior record) correlated with an offender’s diversion. Would we have a similar find-,ment (i.e. prior record) correlated with an offender’s diversion. Would we have a similar find-,ment (i.e. prior record) correlated with an offender’s diversion. Would we have a similar find-,ment (i.e. prior record) correlated with an offender’s diversion. Would we have a similar find-,ment (i.e. prior record) correlated with an offender’s diversion. Would we have a similar find-,ment (i.e. prior record) correlated with an offender’s diversion. Would we have a similar find-,ment (i.e. prior record) correlated with an offender’s diversion. Would we have a similar find-
+"ing with recidivism? Moreover, are the factors targeted by judges in the diversion decision also","ing with recidivism? Moreover, are the factors targeted by judges in the diversion decision also","ing with recidivism? Moreover, are the factors targeted by judges in the diversion decision also","ing with recidivism? Moreover, are the factors targeted by judges in the diversion decision also","ing with recidivism? Moreover, are the factors targeted by judges in the diversion decision also","ing with recidivism? Moreover, are the factors targeted by judges in the diversion decision also","ing with recidivism? Moreover, are the factors targeted by judges in the diversion decision also"
+Figure 5.15,Figure 5.15,Figure 5.15,,,,
+"Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest)","Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest)","Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest)","Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest)","Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest)","Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest)",
+,,,180 Days,365 Days,720 Days,900 Days
+Female,Female,Female,0.93,0.84,0.70,0.66
+Male,Male,,0.86,0.75,0.63,0.58
+Age 28+,Age 28+,Age 28+,0.88,0.76,0.66,0.62
+"Age 
+    ","Age 
+    ","Age 
+    ",0.88,0.80,0.64,0.58
+Married,Married,Married,0.87,0.76,0.63,0.61
+Never Married,Never Married,Never Married,0.89,0.78,0.67,0.60
+Employed,Employed,Employed,0.88,0.80,0.68,0.63
+Unemployed,Unemployed,Unemployed,0.89,0.74,0.61,0.58
+Offender Not Alone When Primary,Offender Not Alone When Primary,Offender Not Alone When Primary,0.88,0.79,0.67,0.64
+,Offense Committed,Offense Committed,,,,
+Offender Alone When Primary,Offender Alone When Primary,Offender Alone When Primary,0.88,0.76,0.64,0.59
+,Offense Committed,Offense Committed,,,,
+"Additional Offenses (
+    ","Additional Offenses (
+    ","Additional Offenses (
+    ",0.88,0.77,0.69,0.63
+Additional Offenses (≥6),Additional Offenses (≥6),Additional Offenses (≥6),0.91,0.78,0.49,N/A
+No Prior Arrest/Confine Past 12 Mos.,No Prior Arrest/Confine Past 12 Mos.,No Prior Arrest/Confine Past 12 Mos.,0.90,0.80,0.71,0.67
+Prior Arrest/Confine Past 12 Mos.,Prior Arrest/Confine Past 12 Mos.,Prior Arrest/Confine Past 12 Mos.,0.87,0.75,0.60,0.54
+Total Fel/Mis Conv/Adjud. (Risk Score ≤ 1),Total Fel/Mis Conv/Adjud. (Risk Score ≤ 1),Total Fel/Mis Conv/Adjud. (Risk Score ≤ 1),0.90,0.82,0.73,0.68
+Total Fel/Mis Conv/Adjud. (Risk Score > 1),Total Fel/Mis Conv/Adjud. (Risk Score > 1),Total Fel/Mis Conv/Adjud. (Risk Score > 1),0.87,0.75,0.61,0.57
+No Prior Felony Drug Conv/Adj,No Prior Felony Drug Conv/Adj,No Prior Felony Drug Conv/Adj,0.88,0.79,0.67,0.62
+Prior Felony Drug Conv/Adj,Prior Felony Drug Conv/Adj,Prior Felony Drug Conv/Adj,0.87,0.71,0.58,0.54
+No Prior Adult Incarcerations,No Prior Adult Incarcerations,No Prior Adult Incarcerations,0.92,0.84,0.7,0.68
+Prior Adult Incarcerations (1-2),Prior Adult Incarcerations (1-2),Prior Adult Incarcerations (1-2),0.88,0.77,0.68,0.62
+Prior Adult Incarcerations (≥3),Prior Adult Incarcerations (≥3),Prior Adult Incarcerations (≥3),0.85,0.7,0.55,0.51
+No Prior Juv. Incarcerations/Commitments,No Prior Juv. Incarcerations/Commitments,No Prior Juv. Incarcerations/Commitments,0.88,0.77,0.65,0.61
+Prior Juv. Incarcerations/Commitments,Prior Juv. Incarcerations/Commitments,Prior Juv. Incarcerations/Commitments,0.94,0.77,0.64,N/A
+Drug,Drug,,0.88,0.78,0.71,0.7
+Fraud,Fraud,,0.91,0.81,0.63,0.57
+Larceny,Larceny,Larceny,0.88,0.72,0.56,0.43
+Note: Covariates found to have significant differences are in bold.,Note: Covariates found to have significant differences are in bold.,Note: Covariates found to have significant differences are in bold.,Note: Covariates found to have significant differences are in bold.,,,

@@ -1,0 +1,43 @@
+File Manifest for ICPSR 4634
+
+National Archive of Criminal Justice Data. Law Enforcement Agency
+Identifiers Crosswalk [United States], 2005. ICPSR04634-v1. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2007-01-10. http://doi.org/10.3886/ICPSR04634.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04634-related_literature.txt        -       -         -       2015-02-22  -
+
+    04634-manifest.txt                  -       -         -       2015-02-23  -
+
+
+DS0001 Law Enforcement Agency Identifiers Crosswalk [United States], 2005
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04634-0001-Codebook.pdf             -       -         -       2007-01-10  e6ba8f2edb507d0d2172cf99e89eb243
+
+    04634-0001-Data.dta                 -       24,625    51      2007-01-10  de1a651f1a073fd3a7c20877e026b728
+
+    04634-0001-Data.por                 -       24,625    51      2007-01-10  a287b080a3ff7eef35bcb5e529591bce
+
+    04634-0001-Data.txt                 703     24,625    51      2007-01-10  15bcbfaaf0aaf9467158752443e37873
+
+    04634-0001-Data.xpt                 -       24,625    51      2007-01-10  ca50535d2954b991611e7dcdc3a3d699
+
+    04634-0001-Setup.dct                -       -         -       2007-01-10  28715d8974a6b5a6d737165cb4b000e3
+
+    04634-0001-Setup.do                 -       -         -       2007-01-10  c4d57ce431a1d3241b8886006ad55560
+
+    04634-0001-Setup.sas                -       -         -       2007-01-10  3e3adcdfda51a807dfd3a39fc759b001
+
+    04634-0001-Setup.sps                -       -         -       2007-01-10  f11e41111786b7163944bd6a1f586c08
+
+    04634-0001-Supplemental_syntax.sas  -       -         -       2007-01-10  fbab4394f9a02995701522802b8108e1
+

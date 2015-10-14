@@ -1,0 +1,25 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+filename:  cv0530.csv,,,,,,,,,,,,
+"Table 30. Percent of victimizations involving strangers, by gender and race of victims and type of crime",,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,
+
+"Table 30. Personal crimes of violence, 2005:  Percent of victimizations involving strangers, by gender and race of victims and type of crime",,,,,,,,,,,,
+,Percent of victimizations involving strangers,,,,,,,,,,,
+,,,,,,,Assault,,,,,
+Gender and race,Crimes of violence,,Rape/Sexual assault/a,,Robbery,,     Total,,Aggravated,,   Simple,
+Both genders,,,,,,,,,,,,
+White only,53.9,%,48.4,%,77.4,%,51,%,59.6,%,48.6,%
+Black only,49.2,,10.7,*,83.4,,44.9,,49,,42.4,
+Male,,,,,,,,,,,
+White only,62.9,,100,*,84.9,,59.3,,62.5,,58.3
+Black only,59.9,,100,*,89.3,,50.6,,64.5,,42.2
+Female,,,,,,,,,,,
+White only,40.1,,42.7,,58.3,,38.2,,53.2,,35
+Black only,37.1,,5.8,*,68.1,*,38.4,,30.8,*,42.6
+"Note: Excludes data on persons of ""Other"" races and persons indicating two or more races.",,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,

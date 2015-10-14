@@ -1,0 +1,38 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,
+filename:  cv05104.csv,,,,,,,,,,,,,,,,,
+"Table 104. Percent of reasons for not reporting victimizations to the police, by victim-offender relationship and type of crime",,,,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,,,
+
+"Table 104. Personal crimes of violence, 2005: Percent of reasons for not reporting victimizations to the police, by victim-offender relationship and type of crime",,,,,,,,,,,,,,,,,
+,,,,Percent of reasons for not reporting,,,,,,,,,,,,,
+Relationship and type of crime,,Number of reasons for not reporting,, Total,,Reported to another official,,Private or personal matter,,Object recovered; offender unsuccessful,,Not important enough,, Insurance would not cover,,Not aware crime occurred until later,
+Involving strangers,,,,,,,,,,,,,,,,,
+,Crimes of violence,"1,689,490",,100,%,10.4,%,13.7,%,24.6,%,6.5,%,0.2,%*,0.5,%*
+,   Rape/Sexual assault/a,"41,910",,100,%,49.6,*,0,*,12.7,*,0,*,0,*,0,*
+,   Robbery,"302,810",,100,%,3,*,8.5,*,18.1,,0,*,0,*,0,*
+,   Assault,"1,344,770",,100,%,10.8,,15.3,,26.4,,8.2,,0.2,*,0.6,*
+Involving nonstrangers,,,,,,,,,,,,,,,,,
+,Crimes of violence,"1,582,190",,100,%,16.2,,27.4,,15.3,,6.3,,0,*,0.4,*
+,   Rape/Sexual assault/a,"100,500",,100,%,5.1,*,31.1,*,0,*,0,*,0,*,0,*
+,   Robbery,"89,700",,100,%,0,*,29.7,*,31.4,*,0,*,0,*,7.6,*
+,   Assault,"1,391,980",,100,%,18.1,,27,,15.3,,7.1,,0,*,0,*
+,,Percent of reasons for not reporting,,,,,,,,,,,,,,,
+Relationship and type of crime,,Unable to recover property; no ID no.,,Lack of proof,,Police would not want to be bothered,,"Police inefficient, ineffective, or biased",,Fear of reprisal,,Too inconvenient or time consuming,,Other reasons,,,
+Involving strangers,,,,,,,,,,,,,,,,,
+,Crimes of violence,1.1,%*,7.6,%,6.5,%,5.4,%,4.6,%,5.6,%,13.3,%,,
+,   Rape/Sexual assault/a,0,*,0,*,19.9,*,6.9,*,11,*,0,*,0,*,,
+,   Robbery,6,*,19,,11.7,*,10,*,1.5,*,8.3,*,13.9,,,
+,   Assault,0,*,5.3,,5,,4.3,,5,,5.2,,13.6,,,
+Involving nonstrangers,,,,,,,,,,,,,,,,,
+,Crimes of violence,0,*,1.5,*,4.4,,2.6,,3,,2.8,,20.3,,,
+,   Rape/Sexual assault/a,0,*,0,*,10.8,*,2.8,*,0,*,2.4,*,47.7,,,
+,   Robbery,0,*,12.5,*,3.9,*,0,*,0,*,0,*,14.9,*
+,   Assault,0,*,0.9,*,3.9,,2.7,,3.4,,3,,18.7,
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,
+Some respondents may have cited more than one reason for not reporting victimizations to the police.,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,,,,

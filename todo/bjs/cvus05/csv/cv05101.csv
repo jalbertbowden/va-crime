@@ -1,0 +1,74 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,
+filename:  cv05101.csv,,,,,,,,,,,,,,
+"Table 101. Percent of reasons for reporting victimizations to the police, by type of crime",,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,
+
+"Table 101. Personal and property crimes, 2005: Percent of reasons for reporting victimizations to the police, by type of crime",,,,,,,,,,,,,,
+    ,,,Percent of reasons for reporting,,,,,,,,,,,
+Type of crime,Number of reasons for reporting,, Total,,Stop or prevent this incident,,Needed help due to injury,,To recover property,,To collect insurance,,To prevent further crimes by offender against victim,
+All personal crimes,"2,399,330",,100,%,19.7,%,2.3,%,3.5,%,0,%*,19.4,%
+Crimes of violence,"2,292,200",,100,%,20.1,,2.4,,2.6,,0,*,19.6,
+   Completed violence,"797,780",,100,%,15.4,,4.9,,6,,0,*,20.1,
+   Attempted/threatened violence,"1,494,410",,100,%,22.7,,1,*,0.7,*,0,*,19.4,
+   Rape/Sexual assault/a,"88,740",,100,%,16.6,*,3.4,*,3.4,*,0,*,17.2,*
+   Robbery,"381,620",,100,%,7.9,*,0.8,*,12.6,,0,*,11.8,
+      Completed/property taken,"260,590",,100,%,7.8,*,1.1,*,17.3,,0,*,11,*
+         With injury,"67,940",,100,%,12.5,*,0,*,4.1,*,0,*,4.8,*
+         Without injury,"192,650",,100,%,6.1,*,1.5,*,21.9,,0,*,13.2,*
+      Attempted to take property,"121,040",,100,%,8.3,*,0,*,2.6,*,0,*,13.5,*
+         With injury,"44,810",,100,%,8.7,*,0,*,0,*,0,*,8.7,*
+         Without injury,"76,220",,100,%,8,*,0,*,4.1,*,0,*,16.2,*
+   Assault,"1,821,840",,100,%,22.9,,2.7,,0.4,*,0,*,21.4,
+      Aggravated,"596,840",,100,%,17.4,,2.6,*,0.8,*,0,*,19.5,
+      Simple,"1,225,000",,100,%,25.6,,2.7,*,0.2,*,0,*,22.3,
+Purse snatching/Pocket picking,"107,130",,100,%,9.7,*,0,*,23.5,*,0,*,13.8,*
+All property crimes,"9,314,820",,100,%,9,%,0.3,%*,21.8,%,4.4,%,10.6,%
+   Household burglary,"2,897,810",,100,%,12.4,,0.2,*,17.9,,3.5,,14.3,
+      Completed,"2,621,910",,100,%,11.6,,0.2,*,19.8,,3.7,,14.4,
+         Forcible entry,"1,309,190",,100,%,11.8,,0.2,*,18.5,,4.1,,15.3,
+         Unlawful entry without force,"1,312,720",,100,%,11.3,,0.2,*,21.1,,3.4,,13.5,,,
+      Attempted forcible entry,"275,900",,100,%,20.1,,0,*,0,*,0.8,*,13.7,,,
+   Motor vehicle theft,"1,080,350",,100,%,5.7,,0.5,*,34.1,,8.4,,7.1,,,
+      Completed,"945,560",,100,%,4.3,,0.6,*,38.4,,8.9,,5.9,,,
+      Attempted,"134,790",,100,%,15.8,*,0,*,4,*,4.8,*,15.7,*,,
+   Theft,"5,336,660",,100,%,7.8,,0.3,*,21.4,,4.2,,9.4,,,
+      Completed,"5,090,700",,100,%,7.5,,0.4,*,22.4,,4.2,,8.9,,,
+      Attempted,"245,970",,100,%,14.4,*,0,*,2.1,*,2.5,*,18.9,,,
+,Percent of reasons for reporting,,,,,,,,,,,,,,,
+Type of crime,To prevent crime by offender against anyone,,To punish offender,,To catch or find offender,,To improve police surveillance,,Duty to notify police,,Because it was a crime,,Some other reason,,Not available,
+All personal crimes,10.5,%,7.7,%,7.1,%,3,%,6.2,%,15.3,%,3.7,%,1.7,%
+Crimes of violence,10.4,,8.1,,7.4,,3.1,,6.2,,15.1,,3.3,,1.6,*
+   Completed violence,8.1,,10.9,,9.4,,1.9,*,3.6,*,16.1,,2.1,*,1.6,*
+   Attempted/threatened violence,11.6,,6.6,,6.4,,3.8,,7.5,,14.6,,4,,1.6,*
+   Rape/Sexual assault/a,17.6,*,9,*,5.6,*,0,*,5.8,*,18.1,*,3.3,*,0,*
+   Robbery,10.3,,6,*,14.1,,2.7,*,6,*,23.4,,2.4,*,2.1,*
+      Completed/property taken,5.2,*,6.4,*,12,*,2.8,*,4.3,*,27.8,,1.2,*,3,*
+         With injury,0,*,0,*,22.2,*,5,*,0,*,39.8,*,0,*,11.6,*
+         Without injury,7,*,8.7,*,8.4,*,2.1,*,5.8,*,23.6,,1.7,*,0,*
+      Attempted to take property,21.2,*,5,*,18.6,*,2.6,*,9.5,*,13.8,*,5,*,0,*
+         With injury,16.9,*,0,*,16.9,*,0,*,18.7,*,16.6,*,13.4,*,0,*
+         Without injury,23.7,*,8,*,19.6,*,4.1,*,4.1,*,12.2,*,0,*,0,*
+   Assault,10.1,,8.5,,6.1,,3.4,,6.2,,13.3,,3.5,,1.6,*
+      Aggravated,11.4,,9.8,,10.2,,5.6,*,6.8,,13.8,,1.3,*,0.7,*
+      Simple,9.4,,7.8,,4.1,,2.3,*,5.9,,13,,4.6,,2,*
+Purse snatching/Pocket picking,13.1,*,0,*,0,*,0,*,6.7,*,19,*,10.5,*,3.7,*
+All property crimes,6.7,%,4.5,%,7.6,%,7.2,%,6.6,%,17,%,2.7,%,1.7,%
+   Household burglary,7.2,,5,,9.1,,7.9,,6.2,,12.7,,2.3,,1.2,*
+      Completed,7.3,,5.6,,9.2,,7.6,,6.3,,11.4,,1.9,,1.1,*
+         Forcible entry,7,,6.2,,8.5,,8.9,,5.7,,10.8,,1.3,*,1.7,*
+         Unlawful entry without force,7.6,,5,,9.8,,6.3,,6.9,,12,,2.5,*,0.4,*
+      Attempted forcible entry,6.6,*,0,*,8,*,10.8,*,5.5,*,25.4,,6.2,*,2.8,*
+   Motor vehicle theft,5,,4.6,,8.5,,7.1,,6.3,,10.6,,0.6,*,1.4,*
+      Completed,4.1,,4.3,,9,,5.6,,6.4,,10.4,,0.7,*,1.6,*
+      Attempted,11.1,*,7.4,*,5.4,*,18.1,*,5.6,*,12.1,*,0,*,0,*
+   Theft,6.7,,4.2,,6.7,,6.8,,6.8,,20.6,,3.2,,2,
+      Completed,6.5,,4.1,,6.7,,6.8,,6.8,,20.3,,3.4,,2,
+      Attempted,9.4,*,5.3,*,6.4,*,6.1,*,6.9,*,26.9,,0,*,1,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,,
+Some respondents may have cited more than one reason for reporting victimizations to the police.,,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,,,,,

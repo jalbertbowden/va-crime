@@ -1,0 +1,30 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+filename:  cv0540.csv,,,,,,,,,,,
+"Table 40. Percent distribution of single-offender victimizations, by type of crime and perceived race of offender",,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,
+data of version:  11/09/07,,,,,,,,,,,
+
+"Table 40. Personal crimes of violence, 2005: Percent distribution of single-offender victimizations, by type of crime and perceived race of offender",,,,,,,,,,,
+       ,,Percent of single-offender victimizations,,,,,,,,,
+,,,,Perceived race of offender,,,,,,,
+Type of crime,Number of single-offender victimizations,  Total,, White ,, Black ,, Other,,Not known and not available,
+Crimes of violence,"3,984,020",100,%,55.7,%,25.3,%,12.9,%,6.1,%
+   Completed violence,"1,197,090",100,,55,,28.8,,9.9,,6.3,
+   Attempted/threatened violence,"2,786,920",100,,56,,23.8,,14.2,,6,
+   Rape/Sexual assault/a,"160,270",100,,32.8,,48.5,,15.4,*,3.2,*
+   Robbery,"343,980",100,,30.4,,47.7,,14.1,,7.7,
+      Completed/property taken,"210,480",100,,32.9,,50.2,,10.3,*,6.7,*
+         With injury,"41,690",100,,33.8,*,66.2,*,0,*,0,*
+         Without injury,"168,790",100,,32.6,,46.2,,12.8,*,8.3,*
+      Attempted to take property,"133,490",100,,26.7,*,43.9,,20.2,*,9.3,*
+         With injury,"36,830",100,,36.2,*,26.5,*,37.3,*,0,*
+         Without injury,"96,660",100,,23,*,50.5,,13.7,*,12.8,*
+   Assault,"3,479,770",100,,59.3,,22,,12.6,,6,
+      Aggravated,"739,380",100,,51,,26.9,,14.2,,7.9,
+      Simple,"2,740,380",100,,61.5,,20.7,,12.2,,5.5,
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,

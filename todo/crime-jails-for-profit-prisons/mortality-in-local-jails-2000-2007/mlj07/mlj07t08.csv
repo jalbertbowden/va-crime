@@ -1,0 +1,24 @@
+Bureau of Justice Statistics,,,,,
+Filename: mlj07t08.csv,,,,,
+"Table 8. Number and mortality rate per 100,000 state prison and jail inmate deaths, by cause, 2001–2007",,,,,
+"Report title: Mortality in Local Jails, 2000-2007  NCJ 222988",,,,,
+Data source(s): Deaths in Custody Reporting Program,,,,,
+Author(s): Margaret E. Noonan,,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,
+Date of version: 10-27-2010,,,,,
+,,,,,
+"Table 8. Number and mortality rate per 100,000 state prison and jail inmate deaths, by cause, 2001–2007",,,,,
+All causes,,"Number of state prisoner deaths, 2001–2007","Average annual mortality rate per 100,000 state  prisoners, 2001–2007","Number of jail inmate deaths, 2001-2007","Average annual mortality rate per 100,000 jail inmates "
+,Total,"21,936",251,"7,193",144
+Illness,,"19,467",223,"3,765",75
+,Heart disease,"5,995",69,"1,590",32
+,Cancer,"5,098",58,243,5
+,AIDS,"1,274",15,353,7
+,All liver diseases,"2,227",26,211,4
+,All other illnesses,"4,874",56,"1,368",27
+Suicide,,"1,386",16,"2,072",42
+Homicide,,356,4,154,3
+Drug/alcohol intoxication,,254,3,529,11
+Accident,,208,2,204,4
+Other/unknown,,265,3,469,9
+"Note: Executions are not included; for data on executions, see Capital Punishment, 2005, BJS Web, 10 December 2006. Mortality rates are based on average daily population as reported to the Deaths in Custody Reporting Program. Prisons began collection of death records under the Deaths in Custody Reporting Act in 2001. See Methodology for more information. Prison mortality rates are based on a June 30 custody count. ",,,,,

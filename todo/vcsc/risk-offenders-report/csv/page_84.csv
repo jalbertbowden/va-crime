@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 84 of 141”,Name: “Table 1 of 1 on page 84 of 141”,Name: “Table 1 of 1 on page 84 of 141”,Name: “Table 1 of 1 on page 84 of 141”,Name: “Table 1 of 1 on page 84 of 141”,Name: “Table 1 of 1 on page 84 of 141”,Name: “Table 1 of 1 on page 84 of 141”
+Table: 82,Table: 82,Table: 82,Table: 82,Table: 82,Table: 82,Table: 82
+,,,,,,
+,Diversion and Recidivism in the Context of Risk Assessment,Diversion and Recidivism in the Context of Risk Assessment,Diversion and Recidivism in the Context of Risk Assessment,Diversion and Recidivism in the Context of Risk Assessment,•,75
+significantly related to the likelihood of recidivism?,significantly related to the likelihood of recidivism?,"In this section, we used KM to evaluate","In this section, we used KM to evaluate","In this section, we used KM to evaluate","In this section, we used KM to evaluate","In this section, we used KM to evaluate"
+"each factor on the risk instrument, and its significance in predicting recidivism. This analysis","each factor on the risk instrument, and its significance in predicting recidivism. This analysis","each factor on the risk instrument, and its significance in predicting recidivism. This analysis","each factor on the risk instrument, and its significance in predicting recidivism. This analysis","each factor on the risk instrument, and its significance in predicting recidivism. This analysis","each factor on the risk instrument, and its significance in predicting recidivism. This analysis","each factor on the risk instrument, and its significance in predicting recidivism. This analysis"
+focused solely on the 555 diverted offenders.,focused solely on the 555 diverted offenders.,,,,,
+"We defined recidivism as (1) rearrest, and (2) rearrest resulting in conviction. Figures 5.15","We defined recidivism as (1) rearrest, and (2) rearrest resulting in conviction. Figures 5.15","We defined recidivism as (1) rearrest, and (2) rearrest resulting in conviction. Figures 5.15","We defined recidivism as (1) rearrest, and (2) rearrest resulting in conviction. Figures 5.15","We defined recidivism as (1) rearrest, and (2) rearrest resulting in conviction. Figures 5.15","We defined recidivism as (1) rearrest, and (2) rearrest resulting in conviction. Figures 5.15","We defined recidivism as (1) rearrest, and (2) rearrest resulting in conviction. Figures 5.15"
+and 5.16 illustrate the probability of survival at discrete time points for the covariates on,and 5.16 illustrate the probability of survival at discrete time points for the covariates on,and 5.16 illustrate the probability of survival at discrete time points for the covariates on,and 5.16 illustrate the probability of survival at discrete time points for the covariates on,and 5.16 illustrate the probability of survival at discrete time points for the covariates on,and 5.16 illustrate the probability of survival at discrete time points for the covariates on,and 5.16 illustrate the probability of survival at discrete time points for the covariates on
+"Worksheet D, and the type of offense (drug, fraud, and larceny) for each measure of recidivism.","Worksheet D, and the type of offense (drug, fraud, and larceny) for each measure of recidivism.","Worksheet D, and the type of offense (drug, fraud, and larceny) for each measure of recidivism.","Worksheet D, and the type of offense (drug, fraud, and larceny) for each measure of recidivism.","Worksheet D, and the type of offense (drug, fraud, and larceny) for each measure of recidivism.","Worksheet D, and the type of offense (drug, fraud, and larceny) for each measure of recidivism.","Worksheet D, and the type of offense (drug, fraud, and larceny) for each measure of recidivism."
+"The covariates in bold express significant differences between subgroups, including gender,","The covariates in bold express significant differences between subgroups, including gender,","The covariates in bold express significant differences between subgroups, including gender,","The covariates in bold express significant differences between subgroups, including gender,","The covariates in bold express significant differences between subgroups, including gender,","The covariates in bold express significant differences between subgroups, including gender,","The covariates in bold express significant differences between subgroups, including gender,"
+Figure 5.16,,,,,,
+"Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest Resulting in Conviction)","Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest Resulting in Conviction)","Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest Resulting in Conviction)","Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest Resulting in Conviction)","Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest Resulting in Conviction)","Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest Resulting in Conviction)","Survival Probability at 180, 365, 720, and 900 Days By Covariates (Arrest Resulting in Conviction)"
+,180 Days,365 Days,720 Days,900 Days,,
+Female,0.96,0.92,0.90,0.88,,
+Male,0.91,0.84,0.80,0.80,,
+Age 28+,0.92,0.87,0.83,0.81,,
+"Age 
+    ",0.93,0.88,0.85,0.85,,
+Married,0.92,0.86,0.83,0.83,,
+Never Married,0.93,0.87,0.85,0.83,,
+Employed,0.91,0.86,0.82,0.80,,
+Unemployed,0.94,0.88,0.86,0.86,,
+Offender Not Alone When Primary,0.92,0.86,0.84,0.84,,
+Offense Committed,,,,,,
+Offender Alone When Primary,0.93,0.87,0.84,0.82,,
+Offense Committed,,,,,,
+"Additional Offenses (
+    ",0.92,0.87,0.84,0.83,,
+Additional Offenses (≥ 6),0.94,0.86,0.81,N/A,,
+No Prior Arrest/Confine Past 12 Mos.,0.95,0.91,0.90,0.88,,
+Prior Arrest/Confine Past 12 Mos.,0.91,0.84,0.79,0.79,,
+Total Fel/Mis Conv/Adjud. (Risk Score ≤ 1),0.94,0.91,0.89,0.89,,
+Total Fel/Mis Conv/Adjud. (Risk Score > 1),0.92,0.85,0.81,0.79,,
+No Prior Felony Drug Conv/Adj,0.93,0.88,0.85,0.85,,
+Prior Felony Drug Conv/Adj,0.92,0.83,0.79,0.75,,
+No Prior Adult Incarcerations,0.95,0.93,0.92,0.92,,
+Prior Adult Incarcerations (1-2),0.92,0.87,0.84,0.82,,
+Prior Adult Incarcerations (≥ 3),0.90,0.80,0.73,0.73,,
+No Prior Juvenile Incarcerations/Commit.,0.92,0.87,0.84,0.83,,
+Prior Juvenile Incarcerations/Commit.,0.97,0.84,0.78,N/A,,
+Drug,0.92,0.86,0.85,0.85,,
+Fraud,0.95,0.92,0.87,0.83,,
+Larceny,0.91,0.84,0.78,0.78,,
+Note: Covariates found to have significant differences are in bold.,Note: Covariates found to have significant differences are in bold.,,,,,

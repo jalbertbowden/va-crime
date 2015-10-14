@@ -1,0 +1,138 @@
+Bibliography
+Law Enforcement Agency Identifiers Crosswalk [United States], 2005
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 4634. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. This list represents all items known
+to ICPSR as of 2015-02-23.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Baumer, Eric P.; Rosenfeld, Richard; Wolff, Kevin T., "Expanding the
+scope of research on recent crime trends." NCJ 240204, Nov 2012. 2008-IJ-
+CX-0014
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=262278
+Full text PDF: https://www.ncjrs.gov/pdffiles1/nij/grants/240204.pdf
+An ancillary objective of the project was to illustrate the utility of the
+resulting data archive. This was done by addressing three research issues:
+a uniform set of analyses across States, counties, and cities; an
+assessment of the conditional effects of economic conditions on recent
+crime trends; and an expanded analysis of the effects of key criminal
+justice features on recent crime trends that have not been widely
+considered in prior research. These criminal justice features include the
+nature of policing and age-specific and crime-specific imprisonment rates.
+The specific samples, time frames, and measures used varied across the
+three issues addressed; however, the general analytical strategy in
+addressing these issues is to construct, when possible, a panel database
+with requisite measures focused on the following time points: 1980, 1985,
+1990, 1995, 2000, 2005, and 2010. This was done using the Crime Trends Data
+Archive (CTDA) produced by the project. This approach benefits from the
+strength of a pooled cross-sectional design, while avoiding the data
+imputation that is required to support panel analyses of annual time
+periods for sub-national geographic units. The three sets of empirical
+analyses conducted in this project include models of overall homicide, non-
+lethal violence (robbery and aggravated assault), and non-violent property
+crime (burglary, motor vehicle theft, and larceny). The project estimated a
+series of two-way fixed-effects panel models of crime rates that include
+fixed effects that control for stable, but unmeasured, city attributes and
+temporal shocks that are shared across cities. This report also identifies
+factors that influence crime rates, including criminal justice policies and
+practices.
+
+2. Helle, Kristin, "The Significance of Place and Gender: An Ohio Violent
+Crime Victimization Study." Thesis, Youngstown State University, 2014.
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=262278
+Full text PDF: https://www.ncjrs.gov/pdffiles1/nij/grants/240204.pdf
+An ancillary objective of the project was to illustrate the utility of the
+resulting data archive. This was done by addressing three research issues:
+a uniform set of analyses across States, counties, and cities; an
+assessment of the conditional effects of economic conditions on recent
+crime trends; and an expanded analysis of the effects of key criminal
+justice features on recent crime trends that have not been widely
+considered in prior research. These criminal justice features include the
+nature of policing and age-specific and crime-specific imprisonment rates.
+The specific samples, time frames, and measures used varied across the
+three issues addressed; however, the general analytical strategy in
+addressing these issues is to construct, when possible, a panel database
+with requisite measures focused on the following time points: 1980, 1985,
+1990, 1995, 2000, 2005, and 2010. This was done using the Crime Trends Data
+Archive (CTDA) produced by the project. This approach benefits from the
+strength of a pooled cross-sectional design, while avoiding the data
+imputation that is required to support panel analyses of annual time
+periods for sub-national geographic units. The three sets of empirical
+analyses conducted in this project include models of overall homicide, non-
+lethal violence (robbery and aggravated assault), and non-violent property
+crime (burglary, motor vehicle theft, and larceny). The project estimated a
+series of two-way fixed-effects panel models of crime rates that include
+fixed effects that control for stable, but unmeasured, city attributes and
+temporal shocks that are shared across cities. This report also identifies
+factors that influence crime rates, including criminal justice policies and
+practices.
+
+3. Loftin, Colin; McDowall, David; Curtis, Karise; Fetzer, Matthew D., "The
+accuracy of Supplementary Homicide Report rates for large U.S. cities."
+Homicide Studies. Feb 2015, 19, (1), 6 - 27. DOI: 10.1177/1088767914551984
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=262278
+Full text PDF: https://www.ncjrs.gov/pdffiles1/nij/grants/240204.pdf
+An ancillary objective of the project was to illustrate the utility of the
+resulting data archive. This was done by addressing three research issues:
+a uniform set of analyses across States, counties, and cities; an
+assessment of the conditional effects of economic conditions on recent
+crime trends; and an expanded analysis of the effects of key criminal
+justice features on recent crime trends that have not been widely
+considered in prior research. These criminal justice features include the
+nature of policing and age-specific and crime-specific imprisonment rates.
+The specific samples, time frames, and measures used varied across the
+three issues addressed; however, the general analytical strategy in
+addressing these issues is to construct, when possible, a panel database
+with requisite measures focused on the following time points: 1980, 1985,
+1990, 1995, 2000, 2005, and 2010. This was done using the Crime Trends Data
+Archive (CTDA) produced by the project. This approach benefits from the
+strength of a pooled cross-sectional design, while avoiding the data
+imputation that is required to support panel analyses of annual time
+periods for sub-national geographic units. The three sets of empirical
+analyses conducted in this project include models of overall homicide, non-
+lethal violence (robbery and aggravated assault), and non-violent property
+crime (burglary, motor vehicle theft, and larceny). The project estimated a
+series of two-way fixed-effects panel models of crime rates that include
+fixed effects that control for stable, but unmeasured, city attributes and
+temporal shocks that are shared across cities. This report also identifies
+factors that influence crime rates, including criminal justice policies and
+practices.
+
+4. Reaves, Brian A., "Census of State and Local Law Enforcement Agencies,
+2004." Bureau of Justice Statistics Bulletin. NCJ 212740, Washington, DC:
+United States Department of Justice, Bureau of Justice Statistics, Jun
+2007.
+Full text: http://www.bjs.gov/content/pub/ascii/csllea04.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/csllea04.pdf
+The report provides the number of employees of State and local law
+enforcement agencies as of September 2004, including State-by-State data
+for sheriffs' offices, local police departments, State police and highway
+patrol agencies, and special jurisdiction police.
+
+5. Ruther, Matt, "Spatial Analysis of Metropolitan Area Homicide Rates and
+their Relationship to Immigrant Growth and Concentration, 1970-2000."
+Philadelphia, PA: University of Pennsylvania, Population Studies Center,
+Sep 2011..
+Full text: http://www.bjs.gov/content/pub/ascii/csllea04.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/csllea04.pdf
+The report provides the number of employees of State and local law
+enforcement agencies as of September 2004, including State-by-State data
+for sheriffs' offices, local police departments, State police and highway
+patrol agencies, and special jurisdiction police.
+
+6. Ruther, Matt, "The effect of growth in foreign born populations shared
+on county homicide rates: A spatial panel approach." Papers in Regional
+Science. Nov 2014, 93, (S1), S1 - S23. DOI: 10.1111/pirs.12045 2010-IJ-CX-
+0003
+Full text: http://www.bjs.gov/content/pub/ascii/csllea04.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/csllea04.pdf
+The report provides the number of employees of State and local law
+enforcement agencies as of September 2004, including State-by-State data
+for sheriffs' offices, local police departments, State police and highway
+patrol agencies, and special jurisdiction police.

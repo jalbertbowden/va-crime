@@ -1,0 +1,75 @@
+<div>
+	<table class="gridcontent" cellspacing="0" cellpadding="5" rules="all" bordercolor="#999999" border="1" id="exportgrid" style="border-color:#999999;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+		<tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<td align="center" colspan="5" style="color:Black;">Recreational Boating Statistics by Accident Cause for VA 2005-2011</td>
+		</tr><tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<th scope="col">Accident Cause</th><th scope="col">Accidents</th><th scope="col">Vessels</th><th scope="col">Injuries</th><th scope="col">Deaths</th>
+		</tr><tr>
+			<td>Alcohol use</td><td>43</td><td>60</td><td>44</td><td>12</td>
+		</tr><tr>
+			<td>Carbon Monoxide</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Careless/reckless Operation</td><td>61</td><td>91</td><td>64</td><td>4</td>
+		</tr><tr>
+			<td>Congested waters</td><td>11</td><td>15</td><td>7</td><td>0</td>
+		</tr><tr>
+			<td>dam/lock</td><td>2</td><td>2</td><td>3</td><td>1</td>
+		</tr><tr>
+			<td>Equipment Failure</td><td>32</td><td>36</td><td>9</td><td>6</td>
+		</tr><tr>
+			<td>Excessive Speed</td><td>47</td><td>67</td><td>38</td><td>7</td>
+		</tr><tr>
+			<td>Failure to Ventilate</td><td>3</td><td>5</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>Force of Wave/wake</td><td>39</td><td>41</td><td>38</td><td>0</td>
+		</tr><tr>
+			<td>Hazardous Waters</td><td>44</td><td>45</td><td>30</td><td>16</td>
+		</tr><tr>
+			<td>Heavy weather</td><td>4</td><td>4</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>Hull failure</td><td>16</td><td>16</td><td>1</td><td>3</td>
+		</tr><tr>
+			<td>Ignition of fuel or vapor</td><td>2</td><td>2</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>Ignition of Spilled Fuel or Vapor</td><td>18</td><td>25</td><td>16</td><td>0</td>
+		</tr><tr>
+			<td>Improper Anchoring</td><td>10</td><td>10</td><td>5</td><td>0</td>
+		</tr><tr>
+			<td>Improper Loading</td><td>13</td><td>13</td><td>6</td><td>9</td>
+		</tr><tr>
+			<td>Improper Lookout</td><td>75</td><td>119</td><td>47</td><td>5</td>
+		</tr><tr>
+			<td>Inadequate Onboard Navigation Lights</td><td>4</td><td>9</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>Machinery Failure</td><td>41</td><td>46</td><td>14</td><td>1</td>
+		</tr><tr>
+			<td>Missing or Inadequate Navigation Aids</td><td>4</td><td>5</td><td>2</td><td>1</td>
+		</tr><tr>
+			<td>Navigation rules violation</td><td>41</td><td>73</td><td>40</td><td>4</td>
+		</tr><tr>
+			<td>Operator Inattention</td><td>125</td><td>173</td><td>98</td><td>4</td>
+		</tr><tr>
+			<td>Operator Inexperience</td><td>79</td><td>106</td><td>65</td><td>6</td>
+		</tr><tr>
+			<td>Other</td><td>112</td><td>121</td><td>81</td><td>18</td>
+		</tr><tr>
+			<td>Overloading</td><td>11</td><td>11</td><td>3</td><td>10</td>
+		</tr><tr>
+			<td>Passenger/skier Behavior</td><td>45</td><td>46</td><td>41</td><td>4</td>
+		</tr><tr>
+			<td>People on Gunwale, Bow or Transom</td><td>9</td><td>9</td><td>3</td><td>7</td>
+		</tr><tr>
+			<td>Restricted Vision</td><td>15</td><td>22</td><td>7</td><td>0</td>
+		</tr><tr>
+			<td>Sharp Turn</td><td>18</td><td>21</td><td>17</td><td>1</td>
+		</tr><tr>
+			<td>Sudden medical condition</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>Unknown</td><td>43</td><td>53</td><td>12</td><td>22</td>
+		</tr><tr>
+			<td>Weather</td><td>48</td><td>55</td><td>18</td><td>12</td>
+		</tr><tr>
+			<td align="right" valign="middle" colspan="5" style="background-color:LightGrey;font-size:8pt;height:20px;">www.uscgboating.org &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/7/2015 3:39:00 AM</td>
+		</tr>
+	</table>
+</div>

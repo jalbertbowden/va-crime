@@ -1,0 +1,41 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,
+filename:  cv0503.csv,,,,,,,,,,,,,,
+"Table 3. Victimization rates for persons age 12 and over, by type of crime and age of victims",,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,
+
+"Table 3. Personal crimes, 2005:  Victimization rates for persons age 12 and over, by type of crime and age of victims",,,,,,,,,,,,,,
+    ,"Rate per 1,000 persons in each age group",,,,,,,,,,,,,
+Type of crime         , 12-15,,16-19,,20-24,,25-34,,35-49,,50-64,,65 and over,
+All personal crimes,45.3,,45.8,,48.4,,24.6,,18.4,,12,,2.8,
+Crimes of violence,44,,44.2,,46.9,,23.6,,17.5,,11.4,,2.4,
+   Completed violence,14.7,,17.8,,14.7,,7.5,,5.3,,3,,0.6,*
+   Attempted/threatened violence,29.3,,26.4,,32.2,,16.1,,12.1,,8.4,,1.9,
+   Rape/Sexual assault,1.2,*,3.2,,1.1,*,0.7,*,0.6,*,0.6,*,0,*
+      Rape/Attempted rape,0.1,*,2.6,,0.8,*,0.4,*,0.4,*,0.5,*,0,*
+         Rape,0,*,1.8,*,0.2,*,0.3,*,0.2,*,0.2,*,0,*
+         Attempted rape/a,0.1,*,0.8,*,0.6,*,0.2,*,0.2,*,0.2,*,0,*
+      Sexual assault/b,1,*,0.6,*,0.3,*,0.3,*,0.1,*,0.2,*,0,*
+   Robbery,3.5,,7,,5.5,,3.1,,1.9,,1.4,,0.6,*
+      Completed/property taken,2.6,,5.5,,3.1,,1.8,,1.4,,0.8,,0.3,*
+         With injury,1.4,*,1.6,*,0.7,*,0.3,*,0.6,,0.4,*,0.3,*
+         Without injury,1.2,*,3.9,,2.4,,1.5,,0.8,,0.4,*,0.1,*
+      Attempted to take property,0.9,*,1.5,*,2.3,,1.2,,0.6,,0.5,*,0.2,*
+         With injury,0,*,0.2,*,0.8,*,0.4,*,0.2,*,0.3,*,0,*
+         Without injury,0.9,*,1.3,*,1.6,*,0.8,*,0.4,*,0.3,*,0.2,*
+   Assault,39.3,,33.9,,40.3,,19.9,,15,,9.3,,1.9,
+      Aggravated,8.7,,9.7,,10,,4.7,,3.2,,2.4,,0.8,*
+         With injury,3,,2.7,,3.4,,1.7,,1,,0.6,*,0.1,*
+         Threatened with weapon,5.7,,7.1,,6.6,,3,,2.2,,1.8,,0.7,*
+      Simple,30.6,,24.2,,30.3,,15.2,,11.8,,7,,1.1,
+         With minor injury,8.1,,7.1,,7.7,,3.7,,2.6,,1.1,,0.2,*
+         Without injury,22.5,,17.1,,22.7,,11.5,,9.2,,5.8,,0.9,*
+Purse snatching/Pocket picking,1.3,*,1.6,*,1.5,*,1,,1,,0.6,*,0.4,*
+Population in each age group,"17,061,940",,"16,524,940",,"20,363,570",,"39,607,310",,"65,707,720",,"50,164,650",,"35,063,310",
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,
+a/Includes verbal threats of rape.,,,,,,,,,,,,,,
+b/Includes threats.,,,,,,,,,,,,,,

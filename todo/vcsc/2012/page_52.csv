@@ -1,0 +1,53 @@
+Name: “Table 1 of 1 on page 52 of 98”,Name: “Table 1 of 1 on page 52 of 98”,Name: “Table 1 of 1 on page 52 of 98”,Name: “Table 1 of 1 on page 52 of 98”
+Table: 49,Table: 49,Table: 49,Table: 49
+,,,
+,,2012 Annual Report,
+fraud offenders (Larceny/Fraud Model 1),"Bootstrapping, a validation technique,","Bootstrapping, a validation technique,",Both of the re-validation models include
+predicts non-recidivists with 79.3%,was used to assess the stability of the,was used to assess the stability of the,factors that are similar to those on the
+"accuracy, while the current instrument",new models' predictive accuracy across,new models' predictive accuracy across,"current model (Figure 28). For instance,"
+predicts non-recidivists among larceny/,several hundred sub-samples. The,several hundred sub-samples. The,"gender, age, prior adult felony"
+fraud offenders with 76.3% accuracy.,percent of non-recidivating offenders,percent of non-recidivating offenders,"convictions, and prior adult"
+,who were accurately predicted in the,who were accurately predicted in the,incarcerations are present in some form
+The two models developed using,original sample was found to be stable,original sample was found to be stable,on the current and new models. In
+survival analysis (Drug Model 2 and,"across sub-samples, with only a slight","across sub-samples, with only a slight","contrast, some of the factors in the"
+Larceny/Fraud Model 2) did not perform,decrease during repeated sub-sampling.,decrease during repeated sub-sampling.,"current model (additional offenses, never"
+as well as the current model or the two,Bootstrapping was also used to further,Bootstrapping was also used to further,"married by age 26, and not regularly"
+new models developed using logistic,assess the inclusion of variables in the,assess the inclusion of variables in the,employed) are not part of either of the
+"regression. Therefore, the models",models. The Technical Appendix,models. The Technical Appendix,new models. Dividing the cases by
+developed using survival analysis were,contains additional information relating,contains additional information relating,offense group revealed interesting
+rejected. While the current risk,to the bootstrapping procedure.,to the bootstrapping procedure.,interaction effects relating to gender for
+assessment instrument is performing,,,
+"well, the new logistic regression models",,,
+have a higher degree of predictive,Figure 28,,
+accuracy than the risk assessment,,,
+,Comparison of Current Risk Assessment Instrument and,Comparison of Current Risk Assessment Instrument and,Comparison of Current Risk Assessment Instrument and
+"instrument currently in use. In addition,",Preliminary Re-Validation Models,Preliminary Re-Validation Models,
+the new logistic regression models,,,
+provide the additional advantage of,Current,,
+removing marital status and employment,Model,Drug Model 1,Larceny/Fraud 1
+,Factors,Factors,Model Factors
+"history, which are not reliably scored in",,,
+the field.,,Gender/Prior Juvenile,Gender/
+,Gender,Adjudication,Offense Type
+,Combination,Combination,Combination
+,Age,Age,Age
+,Prior Adult/,,
+,Juvenile Felony,Prior Adult Felony,Prior Adult Felony
+,Combination,Convictions,Convictions
+,Prior Adult,Prior Adult,Prior Adult
+,Incarcerations,Incarcerations,Incarcerations
+,Prior Arrest/,Prior Arrest/,
+,Commitment,Commitment,
+,within 18 mos.,within 12 mos.,
+,,,Legally
+,,,Restrained at
+,,,Time of Offense
+,Not Regularly,,
+,Employed,,
+,Never Married by,,
+,Age,26,
+,Additional,,
+,Offenses - yes/no,,
+,Offense Type,Separate models,Separate models
+,,by offense type,by offense type
+,,44,

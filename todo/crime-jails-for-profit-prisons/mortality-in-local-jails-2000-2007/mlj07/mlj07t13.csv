@@ -1,0 +1,28 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+Filename: mlj07t13.csv,,,,,,,,,,,,,
+"Table 13. Average annual mortality rate, by the 10 leading causes of death in jails, by age, 2000–2006",,,,,,,,,,,,,
+"Report title: Mortality in Local Jails, 2000-2007  NCJ 222988",,,,,,,,,,,,,
+Data source(s): Deaths in Custody Reporting Program and Vital Statistics Cooperative Program,,,,,,,,,,,,,
+Author(s): Margaret E. Noonan,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,,,,,,,,,
+Date of version: 10-27-2010,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Table 13. Average annual mortality rate, by the 10 leading causes of death in jails, by age, 2000–2006",,,,,,,,,,,,,
+,,"Mortality rate per 100,000 U.S. residents (by age)",,,,,,"Mortality rate per 100,000 local jail inmates",,,,,
+Cause of death,,Total/a,15-24,25-34,35-44,45-54,55-64,Total/a,15-24,25-34,35-44,45-54,55-64
+All causes ,,835,81,104,198,429,937,145,53,90,165,379,731
+Illness/b,,...,...,...,...,...,...,52,4,17,58,185,423
+,Heart disease,233,3,8,30,92,232,32,3,10,33,115,292
+,AIDS,5,0,4,12,11,5,8,1,5,13,21,19
+,Cancer,191,4,9,35,122,343,5,0,1,3,17,66
+,Liver diseases,9,0,1,7,18,23,4,0,0,5,22,24
+,Cerebrovascular diseases,53,0,1,5,15,36,3,0,1,3,10,21
+Suicide,,11,10,13,15,16,14,43,32,42,50,55,69
+Drug/alcohol intoxication,,7,5,9,14,13,5,10,5,10,11,21,13
+Accidental,,31,32,24,24,26,28,4,2,3,5,10,13
+Homicide,,6,13,12,7,5,3,3,3,2,3,6,9
+Other/unknown,,...,...,...,...,...,...,8,3,4,9,20,45
+Note: Age is limited to ages 15 to 64 because this range represents more than 99% of the jail population and 96% of all deaths in jails.,,,,,,,,,,,,,
+a/Includes deaths for ages not shown in table. The detailed age categories is limited to ages 15 to 64 because this range represents more than 99% of the jail population and 96% of all deaths in jails. Source: Vital Statistics Cooperative Program of the Centers for Disease Control and Prevention’s National Center for Health Statistics.,,,,,,,,,,,,,
+b/Total for the top 5 illness deaths in local jails.,,,,,,,,,,,,,
+...Not available.,,,,,,,,,,,,,

@@ -1,0 +1,27 @@
+<div>
+	<table class="gridcontent" cellspacing="0" cellpadding="5" rules="all" bordercolor="#999999" border="1" id="exportgrid" style="border-color:#999999;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+		<tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<td align="center" colspan="4" style="color:Black;">Recreational Boating Statistics by Operator Experience for VA 2005-2011</td>
+		</tr><tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<th scope="col">Operator Experience</th><th scope="col">Vessels</th><th scope="col">Injuries</th><th scope="col">Deaths</th>
+		</tr><tr>
+			<td>Under 10 Hours</td><td>77</td><td>49</td><td>7</td>
+		</tr><tr>
+			<td>10 to 100 Hours</td><td>259</td><td>147</td><td>31</td>
+		</tr><tr>
+			<td>101 to 500 Hours</td><td>26</td><td>21</td><td>5</td>
+		</tr><tr>
+			<td>OVER 500 HOURS</td><td>390</td><td>229</td><td>35</td>
+		</tr><tr>
+			<td>No operator</td><td>41</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>UNKNOWN</td><td>298</td><td>139</td><td>54</td>
+		</tr><tr>
+			<td>No experience</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>100 to 500 Hours</td><td>212</td><td>134</td><td>22</td>
+		</tr><tr>
+			<td align="right" valign="middle" colspan="4" style="background-color:LightGrey;font-size:8pt;height:20px;">www.uscgboating.org &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/7/2015 3:39:46 AM</td>
+		</tr>
+	</table>
+</div>

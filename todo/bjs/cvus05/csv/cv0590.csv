@@ -1,0 +1,31 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  cv0590.csv,,,,,,,,,,,,,,,
+"Table 90. Percent distribution of victimizations resulting in loss of time from work, by race of victims, type of crime and number of days lost",,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,
+
+"Table 90. Selected personal and property crimes, 2005: Percent distribution of victimizations resulting in loss of time from work, by race of victims, type of crime and number of days lost",,,,,,,,,,,,,,,
+,,,,Percent of victimizations,,,,,,,,,,,
+Race and type of crime,,Number of victimizations,, Total,,Less than 1 day,,1-5 days,,6-10 days,,11 days or more,,Not known and not available,
+White only,,,,,,,,,,,,,,,
+,All personal crimes/a,"329,360",,100,%,18.2,%,55.9,%,5.7,%*,9.5,%*,10.7,%*
+,Crimes of violence,"319,090",,100,,15.6,,57.7,,5.8,*,9.8,*,11,*
+,All property crimes,"829,780",,100,%,51.6,%,39.8,%,3.3,%*,2.3,%*,3,%*
+,Household burglary,"205,610",,100,,45,,44.9,,2.5,*,3,*,4.6,*
+,Motor vehicle theft,"141,410",,100,,28.6,,58.7,,5.5,*,5.5,*,1.7,*
+,Theft,"482,760",,100,,61.2,,32.1,,2.9,*,1.1,*,2.7,*
+Black only,,,,,,,,,,,,,,,
+,All personal crimes/a,"77,690",,100,%,14.9,%*,44.9,%*,17.4,%*,6.7,%*,16.1,%*
+,Crimes of violence,"77,690",,100,,14.9,*,44.9,*,17.4,*,6.7,*,16.1,*
+                           crimes                                                  ,All property crimes,"111,640",,100,%,32.9,%,45.5,%,5.9,%*,8.3,%*,7.4,%*
+                                                                                   ,Household burglary,"33,910",*,100,*,29.5,*,44.6,*,8.5,*,8.9,*,8.5,*
+                                                                                   ,Motor vehicle theft,"27,450",*,100,*,40.5,*,33.2,*,13.6,*,12.7,*,0,*
+                                                                                   ,Theft,"50,270",,100,,31,*,52.8,*,0,*,5.6,*,10.6,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,
+"Excludes data on persons of ""Other"" races and persons indicating two or more races.",,,,,,,,,,,,,,,
+Excludes data on persons with races other than White only or Black only.,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,
+"a/Includes data on rape, sexual assault, robbery, assault, and purse snatching/pocket picking, not shown separately.",,,,,,,,,,,,,,,

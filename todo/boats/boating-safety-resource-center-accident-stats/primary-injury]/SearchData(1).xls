@@ -1,0 +1,49 @@
+<div>
+	<table class="gridcontent" cellspacing="0" cellpadding="5" rules="all" bordercolor="#999999" border="1" id="exportgrid" style="border-color:#999999;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+		<tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<td align="center" colspan="2" style="color:Black;">Recreational Boating Statistics by Primary Injury for VA 2005-2011</td>
+		</tr><tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<th scope="col">Primary Injury</th><th scope="col">Injuries</th>
+		</tr><tr>
+			<td>Amputation</td><td>5</td>
+		</tr><tr>
+			<td>back injury</td><td>16</td>
+		</tr><tr>
+			<td>Broken bone</td><td>158</td>
+		</tr><tr>
+			<td>Burn</td><td>12</td>
+		</tr><tr>
+			<td>Burns</td><td>14</td>
+		</tr><tr>
+			<td>Carbon monoxide</td><td>1</td>
+		</tr><tr>
+			<td>Concussion</td><td>19</td>
+		</tr><tr>
+			<td>Cut</td><td>31</td>
+		</tr><tr>
+			<td>Dislocation</td><td>9</td>
+		</tr><tr>
+			<td>Hypothermia</td><td>53</td>
+		</tr><tr>
+			<td>Internal organ injury</td><td>66</td>
+		</tr><tr>
+			<td>Laceration</td><td>155</td>
+		</tr><tr>
+			<td>Neck injury</td><td>2</td>
+		</tr><tr>
+			<td>Other</td><td>16</td>
+		</tr><tr>
+			<td>Scrape/bruise</td><td>121</td>
+		</tr><tr>
+			<td>shock</td><td>1</td>
+		</tr><tr>
+			<td>spinal cord injury</td><td>3</td>
+		</tr><tr>
+			<td>sprain/strain</td><td>25</td>
+		</tr><tr>
+			<td>Unknown</td><td>13</td>
+		</tr><tr>
+			<td align="right" valign="middle" colspan="2" style="background-color:LightGrey;font-size:8pt;height:20px;">www.uscgboating.org &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/7/2015 3:44:54 AM</td>
+		</tr>
+	</table>
+</div>

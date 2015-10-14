@@ -1,0 +1,425 @@
+		
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+	<html>
+	<head>
+
+<script type="text/javascript" src="/static/js/analytics.js" ></script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+
+
+		<title>James City County Public Records Virginia</title>
+		<meta name="keywords" content="james city public records, james city county public records">
+	<meta name="description" content="Provides a directory of searchable public records databases in James City County, Virginia."><br>
+		<style type="text/css">
+    body
+		{
+		margin:0px;
+		padding:0px;
+		}
+	td
+		{
+		font-family: courier new;
+		font-size:10pt;
+		text-align:left;
+		}
+	span
+		{
+		font-family: courier new;
+		text-align:left;
+		}
+	div
+		{
+		font-family: courier new;
+		font-size:10pt;
+		text-align:left;
+		}
+	a:link { color:#496295;text-decoration:none; }
+	a:visited { color:#496295;text-decoration:none; }
+	a:hover { color:#990000;text-decoration:underline; }
+	</style>
+</head>
+<body>
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script> if (window.archive_analytics) { window.archive_analytics.values['server_name']="wwwb-app19.us.archive.org";}; </script>
+
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+var firstDate = 820454400000;
+var lastDate = 1420070399999;
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http:\/\/www.prsearch.com\/virginia\/james_city.htm";
+
+var curYear = -1;
+var curMonth = -1;
+var yearCount = 18;
+var firstYear = 1996;
+var imgWidth = 475;
+var yearImgWidth = 25;
+var monthImgWidth = 2;
+var trackerVal = "none";
+var displayDay = "20";
+var displayMonth = "Apr";
+var displayYear = "2013";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+function showTrackers(val) {
+	if(val == trackerVal) {
+		return;
+	}
+	if(val == "inline") {
+		document.getElementById("displayYearEl").style.color = "#ec008c";
+		document.getElementById("displayMonthEl").style.color = "#ec008c";
+		document.getElementById("displayDayEl").style.color = "#ec008c";		
+	} else {
+		document.getElementById("displayYearEl").innerHTML = displayYear;
+		document.getElementById("displayYearEl").style.color = "#ff0";
+		document.getElementById("displayMonthEl").innerHTML = displayMonth;
+		document.getElementById("displayMonthEl").style.color = "#ff0";
+		document.getElementById("displayDayEl").innerHTML = displayDay;
+		document.getElementById("displayDayEl").style.color = "#ff0";
+	}
+   document.getElementById("wbMouseTrackYearImg").style.display = val;
+   document.getElementById("wbMouseTrackMonthImg").style.display = val;
+   trackerVal = val;
+}
+function getElementX2(obj) {
+	var thing = jQuery(obj);
+	if((thing == undefined) 
+			|| (typeof thing == "undefined") 
+			|| (typeof thing.offset == "undefined")) {
+		return getElementX(obj);
+	}
+	return Math.round(thing.offset().left);
+}
+function trackMouseMove(event,element) {
+
+   var eventX = getEventX(event);
+   var elementX = getElementX2(element);
+   var xOff = eventX - elementX;
+	if(xOff < 0) {
+		xOff = 0;
+	} else if(xOff > imgWidth) {
+		xOff = imgWidth;
+	}
+   var monthOff = xOff % yearImgWidth;
+
+   var year = Math.floor(xOff / yearImgWidth);
+	var yearStart = year * yearImgWidth;
+   var monthOfYear = Math.floor(monthOff / monthImgWidth);
+   if(monthOfYear > 11) {
+       monthOfYear = 11;
+   }
+   // 1 extra border pixel at the left edge of the year:
+   var month = (year * 12) + monthOfYear;
+   var day = 1;
+	if(monthOff % 2 == 1) {
+		day = 15;
+	}
+	var dateString = 
+		zeroPad(year + firstYear) + 
+		zeroPad(monthOfYear+1,2) +
+		zeroPad(day,2) + "000000";
+
+	var monthString = prettyMonths[monthOfYear];
+	document.getElementById("displayYearEl").innerHTML = year + 1996;
+	document.getElementById("displayMonthEl").innerHTML = monthString;
+	// looks too jarring when it changes..
+	//document.getElementById("displayDayEl").innerHTML = zeroPad(day,2);
+
+	var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+	document.getElementById('wm-graph-anchor').href = url;
+
+   //document.getElementById("wmtbURL").value="evX("+eventX+") elX("+elementX+") xO("+xOff+") y("+year+") m("+month+") monthOff("+monthOff+") DS("+dateString+") Moy("+monthOfYear+") ms("+monthString+")";
+   if(curYear != year) {
+       var yrOff = year * yearImgWidth;
+       document.getElementById("wbMouseTrackYearImg").style.left = yrOff + "px";
+       curYear = year;
+   }
+   if(curMonth != month) {
+       var mtOff = year + (month * monthImgWidth) + 1;
+       document.getElementById("wbMouseTrackMonthImg").style.left = mtOff + "px";
+       curMonth = month;
+   }
+}
+//]]>
+</script>
+
+<style type="text/css">body{margin-top:0!important;padding-top:0!important;min-width:800px!important;}#wm-ipp a:hover{text-decoration:underline!important;}</style>
+<div id="wm-ipp" lang="en" class="__wb_banner_div" style="display:none; position:relative;padding:0 5px;min-height:70px;min-width:800px">
+
+
+<div id="wm-ipp-inside" class="__wb_banner_div" style="position:fixed;padding:0!important;margin:0!important;width:97%;min-width:780px;border:5px solid #000;border-top:none;background-image:url(/static/images/toolbar/wm_tb_bk_trns.png);text-align:center;-moz-box-shadow:1px 1px 3px #333;-webkit-box-shadow:1px 1px 3px #333;box-shadow:1px 1px 3px #333;font-size:11px!important;font-family:'Lucida Grande','Arial',sans-serif!important;">
+   <table style="border-collapse:collapse;margin:0;padding:0;width:100%;"><tbody><tr>
+   <td style="padding:10px;vertical-align:top;min-width:110px;">
+   <a href="/web/" title="Wayback Machine home page" style="background-color:transparent;border:none;"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0"/></a>
+   </td>
+   <td style="padding:0!important;text-align:center;vertical-align:top;width:100%;">
+
+       <table style="border-collapse:collapse;margin:0 auto;padding:0;width:570px;"><tbody><tr>
+       <td style="padding:3px 0;" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb" style="margin:0!important;padding:0!important;"><input type="text" name="url" id="wmtbURL" value="http://www.prsearch.com/virginia/james_city.htm" style="width:400px;font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;" onfocus="javascript:this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20130420131010" /><input type="submit" value="Go" style="font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;margin-left:5px;width: inherit !important" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td style="vertical-align:bottom;padding:5px 0 0 0!important;" rowspan="2">
+           <table style="border-collapse:collapse;width:110px;color:#99a;font-family:'Helvetica','Lucida Grande','Arial',sans-serif;"><tbody>
+			
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr style="width:110px;height:16px;font-size:10px!important;">
+           	<td style="padding-right:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="/web/20110106052034/http://www.prsearch.com/virginia/james_city.htm" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="6 Jan 2011"><strong>JAN</strong></a>
+		                
+               </td>
+               <td id="displayMonthEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight:bold;text-transform:uppercase;width:34px;height:15px;padding-top:1px;text-align:center;" title="You are here: 13:10:10 Apr 20, 2013">APR</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       May
+                       
+               </td>
+           </tr>
+
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr>
+               <td style="padding-right:9px;white-space:nowrap;overflow:visible;text-align:right!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+		                <a href="/web/20110106052034/http://www.prsearch.com/virginia/james_city.htm" title="5:20:34 Jan 6, 2011" style="background-color:transparent;border:none;"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+		                
+               </td>
+               <td id="displayDayEl" style="background:#000;color:#ff0;width:34px;height:24px;padding:2px 0 0 0;text-align:center;font-size:24px;font-weight: bold;" title="You are here: 13:10:10 Apr 20, 2013">20</td>
+				<td style="padding-left:9px;white-space:nowrap;overflow:visible;text-align:left!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+                       <img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0"/>
+                       
+			    </td>
+           </tr>
+
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr style="width:110px;height:13px;font-size:9px!important;">
+				<td style="padding-right:9px;font-size:11px!important;font-weight: bold;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="/web/20110106052034/http://www.prsearch.com/virginia/james_city.htm" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="6 Jan 2011"><strong>2011</strong></a>
+		                
+               </td>
+               <td id="displayYearEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight: bold;padding-top:1px;width:34px;height:13px;text-align:center;" title="You are here: 13:10:10 Apr 20, 2013">2013</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight: bold;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       2014
+                       
+				</td>
+           </tr>
+           </tbody></table>
+       </td>
+
+       </tr>
+       <tr>
+       <td style="vertical-align:middle;padding:0!important;">
+           <a href="/web/20130420131010*/http://www.prsearch.com/virginia/james_city.htm" style="color:#33f;font-size:11px;font-weight:bold;background-color:transparent;border:none;" title="See a list of every capture for this URL"><strong>3 captures</strong></a>
+           <div class="__wb_banner_div" style="margin:0!important;padding:0!important;color:#666;font-size:9px;padding-top:2px!important;white-space:nowrap;" title="Timespan for captures of this URL">4 Jun 09 - 20 Apr 13</div>
+       </td>
+       <td style="padding:0!important;">
+       <a style="position:relative; white-space:nowrap; width:475px;height:27px;" href="" id="wm-graph-anchor">
+       <div class="__wb_banner_div" id="wm-ipp-sparkline" style="position:relative; white-space:nowrap; width:475px;height:27px;background-color:#fff;cursor:pointer;border-right:1px solid #ccc;" title="Explore captures for this URL">
+			<img id="sparklineImgId" style="position:absolute; z-index:9012; top:0px; left:0px;"
+				onmouseover="showTrackers('inline');" 
+				onmouseout="showTrackers('none');"
+				onmousemove="trackMouseMove(event,this)"
+				alt="sparklines"
+				width="475"
+				height="27"
+				border="0"
+				src="/web/jsp/graph.jsp?graphdata=475_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000001000000_2010:-1:000000000000_2011:-1:100000000000_2012:-1:000000000000_2013:3:000100000000_2014:-1:000000000000"></img>
+			<img id="wbMouseTrackYearImg" 
+				style="display:none; position:absolute; z-index:9010;"
+				width="25" 
+				height="27"
+				border="0"
+				src="/static/images/toolbar/transp-yellow-pixel.png"></img>
+			<img id="wbMouseTrackMonthImg"
+				style="display:none; position:absolute; z-index:9011; " 
+				width="2"
+				height="27" 
+				border="0"
+				src="/static/images/toolbar/transp-red-pixel.png"></img>
+       </div>
+		</a>
+
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td style="text-align:right;padding:5px;width:65px;font-size:11px!important;">
+       <a href="javascript:;" onclick="document.getElementById('wm-ipp').style.display='none';" style="display:block;padding-right:18px;background:url(/static/images/toolbar/wm_tb_close.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;margin-bottom:23px;background-color:transparent;border:none;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="display:block;padding-right:18px;background:url(/static/images/toolbar/wm_tb_help.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;background-color:transparent;border:none;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+
+</div>
+</div>
+<script type="text/javascript">
+ var wmDisclaimBanner = document.getElementById("wm-ipp");
+ if(wmDisclaimBanner != null) {
+   disclaimElement(wmDisclaimBanner);
+ }
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+<table style='width:100%;'><tr><td style='padding:10px;'>
+	<a href='/web/20130420131010/http://www.prsearch.com/'><span style='font-size:24px;color:#000000;'><b>Public Records Search</b></span></a><br>
+	Find Public Records Quickly and Easily
+</td></tr></table>
+
+<div style="width:100%;border-bottom:dotted 2px #404040;"></div>
+
+<br>
+<div style="border:solid 1px #000000;background-color:#2071A5;width:640px;margin-left:10px;">
+
+<div style='font-size:1.2em;padding:5px;color:#ffffff;text-align:center;'>
+	<b>Public Records Search</b>
+</div>
+
+<div style="border-top:solid 1px #000000;background-color:#E7F0F8;width:640px;"><br>
+	<form name="public records search" action="/web/20130420131010/http://www.prsearch.com/_redir/prredir.htm" method=get style="display:inline;">
+<table><tr>
+	<td style='padding-left:10px;'>First Name <span style="font:500 9px verdana;color:#696969;">(required)</span><br><input name=fname style="width:160px;font:500 11px verdana;"></td>
+	<td style='padding-left:10px;'>MI<br><input name=mname style="width:20px;font:500 11px verdana;"></td>
+	<td style='padding-left:10px;'>Last Name <span style="font:500 9px verdana;color:#696969;">(required)</span><br><input name=lname style="width:160px;font:500 11px verdana;"></td>
+	<td style='padding-left:10px;'>State<br>
+		 <select name=state style="font:500 11px verdana;"><OPTION VALUE="" SELECTED>All States<OPTION VALUE="AL">Alabama<OPTION VALUE="AK">Alaska<OPTION VALUE="AZ">Arizona<OPTION VALUE="AR">Arkansas<OPTION VALUE="CA">California<OPTION VALUE="CO">Colorado<OPTION VALUE="CT">Connecticut<OPTION VALUE="DE">Delaware<OPTION VALUE="FL">Florida<OPTION VALUE="GA">Georgia<OPTION VALUE="HI">Hawaii<OPTION VALUE="ID">Idaho<OPTION VALUE="IL">Illinois<OPTION VALUE="IN">Indiana<OPTION VALUE="IA">Iowa<OPTION VALUE="KS">Kansas<OPTION VALUE="KY">Kentucky<OPTION VALUE="LA">Louisiana<OPTION VALUE="ME">Maine<OPTION VALUE="MD">Maryland<OPTION VALUE="MA">Massachusetts<OPTION VALUE="MI">Michigan<OPTION VALUE="MN">Minnesota<OPTION VALUE="MS">Mississippi<OPTION VALUE="MO">Missouri<OPTION VALUE="MT">Montana<OPTION VALUE="NE">Nebraska<OPTION VALUE="NV">Nevada<OPTION VALUE="NH">New Hampshire<OPTION VALUE="NJ">New Jersey<OPTION VALUE="NM">New Mexico<OPTION VALUE="NY">New York<OPTION VALUE="NC">North Carolina<OPTION VALUE="ND">North Dakota<OPTION VALUE="OH">Ohio<OPTION VALUE="OK">Oklahoma<OPTION VALUE="OR">Oregon<OPTION VALUE="PA">Pennsylvania<OPTION VALUE="RI">Rhode Island<OPTION VALUE="SC">South Carolina<OPTION VALUE="SD">South Dakota<OPTION VALUE="TN">Tennessee<OPTION VALUE="TX">Texas<OPTION VALUE="UT">Utah<OPTION VALUE="VT">Vermont<OPTION VALUE="VA">Virginia<OPTION VALUE="WA">Washington<OPTION VALUE="DC">Washington D.C.<OPTION VALUE="WV">West Virginia<OPTION VALUE="WI">Wisconsin<OPTION VALUE="WY">Wyoming</select></td>
+	<td style='padding-left:10px;vertical-align:bottom'><br><input type="hidden" name="type" value="name_address"><input type=image src="/web/20130420131010im_/http://www.prsearch.com/_images/search.gif" style="height:20px;">
+</td></tr></table>
+	</form>
+<br></div>
+</div>
+<br>
+
+	
+	<div style='width:750px;padding-left:10px;'>
+		<p>
+		<span style="font-size:14pt;"><b>James City County, Virginia Public Records</b></span><br>
+		Here you will find a wide variety of free James City County public records sources. Most resources will provide information or searches for free and charge a small fee for processing requests or obtaining official records.  You can choose a different county from the <a href="/web/20130420131010/http://www.prsearch.com/virginia/counties.htm">Virginia Counties</a> page.
+	</div>
+	
+	<div style='width:750px;padding-left:10px;'>
+		<p>
+		<a href='/web/20130420131010/http://quickfacts.census.gov/qfd/states/50/50093.html'>James City County Census</a> <br>
+		General county data such as demographics, ethnicity, housing, income, labor force, employment, occupations, industries, government employees, businesses, and more. <br>
+		Population in 2006: 48102 <br>
+		Land Area: 143 Square Miles <br>
+		County Seat: Williamsburg <br>
+		
+		<p>
+<a href='/web/20130420131010/http://www.williamsburgcc.com/_website/'>Chamber Of Commerce</a><br>
+A forum for a large range of industry leaders in the area to share values and ideas for a more prosperous future.<br>
+421 North Boundary Street<br>
+Williamsburg, VA 23187<br>
+Phone: (757) 229-6511<br>
+</p>
+
+<p>
+<a href='/web/20130420131010/http://www.ci.williamsburg.va.us/'>City Of Williamsburg</a><br>
+The county's center of operations for the clerk's office, tax office and court buildings.<br>
+401 Lafayette St<br>
+Williamsburg, VA 23185<br>
+Phone: (757) 220-6100<br>
+</p>
+
+<p>
+<a href='/web/20130420131010/http://www.jccegov.com/voter/'>County Elections</a><br>
+View the rules regarding adding a candidate to the ballot and rules about campaign financing.<br>
+101-B Mounts Bay Road<br>
+Williamsburg, VA 23187<br>
+Phone: (757) 253-6868<br>
+</p>
+
+<p>
+Inmate And Prison Records<br>
+Find more information on the local law enforcement detention as well as larger county and state detention units.<br>
+9320 Merrimac Trl<br>
+Williamsburg, VA 23185<br>
+Phone: (757) 820-3918<br>
+</p>
+
+<p>
+<a href='/web/20130420131010/http://www.jccegov.com/index.php'>Official Website</a><br>
+County commission and publicly elected officials are listed on the official government site.<br>
+101 Mounts Bay Road<br>
+Williamsburg, VA 23187<br>
+</p>
+
+<p>
+<a href='/web/20130420131010/http://www.jccegov.com/courts/index.html'>Recorder - Probate Office</a><br>
+The county clerk can aid you in document searches and give you a recording fee schedule for civil records.<br>
+5201 Monticello Avenue, Suite 6<br>
+Williamsburg, VA 23188<br>
+Phone: (757) 564-2242<br>
+</p>
+
+<p>
+<a href='/web/20130420131010/http://www.jccegov.com/courts/sheriff.html'>Sheriffs Office</a><br>
+Look up criminal records, county crime statistics, request concealed weapons permits, report an accident, request an eviction, file a complaint.<br>
+5201 Monticello Ave<br>
+Williamsburg, VA 23188<br>
+Phone: (757) 564-2220<br>
+</p>
+
+<p>
+<a href='/web/20130420131010/http://www.jccegov.com/assessments/gis-mapping.html'>Tax Assessor</a><br>
+Contact the assessment department to find your real estate taxes or schedule a reassessment.<br>
+101-F Mounts Bay Road<br>
+Williamsburg, VA 23187<br>
+Phone: (757) 253-6650<br>
+</p>
+
+<p>
+<a href='/web/20130420131010/http://www.jccegov.com/treasurer/index.html'>Tax Collector</a><br>
+Read the latest news and policy changes for real property and county tax collections and distribution.<br>
+101-B Mounts Bay Road<br>
+Williamsburg, VA 23187<br>
+Phone: (757) 253-6705<br>
+</p>
+
+<p>
+Transportation Department<br>
+View vehicle status and legal standing as far as totals, water damage, accidents, bad titles or theft.<br>
+4451 Ironbound Rd<br>
+Williamsburg, VA 23188<br>
+Phone: (757) 253-4834<br>
+</p>
+
+	</div>
+	
+	<div style='width:750px;padding-left:10px;'>
+		<p>
+		<a href='/web/20130420131010/http://www.prsearch.com/virginia/'>Virginia Public Records</a><br>
+		Public records resources for the state of Virginia.<br>
+	</div>
+	
+	<br><br>
+<div style="width:100%;border-bottom:dotted 2px #909090;"></div>
+
+<table style='width:100%;'><tr><td style='padding:10px;'>
+	<div style='width:50%;float:left;'>&copy; 2013 Public Records Search</div>
+	<div style='width:50%;float:left;text-align:right;'>All Rights Reserved. </div>
+</td></tr></table>
+
+</body>
+</html>
+
+
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 13:10:10 Apr 20, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:59:04 Apr 24, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

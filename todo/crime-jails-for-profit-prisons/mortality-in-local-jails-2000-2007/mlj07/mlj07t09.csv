@@ -1,0 +1,38 @@
+Bureau of Justice Statistics,,,,,,
+Filename: mlj07t09.csv,,,,,,
+"Table 9. Percent of the total jail population, percent of jail inmate deaths, and average annual mortality rate per 100,000 jail inmates by selected inmate characteristics, 2000–2007",,,,,,
+"Report title: Mortality in Local Jails, 2000-2007  NCJ222988",,,,,,
+Data source(s): Deaths in Custody Reporting Program,,,,,,
+Author(s): Margaret E. Noonan,,,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,,
+Date of version: 10-27-2010,,,,,,
+,,,,,,
+"Table 9. Percent of the total jail population, percent of jail inmate deaths, and average annual mortality rate per 100,000 jail inmates by selected inmate characteristics, 2000–2007",,,,,,
+Characteristic,,Percent of total population,,Percent of deaths in jails ,,Average annual mortality rate
+,Total,100,%,100,%,145
+Sex,,,,,,
+,Male,88,%,88,%,146
+,Female,12,,12,,136
+Race/Hispanic origin,,,,,,
+,"White, non-Hispanic",44,%,52,%,172
+,"Black, non-Hispanic",40,,34,,123
+,Hispanic,15,,12,,115
+,Other/multiple race/a,2,,2,,187
+Age,,,,,,
+,Under 18,2,%,1,%,49
+,18-24,28,,10,,52
+,25-34,32,,20,,88
+,35-44,26,,29,,163
+,45-54,10,,27,,383
+,55 or older,2,,14,,893
+Legal Status,,,,,,
+,Convicted,40,%,24,%,88
+,Unconvicted/b,60,,76,,179
+Offense,,,,,,
+,Violent,25,%,35,%,191
+,Property,24,,19,,106
+,Drugs,25,,18,,107
+,Public order,25,,28,,185
+"Note: Mortality rates are based on the average daily population (ADP). In 2000 and 2001, ADP was estimated by taking the average of January 1 and December 31 one-day inmate population counts. Inmate populations for age and offense are estimates based on the 2002 Survey of Inmates in Local Jails. Inmate populations for sex, race/Hispanic origin and legal status are estimates based on the 2000 through 2007 Annual Survey of Jails. Detail may not sum to total due to rounding.",,,,,,
+"a/Includes American Indians, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, and persons of two or more races.",,,,,,
+b/Includes inmates who were returned to jail on a probation or parole violation.,,,,,,

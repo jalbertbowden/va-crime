@@ -1,0 +1,24 @@
+Bureau of Justice Statistics,,,,,,,,
+filename:  cv05100.csv,,,,,,,,
+"Table 100. Percent of victimizations reported to the police, by value of loss and type of crime",,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,
+data of version:  12/08/06,,,,,,,,
+
+"Table 100. Property crimes, 2005: Percent of victimizations reported to the police, by value of loss and type of crime",,,,,,,,
+,Percent of all victimizations reported to the police,,,,,,,
+Value of loss/a,All property crimes,,Household burglary,,Motor vehicle theft,,Theft,
+All losses/b,38.7,%,56.6,%,92.4,%,32,%
+Less than $10/c,26.8,,52.2,*,0,*,25.4,
+$10 -$49,17.6,,37.7,,0,*,16.3,
+$50-$99,24.1,,27.4,,0,*,23.7,
+$100-$249,31.2,,38.7,,38.7,*,30
+$250-$499,42.1,,48.1,,79.8,*,40.4
+$500-$999,58.3,,63.1,,86.7,,54.2
+"$1,000 or more",82.2,,85.9,,94.1,,71.4
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,
+"a/The proportions refer only to losses of cash and/or property, and exclude the value  of property damage.",,,,,,,
+b/Includes data for victims who did not provide a specific value for their losses.,,,,,,,
+c/Includes items that had no value.,,,,,,,

@@ -1,0 +1,642 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+-------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4883
+
+This report is one in a series. More recent editions 
+may be available. To view a list of all in the series 
+go to http://bjs.gov/index.cfm?ty=pbse&sid=72
+-------------------------------------------------------
+
+*******************
+Statistical Tables
+*******************
+
+Hate Crime Victimization, 2004–2012 - Statistical Tables
+
+Meagan Meuchel Wilson, Statistician
+
+In 2012, an estimated 293,800 nonfatal violent and property 
+hate crime victimizations occurred against persons age 12 or 
+older residing in U.S. households.  The apparent increase 
+from 2011 to 2012 in the rate of overall violent hate crime 
+was not statistically significant (figure 1).
+
+The findings from this report came primarily from the Bureau 
+of Justice Statistics’ (BJS) National Crime Victimization 
+Survey (NCVS), which has been collecting data on crimes 
+motivated by hate since 2003. The NCVS and the FBI’s Uniform 
+Crime Reports (UCR) Hate Crime Statistics Program, which are 
+the principal sources of annual information on hate crime in 
+the United States, use the definition of hate crime provided 
+in the Hate Crime Statistics Act (28 U.S.C. § 534). The act 
+defines hate crimes as “crimes that manifest evidence of 
+prejudice based on race, gender or gender identity, religion, 
+disability, sexual orientation, or ethnicity.” The NCVS 
+measures crimes perceived by victims to be motivated by an 
+offender’s bias against them for belonging to or being 
+associated with a group largely identified by these 
+characteristics.
+
+Hate crime victimization refers to a single victim or 
+household that experienced a criminal incident believed by 
+the victim to be motivated by hate. For violent crimes (rape 
+or sexual assault, robbery, aggravated assault, and simple 
+assault) and for personal larceny, the count of hate crime 
+victimizations is the number of individuals who experienced a 
+violent hate crime. For crimes against households (burglary, 
+motor vehicle theft, and other theft), each household 
+affected by a hate crime is counted as a single 
+victimization.
+This report presents NCVS data on the characteristics of hate 
+crimes and hate crime victims from 2003 to 2012. Trend 
+estimates are based on 2-year rolling averages centered on 
+the most recent year. This method generally improves the 
+reliability and stability of estimate comparisons over time. 
+For ease of discussion, the report refers to all 2-year 
+estimates by the most recent year. For example, estimates 
+reported for 2012 represent the average estimates for 2011 
+and 2012. The report also compares NCVS and UCR overall 
+trends in hate crime victimization.
+
+*******************************
+List of figures
+*******************************
+
+Figure 1. Violent hate crime victimizations reported and not 
+reported to police, 2004–2012
+
+Figure 2. NCVS and UCR hate crime victimizations, 2004–2012
+
+*******************************
+List of tables
+*******************************
+
+Table 1. Hate crime victimizations, 2004–2012
+
+Table 2. Victims’ perceptions of offender bias in hate 
+crimes, 2004, 2011, and 2012
+
+Table 3. Hate and nonhate crime victimizations, by type of 
+crime, 2004, 2011, and 2012
+
+Table 4. Presence of weapons and injuries sustained in 
+violent hate and nonhate crime victimizations, 2004–2012
+
+Table 5. Hate crime victimizations reported to police, 2004, 
+2011, and 2012
+
+Table 6. Characteristics of violent hate crime victims, 2004, 
+2011, and 2012
+
+Table 7. Characteristics of violent hate crime offenders as 
+reported by victims, 2004, 2011, and 2012
+
+Table 8. Hate crime victimizations recorded by the NCVS and 
+UCR, 2004–2012
+
+*******************************
+List of appendix tables
+*******************************
+
+Appendix Table 1. Estimates and standard errors for figure 1: 
+Violent hate crime victimizations reported and not reported 
+to police, 2004–2012
+
+Appendix Table 2. Population and total criminal victimization 
+counts, 2004–2012
+
+Appendix Table 3. Standard errors for table 1: Hate crime 
+victimizations, 2004–2012
+
+Appendix Table 4. Standard errors for table 2: Victims’ 
+perceptions of offender bias in hate crimes, 2004, 2011, and 
+2012
+
+Appendix Table 5. Standard errors for table 3: Hate and 
+nonhate crime victimizations, by type of crime, 2004, 2011, 
+and 2012
+
+Appendix Table 6. Standard errors for table 4: Presence of 
+weapons and injuries sustained in violent hate and nonhate 
+crime victimizations, 2004–2012
+
+Appendix Table 7. Standard errors for table 5: Hate crime 
+victimizations reported to police, 2004, 2011, 
+and 2012
+
+Appendix Table 8. Standard errors for table 6: 
+Characteristics of violent hate crime victims, 2004, 2011, 
+and 2012
+
+Appendix Table 8. Standard errors for table 7: 
+Characteristics of violent hate crime offenders as reported 
+by victims, 2004, 2011, and 2012
+
+Appendix Table 10. Standard errors for table 8: Hate crime 
+victimizations recorded by the NCVS and UCR, 2004–2012
+
+*******************************
+Number and rate of hate crimes
+*******************************
+
+* In 2012, hate crimes accounted for 1.2% of all 
+victimizations and 4.2% of violent victimizations (table 1).
+
+* No statistically significant change was observed in either 
+the number of total hate crimes or violent hate crimes that 
+occurred from 2004 to 2012.
+
+* After a decline from 2004 to 2005, the property hate crime 
+victimization rate remained stable from 2005 to 2012.
+
+**********************
+Hate crime motivation
+**********************
+
+* Approximately 58% of hate crime victims reported more than 
+one type of motivation in 2012 (not shown in table).
+
+* In 2012, victims perceived that the offender was motivated 
+by bias against the victim’s ethnicity in 51% of hate crimes 
+(table 2). This was a statistically significant increase from 
+30% of hate crimes motivated by ethnicity bias in 2011 and 
+22% in 2004. 
+* The percentage of hate crimes motivated by religious bias 
+was nearly three times higher in 2012 (28%) than in 2004 
+(10%), but did not have a statistically significant change 
+from 2011 to 2012.
+
+* In 2009, Congress passed new legislation amending the Hate 
+Crime Statistics Act to include hate crimes with evidence of 
+bias against a particular gender or gender identity. BJS has 
+been collecting information on hate crimes motivated by 
+gender bias since 2003. The percentage of hate crimes 
+motivated by gender bias was more than two times higher in 
+2011 (25%) and 2012 (26%) than in 2004 (12%). 
+
+******************************************** 
+Differences between hate and nonhate crimes
+********************************************
+
+* Each year from 2004 to 2012, violent crimes accounted for a 
+higher percentage of hate crimes than nonhate crimes (table 
+3).
+
+* The percentage of hate crimes involving violence increased 
+from 78% in 2004 to 90% in both 2011 and 2012. However, no 
+statistically significant difference was observed in the 
+percentage of hate crimes involving serious violence or 
+simple assault in these years.
+
+* In 2012, serious violent crime accounted for a higher 
+percentage of all hate crime victimizations (27%) than 
+nonhate crime victimizations (8%).
+
+* In 2012, no statistically significant difference was 
+observed between the percentage of violent hate crimes (30%) 
+and violent nonhate crimes (31%) that involved serious 
+violence (not shown in table).
+
+**********************
+Weapons and injuries
+**********************
+
+* In 2012, the offender had a weapon in at least 24% of 
+violent hate crime victimizations (table 4). 
+
+* No statistically significant difference was reported 
+between the percentage of violent hate (24%) and violent 
+nonhate (20%) crime victimizations in which the offender was 
+known to have a weapon in 2012.
+
+* The percentage of violent hate and violent nonhate crime 
+victimizations in which the offender was known to have a 
+weapon remained stable from 2011 to 2012. 
+
+* In 2012, the victim sustained an injury in about 20% of 
+violent hate crime victimizations.
+ 
+* No statistically significant difference was observed in 
+2012 between the percentage of violent hate (20%) and violent 
+nonhate (24%) crime victimizations in which the victim 
+sustained an injury.
+
+* The percentage of violent hate and violent nonhate crime 
+victimizations in which the victim sustained an injury 
+remained stable from 2011 to 2012. 
+
+***********************************
+Hate crimes reported to the police
+***********************************
+
+* An estimated 60% of total and violent hate crime 
+victimizations were not reported to police in 2012 (table 5). 
+This was a slight decline from 2011, when about three-
+quarters of total (74%) and violent (73%) hate crime 
+victimizations were not reported to police.
+
+* Overall, the percentage of hate crime victimizations that 
+resulted in the victim signing a complaint or the police 
+making an arrest did not have a statistically significant 
+change from 2011 to 2012.
+
+*********************************
+Violent hate crime victim 
+and offender characteristics
+*********************************
+
+* From 2011 to 2012, rates of violent hate crime 
+victimization did not have a statistically significant change 
+for either males or females (table 6).
+
+* In 2011, violent hate crime victimization rates were 
+similar among white non-Hispanics, black non-Hispanics, and 
+Hispanics. However, in 2012, Hispanics experienced a higher 
+rate of violent hate crime victimization (2.0 victimizations 
+per 1,000 residents) than whites (0.8 per 1,000) and a 
+slightly higher rate than blacks (1.1 per 1,000). 
+
+* The rate of violent hate crime victimization against 
+Hispanics more than tripled from 0.6 per 1,000 persons age 12 
+or older in 2011 to 2.0 per 1,000 in 2012.
+
+* The rate of violent hate crime victimization increased for 
+persons ages 18 to 24 (from 0.6 per 1,000 in 2011 to 2.0 in 
+2012) and for persons ages 50 to 64 (from 0.4 to 0.9 per 
+1,000), while the rate declined for persons ages 25 to 34 
+(from 1.6 to 0.7 per 1,000). Violent hate crime victimization 
+rates for persons in all other age groups did not have a 
+statistically significant change from 2011 to 2012.
+
+* Persons residing in households with an income greater than 
+$50,000 per year experienced a higher rate of violent hate 
+crime victimization in 2012 (1.0 per 1,000) than in 2011 (0.4 
+per 1,000).
+
+* In both 2011 and 2012, persons living in households with an 
+income of $24,999 or less per year experienced the highest 
+rate of violent hate crime victimization (2.1 per 1,000), 
+compared to persons residing in all other households (1.0 or 
+less per 1,0001).
+
+* From 2011 to 2012, no statistically significant change was 
+observed in the percentage of violent hate crimes committed 
+by either a single offender or by multiple offenders (table 
+7). 
+
+* In 2012, the percentage of violent hate crimes committed by 
+a single offender (64%) was higher than the percentage 
+committed by two or more offenders (34%). 
+
+* Each year from 2004 to 2012, victims reported that males 
+committed the majority of violent hate crimes.
+
+* The percentage of violent hate crime victims who perceived 
+the offender to be white decreased from 58% in 2011 to 34% in 
+2012. However, the percentage of white offenders was similar 
+in 2004 and 2012.
+
+* The percentage of offenders ages 18 to 29 declined from 29% 
+in 2011 to 13% in 2012. In 2012, persons age 30 and over made 
+up the largest percentage of hate crime offenders (41%).
+
+* In 2012, the percentage of violent hate crimes committed by 
+someone known to the victim was slightly higher (53%) than 
+the percentage committed by a stranger (40%).
+
+*****************************************
+Hate crimes recorded by the NCVS and UCR
+*****************************************
+
+* The FBI’s UCR collects data on hate crimes known to the 
+police. It includes offenses excluded from the NCVS, such as 
+murder or nonnegligent manslaughter, intimidation, arson, 
+vandalism, and crimes against institutions (e.g., churches, 
+synagogues, and businesses). The NCVS collects data on hate 
+crimes both reported and not reported to police and allows 
+the victim to define whether a hate crime occurred.
+
+* Hate crime victimizations recorded by the UCR declined 
+steadily from 2008 to 2012 (table 8). However, no 
+statistically significant change was observed in NCVS hate 
+crime victimizations reported to police from 2008 to 2012. 
+
+* UCR hate crime victimizations were lower in 2012 than in 
+2004.  No statistically significant difference was observed 
+between the number of NCVS hate crime victimizations reported 
+to police in 2004 (127,390) and 2012 (98,460).
+
+* Based on data from the NCVS, persons age 12 or older 
+experienced an annual average of 269,140 hate crime 
+victimizations from 2004 to 2012, of which 105,890 were 
+reported to police (figure 2). 
+
+* According to the NCVS, an annual average of 14,380 hate 
+crime victimizations were confirmed by police investigators 
+from 2004 to 2012. This estimate was not statistically 
+different from the FBI’s UCR annual average number of hate 
+crime victims (8,770) during the same period.
+
+*************
+Methodology
+************
+
+Survey coverage
+****************
+
+The National Crime Victimization Survey (NCVS) is an annual 
+data collection conducted by the U.S. Census Bureau for the 
+Bureau of Justice Statistics (BJS). The NCVS is a self-report 
+survey in which interviewed persons are asked about the 
+number and characteristics of victimizations experienced 
+during the prior 6 months. The NCVS collects information on 
+nonfatal personal crimes (rape or sexual assault, robbery, 
+aggravated and simple assault, and personal larceny) and 
+household property crimes (burglary, motor vehicle theft, and 
+other theft) both reported and not reported to police. In 
+addition to providing annual level and change estimates on 
+criminal victimization, the NCVS is the primary source of 
+information on the nature of criminal victimization 
+incidents.
+
+Survey respondents provide information about themselves 
+(e.g., age, sex, race and Hispanic origin, marital status, 
+education level, and income) and whether they experienced a 
+victimization. Information is collected for each 
+victimization incident about the offender (e.g., age, race 
+and Hispanic origin, sex, and victim-offender relationship), 
+characteristics of the crime (including time and place of 
+occurrence, use of weapons, nature of injury, and economic 
+consequences), whether the crime was reported to police, 
+reasons the crime was or was not reported, and experiences 
+with the criminal justice system.
+
+The NCVS is administered to persons age 12 or older from a 
+nationally representative sample of households in the United 
+States. The NCVS defines a household as a group of members 
+who all reside at a sampled address. Persons are considered 
+household members when the sampled address is their usual 
+place of residence at the time of the interview and when they 
+have no usual place of residence elsewhere. Once selected, 
+households remain in the sample for 3 years, and eligible 
+persons in these households are interviewed every 6 months 
+either in-person or over the phone, for a total of seven 
+interviews. 
+
+Generally, all first interviews are conducted in-person. New 
+households rotate into the sample on an ongoing basis to 
+replace outgoing households that have been in the sample for 
+the 3-year period. The sample includes persons living in 
+group quarters, such as dormitories, rooming houses, and 
+religious group dwellings, and excludes persons living in 
+military barracks and institutional settings, such as 
+correctional or hospital facilities, and the homeless. (For 
+more information, see the Survey Methodology for Criminal 
+Victimization in the United States, 2008, NCJ 231173, BJS 
+web, May 2011.)
+
+Nonresponse and weighting adjustments
+**************************************
+
+In 2012, 92,390 households and 162,940 persons age 12 or 
+older were interviewed for the NCVS. Each household was 
+interviewed twice during the year. The response rate was 87% 
+for households and 87% for eligible persons. Victimizations 
+that occurred outside of the United States were excluded from 
+this report. In 2012, less than 1% of the unweighted 
+victimizations occurred outside of the United States and were 
+excluded from the analyses.
+
+Estimates in this report use data from the 2003 to 2012 NCVS 
+data files, weighted to produce annual estimates of 
+victimization for persons age 12 or older living in U.S. 
+households. Because the NCVS relies on a sample rather than a 
+census of the entire U.S. population, weights are designed to 
+inflate sample point estimates to known population totals and 
+to compensate for survey nonresponse and other aspects of the 
+sample design.
+
+The NCVS data files include both household and person 
+weights. The household weight is commonly used to calculate 
+estimates of property crimes, such as motor vehicle theft or 
+burglary, which are identified within the household. Person 
+weights provide an estimate of the population represented by 
+each person in the sample. After proper adjustment, both 
+household and person weights are also typically used to form 
+the denominator in calculations of crime rates.
+
+The victimization weights used in this analysis account for 
+the number of persons present during an incident and for 
+high-frequency repeat victimizations (or series 
+victimizations). Series victimizations are similar in type 
+but occur with such frequency that a victim is unable to 
+recall each individual event or describe each event in 
+detail. Survey procedures allow NCVS interviewers to identify 
+and classify these similar victimizations as series 
+victimizations and to collect detailed information on only 
+the most recent incident in the series.
+
+The weight counts series incidents as the actual number of 
+incidents reported by the victim, up to a maximum of ten 
+incidents. Including series victimizations in national rates 
+results in rather large increases in the level of violent 
+victimization. However, trends in violence are generally 
+similar regardless of whether series victimizations are 
+included.
+
+In 2012, series incidents accounted for about 1% of all 
+victimizations and 4% of all violent victimizations. 
+Weighting series incidents as the number of incidents up to a 
+maximum of ten produces more reliable estimates of crime 
+levels, while the cap at ten minimizes the effect of extreme 
+outliers on the rates. Additional information on the series 
+enumeration is detailed in the report Methods for Counting 
+High Frequency Repeat Victimizations in the National Crime 
+Victimization Survey, NCJ 237308, BJS web, April 2012. 
+Due to slight revisions in the public use file weights, 2011 
+victimization estimates may vary slightly from previous 
+publications. These differences were determined to be 
+statistically insignificant changes.
+
+Standard error computations
+****************************
+
+When national estimates are derived from a sample, as with 
+the NCVS, caution must be taken when comparing one estimate 
+to another estimate or when comparing estimates over time. 
+Although one estimate may be larger than another, estimates 
+based on a sample have some degree of sampling error. The 
+sampling error of an estimate depends on several factors, 
+including the amount of variation in the responses and the 
+size of the sample. When the sampling error around an 
+estimate is taken into account, the estimates that appear 
+different may not be statistically different.
+
+One measure of the sampling error associated with an estimate 
+is the standard error. The standard error can vary from one 
+estimate to the next. In general, for a given metric, an 
+estimate with a smaller standard error provides a more 
+reliable approximation of the true value than an estimate 
+with a larger standard error. Estimates with relatively large 
+standard errors are associated with less precision and 
+reliability and should be interpreted with caution.
+
+In order to generate standard errors around numbers and 
+estimates from the NCVS, the Census Bureau produced 
+generalized variance function (GVF) parameters for BJS. The 
+GVFs take into account aspects of the NCVS complex sample 
+design and represent the curve fitted to a selection of 
+individual standard errors based on the Jackknife Repeated 
+Replication technique. The GVF parameters were used to 
+generate standard errors for each point estimate (e.g., 
+counts, percentages, and rates) in this report. 
+
+In this report, BJS conducted tests to determine whether 
+differences in estimated numbers and percentages were 
+statistically significant once sampling error was taken into 
+account. Using statistical programs developed specifically 
+for the NCVS, BJS tested the significance of all comparisons 
+in the text. The Student’s t-statistic was the primary test 
+procedure, which tests the difference between two sample 
+estimates. To ensure that the observed differences between 
+estimates were larger than might be expected due to sampling 
+variation, the significance level was set at the 95% 
+confidence level.  Differences described as slight or 
+slightly passed a test at the 0.10 level of statistical 
+significance (90% confidence level). Caution is required when 
+comparing estimates not explicitly discussed in this report.
+
+Data users can use the estimates and the standard errors of 
+the estimates provided in this report to generate a 
+confidence interval around the estimate as a measure of the 
+margin of error. The following example illustrates how 
+standard errors can be used to generate confidence intervals:
+
+* According to the NCVS, in 2012, the violent hate crime 
+victimization rate among persons age 12 or older was 1.0 per 
+1,000 persons (see table 1). Using the GVFs, BJS determined 
+that the estimate has a standard error of 0.1 (see appendix 
+table 3). A confidence interval around the estimate was 
+generated by multiplying the standard errors by ±1.96 (the t-
+score of a normal, two-tailed distribution that excludes 2.5% 
+at either end of the distribution). Therefore, the 95% 
+confidence interval around the 1.0 estimate from 2012 is 1.0 
+± (0.1 X 1.96) or (0.8 to 1.2). In other words, if different 
+samples using the same procedures were taken from the U.S. 
+population in 2012, 95% of the time the violent hate crime 
+victimization rate would fall between 0.8 and 1.2 per 1,000 
+persons.
+
+In this report, a coefficient of variation (CV) for all 
+estimates, representing the ratio of the standard error to 
+the estimate, was also calculated for all estimates. CVs 
+provide a measure of reliability and a means to compare the 
+precision of estimates across measures with differing levels 
+or metrics. In cases where the CV was greater than 50%, or 
+the unweighted sample had 10 or fewer cases, the estimate was 
+noted with a “!” symbol (Interpret data with caution; 
+estimate based on 10 or fewer sample cases, or the 
+coefficient of variation is greater than 50%).
+
+Uniform Crime Reports (UCR) 
+****************************
+
+The UCR Hate Crime Statistics Program captures information 
+about the types of bias that motivate hate crimes, the nature 
+of the offenses, and some information about the victims and 
+offenders by attaching the collection of hate crime 
+statistics to the established UCR data collection procedures. 
+The hate crime data presented here comprise a subset of 
+information that law enforcement agencies submit to the UCR 
+program.
+
+Crimes reported to the FBI involve those motivated by biases 
+based on race, religion, sexual orientation, ethnicity/ 
+national origin, and disability. Forthcoming data collection 
+changes will allow the reporting of crimes motivated by 
+gender and gender identity bias, as well as crimes committed 
+by and directed against juveniles. The victim of a hate crime 
+may be an individual, business, institution, or society as a 
+whole. In UCR data, law enforcement specifies the number of 
+offenders and, when possible, the race of the offender or 
+offenders as a group. Agencies that participated in the Hate 
+Crime Statistics Program in 2012 represented nearly 249 
+million residents, or 79.3% percent of the nation’s 
+population, covering 48 states and the District of Columbia. 
+
+Hate crime legislation 
+***********************
+
+On April 23, 1990, Congress passed the Hate Crime Statistics 
+Act, which requires the Attorney General to collect data 
+“about crimes that manifest evidence of prejudice based on 
+race, religion, sexual orientation, or ethnicity.” The 
+Attorney General delegated the responsibilities of developing 
+the procedures for implementing, collecting, and managing 
+hate crime data to the director of the FBI, who in turn 
+assigned the tasks to the UCR program. Under the direction of 
+the Attorney General and with the cooperation and assistance 
+of many local and state law enforcement agencies, the UCR 
+program created a hate crime data collection to comply with 
+the congressional mandate.
+
+In September 1994, lawmakers amended the Hate Crime 
+Statistics Act to include bias against persons with 
+disabilities in the Violent Crime Control and Law Enforcement 
+Act of 1994. The FBI started gathering data for the 
+additional bias type on January 1, 1997.
+
+The Church Arson Prevention Act, which was signed into law in 
+July 1996, removed the sunset clause from the original 
+statute and mandated that the collection of hate crime data 
+become a permanent part of the UCR program.
+
+In 2009, Congress further amended the Hate Crime Statistics 
+Act by passing the Matthew Shepard and James Byrd, Jr. Hate 
+Crime Prevention Act. The amendment includes the collection 
+of data for crimes motivated by bias against a particular 
+gender and gender identity, as well as for crimes committed 
+by, and crimes directed against, juveniles. The FBI is 
+currently making plans to implement changes to collect these 
+data.
+
+The Hate Crime Statistics Act can be accessed at 
+http://www2.fbi.gov/ucr/hc2009/hatecrimestatistics.html.
+
+****************************************************
+The Bureau of Justice Statistics, located in the Office of 
+Justice Programs, U.S. Department of Justice, collects, 
+analyzes, and disseminates statistical information on crime, 
+criminal offenders, victims of crime, and the operation of 
+justice systems at all levels of government. William J. Sabol 
+is acting director.
+
+This report was written by Meagan Meuchel Wilson, on detail 
+from the U.S. Census Bureau. Lynn Langton verified the 
+report.
+
+Morgan Young and Jill Thomas edited the report. Barbara Quinn 
+produced the report.
+
+February 2014, NCJ 244409
+*****************************************************
+
+**************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+**************************************************
+
+**********************
+2/5/2014/JER/12:33pm
+**********************
+
+

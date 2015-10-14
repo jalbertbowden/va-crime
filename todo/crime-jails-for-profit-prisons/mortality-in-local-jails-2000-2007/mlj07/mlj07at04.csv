@@ -1,0 +1,34 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,
+filename: mlj07at04.csv,,,,,,,,,,,,,,,,,
+"Appendix table 4. Percent of local jail inmate deaths, by cause and year, 2000–2007",,,,,,,,,,,,,,,,,
+"report title: Mortality in Local Jails, 2000-2007",,,,,,,,,,,,,,,,,
+data source: Deaths in Custody Reporting Program,,,,,,,,,,,,,,,,,
+author: Margaret E. Noonan,,,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,,,,,,,,,,,,,
+date of version: 10-27-2010,,,,,,,,,,,,,,,,,
+"Appendix table 4. Percent of local jail inmate deaths, by cause and year, 2000–2007",,,,,,,,,,,,,,,,,
+Cause of death,,,,,,,,,,,,,,,,,
+,,Number of deaths 2000-2007,2000,,2001,,2002,,2003,,2004,,2005,,2006,,2007
+,All causes,"8,097",904,,944,,972,,"1,004",,"1,024",,"1,049",,"1,098",,"1,102"
+Suicide,,"2,361",32,%,33.3,%,32.3,%,29.5,%,29.2,%,27.3,%,25.3,%,25.9
+Illness,Heart disease,"4,281",57.1,%,51.7,%,52.3,%,51.2,%,52.1,%,48,%,55.5,%,55.3
+,AIDS,"1,788",21.9,,22.9,,22.7,,24,,22.2,,19.4,,22.8,,21.1
+,Cancer,410,6.3,,6.3,,5.2,,5.4,,5.1,,3.8,,4.9,,3.9
+,Liver disease,274,3.4,,2.6,,4,,3.4,,2.7,,3.5,,3.5,,3.8
+,Cebrovascular diseases,235,2.7,,2.9,,2.6,,3,,3.2,,3.1,,2.3,,3.5
+,Respiratory diseases/a,165,1.7,,1.9,,2.3,,1.8,,1.9,,1.5,,2.7,,2.5
+,Digestive diseases/b,129,2.1,,1.1,,1.2,,1.2,,2,,1.3,,1.5,,2.4
+,Septicemia,125,1.7,,1.7,,0.8,,1.2,,1.6,,1.3,,2,,2
+,Chronic substance abuse/c,84,1.5,,1,,1.1,,1.2,,0.5,,0.6,,1.5,,1
+,Influenza/pneumonia,84,0.3,,1.1,,1.4,,0.7,,1.1,,0.9,,1.5,,1.2
+,All other illnesses/d,103,1.4,,1,,1.1,,1.1,,1.6,,0.8,,1.1,,2.1
+,,884,14,,9.4,,9.7,,8.3,,10.4,,11.9,,11.7,,11.9
+Intoxication,,567,4.1,,6.1,,5.7,,8.9,,7.5,,8,,7.9,,7.2
+Accidental,,229,2.8,,3.7,,3.6,,2.8,,3.1,,2.3,,2.9,,1.6
+Homicide,,171,1.9,,2,,1.9,,1.5,,2.3,,2.1,,3.3,,1.8
+Other/unknown,,489,2.2,,3.2,,4.3,,6.2,,5.8,,12.3,,5.1,,8.3
+"Note: Mortality rates are based on the average daily population (ADP). In 2000 and 2001, ADP was estimated by taking the average of January 1 and December 31 one-day inmate population counts. See appendix table 2 for the number of deaths by cause.",,,,,,,,,,,,,,,,,
+a/Excludes influenza and pneumonia.,,,,,,,,,,,,,,,,,
+b/Excludes diseases of the liver.,,,,,,,,,,,,,,,,,
+c/Excludes acute intoxication deaths. ,,,,,,,,,,,,,,,,,
+d/Includes other specified (such as diabetes and hepatitis) and unspecified or unknown illnesses. See appendix tables 2 and 3 of this report for a list of the more than 50 illnesses reported to the program. See Methodology for details on illness classifications.,,,,,,,,,,,,,,,,,

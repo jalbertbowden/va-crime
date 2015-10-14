@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+<Placemark>
+	<name>Accomack County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510010904004094/">510010904004094</a></div><div>County: Accomack County</div><div>2010 Correctional Population: 92</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-75.670244,37.721716</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Albermarle-Charlottesville Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510030113031007/">510030113031007</a></div><div>County: Albemarle County</div><div>2010 Correctional Population: 560</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.502892,38.003879</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Amherst County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510090102003005/">510090102003005</a></div><div>County: Amherst County</div><div>2010 Correctional Population: 64</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.048672,37.584504</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Lynchburg Adult Detention Center</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510090105021010/">510090105021010</a></div><div>County: Amherst County</div><div>2010 Correctional Population: 425</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.122740,37.411484</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Arlington County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510131017013001/">510131017013001</a></div><div>County: Arlington County</div><div>2010 Correctional Population: 544</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.083315,38.890248</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Augusta Correctional Facility</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510150701004000/">510150701004000</a></div><div>County: Augusta County</div><div>2010 Correctional Population: 1153</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-79.363406,38.063409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Staunton Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510150707003036/">510150707003036</a></div><div>County: Augusta County</div><div>2010 Correctional Population: 729</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-79.010219,38.193744</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Cold Springs Unit # 10</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510150710003048/">510150710003048</a></div><div>County: Augusta County</div><div>2010 Correctional Population: 256</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-79.154149,37.991799</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Moneta Adult Detention Facility</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510190305042046/">510190305042046</a></div><div>County: Bedford County</div><div>2010 Correctional Population: 75</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-79.616470,37.139316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Bland Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510210401003012/">510210401003012</a></div><div>County: Bland County</div><div>2010 Correctional Population: 637</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-80.888751,37.168554</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Botetourt County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510230403011068/">510230403011068</a></div><div>County: Botetourt County</div><div>2010 Correctional Population: 98</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.875080,37.501503</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Brunswick Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510259302021000/">510259302021000</a></div><div>County: Brunswick County</div><div>2010 Correctional Population: 132</div><div>Comment: Population is more than 500 lower than expected.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.814199,36.784673</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Lawrenceville Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510259302021008/">510259302021008</a></div><div>County: Brunswick County</div><div>2010 Correctional Population: 1583</div><div>Comment: Operated by Corrections Corporation of America</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.820331,36.779375</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Brunswick County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510259302031149/">510259302031149</a></div><div>County: Brunswick County</div><div>2010 Correctional Population: 47</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.847722,36.757492</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Keen Mountain Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510270106002028/">510270106002028</a></div><div>County: Buchanan County</div><div>2010 Correctional Population: 839</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-81.990703,37.217336</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Dillwyn Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510299302011043/">510299302011043</a></div><div>County: Buckingham County</div><div>2010 Correctional Population: 1098</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.470573,37.574544</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Buckingham Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510299302011059/">510299302011059</a></div><div>County: Buckingham County</div><div>2010 Correctional Population: 1075</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.474351,37.566442</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Campbell County Adult Detention</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510310201011075/">510310201011075</a></div><div>County: Campbell County</div><div>2010 Correctional Population: 140</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.102778,37.277434</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Rusburg Correctional Unit # 9</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510310201022043/">510310201022043</a></div><div>County: Campbell County</div><div>2010 Correctional Population: 133</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-79.068517,37.265608</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Peumansend Creek Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510330301002343/">510330301002343</a></div><div>County: Caroline County</div><div>2010 Correctional Population: 250</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.266389,38.113355</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Caroline Correctional Unit # 2</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510330306001043/">510330306001043</a></div><div>County: Caroline County</div><div>2010 Correctional Population: 129</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.321205,37.828373</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Charlotte County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510379302001001/">510379302001001</a></div><div>County: Charlotte County</div><div>2010 Correctional Population: 83</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.640611,37.047352</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description><div>Facility type: </div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510411002092004/">510411002092004</a></div><div>County: Chesterfield County</div><div>2010 Correctional Population: 5</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#unknownPoint</styleUrl>
+	<Point>
+	<coordinates>-77.536040,37.479619</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Chesterfield County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510411008172039/">510411008172039</a></div><div>County: Chesterfield County</div><div>2010 Correctional Population: 366</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.508022,37.378442</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Central Virginia Correctional Unit # 13 and Chesterfield Women&#039;s Diversion Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510411008212010/">510411008212010</a></div><div>County: Chesterfield County</div><div>2010 Correctional Population: 358</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.565413,37.387546</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description><div>Facility type: </div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510411009272000/">510411009272000</a></div><div>County: Chesterfield County</div><div>2010 Correctional Population: 3</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#unknownPoint</styleUrl>
+	<Point>
+	<coordinates>-77.670225,37.454085</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: White Post Detention Center and Diversion Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510430102003084/">510430102003084</a></div><div>County: Clarke County</div><div>2010 Correctional Population: 75</div><div>Comment: Population is lower than expected.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.134274,39.047968</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Culpeper County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510479302012006/">510479302012006</a></div><div>County: Culpeper County</div><div>2010 Correctional Population: 67</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.996766,38.473836</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Coffeewood Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510479305012036/">510479305012036</a></div><div>County: Culpeper County</div><div>2010 Correctional Population: 1196</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.017400,38.363797</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Haysi Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510510401002051/">510510401002051</a></div><div>County: Dickenson County</div><div>2010 Correctional Population: 256</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-82.286792,37.216310</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Dinwiddie County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510538406002095/">510538406002095</a></div><div>County: Dinwiddie County</div><div>2010 Correctional Population: 55</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.589078,37.074599</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fairfax County Adult Detention Center</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510594405023002/">510594405023002</a></div><div>County: Fairfax County</div><div>2010 Correctional Population: 1207</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.310950,38.844558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fauquier County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510619303021029/">510619303021029</a></div><div>County: Fauquier County</div><div>2010 Correctional Population: 96</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.798557,38.710995</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Fluvanna Women&#039;s Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510650201012059/">510650201012059</a></div><div>County: Fluvanna County</div><div>2010 Correctional Population: 1218</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.270193,37.982742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Franklin County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510670208004017/">510670208004017</a></div><div>County: Franklin County</div><div>2010 Correctional Population: 54</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.887938,36.993561</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Clark/Frederick/Winchester Regional Adult Facility</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510690511022024/">510690511022024</a></div><div>County: Frederick County</div><div>2010 Correctional Population: 519</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.146118,39.199055</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Gloucester County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510731002031007/">510731002031007</a></div><div>County: Gloucester County</div><div>2010 Correctional Population: 75</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.527733,37.419094</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Correctional Center for Women</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510754003001003/">510754003001003</a></div><div>County: Goochland County</div><div>2010 Correctional Population: 589</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.885423,37.671586</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>James River Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510754003001027/">510754003001027</a></div><div>County: Goochland County</div><div>2010 Correctional Population: 630</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.828913,37.644964</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>James River Work Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510754003001029/">510754003001029</a></div><div>County: Goochland County</div><div>2010 Correctional Population: 57</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.826842,37.644757</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>South Side Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510818801011355/">510818801011355</a></div><div>County: Greensville County</div><div>2010 Correctional Population: 223</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.517005,36.737023</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Greensville Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510818801021002/">510818801021002</a></div><div>County: Greensville County</div><div>2010 Correctional Population: 3276</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.482480,36.797002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Halifax Correctional Unit # 23</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510839306002017/">510839306002017</a></div><div>County: Halifax County</div><div>2010 Correctional Population: 165</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.931098,36.727034</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Halifax County Adult Detention Center</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510839306004034/">510839306004034</a></div><div>County: Halifax County</div><div>2010 Correctional Population: 161</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.939055,36.756489</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pamunkey Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510853207022021/">510853207022021</a></div><div>County: Hanover County</div><div>2010 Correctional Population: 448</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.347110,37.758518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Henrico County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510872004091039/">510872004091039</a></div><div>County: Henrico County</div><div>2010 Correctional Population: 679</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.516567,37.628691</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description><div>Facility type: </div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510872008041005/">510872008041005</a></div><div>County: Henrico County</div><div>2010 Correctional Population: 19</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#unknownPoint</styleUrl>
+	<Point>
+	<coordinates>-77.435637,37.600808</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Henry County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510890102001000/">510890102001000</a></div><div>County: Henry County</div><div>2010 Correctional Population: 188</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.897680,36.753573</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Patrick Henry Correctional Unit</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510890107001035/">510890107001035</a></div><div>County: Henry County</div><div>2010 Correctional Population: 115</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-79.956063,36.623775</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>James City County: Virginia Peninsula Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/510950801021068/">510950801021068</a></div><div>County: James City County</div><div>2010 Correctional Population: 432</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.603535,37.216480</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Lancaster County Correctional Center</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511030301002039/">511030301002039</a></div><div>County: Lancaster County</div><div>2010 Correctional Population: 25</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.454992,37.773969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>USP Lee</name>
+	<description><div>Facility type: Federal</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511059503003047/">511059503003047</a></div><div>County: Lee County</div><div>2010 Correctional Population: 1486</div><div>Comment: Facility is located directly to the east.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#federalPoint</styleUrl>
+	<Point>
+	<coordinates>-83.020917,36.701414</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Loudoun Adult Detention Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511076106043018/">511076106043018</a></div><div>County: Loudoun County</div><div>2010 Correctional Population: 170</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.543338,39.076043</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Lunenburg Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511119301003071/">511119301003071</a></div><div>County: Lunenburg County</div><div>2010 Correctional Population: 1173</div><div>Comment: Facility is actually located south of Rt. 49.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.209568,37.029740</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description><div>Facility type: </div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511139302004073/">511139302004073</a></div><div>County: Madison County</div><div>2010 Correctional Population: 3</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#unknownPoint</styleUrl>
+	<Point>
+	<coordinates>-78.277120,38.365559</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Bakersville Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511179303003127/">511179303003127</a></div><div>County: Mecklenburg County</div><div>2010 Correctional Population: 463</div><div>Comment: Facility is located directly to the south.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.286645,36.733843</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Mecklenburg Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511179306001057/">511179306001057</a></div><div>County: Mecklenburg County</div><div>2010 Correctional Population: 718</div><div>Comment: Facility is actually located directly to the south.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.350990,36.668574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Mecklenburg County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511179306002086/">511179306002086</a></div><div>County: Mecklenburg County</div><div>2010 Correctional Population: 129</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.392237,36.668595</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Middle Peninsula Regional Security Center</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511199510004067/">511199510004067</a></div><div>County: Middlesex County</div><div>2010 Correctional Population: 235</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.585742,37.608184</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Montgomery County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511210209001027/">511210209001027</a></div><div>County: Montgomery County</div><div>2010 Correctional Population: 84</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-80.407612,37.129978</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Regional Jail East</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511277003002060/">511277003002060</a></div><div>County: New Kent County</div><div>2010 Correctional Population: 447</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.862459,37.495071</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Northampton County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511319302003026/">511319302003026</a></div><div>County: Northampton County</div><div>2010 Correctional Population: 148</div><div>Comment: Population is higher than expected.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-75.946809,37.353895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Nottoway Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511350003005078/">511350003005078</a></div><div>County: Nottoway County</div><div>2010 Correctional Population: 1267</div><div>Comment: Facility is located to the south.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.175894,37.187129</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Nottoway Work Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511350003005080/">511350003005080</a></div><div>County: Nottoway County</div><div>2010 Correctional Population: 104</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.181637,37.186693</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Central Virginia Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511371103001054/">511371103001054</a></div><div>County: Orange County</div><div>2010 Correctional Population: 379</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.115917,38.229244</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Page County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511390302003009/">511390302003009</a></div><div>County: Page County</div><div>2010 Correctional Population: 75</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.467359,38.663010</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Patrick County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511410301005014/">511410301005014</a></div><div>County: Patrick County</div><div>2010 Correctional Population: 31</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-80.271955,36.642974</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pittsylvania County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511430105002029/">511430105002029</a></div><div>County: Pittsylvania County</div><div>2010 Correctional Population: 119</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.396361,36.827066</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Green Rock Correctional Center and Chatham Diversion Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511430105003170/">511430105003170</a></div><div>County: Pittsylvania County</div><div>2010 Correctional Population: 496</div><div>Comment: Green Rock population is several hundred lower than expected, but may be because it&amp;#039;s a relatively new facility opened in 2007.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-79.423449,36.797980</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Powhatan Correctional Center and Reception and Classification Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511455003001030/">511455003001030</a></div><div>County: Powhatan County</div><div>2010 Correctional Population: 619</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.830487,37.625842</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Powhatan Correctional Center and Reception and Classification Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511455003001031/">511455003001031</a></div><div>County: Powhatan County</div><div>2010 Correctional Population: 654</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.835122,37.625516</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Deep Meadow Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511455003001043/">511455003001043</a></div><div>County: Powhatan County</div><div>2010 Correctional Population: 748</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.851199,37.623058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Piedmont Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511479302011027/">511479302011027</a></div><div>County: Prince Edward County</div><div>2010 Correctional Population: 725</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.421147,37.321096</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>FCC Petersburg (Low, Med., and Camp)</name>
+	<description><div>Facility type: Federal</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511498501001005/">511498501001005</a></div><div>County: Prince George County</div><div>2010 Correctional Population: 3207</div><div>Comment: Facility is located in the space carved into the middle of this block.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#federalPoint</styleUrl>
+	<Point>
+	<coordinates>-77.339164,37.308388</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Riverside Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511498501001007/">511498501001007</a></div><div>County: Prince George County</div><div>2010 Correctional Population: 1255</div><div>Comment: Facility is located in the adjacent block.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.339308,37.306490</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Petersburg City Jail Annex</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511498505021041/">511498505021041</a></div><div>County: Prince George County</div><div>2010 Correctional Population: 33</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.281996,37.178328</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Prince William County/Manassas City Regional Detention Center</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511539012321000/">511539012321000</a></div><div>County: Prince William County</div><div>2010 Correctional Population: 842</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.479646,38.753016</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>New River Valley Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511552106001064/">511552106001064</a></div><div>County: Pulaski County</div><div>2010 Correctional Population: 691</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-80.681460,37.082555</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Rappahannock County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511579501002182/">511579501002182</a></div><div>County: Rappahannock County</div><div>2010 Correctional Population: 27</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.159296,38.711534</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Northern Neck Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511590401003049/">511590401003049</a></div><div>County: Richmond County</div><div>2010 Correctional Population: 383</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.788222,37.963634</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Haynesville Correctional Unit #17</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511590402001003/">511590402001003</a></div><div>County: Richmond County</div><div>2010 Correctional Population: 104</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-76.664316,37.969190</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC Haynesville Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511590402001004/">511590402001004</a></div><div>County: Richmond County</div><div>2010 Correctional Population: 1164</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-76.670281,37.957642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Western Virginia Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511610305002064/">511610305002064</a></div><div>County: Roanoke County</div><div>2010 Correctional Population: 832</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-80.170296,37.249576</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Rockbridge County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511639301003036/">511639301003036</a></div><div>County: Rockbridge County</div><div>2010 Correctional Population: 88</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.420360,37.802402</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Harrisonburg Men&#039;s Diversion Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511650106001099/">511650106001099</a></div><div>County: Rockingham County</div><div>2010 Correctional Population: 88</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-78.817633,38.531742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description><div>Facility type: </div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511650114001009/">511650114001009</a></div><div>County: Rockingham County</div><div>2010 Correctional Population: 37</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#unknownPoint</styleUrl>
+	<Point>
+	<coordinates>-78.890258,38.464823</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Russell County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511670302006017/">511670302006017</a></div><div>County: Russell County</div><div>2010 Correctional Population: 56</div><div>Comment: Population is roughly half expected population.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-82.076545,36.907574</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Appalachian Detention Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511670304022043/">511670304022043</a></div><div>County: Russell County</div><div>2010 Correctional Population: 104</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-81.918022,36.993133</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Southwest Virginia Regional Jail Authority- Duffield</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511690302001005/">511690302001005</a></div><div>County: Scott County</div><div>2010 Correctional Population: 450</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-82.820663,36.746469</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Shenandoah County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511710405002025/">511710405002025</a></div><div>County: Shenandoah County</div><div>2010 Correctional Population: 91</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.506641,38.881463</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Marion Correctional Treatment Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511730305001038/">511730305001038</a></div><div>County: Smyth County</div><div>2010 Correctional Population: 199</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-81.508701,36.829892</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Deerfield Correctional Center and Southampton Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511752003001007/">511752003001007</a></div><div>County: Southampton County</div><div>2010 Correctional Population: 1149</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.244994,36.729848</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Southampton Pre-Rlease/Southampton Work Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511752003001008/">511752003001008</a></div><div>County: Southampton County</div><div>2010 Correctional Population: 134</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.254405,36.724846</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Southampton County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511752003001014/">511752003001014</a></div><div>County: Southampton County</div><div>2010 Correctional Population: 100</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.262040,36.715359</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Southampton County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511752004001172/">511752004001172</a></div><div>County: Southampton County</div><div>2010 Correctional Population: 81</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.067896,36.714361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Stafford Detention Center</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511790101061009/">511790101061009</a></div><div>County: Stafford County</div><div>2010 Correctional Population: 81</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.420641,38.372418</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Marine Corps Military Jail</name>
+	<description><div>Facility type: Military</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511790102011248/">511790102011248</a></div><div>County: Stafford County</div><div>2010 Correctional Population: 22</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#otherPoint</styleUrl>
+	<Point>
+	<coordinates>-77.315711,38.487640</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Rappahannock Regional Jail and Annex</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511790102042000/">511790102042000</a></div><div>County: Stafford County</div><div>2010 Correctional Population: 1315</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.415594,38.415240</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Sussex II</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511838702011029/">511838702011029</a></div><div>County: Sussex County</div><div>2010 Correctional Population: 1274</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.215996,37.052116</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Sussex County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511838702012204/">511838702012204</a></div><div>County: Sussex County</div><div>2010 Correctional Population: 87</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.280009,36.915071</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Sussex I</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511838702021002/">511838702021002</a></div><div>County: Sussex County</div><div>2010 Correctional Population: 1082</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-77.210238,37.041835</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pocahontas Correctional Center</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511850201001002/">511850201001002</a></div><div>County: Tazewell County</div><div>2010 Correctional Population: 1023</div><div>Comment: This facility is actually located slightly to the southwest, bordering this block.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-81.362895,37.312359</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Warren County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511870205003034/">511870205003034</a></div><div>County: Warren County</div><div>2010 Correctional Population: 126</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.192515,38.917416</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Southwest Virginia Regional Jail- Abington</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511910105021000/">511910105021000</a></div><div>County: Washington County</div><div>2010 Correctional Population: 617</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-81.912384,36.731363</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Red Onion State Prison</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511959307003000/">511959307003000</a></div><div>County: Wise County</div><div>2010 Correctional Population: 776</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-82.549916,37.111700</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wallens Ridge State Prison</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511959312002015/">511959312002015</a></div><div>County: Wise County</div><div>2010 Correctional Population: 1138</div><div>Comment: This facility is actually located to the southwest on dogwood drive.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-82.770881,36.854230</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wise Correctional Unit</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/511959315004007/">511959315004007</a></div><div>County: Wise County</div><div>2010 Correctional Population: 103</div><div>Comment: This facility is actually located slightly south, on the same side of highway 72.</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-82.461477,36.920887</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Alexandria City Detention Center</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/515102007021016/">515102007021016</a></div><div>County: Alexandria city</div><div>2010 Correctional Population: 400</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.068725,38.799270</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Bedford County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/515150501001030/">515150501001030</a></div><div>County: Bedford city</div><div>2010 Correctional Population: 93</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.508861,37.337445</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Bristol City Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/515200202004082/">515200202004082</a></div><div>County: Bristol city</div><div>2010 Correctional Population: 124</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-82.180665,36.596954</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Chesapeake City Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/515500210052009/">515500210052009</a></div><div>County: Chesapeake city</div><div>2010 Correctional Population: 1035</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.253921,36.719856</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>VA DOC: Indian Creek and St. Brides</name>
+	<description><div>Facility type: State</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/515500211023001/">515500211023001</a></div><div>County: Chesapeake city</div><div>2010 Correctional Population: 1514</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#statePoint</styleUrl>
+	<Point>
+	<coordinates>-76.176225,36.603421</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Alleghany County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/515800602001011/">515800602001011</a></div><div>County: Covington city</div><div>2010 Correctional Population: 86</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.995526,37.793150</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Danville City Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/515900005002013/">515900005002013</a></div><div>County: Danville city</div><div>2010 Correctional Population: 243</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.391459,36.586258</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Danville City Prison Farm</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/515900013021065/">515900013021065</a></div><div>County: Danville city</div><div>2010 Correctional Population: 163</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.376394,36.585272</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<description><div>Facility type: </div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/516200901003027/">516200901003027</a></div><div>County: Franklin city</div><div>2010 Correctional Population: 2</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#unknownPoint</styleUrl>
+	<Point>
+	<coordinates>-76.937091,36.691888</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hampton City Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/516500106012023/">516500106012023</a></div><div>County: Hampton city</div><div>2010 Correctional Population: 243</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.346649,37.026724</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Rockingham Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/516600003024001/">516600003024001</a></div><div>County: Harrisonburg city</div><div>2010 Correctional Population: 303</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-78.870986,38.449294</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Blue Ridge Regional Jail Authority</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/516800006003012/">516800006003012</a></div><div>County: Lynchburg city</div><div>2010 Correctional Population: 535</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.145115,37.412650</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Martinsville Prison Farm</name>
+	<description><div>Facility type: </div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/516900001001054/">516900001001054</a></div><div>County: Martinsville city</div><div>2010 Correctional Population: 42</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#unknownPoint</styleUrl>
+	<Point>
+	<coordinates>-79.866570,36.705427</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Martinsville City Sheriffs Department</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/516900003002019/">516900003002019</a></div><div>County: Martinsville city</div><div>2010 Correctional Population: 98</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.874802,36.690214</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Newport News City Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517000301003047/">517000301003047</a></div><div>County: Newport News city</div><div>2010 Correctional Population: 435</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.429659,36.978418</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Newport County Courthouse</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517000301003048/">517000301003048</a></div><div>County: Newport News city</div><div>2010 Correctional Population: 89</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.429516,36.977361</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Newport News City Prison Farm</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517000320023016/">517000320023016</a></div><div>County: Newport News city</div><div>2010 Correctional Population: 87</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.531377,37.082476</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Norfolk Naval Station Jail</name>
+	<description><div>Facility type: Military</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517100009011009/">517100009011009</a></div><div>County: Norfolk city</div><div>2010 Correctional Population: 43</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#otherPoint</styleUrl>
+	<Point>
+	<coordinates>-76.304431,36.929541</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Norfolk Naval Station Jail</name>
+	<description><div>Facility type: Military</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517100009011014/">517100009011014</a></div><div>County: Norfolk city</div><div>2010 Correctional Population: 305</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#otherPoint</styleUrl>
+	<Point>
+	<coordinates>-76.298897,36.930109</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Rehabilitation Services</name>
+	<description><div>Facility type: Private</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517100036001021/">517100036001021</a></div><div>County: Norfolk city</div><div>2010 Correctional Population: 33</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#otherPoint</styleUrl>
+	<Point>
+	<coordinates>-76.289207,36.868126</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Norfolk Municipal Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517100049002011/">517100049002011</a></div><div>County: Norfolk city</div><div>2010 Correctional Population: 1353</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.285436,36.845281</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Petersburg City Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517308113001054/">517308113001054</a></div><div>County: Petersburg city</div><div>2010 Correctional Population: 174</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.403255,37.230765</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Portsmouth City Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517402109001031/">517402109001031</a></div><div>County: Portsmouth city</div><div>2010 Correctional Population: 473</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.297280,36.834251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hampton Roads Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517402127011007/">517402127011007</a></div><div>County: Portsmouth city</div><div>2010 Correctional Population: 1369</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.361014,36.806523</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Richmond City Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517600204005003/">517600204005003</a></div><div>County: Richmond city</div><div>2010 Correctional Population: 1476</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-77.423075,37.548224</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Roanoke City Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517700011001035/">517700011001035</a></div><div>County: Roanoke city</div><div>2010 Correctional Population: 555</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-79.947133,37.271182</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Roanoke County Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/517750101003035/">517750101003035</a></div><div>County: Salem city</div><div>2010 Correctional Population: 116</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-80.053687,37.294006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Western Tidewater Regional Jail</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/518000754012001/">518000754012001</a></div><div>County: Suffolk city</div><div>2010 Correctional Population: 762</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.580330,36.762527</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Virginia Beach Municipal Correctional Center</name>
+	<description><div>Facility type: Local</div><div>Geoid: <a href="http://www.prisonersofthecensus.org/data/2010blocks/518100454232045/">518100454232045</a></div><div>County: Virginia Beach city</div><div>2010 Correctional Population: 1358</div></description>
+	<styleUrl>http://www.prisonersofthecensus.org/locator2010/map_styles.kml?v=10#localPoint</styleUrl>
+	<Point>
+	<coordinates>-76.061695,36.752001</coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>

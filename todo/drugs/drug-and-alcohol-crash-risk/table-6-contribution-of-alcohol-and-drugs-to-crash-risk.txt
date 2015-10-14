@@ -1,0 +1,7 @@
+﻿Drug of Interest	Adjusted Odds Ratio	95% CI*	P Value
+No Alcohol / No Drug	1.00
+No Alcohol / Positive Drug	1.02	0.88 – 1.17	0.83
+Positive Alcohol (< 0.05) / No Drug	0.84	0.55 – 1.29	0.43
+Positive Alcohol (< 0.05) Positive Drug	1.03	0.55 – 1.94	0.93
+Positive Alcohol (≥ 0.05) / No Drug	6.75	4.20 – 10.84	<0.0001
+Positive Alcohol (≥ 0.05) / Positive Drug	5.34	2.75 – 10.37	<0.0001

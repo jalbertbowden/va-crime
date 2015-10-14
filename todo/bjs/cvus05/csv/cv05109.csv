@@ -1,0 +1,28 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  cv05109.csv,,,,,,,,,,,,,,,
+"Table 109. Percent distribution of the kind of agency providing assistance, by type of crime",,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,
+
+"Table 109. Personal and property crimes, 2005: Percent distribution of the kind of agency providing assistance, by type of crime",,,,,,,,,,,,,,,
+,,Percent of agency type providing assistance,,,,,,,,,,,,,
+Type of crime,Number of victimizations,Total,,Government,,Private,,Don't know type of agency,,Received no assistance,,Don't know if assistance was provided,,Not applicable,
+Personal crimes,"5,400,790",100,%,4.5,%,2.7,%,0.8,%,91.3,%,0.5,%*,0.3,%*
+Crimes of violence,"5,173,720",100,%,4.4,,2.8,,0.6,*,91.3,,0.5,*,0.4,*
+   Completed violence,"1,658,660",100,%,6.8,,4.3,,0.9,*,86.9,,0.5,*,0.4,*
+   Attempted/threatened violence,"3,515,060",100,%,3.3,,2.1,,0.5,*,93.4,,0.4,*,0.3,*
+   Rape/Sexual assault/a,"191,670",100,%,6.5,*,13.8,*,1.9,*,77.8,,0,*,0,*
+   Robbery,"624,850",100,%,2,*,1.8,*,0,*,94.9,,0.7,*,0.6,*
+   Assault,"4,357,190",100,%,4.7,,2.4,,0.7,*,91.4,,0.5,*,0.3,*
+      Aggravated,"1,052,260",100,%,7.2,,4.7,,1.2,*,85.3,,1.2,*,0.4,*
+      Simple,"3,304,930",100,%,3.9,,1.7,,0.5,*,93.3,,0.2,*,0.3,*
+Purse snatching/Pocket picking,"227,070",100,%,5.3,*,1.3,*,3.2,*,90.2,,0,*,0,*
+Property crimes,"18,039,930",100,%,0.8,%,0.9,%,0.3,%,97.4,%,0.2,%*,0.4,%
+Household burglary,"3,456,220",100,%,1.4,,0.6,*,0.4,*,96.6,,0.4,*,0.5,*
+Motor vehicle theft,"978,120",100,%,1.4,*,0.9,*,0.6,*,95.5,,0,*,1.6,*
+Theft,"13,605,590",100,%,0.6,,1,,0.2,*,97.8,,0.1,*,0.3,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,,,,,,

@@ -1,0 +1,33 @@
+Bureau of Justice Statistics,,,
+filename:  cv05myy.csv,,,
+Year-to Year Correlation Between Estimates,,,
+"data source: National Criminal Victimization Survey, 2005 NCJ  215244",,,
+produced by:  Cathy Maston ,,,
+authors:  Patsy Klaus and Cathy Maston,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,
+data of version:  12/08/06,,,
+
+Year-to Year Correlation Between Estimates,,,
+"Because of the year-to-year overlap in the sample, the same households and persons contribute to annual estimates for different years.  This year-to-year  correlation between estimates is measured by rho In general:",,,
+P equal O when estimates are for the same year,,, 
+rho do not equal  O year-to-year comparisons,,,
+"When comparing estimates that are 1 year apart, use rho as shown below.",,,
+"When comparing estimates that are 2 years apart, multiply rho by 1/2.",,,
+"When comparing estimates that are more than 2 years apart, assume rho equal 0.",,,
+Following are NCVS year-to-year correlation values for  major crime categories.,,,,
+Type of crime,2002-04,2003-04,2003-05,2004-05
+,Correlation,Correlation,Correlation,Correlation
+Total Crimes,0.2,0.41,0.2,0.41
+Total Personal Crimes,0.15,0.3,0.15,0.3
+Crime of Violence,0.15,0.31,0.15,0.31
+Rape/Sexual Assault,0.02,0.04,0.02,0.04
+Robbery,0.02,0.04,0.02,0.04
+Assault,0.15,0.3,0.15,0.3
+Purse Snatching/Pocket,0.01,0.03,0.01,0.03
+Total Property Crimes,0.19,0.38,0.19,0.38
+Burglary,0.1,0.21,0.1,0.21
+Motor Vehicle Theft,0.04,0.08,0.04,0.08
+Theft,0.17,0.34,0.17,0.34
+"If estimates are uncorrelated, rho equal 0.  Hence, omitting the term containing rho in the formula will provide an accurate standard error for the difference between uncorrelated estimates.  ",,,,
+"On the other hand, if the two estimates have a strong positive correlation, omitting the last term will cause overestimation of the true standard error. ",,,,
+"If the numbers have a strong negative correlation, this will cause underestimation of the actual standard error."

@@ -1,0 +1,26 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,
+filename:  cv0548.csv,,,,,,,,,,,,,,
+"Table 48. Percent distribution of multiple-offender victimizations by type of crime, race of victims and perceived race of offenders",,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,
+
+"Table 48. Personal crimes of violence, 2005:  Percent distribution of multiple-offender victimizations by type of crime, race of victims and perceived race of offenders",,,,,,,,,,,,,,
+,,,Percent of multiple-offender victimizations,,,,,,,,,,,
+,,,,,Perceived race of offenders,,,,,,,,,
+Type of crime and race of victim,,Number of multiple-offender victimizations,Total,, All white,,All black,,All other,,Mixed races,,Not known and not available,
+Crimes of violence/a,,,,,,,,,,,,,,
+,White only,"717,230",100,%,38.8,%,20.6,%,10.9,%,19.7,%,10,%
+,Black only,"267,750",100,%,4.4,*,73,,1.2,*,14,,7.4,*
+Robbery,,,,,,,,,,,,,,
+,White only,"164,190",100,%,17.7,*,45.5,,12.6,*,18.9,*,5.3,*
+,Black only,"77,710",100,%,0,*,80.4,,0,*,11.9,*,7.7,*
+Assault,,,,,,,,,,,,,,
+,White only,"542,650",100,%,45.5,,13.1,,10.6,,19.3,,11.6,
+,Black only,"174,680",100,%,6.8,*,72.7,,1.8,*,12.4,*,6.4,*
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,
+"Excluded data on persons of ""Other"" races and persons indicating two or more races.",,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,
+"a/Includes data on rape and sexual assault, not shown separately.",,,,,,,,,,,,,,

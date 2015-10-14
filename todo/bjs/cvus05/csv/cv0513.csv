@@ -1,0 +1,55 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+filename:  cv0513.csv,,,,,,,,,,,,,
+"Table 13. Victimization rates for persons age 12 and over, by gender of head of household, relationship of victims to head and type of crime",,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,
+
+"Table 13. Personal crimes, 2005:  Victimization rates for persons age 12 and over, by gender of head of household, relationship of victims to head and type of crime",,,,,,,,,,,,,
+,,,,,"Rate per 1,000 persons age 12 and over",,,,,,,,
+,,,,,,,,,Robbery,,,,
+Gender of head of household and relationship of victim to head,Total population,Crimes of violence,,Completed violence,Attempted/threatened violence,,Rape/Sexual assault/a,,Total,,With injury,,Without injury
+Households headed by males,,,,,,,,,,,,,
+All male heads,"64,533,670",18.1,,5.4,12.7,,0.1,*,3.4,,1.2,,2.2
+   Male heads living alone,"16,482,220",24.3,,8.2,16.1,,0,*,5.2,,2.9,,2.3
+   Male heads living with others,"48,051,450",16,,4.5,11.6,,0.2,*,2.8,,0.6,*,2.2,
+Wives,"35,616,320",6.7,,1.2,5.5,,0.1,*,0.4,*,0,*,0.4,*
+Own children under age 18,"11,141,080",28.2,,9,19.2,,0.7,*,3.3,,1.2,*,2.1,*
+Own children age 18 and over,"9,008,000",40.1,,13.4,26.8,,2.3,*,2.6,*,0.4,*,2.2,*
+Other relatives,"5,463,140",23.9,,13.6,10.3,,0,*,5.7,*,2.7,*,3,*
+Nonrelatives,"7,503,490",32.4,,9.4,22.9,,1,*,5.2,,1.1,*,4,*
+Households headed by females,,,,,,,,,,,,,,
+All female heads,"57,751,890",18.1,,5.3,12.9,,1.6,,1.3,,0.4,*,0.9,
+   Female heads living alone,"19,337,310",13.2,,4.1,9.1,,1.3,*,1.1,*,0.5,*,0.6,*
+   Female heads living with others,"38,414,580",20.6,,5.8,14.8,,1.8,,1.4,,0.3,*,1.1,
+Husbands,"19,325,960",12.7,,3.7,9,,0,*,1.1,*,0.6,*,0.5,*
+Own children under age 18,"12,029,940",54.1,,21.4,32.7,,2,*,6.5,,2.3,*,4.2,
+Own children age 18 and over,"9,848,470",43.6,,15.1,28.5,,1.8,*,4.8,,2.5,*,2.3,*
+Other relatives,"5,910,190",24.4,,7.3,17.1,,0.6,*,5.2,*,0,*,5.2,*
+Nonrelatives,"6,361,280",30.8,,11.6,19.3,,1.1,*,1.4,*,0.9,*,0.5,*
+,"       Rate per 1,000 persons age 12 and over",,,,,,,,,,,,,
+,Assault,,,,,
+Gender of head of household and relationship of victim to head,Total,Aggravated,,Simple,Purse snatching/Pocket picking,
+Households headed by males,,,,,,
+All male heads,14.6,3.8,,10.8,0.3,*
+   Male heads living alone,19.1,4.6,,14.5,0.4,*
+   Male heads living with others,13.1,3.5,,9.6,0.2,*
+Wives,6.2,2.1,,4.2,0.9,*
+Own children under age 18,24.2,5,,19.2,0.3,*
+Own children age 18 and over,35.3,7.8,,27.5,2.5,*
+Other relatives,18.2,8.3,,10,1.1,*
+Nonrelatives,26.2,4.2,*,22,1.9,*
+Households headed by females,,,,,,
+All female heads,15.2,2.8,,12.4,1.2,
+   Female heads living alone,10.8,1.7,*,9.1,1.4,*
+   Female heads living with others,17.5,3.3,,14.1,1.1,
+Husbands,11.6,2.3,,9.3,0.8,*
+Own children under age 18,45.5,11.1,,34.4,1.8,*
+Own children age 18 and over,37,10.8,,26.2,1.7,*
+Other relatives,18.7,5.2,*,13.5,0.8,*
+Nonrelatives,28.4,8.5,,19.9,0.7,*
+Note: Detail may not add to total shown because of rounding.,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,
+a/Includes verbal threats of rape and threats of sexual assault.,,,,,,

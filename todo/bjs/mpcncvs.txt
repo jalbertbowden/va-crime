@@ -1,0 +1,1090 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+----------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4759
+----------------------------------------------------------
+
+*******************
+Technical Report
+*******************
+
+Measuring the Prevalence of Crime with the National Crime 
+Victimization Survey
+
+Janet L. Lauritsen, BJS Visiting Fellow
+Maribeth L. Rezey, University of Missouri - St. Louis
+
+**************
+Introduction
+**************
+
+The Bureau of Justice Statistics’ (BJS) National Crime 
+Victimization Survey (NCVS) is an annual data collection designed 
+to gather information about nonfatal personal crimes and 
+household property crimes in the United States. The main purpose 
+of the NCVS is to accurately measure the number and type of 
+criminal victimizations that occur each year to persons age 12 or 
+older. Victimization rates are most commonly used in NCVS reports 
+to describe changes in the level of personal and household crime 
+over time and the levels of crime experienced by different 
+population subgroups. However, prevalence rates also may be used 
+to describe changes in the level of crime over time and 
+differences between subgroups. 
+
+This report discusses victimization rates and prevalence rates 
+and the value of each type of indicator for understanding 
+criminal victimization. Using NCVS data, the report displays and 
+compares trends in the victimization and prevalence rates from 
+1993 to 2010. It also analyzes the differences between 
+victimization and prevalence rates for various types of crime and 
+demographic groups using data from the 2010 NCVS.
+
+Defining victimization rates and prevalence rates
+Annual estimates of a population’s risk for criminal 
+victimization can be examined using victimization rates, incident 
+rates, or prevalence rates. Historically, BJS reports using NCVS 
+data rely on victimization rates, which measure the extent to 
+which victimizations occur in a specified population and time 
+period. For crimes affecting persons, NCVS victimization rates 
+are estimated by dividing the number of victimizations that occur 
+during a specified time period (T) by the population at risk for 
+those victimizations and multiplying the rate by 1,000. These 
+victimization rates permit comparisons of crime over time and 
+between population subgroups.
+
+	Number of victimizations experienced 
+Victimization rate T = by specified population T
+_________________________________________________________x1,000
+	Number of persons in the specified population T
+
+A victimization rate is typically larger than an alternative 
+incident rate because more than one person can be victimized 
+during a single incident of crime. For example, the armed robbery 
+of two persons would be counted as one incident but as two 
+victimizations. Using a victimization rate rather than an 
+incident rate provides an estimate of the number of 
+victimizations experienced by individuals (or by households in 
+the case of household-based crimes). When the purpose of the rate 
+is to describe the level of crime among persons in the 
+population, victimization rates tend to be preferred over 
+incident rates. Incident rates are more likely to be used when 
+making comparisons to official law enforcement crime data, which 
+generally count crime by the number of incidents rather than the 
+number of victims.
+
+Prevalence rates also describe the level of victimization but are 
+based on the number of persons (or households) in the population 
+who experienced at least one victimization during a specified 
+time period. The key distinction between a victimization or 
+incident rate and a prevalence rate is whether the numerator 
+consists of the number of victimizations or the number of 
+victims. Prevalence rates do not take into account the number of 
+victimizations each victim experiences. These rates tell about 
+the risk of experiencing at least one crime in a given period.
+
+*************
+HIGHLIGHTS
+*************
+
+* From 1993 to 2010, the decline in violent victimization rates 
+(down 76%) was greater than the decline in prevalence rates (down 
+63%).
+
+For serious violent crimes, the victimization rate decreased 77% 
+and the prevalence rate decreased 66%.
+
+* In 1993, 77% of violent crime victims reported that they were 
+victimized one time during the year, compared to 83% in 2010.
+
+* The percentage of violent crime victims who experienced two or 
+more victimizations during a year declined from 23% in 1993 to 
+17% in 2010. In 2010, this 17% accounted for more than half (54%) 
+of all violent victimizations.
+
+* Victims of intimate partner violence (21%) were more likely to 
+experience repeat victimization within the year than were victims 
+of stranger violence (9%).
+
+* From 1993 to 2010, the decline in total household property 
+crime victimization rates (down 64%) was greater than the decline 
+in prevalence rates (down 48%).
+
+* The proportion of household property crime victims who reported 
+two or more incidents during the year decreased from 25% in 1993 
+to 18% in 2010.  In 2010, the 18% of repeat household victims 
+accounted for about 41% of all household property victimizations.
+
+* In 2010, 12% of burglary victims reported two or more incidents 
+during the year, accounting for about 34% of all burglary 
+victimizations.
+
+****************************************************
+
+                     BJS Visiting Fellows 
+                     ---------------------
+
+The BJS Visiting Fellows program is intended to facilitate 
+collaboration between academic scholars and government 
+researchers in survey methodology, statistics, economics, and 
+social sciences. Visiting Fellows have the unique opportunity to 
+address substantive, methodological and analytic issues relevant 
+to BJS programs, and to further knowledge and understanding of 
+criminal justice systems operation. Fellows conduct research at 
+BJS or at their home site, use BJS data and facilities, and 
+interact with BJS staff. Pending available funding, the program 
+is normally conducted each year through a competitive 
+solicitation. 
+
+Applicants are limited to senior-level social science researchers 
+or statisticians in the fields of statistics, survey methodology, 
+mathematics, criminology, demography, economics, behavioral 
+science, and other related fields. They must have an established 
+research record in their field, have considerable expertise in 
+their area of proposed research, and be willing to commit a 
+substantial portion of their time (typically 6 to 18 months) to 
+undertake analyses of existing BJS data. In addition, they must 
+produce a report that both summarizes their analyses and meets 
+BJS publication and data quality standards.  For further 
+information, see: http://www.bjs.gov/content/fellows.cfm.
+****************************************************
+
+While prevalence rates are not often produced using NCVS data, it 
+is possible to do so. For crimes affecting persons, prevalence 
+rates are estimated by dividing the number of victims in the 
+specified population by the total number of persons in the 
+population and multiplying the rate by 1,000. When the same 
+multiplier (1,000) is used, the prevalence rate can be compared 
+to the victimization rate. Prevalence rates can also be based out 
+of 100, which is simply the percentage of the population 
+victimized at least once in a given period of time.
+
+                   Number of victims in a specified population T
+Prevalence rate T =_________________________________________-x 1,000
+	            Number of persons in the specified population T
+
+Victimization and prevalence rates may also be produced for 
+household-based crimes, such as burglary. In these instances, the 
+numerators and denominators are adjusted accordingly to reflect 
+households rather than persons. 
+
+When the prevalence rate and the victimization rate are estimated 
+on a per 1,000 basis, the trends can show changes in the mean 
+number of incidents per victim over time or the concentration of 
+victimizations per victim. The mean number of incidents per 
+victim is estimated by dividing the number of victimizations by 
+the number of victims. Higher mean values are one indicator of 
+the extent to which repeat victimization occurs.
+
+                 	  Number of victimizations
+   Concentration = ________________________________
+	                  Number of victims
+
+Once repeat victims are identified, the percentage of 
+victimizations accounted for by these repeat victims can then be 
+estimated using the following formula:
+
+[V – (Y x P)] / V x 100
+
+where 
+V is the victimization rate per 1,000
+Y is the proportion of victims with only one victimization
+P is the prevalence rate per 1,000.
+
+**************************************
+The value of measuring victimization 
+risk using different rates
+**************************************
+
+Both victimization and prevalence rates provide information about 
+the level of and risk for crime. Using these together will better 
+inform changes in the crime rate over time. For example, the 
+crime rate may increase because of more victims or victimizations 
+per victim or both. If the crime rate increases because there are 
+more victimizations per victim (an increase in repeat 
+victimization), a person’s risk of experiencing any victimization 
+has not changed, but their risk for repeated victimization if 
+they are a victim has increased. 
+
+A considerable portion of the victimizations that occur 
+(typically within a single year) are experienced by a small 
+number of repeat victims. ***Footnote 1 See Grove, L., G. Farrell, 
+D. Farrington, and S. Johnson. (2012). Preventing repeat 
+victimization: A systematic review. Stockholm: The Swedish 
+National Council for Crime Prevention***. This suggests that 
+identifying repeat victims may present a unique opportunity to 
+reduce crime rates, as it focuses attention on those who 
+disproportionately experience victimization. However, if repeat 
+victims are unique from other crime victims, focusing on repeat 
+victims may result in crime reductions that are not uniform 
+across all types of crime, victim characteristics, and degrees of 
+crime severity.
+ 
+The extent of repeat victimization and the potential value of 
+focusing efforts on repeat victims can only be known if 
+prevalence rates and victimization rates are distinguished. For 
+instance, some forms of repeat victimization (such as household 
+burglary) tend to occur within relatively short time intervals 
+after the initial victimization. ***Footnote 2 Forrester, D., S. 
+Frenz, M. O’Connell, and K. Pease. (1990). The Kirkholt burglary 
+prevention project. Home Office Crime Prevention Unit Paper 13. 
+London: Home Office***. If underlying patterns of repeat 
+victimization can be determined by examining prevalence rates, 
+efforts focused on reducing future victimization by those 
+recently victimized may result in greater decreases in crime than 
+strategies that are more broadly targeted. 
+
+It is also valuable to understand and report victimization rates. 
+To a large extent, reports based on NCVS data typically provide 
+annual victimization rates rather than prevalence rates because 
+the NCVS serves as an alternative to annual police-based 
+estimates of crime from the FBI’s Uniform Crime Reports (UCR). 
+***Footnote 3 Groves, R. and D. Cork., eds. (2008). Surveying 
+victims: Options for conducting the National Crime Victimization 
+Survey. Washington DC: National Research Council***. NCVS-based 
+estimates of the levels and changes in crime are routinely 
+compared to estimates generated using UCR data, which only 
+include incidents reported to or recorded by the police. 
+Prevalence rates cannot be easily compared to police rates of 
+crime because they count unique victims and not the number of 
+crimes. 
+
+Reporting on changes in the victimization rate is also important 
+because criminal events initiate criminal justice system 
+activities, such as police investigations, arrests, and 
+subsequent prosecutions, sentencing outcomes, and the provision 
+of victim services. Therefore, NCVS victimization rates are 
+capable of providing information that can be used for making key 
+decisions for criminal justice system operations. 
+
+*****************************************
+Victimization rates and prevalence rates 
+for personal violence: 1993–2010
+*****************************************
+
+The NCVS measures the violent crimes of rape and sexual assault, 
+robbery, aggravated assault, and simple assault, and includes 
+both completed and attempted crimes. From 1993 to 2010, declines 
+occurred in both the victimization rate and the prevalence rate 
+of violent victimization (figure 1). The violent victimization 
+rate declined 76%, from 79.8 per 1,000 persons age 12 or older in 
+1993 to 19.3 per 1,000 in 2010.***Footnote 4 Annual victimization 
+rates include series victimizations and count such incidents 
+based on the number of times the victim reported that the 
+victimization occurred, up to a maximum of 10 times. See 
+Methodology for more information.***
+
+During the same period, the prevalence rate for violent crime 
+declined 63%, from 29.3 to 10.8 per 1,000. Since the decline in 
+the victimization rate was greater than the decline in the 
+prevalence rate, the mean number of victimizations per victim 
+also declined, from 2.7 victimizations per victim in 1993 to 1.8 
+in 2010 (table 1).
+
+Over time, both the number of persons victimized and the average 
+number of victimizations each victim experienced declined, with 
+the number of victimizations declining at a faster rate than the 
+number of victims. In 1993, 6.2 million victims experienced 16.8 
+million victimizations, while in 2010, 2.8 million victims 
+experienced 4.9 million victimizations (table 2).
+
+The distribution of violent victimization reported in the NCVS is 
+skewed, as most persons experienced no victimizations and the 
+majority of victims reported one victimization during the year. 
+In 1993, of the 2.9% of the population that experienced at least 
+one violent victimization, approximately 77% reported that they 
+were victimized once, which increased to 83% in 2010 when 1.1% of 
+the population experienced at least one violent victimization. 
+About 23% of violent crime victims in 1993 and 17% in 2010 
+experienced repeat victimization. Over this period, both the 
+percentage of the population victimized and the percentage of 
+those repeatedly victimized declined. 
+
+Because of this skew in the distribution of violent 
+victimization, both the modal category (one victimization during 
+the year) and the mean should be considered as statistical 
+estimates of the risk for repeat victimization. It is not fully 
+accurate to say that in 2010 the typical violent crime victim 
+experienced 1.8 victimizations per year in 2010, since 83% of 
+victims experienced only one victimization during the year. More 
+accurately, most victims of violent crime in a given year 
+experienced one victimization, and a small percentage of victims 
+reported repeat victimizations. Though the percentage of victims 
+who experienced repeat violence of any form in 2010 was 
+comparatively small, the 17% who did experience repeat violence 
+accounted for 54% of all of the violent victimizations that 
+occurred in that year. In contrast, in 1993 the 23% of victims 
+who experienced repeat victimization accounted for 72% of the 
+violent victimizations that occurred that year (not shown in 
+table).
+
+*****************
+Serious violence
+*****************
+
+The rate of serious violent victimization--rape and sexual 
+assault, robbery, and aggravated assault--declined 77%, from 29.1 
+per 1,000 in 1993 to 6.6 per 1,000 in 2010 (figure 2). The 
+prevalence rate declined 66%, from 12.6 per 1,000 in 1993 to 4.3 
+per 1,000 in 2010. Because the victimization rate declined more 
+than the prevalence rate, the average number of serious violent 
+victimizations per victim declined from 2.3 to 1.5 victimizations 
+(table 1). The majority of serious violent crime victims reported 
+experiencing one victimization during the year. In 1993, 16% of 
+serious violent crime victims experienced repeat victimization 
+within the year, compared to 8% in 2010. Repeat victims accounted 
+for 40% of all serious violence in 2010 and 63% of all serious 
+violence in 1993 (not shown in table).
+
+************************
+Rape and sexual assault
+************************
+
+Similar to other forms of violence, the victimization and 
+prevalence rates for rape and sexual assault among females age 12 
+or older declined overall from 1993 to 2010 (figure 3). The 
+female victimization rate for rape and sexual assault declined 
+75% from 1993 to 2010 (from 7.7 to 1.9 per 1,000), while the 
+prevalence rate declined 63% (from 2.6 to 1.0 per 1,000). 
+
+The average number of rape and sexual assault victimizations per 
+female victim was 2.9 in 1993 and 2.0 in 2010. The proportion of 
+female rape and sexual assault victims reporting one incident 
+during the year was 74% in 1993 and 85% in 2010 (table 1).
+
+********
+Robbery 
+********
+
+The robbery victimization rate declined 73%, from 8.3 in 1993 to 
+2.2 per 1,000 in 2010 (figure 4). During the same period, the 
+prevalence rate declined 59%, from 3.9 to 1.6 per 1,000. On 
+average, victims of robbery experienced 2.1 victimizations in 
+1993, compared to 1.4 in 2010. The proportion of robbery victims 
+who reported experiencing one robbery during the year was 91% in 
+1993 and 97% in 2010. Robbery victims were less likely to 
+experience a repeat victimization during the year than rape and 
+sexual assault and simple assault victims (table 1).
+
+*******************
+Aggravated assault
+*******************
+
+The aggravated assault victimization rate declined 80%, from 16.5 
+per 1,000 in 1993 to 3.4 in 2010 (figure 5). During the same 
+period, the prevalence rate declined 71%, from 7.6 to 2.2 per 
+1,000. The average number of aggravated assault victimizations 
+per victim declined from 2.2 in 1993 to 1.5 in 2010. In 1993, 86% 
+of aggravated assault victims reported one aggravated assault 
+victimization, compared to 94% in 2010 (table 1). 
+
+Since aggravated assaults made up the majority of serious violent 
+crimes, the mean number of victimizations and the percentage of 
+victims with one aggravated assault victimization were similar to 
+the estimates for overall serious violence. In 1993, aggravated 
+assault victims were less likely than rape and sexual assault 
+victims--but more likely than robbery victims--to experience a 
+repeat victimization within the year. However, in 2010, a similar 
+percentage of aggravated assault victims experienced repeat 
+victimization as rape and sexual assault and robbery victims. 
+
+****************
+Simple assault
+****************
+
+The simple assault victimization rate declined 75%, from 50.7 per 
+1,000 in 1993 to 12.7 per 1,000 in 2010 (figure 6). The 
+prevalence rate declined 62% during the same period, from 18.4 to 
+6.9 per 1,000. Victims of simple assault experienced an average 
+of 2.8 victimizations in 1993 and 1.8 in 2010. The percentage of 
+simple assault victims who reported one victimization during the 
+year was 77% in 1993 and 82% in 2010.
+
+The average number of simple assault victimizations per victim 
+was most comparable to that found for female rape and sexual 
+assault. This was also true for the proportion of simple assault 
+victims who experienced more than one victimization during the 
+year. Since rape and sexual assault had the lowest victimization 
+rate and simple assault had the highest, the similar levels of 
+repeat victimization among the two crime types indicates that 
+risk for repeat victimization is not simply due to high or low 
+crime rates.
+
+*************************
+Percentage experiencing 
+violent crime
+*************************
+
+When prevalence rates are computed as a percentage of the 
+population experiencing crime, the levels and changes in the risk 
+for victimization for each of the types of violent crime can be 
+compared from 1993 to 2010. For rape and sexual assault, the 
+percentage was calculated for females age 12 or older. For the 
+other types of violence, the percentages were based on all 
+persons age 12 or older. 
+
+The percentage of the population experiencing simple assault was 
+consistently more than twice as high as the percentage 
+experiencing any other type of violent crime (figure 7). In 1993, 
+1.8% of the population age 12 or older experienced simple 
+assault, 0.8% experienced aggravated assault, 0.4% were victims 
+of robbery, and 0.3% of females were victims of rape and sexual 
+assault. In 2010, 0.7% of the population age 12 or older 
+experienced simple assault, 0.2% experienced aggravated assault, 
+0.2% were victims of robbery, and 0.1% of females age 12 or older 
+were victims of rape or sexual assault. In total, approximately 
+1% of the population age 12 or older experienced some form of 
+violent victimization at least once in 2010 (not shown in table).
+
+****************************************
+Violent victimization and prevalence 
+rates for selected subgroups and 
+types of violence during 2010
+****************************************
+
+To further illustrate how violent victimization rates and 
+prevalence rates are distributed in the population, rates for 
+specific subgroups and additional types of violence were 
+examined. Comparisons between victimization rates and prevalence 
+rates are important for understanding the level of and risk for 
+different subtypes of violence, such as stranger violence and 
+intimate partner violence.
+
+Although differences were found in earlier years, the violent 
+victimization rates among males and females did not differ in 
+2010, when the rate for males was 20.1 per 1,000, compared to 
+18.5 for females (table 3). No differences were detected in the 
+prevalence rates for violent crime between males (11.4 per 1,000) 
+and females (10.1 per 1,000). Because there were no statistically 
+significant differences in either the victimization rates or the 
+prevalence rates in 2010, the average number of violent 
+victimizations for male and female victims was also similar.
+
+Greater differences in the risk for violence were found across 
+age groups. Persons age 35 or older had significantly lower 
+victimization rates (12.5 per 1,000) than persons ages 12 to 34. 
+The differences in the victimization rates between the younger 
+age groups (i.e., persons ages 12 to 17, persons ages 18 to 24, 
+and persons ages 25 to 34) were not statistically significant. 
+However, prevalence rates suggest that the risk for violence for 
+persons ages 25 to 34 (13.8 per 1,000) was lower than the risk 
+for persons ages 18 to 24 (19.9 per 1,000). The differences 
+across age groups in the prevalence and victimization rates and 
+in the average number of victimizations per victim may reflect 
+the types of violence that persons of different ages are most 
+likely to experience.
+
+Overall, the victimization rates for the total population were 
+significantly lower for violence committed by nonintimate family 
+members (1.4 per 1,000) than they were for violence committed by 
+intimate partners (3.0 per 1,000), friends and acquaintances (6.1 
+per 1,000), and strangers (7.1 per 1,000) (table 4). The 
+prevalence rates of violence committed by a stranger were similar 
+to rates of violence committed by friends and acquaintances, and 
+higher than the rates of violence committed by an intimate 
+partner or relative. The prevalence rates revealed that the 
+highest rate was for violence committed by a stranger (4.7 per 
+1,000), while the lowest rate was for violence committed by a 
+nonintimate relative (0.9 per 1,000).
+
+The differences between the victimization and prevalence rates 
+across these relationship categories showed that the mean number 
+of victimizations per victim was lower for victims of stranger 
+violence than for victims of intimate partner violence. The data 
+also indicated that victims of stranger violence were less likely 
+to experience repeat victimization during the year, compared to 
+victims who knew the offender. For example, 9% of victims of 
+stranger violence experienced repeat victimization in 2010, 
+compared to 21% of intimate partner violence victims who 
+experienced repeat victimization.
+
+Even though overall violent victimization rates among males and 
+females were about the same in 2010, males and females 
+experienced different levels of risk based on victim-offender 
+relationship. ***Footnote 5 See Truman, J. (2011). Criminal 
+victimization, 2010. Washington DC: U.S. Department of Justice, 
+Bureau of Justice Statistics, NCJ 235508***. Both victimization 
+and prevalence rates suggest similar patterns in violence against 
+males and females according to victim-offender relationship. 
+
+Violent victimization committed by relatives and by friends and 
+acquaintances occurred at similar rates among males and females 
+in 2010. However, the rates of stranger violence and intimate 
+partner violence differed between males and females. 
+Victimization rates for stranger violence against males (9.5 per 
+1,000) were nearly twice as large as the rates for females (4.7 
+per 1,000). The prevalence rates for stranger victimization were 
+also greater among males (6.0 per 1,000 for males, compared to 
+3.5 per 1,000 for females). Victimization rates for intimate 
+partner violence against females (4.9 per 1,000) were greater 
+than the rates against males (1.1 per 1,000), as were the 
+prevalence rates for intimate partner violence (2.2 per 1,000 for 
+females, compared to 0.5 per 1,000 for males). 
+
+The average number of victimizations per year for male and female 
+victims of violence committed by other family members (1.7 for 
+males and 1.6 for females), friends and acquaintances (1.8 for 
+males and 2.0 for females), and strangers (1.6 for males and 1.3 
+for females) were similar. The average number of victimizations 
+among victims of intimate partner violence was also similar for 
+males (2.3) and females (2.2), although the prevalence rate for 
+females was higher than it was for males.
+
+In general, the relationship between age and victimization risk 
+was the same across victim-offender relationship regardless of 
+whether victimization rates or prevalence rates were used (table 
+5). For example, using both victimization and prevalence rates, 
+persons age 35 or older had the lowest risk for violence by 
+strangers, by friends and acquaintances, and by intimate 
+partners. ***Footnote 6 Intimate partner comparisons excluded 
+persons ages 12 to 17. The 2010 NCVS data are insufficient for 
+producing reliable estimates of intimate partner violence rates 
+among youth ages 12 to 17***. Victimization rates and prevalence 
+rates both showed that persons ages 18 to 24 had the highest risk 
+for violence by strangers, while the risk for intimate partner 
+violence was highest among persons ages 18 to 24 and ages 25 to 
+34.
+ 
+In addition, the magnitudes of the age differences in risk were 
+similar within victim-offender categories when based on both 
+victimization and prevalence rates. For instance, the 
+victimization rates suggested that persons ages 12 to 17 were 4.7 
+times more likely to be victimized by friends and acquaintances 
+than were persons age 35 or older, while the prevalence rates 
+suggested that this ratio was 4.6. In other words, victimization 
+rates and prevalence rates revealed similar patterns in the 
+relationship between age and victimization risk for these 
+categorizations of violence.
+
+*****************************************
+Victimization rates and prevalence rates 
+for household property crime: 1993–2010
+*****************************************
+
+The NCVS measures household property victimization, including 
+burglary, motor vehicle theft, and other theft. The total 
+household property victimization rate declined 64% from 1993 to 
+2010, from 351.8 to 125.4 victimizations per 1,000 households 
+(figure 8). The prevalence rate for household property crime 
+declined 48%, from 171.6 per 1,000 in 1993 to 89.2 in 2010. The 
+decline in the victimization rate compared to the prevalence rate 
+resulted in a decline in the average number of victimizations per 
+victimized household, from 2.1 victimizations per year in 1993 to 
+1.4 in 2010 (table 6).
+
+The differences between the prevalence and victimization rate 
+percentage change estimates for property crime (16 percentage 
+points) were comparable to the differences found for violent 
+crime (13 percentage points). Similar to total violent 
+victimization, the distribution of household victimization was 
+skewed, and the majority of victimized households reported one 
+victimization during the year. In 1993, approximately 75% of 
+victimized households reported one victimization during the year, 
+and in 2010, this proportion increased to 82%. During 2010, the 
+18% of households victimized by repeat property crime accounted 
+for approximately 41% of all property crime victimizations. In 
+comparison, in 1993 the 25% of households that experienced repeat 
+victimization accounted for 64% of all property crime 
+victimizations (not shown in table).
+
+**********
+Burglary
+**********
+
+The burglary victimization rate declined 60%, from 63.9 per 1,000 
+households in 1993 to 25.8 in 2010, while the prevalence rate for 
+burglary declined 46%, from 36.2 per 1,000 households in 1993 to 
+19.4 in 2010 (figure 9). The average number of victimizations 
+among victims of household burglary was 1.8 per year in 1993 and 
+1.3 in 2010 (table 6).
+
+A similar proportion of burglary victims experienced one incident 
+in 1993 and 2010. In 2010, approximately 12% of burglary victims 
+experienced a repeat burglary. These victims of repeat burglary 
+accounted for about a third (34%) of all burglary victimizations 
+in 2010 and 52% of all burglary victimizations in 1993 (not shown 
+in table).
+
+*********************
+Motor vehicle theft
+*********************
+
+Like other household crimes, both the victimization rate (down 
+74%) and the prevalence rate (down 65%) showed declines in motor 
+vehicle theft from 1993 to 2010 (figure 10). The victimization 
+rate for motor vehicle theft declined from 19.3 to 4.9 per 1,000 
+households, while the prevalence rate declined from 12.1 to 4.3 
+per 1,000 households. The greater decline in the victimization 
+rate compared to the prevalence rate produced a decline in the 
+average number of victimizations per victimized household, from 
+1.6 to 1.2 motor vehicle thefts per year (table 6). Between 1993 
+and 2010, the proportion of motor vehicle theft victims who 
+experienced only one incident in the calendar year increased 
+slightly from 92% to 96%. Of the three types of household thefts, 
+victims of motor vehicle theft were the least likely to 
+experience a repeat victimization during the year.
+
+*******
+Theft
+*******
+
+The third type of household crime measured in the NCVS was theft, 
+which occurred more frequently than burglary and motor vehicle 
+theft. Like other household crimes, theft exhibited declines over 
+time (figure 11). The victimization rate for theft declined 65%, 
+from 268.6 per 1,000 households in 1993 to 94.6 in 2010. The 
+prevalence rate for theft declined 49%, from 136.7 per 1,000 
+households in 1993 to 70.1 in 2010. The average number of thefts 
+per victimized household decreased from 2.0 in 1993 to 1.3 in 
+2010 (table 7). Victims of theft were more likely than victims of 
+other household crimes to experience a repeat victimization. 
+Between 1993 and 2010, the proportion of theft victims who 
+experienced one incident in the year increased slightly, from 78% 
+to 84%. In 2010, 16% of household theft victims experienced a 
+repeat victimization, compared to 12% of burglary victims and 4% 
+of motor vehicle theft victims.
+
+*********
+Summary
+*********
+
+From a criminal justice system perspective, it is beneficial to 
+understand the rate at which victimization occurs among a 
+population and the prevalence of victims within that population. 
+Victimization and prevalence rates can help detect whether any 
+change in the criminal victimization rate resulted from a change 
+in the number of victims or the number of victimizations per 
+victim. These rates also help identify which groups are prone to 
+repeat victimization and the risk associated with being 
+victimized.
+
+Victimization rate data can be used to assess the needs of the 
+criminal justice system as the occurrence of an event initiates 
+certain activities (e.g., investigations, arrests, and 
+prosecutions). Prevalence rate data may be used to estimate the 
+number of victims requiring services in a given year. This report 
+discusses the use of victimization rates and prevalence rates in 
+the NCVS data, and how both help identify the level of crime and 
+distribution of the risk for violence and household theft across 
+the population. 
+
+****************************
+Violent victimization rates
+*****************************
+
+When analyzing long-term trends for violent crime, examining both 
+victimization rates and prevalence rates in the NCVS led to 
+similar conclusions about changes in the risk for victimization 
+over time. Both indicators showed large declines in the risk for 
+violent victimization between 1993 and 2010; however, annual 
+victimization rates showed that the magnitude of decline in risk 
+for violence was greater than the decline in annual prevalence 
+rates. For total violence, the difference in the estimate of 
+change between victimization rates (down 76% from 1993 to 2010) 
+and prevalence rates (down 63%) was 13 percentage points. In 
+addition, the victimization rates for violent crime were 
+approximately 2 to 3 times greater than the prevalence rates in 
+1993 and about 1.5 to 2 times greater in 2010.
+
+Examination of the prevalence rates also showed that 83% of the 
+victims of violence experienced one victimization in 2010. The 
+17% of victims who experienced repeat victimization accounted for 
+54% of all violent victimizations that occurred that year, 
+indicating that significant reductions in violence could 
+potentially be achieved by preventing repeat victimization. 
+Because the majority of victims (83%) did not experience 
+additional violence in 2010, determining which victims are most 
+likely to experience repeat victimization is a challenge for 
+research and practice.
+
+*********************
+Rates for subgroups
+*********************
+
+The comparisons of differences by age and sex in overall violence 
+resulted in generally similar conclusions regardless of whether 
+victimization rates or prevalence rates were used to make the 
+comparisons. However, the distinction between victimization and 
+prevalence rates was most useful when describing rates of 
+violence according to victim-offender relationship. Intimate 
+partner violence victims were more likely to experience repeat 
+violence within a year, compared to victims of stranger violence. 
+Without taking into consideration the challenges associated with 
+targeting intimate partner violence compared to stranger 
+violence, this finding suggests that successfully targeting 
+victims of intimate partner violence to prevent repeat 
+victimization would result in a proportionately greater reduction 
+in violence than targeting victims of stranger violence.
+
+The patterns also show that when the average number of incidents 
+per victim was similar across subgroups, such as the average 
+number of violent victimizations for male (1.8) and female (1.8) 
+victims in 2010, these averages may hide differences in the 
+composition of the types of victimizations experienced by each 
+group and variation in the repeated nature of some types of 
+violence (e.g., stranger) across the groups. Therefore, caution 
+must be used when interpreting subgroup averages in the annual 
+number of victimizations per victim, because these averages may 
+be a combination of different kinds of processes and violent 
+events.
+
+Age and sex are not the only subgroup comparisons that maybe 
+examined, nor is the victim-offender relationship the only 
+categorization of violence that should be considered when 
+studying victimization and prevalence rates. Further research 
+would need to be completed to better understand where the risk of 
+repeat victimization is greatest. Additional assessments may 
+reveal some subgroups or forms of violence for which there are 
+larger distinctions between victimization rates and prevalence 
+rates. For instance, there may be differences across race and 
+Hispanic origin or across urban, suburban, and rural residents. 
+Variations in the patterns may also be found if violence is 
+categorized by location of occurrence, such as in the home, at 
+school, or in a public location. In addition, this report 
+examines subgroup comparisons using data from the 2010 NCVS. 
+However, the distinction between victimization rates and 
+prevalence rates in subgroup comparisons could be more critical 
+during periods when overall violence rates were higher, such as 
+the early to mid-1990s.
+
+**********************
+Property crime rates
+**********************
+
+As with violent crimes, long-term trends in household property 
+crime resulted in similar conclusions regardless of whether 
+victimization rates or prevalence rates were used. Both rates 
+showed large declines in the risk for household property crime 
+between 1993 and 2010, although the percentage change in annual 
+property victimization rates (down 64%) was greater than the 
+percentage change in annual prevalence rates (down 48%).
+
+Household crimes exhibited smaller differences between 
+victimization rates and prevalence rates than were found among 
+the violent crimes. In 2010, the victimization rates for 
+household crimes were approximately 1.4 times greater than the 
+prevalence rates, compared to approximately 1.8 times greater for 
+violent crime rates. However, during the same year, the 
+proportion of household property crime victims who experienced 
+one victimization (82%) was similar to the proportion of violent 
+crime victims who experienced one victimization (83%). This 
+indicates that the distribution of violent victimization was more 
+often characterized by a few high-rate repeat victims than the 
+distribution of household property crime victimization.
+ 
+For household property crimes, victimizations were less 
+concentrated. Repeat victims accounted for a lower proportion of 
+total property crime (41%) than violent crime (54%) 
+victimization, which suggests that the factors underlying repeat 
+victimization are different for household crimes and violent 
+victimizations. In addition, this finding suggests that 
+reductions in repeat violence would have a greater impact on the 
+total number of violent victimizations than reductions in repeat 
+property victimization would have on the number of property crime 
+victimizations.
+
+**************
+Methodology
+**************
+
+Survey coverage
+****************
+
+The National Crime Victimization Survey (NCVS) is an annual data 
+collection conducted by the U.S. Census Bureau for the Bureau of 
+Justice Statistics (BJS). The NCVS is a self-report survey in 
+which interviewed persons are asked about the number and 
+characteristics of victimizations experienced during the prior 6 
+months. The NCVS collects information on nonfatal personal crimes 
+(rape or sexual assault, robbery, aggravated and simple assault, 
+and personal larceny) and household property crimes (burglary, 
+motor vehicle theft, and other theft) both reported and not 
+reported to police. In addition to providing annual level and 
+change estimates on criminal victimization, the NCVS is the 
+primary source of information on the nature of criminal 
+victimization incidents. Survey respondents provide information 
+about themselves (e.g., age, sex, race and Hispanic origin, 
+marital status, education level, and income) and whether they 
+experienced a victimization. Information is collected for each 
+victimization incident about the offender (e.g., age, race and 
+Hispanic origin, sex, and victim-offender relationship), 
+characteristics of the crime (including time and place of 
+occurrence, use of weapons, nature of injury, and economic 
+consequences), whether the crime was reported to police, reasons 
+the crime was or was not reported, and experiences with the 
+criminal justice system.
+
+The NCVS is administered to persons age 12 or older from a 
+nationally representative sample of households in the United 
+States. The NCVS defines a household as a group of members who 
+all reside at a sampled address. Persons are considered household 
+members when the sampled address is their usual place of 
+residence at the time of the interview and when they have no 
+usual place of residence elsewhere. Once selected, households 
+remain in the sample for 3 years, and eligible persons in these 
+households are interviewed every 6 months either in-person or 
+over the phone, for a total of seven interviews. Generally, all 
+first interviews are conducted in-person. New households rotate 
+into the sample on an ongoing basis to replace outgoing 
+households that have been in sample for the 3-year period. The 
+sample includes persons living in group quarters, such as 
+dormitories, rooming houses, and religious group dwellings, and 
+excludes persons living in military barracks and institutional 
+settings, such as correctional or hospital facilities, and the 
+homeless. (For more information, see the Survey Methodology for 
+Criminal Victimization in the United States, 2008, NCJ 231173, 
+BJS Web, May 2011.) 
+
+In 2010, about 41,000 households and 73,300 individuals 
+age 12 or older were interviewed for the NCVS. Each household was 
+interviewed twice during the year. The response rate was 92.3% of 
+households and 87.5% of eligible individuals. Victimizations that 
+occurred outside of the U.S. were excluded from this report. From 
+1993 to 2010, 1,657 (0.8%) of the total 197,849 unweighted 
+victimizations occurred outside of the U.S.
+
+Weighting adjustments for 
+estimating victimization
+********************************
+
+Estimates in this report use data from the 1993 to 2010 NCVS data 
+files. These files can be weighted to produce annual estimates of 
+victimization for persons age 12 or older living in U.S. 
+households. Because the NCVS relies on a sample rather than a 
+census of the entire U.S. population, weights are designed to 
+inflate sample point estimates to known population totals and to 
+compensate for survey nonresponse and other aspects of the sample 
+design.
+
+The NCVS data files include both person and household weights. 
+Person weights provide an estimate of the population represented 
+by each person in the sample. Household weights provide an 
+estimate of the U.S. household population represented by each 
+household in the sample. After proper adjustment, both household 
+and person weights are also typically used to form the 
+denominator in calculations of crime rates.
+
+Annual victimization estimates are derived by accumulating 
+estimates across the two 6-month interview periods. The weights 
+of all crimes reported during interviews in that year are summed, 
+regardless of when the crime occurred. This method provides 
+annual estimates of victimization, the typical measure reported 
+from NCVS analyses. Victimization weights used in this analysis 
+account for the number of persons present during an incident and 
+for repeat victims of series incidents. The weight counts series 
+incidents as the actual number of incidents reported by the 
+victim, up to a maximum of 10 incidents. Series victimizations 
+are similar in type but occur with such frequency that a victim 
+is unable to recall each individual event or describe each event 
+in detail. Survey procedures allow NCVS interviewers to identify 
+and classify these similar victimizations as series 
+victimizations and to collect detailed information on only the 
+most recent incident in the series. In 2010, about 3% of all 
+victimizations were series incidents. Weighting series incidents 
+as the number of incidents up to a maximum of 10 incidents 
+produces more reliable estimates of crime levels, while the cap 
+at 10 minimizes the effect of extreme outliers on the rates. 
+Additional information on the series enumeration is detailed in 
+the report Methods for Counting High Frequency Repeat 
+Victimizations in the National Crime Victimization Survey, NCJ 
+237308, BJS Web, April 2012.
+
+This report also measures prevalence rates of victimization. The 
+prevalence estimate rate for a violent crime is a measure of the 
+number of unique persons age 12 or older that experienced a 
+violent victimization in a given year, regardless of the number 
+or frequency of victimizations. The prevalence estimate rate for 
+household property crime is a measure of the number of unique 
+households that experienced a household property victimization in 
+a given year, regardless of the number or frequency of 
+victimizations.
+
+Person victimization weights were constructed to ensure that a 
+person who experienced more than one nonfatal violent 
+victimization within a 6-month period or in both 6-month periods 
+in a given year was counted only once in that annual prevalence 
+estimate. Similarly, household victimization weights were 
+constructed to ensure that a household that experienced one or 
+more property crime victimizations within a 6-month period or in 
+both 6-month periods in a given year was counted only once in 
+that annual prevalence estimate. 
+
+Not all persons (or households) surveyed in the NCVS in a given 
+year are interviewed twice. Because the NCVS uses a rotating 
+panel design with 6-month recall periods, some persons were 
+interviewed once only during the first half of the year because 
+that was their last intended interview. Others who were 
+interviewed only once during the first half of the year may have 
+moved out of a sampled household, or their second intended 
+interview for that year was not obtained for some other reason. 
+Another group of persons were interviewed once only during the 
+second half of the year because that was their first intended 
+interview, because the persons recently moved into a currently 
+sampled household, or they were missing a prior interview from 
+the first half of the year for some other reason. The assumption 
+underlying the annual prevalence rate estimates is that the 
+annual rate of victimization for persons interviewed twice is 
+similar to the rate of persons interviewed once. This assumption 
+was tested using data from 2009 and 2010 NCVS interviews. Those 
+tests showed that the prevalence rates of those interviewed twice 
+were not significantly different from those interviewed once. The 
+prevalence rates of persons interviewed only in the first half of 
+the year were somewhat lower than the prevalence rates for 
+persons interviewed twice, while persons interviewed only in the 
+second half of the year had prevalence rates that were somewhat 
+higher than those interviewed twice. The average of the rates of 
+the two groups of persons interviewed once was not significantly 
+different from the average of those interviewed twice.
+
+Standard error computations
+*****************************
+
+When national estimates are derived from a sample, as is the case 
+with the NCVS, caution must be taken when comparing one estimate 
+to another estimate or when comparing estimates over time. 
+Although one estimate may be larger than another, estimates based 
+on a sample have some degree of sampling error. The sampling 
+error of an estimate depends on several factors, including the 
+amount of variation in the responses and the size of the sample. 
+When the sampling error around the estimates is taken into 
+consideration, the estimates that appear different may not be 
+statistically different.
+
+One measure of the sampling error associated with an estimate is 
+the standard error. The standard error can vary from one estimate 
+to the next. In general, for a given metric, an estimate with a 
+smaller standard error provides a more reliable approximation of 
+the true value than an estimate with a larger standard error. 
+Estimates with relatively large standard errors are associated 
+with less precision and reliability and should be interpreted 
+with caution. In order to generate standard errors around numbers 
+and estimates from the NCVS, the Census Bureau produces 
+generalized variance function (GVF) parameters for BJS. The GVFs 
+take into account aspects of the NCVS complex sample design and 
+represent the curve fitted to a selection of individual standard 
+errors based on the Jackknife Repeated Replication technique. The 
+GVF parameters were used to generate standard errors for each 
+point estimate (such as counts, percentages, and rates) in the 
+report. 
+
+In this report, BJS conducted tests to determine whether 
+differences in estimated numbers and percentages were 
+statistically significant once sampling error was taken into 
+account. Using statistical programs developed specifically for 
+the NCVS, all comparisons in the text were tested for 
+significance. The primary test procedure used was Student’s t-
+statistic, which tests the difference between two sample 
+estimates. To ensure that the observed differences between 
+estimates were larger than might be expected due to sampling 
+variation, the significance level was set at the 95% confidence 
+level.
+
+Data users can use the estimates and the standard errors of the 
+estimates provided in this report to generate a confidence 
+interval around the estimate as a measure of the margin of error. 
+The following example illustrates how standard errors can be used 
+to generate confidence intervals:
+
+According to the NCVS, in 2010, the violent victimization rate 
+among persons age 12 or older was 19.3 per 1,000 (see table 1). 
+Using the GVFs, it was determined that the victimization rate 
+estimate has a standard error of 0.84 (see appendix table 2). A 
+confidence interval around the estimate was generated by 
+multiplying the standard errors by ±1.96 (the t-score of a 
+normal, two-tailed distribution that excludes 2.5% at either end 
+of the distribution). Therefore, the confidence interval around 
+the 19.3 estimate from 2010 is equal to 19.3 ± 1.65 (.84 X 1.96) 
+or 17.65 to 20.95. In others words, if different samples using 
+the same procedures were taken from the U.S. population in 2010, 
+95% of the time the violent victimization rate would fall between 
+17.65 and 20.95. 
+
+In this report, BJS also calculated a coefficient of variation 
+(CV) for all estimates, representing the ratio of the standard 
+error to the estimate. CVs provide a measure of reliability and a 
+means to compare the precision of estimates across measures with 
+differing levels or metrics. In cases where the CV was greater 
+than 50%, or the unweighted sample had 10 or fewer cases, the 
+estimate was noted with a “!” symbol (interpret data with 
+caution; estimate based on 10 or fewer sample cases, or the 
+coefficient of variation exceeds 50%).
+
+Methodological changes 
+to the NCVS in 2006
+***********************
+
+Methodological changes implemented in 2006 may have affected the 
+crime estimates for that year to such an extent that they are not 
+comparable to estimates from other years. Evaluation of 2007 and 
+later data from the NCVS conducted by BJS and the Census Bureau 
+found a high degree of confidence that estimates for 2007, 2008, 
+2009, and 2010 are consistent with and comparable to estimates 
+for 2005 and previous years. The reports, Criminal Victimization, 
+2006, NCJ 219413, December 2007; Criminal Victimization, 2007, 
+NCJ 224390, December 2008; Criminal Victimization, 2008, NCJ 
+227777, September 2009; Criminal Victimization, 2009, NCJ 231327, 
+October 2010; and Criminal Victimization, 2010, NCJ 235508, 
+September 2011, are available on the BJS website. 
+
+References
+************
+
+Forrester, D., S. Frenz, M. O’Connell, and K. Pease. (1990). The 
+Kirkholt burglary prevention project. Home Office Crime 
+Prevention Unit Paper 13. London: Home Office.
+
+Grove, L., G. Farrell, D. Farrington, and S. Johnson. (2012). 
+Preventing repeat victimization: A systematic review. Stockholm: 
+The Swedish National Council for Crime Prevention.
+
+Groves, R. and D. Cork., eds. (2008). Surveying victims: Options 
+for conducting the National Crime Victimization Survey. 
+Washington DC: National Research Council.
+
+Lauritsen, J. (2012). Violent repeat victimization: Prospects and 
+challenges for research and practice. National Institute of 
+Justice, Research for the Real World Seminar. Available at: 
+http://www.nij.gov/events/research-real-world.htm
+
+Lauritsen, J., J. Gatewood Owens, M. Planty, M. Rand, and J. 
+Truman. (2012). Methods for counting high-frequency repeat 
+victimizations in the National Crime Victimization Survey, 
+BJS Web, NCJ 237308.
+
+Truman, J. (2011). Criminal Victimization, 2010, BJS Web, NCJ 
+235508.
+
+****************************************************
+
+The Bureau of Justice Statistics, located in the Office of 
+Justice Programs, U.S. Department of Justice, collects, analyses, 
+and disseminates statistical information on crime, criminal 
+offenders, victims of crime, and the operation of justice systems 
+at all levels of government. William J. Sabol is acting director.
+
+This report was written by Janet L. Lauritsen, BJS Visiting 
+Fellow, and Maribeth L. Rezey, University of Missouri - St. 
+Louis. Lynn Langton provided statistical review and verification 
+of the report.
+
+
+Jill Thomas edited the report, and Barbara Quinn produced the 
+report, under the supervision of Doris J. James.
+
+September 2013, NCJ 241656
+****************************************************
+
+************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+************************************************
+
+************************
+8/21/13/JER/11:45am
+************************

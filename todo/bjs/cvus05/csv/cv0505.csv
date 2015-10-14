@@ -1,0 +1,45 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+filename:  cv0505.csv,,,,,,,,,,,,,
+"Table 5. Number of victimizations and victimization rates for persons age 12 and over, by type of crime and race of victims",,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,
+
+"Table 5. Personal crimes, 2005:  Number of victimizations and victimization rates for persons age 12 and over, by type of crime and race of victims",,,,,,,,,,,,,
+              ,,"         Rate per 1,000 persons age 12 and over",,,,,,,,,,,
+,White only,,Black only,,,,Other race only/a,,,,Two or more races/b,,
+Type of crime,Number,Rate,Number,,Rate,,Number,,Rate,,Number,,Rate
+All personal crimes,"4,190,620",20.9,"846,730",,28.7,,"177,040",,14.1,,"186,400",,83.6
+Crimes of violence,"4,015,910",20.1,"796,800",,27,,"174,600",,13.9,,"186,400",,83.6
+   Completed violence,"1,178,140",5.9,"364,660",,12.4,,"53,370",,4.3,,"62,500",,28
+   Attempted/threatened violence,"2,837,780",14.2,"432,150",,14.7,,"121,240",,9.7,,"123,900",,55.6,
+   Rape/Sexual assault,"124,930",0.6,"51,980",,1.8,,"6,330",*,0.5,*,"8,430",*,3.8,*
+      Rape/Attempted rape,"83,170",0.4,"32,210",*,1.1,*,"6,330",*,0.5,*,"8,430",*,3.8,*
+         Rape,"37,950",0.2,"28,580",*,1,*,0,*,0,*,"2,840",*,1.3,*
+         Attempted rape/c,"45,220",0.2,"3,630",*,0.1,*,"6,330",*,0.5,*,"5,580",*,2.5,*
+      Sexual assault/d,"41,760",0.2,"19,770",*,0.7,*,0,*,0,*,0,*,0,*
+   Robbery,"447,030",2.2,"136,310",,4.6,,"37,580",,3,,"3,930",*,1.8,*
+      Completed/property taken,"253,280",1.3,"127,800",,4.3,,"30,300",*,2.4,*,"3,930",*,1.8,*
+         With injury,"106,250",0.5,"28,690",*,1,*,"7,880",*,0.6,*,0,*,0,*
+         Without injury,"147,020",0.7,"99,110",,3.4,,"22,420",*,1.8,*,"3,930",*,1.8,*
+      Attempted to take property,"193,750",1,"8,510",*,0.3,*,"7,270",*,0.6,*,0,*,0,*
+         With injury,"58,100",0.3,"2,670",*,0.1,*,"3,670",*,0.3,*,0,*,0,*
+         Without injury,"135,650",0.7,"5,840",*,0.2,*,"3,600",*,0.3,*,0,*,0,*
+   Assault,"3,443,950",17.2,"608,510",,20.6,,"130,690",,10.4,,"174,040",,78,
+      Aggravated,"757,950",3.8,"225,480",,7.6,,"31,860",*,2.5,*,"36,980",,16.6,
+         With injury,"219,920",1.1,"85,100",,2.9,,"4,210",*,0.3,*,"21,510",*,9.6,*
+         Threatened with weapon,"538,030",2.7,"140,380",,4.8,,"27,650",*,2.2,*,"15,470",*,6.9,*
+      Simple,"2,686,010",13.4,"383,030",,13,,"98,830",,7.9,,"137,060",,61.5,
+         With minor injury,"635,900",3.2,"106,280",,3.6,,"18,860",*,1.5,*,"34,210",*,15.3,*
+         Without injury,"2,050,110",10.2,"276,760",,9.4,,"79,970",,6.4,,"102,850",,46.1,
+Purse snatching/Pocket picking,"174,700",0.9,"49,930",,1.7,,"2,440",*,0.2,*,0,*,0,*
+Population age 12 and over,"200,263,410",…,"29,477,880",,…,,"12,522,090",,…,,"2,230,050",,…,
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,
+...Not applicable.,,,,,,,,,,,,,,
+"a/Includes American Indian, Eskimo, Asian Pacific Islander if only one of these races is given.",,,,,,,,,,,,,,
+"b/Includes all persons of any race, indicating two or more races.",,,,,,,,,,,,,,
+c/Includes verbal threats of rape.,,,,,,,,,,,,,,
+d/Includes threats.,,,,,,,,,,,,,,

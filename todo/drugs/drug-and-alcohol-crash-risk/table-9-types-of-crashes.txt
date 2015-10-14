@@ -1,0 +1,5 @@
+﻿Type of Crash	Number	Percent
+All Crashes	2,682	100.0%
+Fatal	15	0.6%
+Injury	886	33.0%
+Property Damage	1,781	66.4%

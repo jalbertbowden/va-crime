@@ -1,0 +1,875 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+-------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4984
+-------------------------------------------------------
+
+*******************
+Special Report
+*******************
+
+Nonfatal Domestic Violence, 2003–2012
+
+Jennifer L. Truman, Ph.D., and Rachel E. Morgan, Ph.D., BJS 
+Statisticians
+
+For the 10-year aggregate period 2003–12, domestic violence 
+accounted for 21% of all violent victimizations (figure 1). 
+Domestic violence includes rape, sexual assault, robbery, and 
+aggravated and simple assault committed by intimate partners, 
+immediate family members, or other relatives. Intimate 
+partner violence (15%) accounted for a greater percentage of 
+all violent victimizations, compared to violence committed by 
+immediate family members (4%) or other relatives (2%). Well-
+known or casual acquaintances accounted for 32% of all 
+violent victimizations, and strangers accounted for 38%.
+ 
+This report uses data from the National Crime Victimization 
+Survey (NCVS) to describe the characteristics and patterns of 
+domestic violence. Domestic violence includes victimizations 
+committed by intimate partners (current or former spouses, 
+boyfriends, or girlfriends), immediate family members 
+(parents, children, or siblings), and other relatives. It 
+details the number, percentage, and demographic 
+characteristics of domestic violence victims, and describes 
+victim and incident characteristics by the victim–offender 
+relationship. Incident characteristics include the type of 
+violence, the offender’s use of a weapon, victim injury and 
+medical treatment, and whether the incident was reported to 
+the police. The report focuses on domestic violence, but 
+includes estimates of violence committed by acquaintances and 
+strangers to provide comparisons.
+
+***********************************************
+
+************
+Highlights
+************
+
+* This report describes domestic violence—violence committed 
+by intimate partners, immediate family members, or other 
+relatives—by victim and incident characteristics. Data are 
+from the National Crime Victimization Survey (NCVS). In 2003–
+12:
+
+* Domestic violence accounted for 21% of all violent crime. 
+Intimate partner violence (15%) accounted for a greater 
+percentage of all violent victimizations than violence 
+committed by immediate family members (4%) or other relatives 
+(2%).
+
+* Current or former boyfriends or girlfriends committed most 
+domestic violence.
+
+* The majority of domestic violence was committed against 
+females (76%) compared to males (24%).
+
+* A similar percentage of violence by intimate partners and 
+immediate family members was reported to police (56% each). 
+An estimated 49% of violence by other relatives was reported 
+to police.
+
+* Most domestic violence (77%) occurred at or near the 
+victim’s home.
+
+* Intimate partner violence resulted in injuries more often 
+than violence perpetrated by immediate family members and 
+other relatives.
+
+* A weapon was involved in a larger percentage of violence 
+committed by other relatives (26%) than intimate partners 
+(19%) and immediate family members (19%).
+***********************************************
+
+The trend estimates are based on 2-year rolling averages 
+centered on the most recent year. For example, estimates 
+reported for 1994 represent the average estimates for 1993 
+and 1994. For ease of discussion, the report refers to all 2-
+year estimates by the most recent year. Rolling averages 
+generally improve the reliability and stability of estimate 
+comparisons over time. Other tables in this report focus on 
+the most recent 10-year aggregate period from 2003 through 
+2012, used throughout the report as 2003–12. Both approaches—
+using rolling averages and aggregating years—increase the 
+reliability and stability of estimates and facilitate 
+comparisons of detailed victimization characteristics.
+
+As with any source of information, there are limitations with 
+the current data that should be recognized. Because the 
+nature of the victim–offender relationship is defined by the 
+victim, the characteristics of intimate partner violence as 
+defined in this report may differ based on how the respondent 
+perceives their relationship with the offender. To some 
+victims, intimate relationships with offenders may be 
+primarily restricted to current or former boyfriends or 
+girlfriends. Others may describe those offenders as friends 
+or acquaintances rather than boyfriends or girlfriends. 
+
+Also, because the NCVS reflects a respondent’s marital status 
+at the time of the interview, it is not possible to determine 
+whether a person was separated or divorced at the time of the 
+victimization or whether separation or divorce followed the 
+violence. However, most intimate partner violence committed 
+against those with a separated marital status was by a spouse 
+or ex-spouse.
+
+***********************************************
+
+*********************************
+The National Crime Victimization 
+Survey (NCVS)
+*********************************
+
+The NCVS collects information on nonfatal crimes reported and 
+not reported to police against persons age 12 or older from a 
+nationally representative sample of U.S. households. It 
+produces national rates and levels of violent and property 
+victimization, information on the characteristics of crimes 
+and victims, and the consequences of victimization. Since the 
+NCVS is based on interviews with victims, it does not measure 
+homicide.
+
+This report examines violent crimes, which include rape or 
+sexual assault, robbery, aggravated assault, and simple 
+assault. The Bureau of Justice Statistics (BJS) classifies 
+rape, sexual assault, robbery, and aggravated assault as 
+serious violent crimes. The survey also measures property 
+crime and personal larceny. (For additional estimates not 
+included in this report, see the NCVS Victimization Analysis 
+Tool (NVAT) on the BJS website.)
+
+Victimization is the basic unit of analysis used throughout 
+this report. A victimization is a crime as it affects one 
+person or household. For personal crimes, the number of 
+victimizations is equal to the number of victims present 
+during a criminal incident. The number of victimizations may 
+be greater than the number of criminal incidents because more 
+than one person may be victimized during an incident. Each 
+crime against a household is counted as having a single 
+victim, the affected household. The victimization rate is a 
+measure of the occurrence of victimizations among a specified 
+population group. For personal crimes, the victimization rate 
+is based on the number of victimizations per 1,000 residents 
+age 12 or older. For household crimes, the victimization rate 
+is the number of incidents per 1,000 households.
+
+The NCVS is administered to persons age 12 or older. 
+Therefore, the survey excludes violence against children 
+under age 12. It includes persons living in group quarters, 
+such as dormitories, rooming houses, and religious group 
+dwellings, but excludes persons living in military barracks 
+and institutional settings, such as correctional or hospital 
+facilities, and the homeless.
+***********************************************
+
+****************************************
+Intimate partner violence accounted 
+for 15% of all violent victimizations
+****************************************
+
+In 2003–12, intimate partner violence accounted for 14.6% of 
+all violent victimizations (table 1). Current or former 
+boyfriends or girlfriends (7.8%) committed a greater 
+percentage of all violent victimizations than spouses (4.7%) 
+and ex-spouses (2.0%). Violence committed by immediate family 
+members accounted for 4.3% of all violent victimizations, and 
+other relatives accounted for 2.4%. The percentage of total 
+violence perpetrated by other relatives (2.4%) was greater 
+than the percentage by the victim’s parents (1.2%), children 
+(1.5%), or siblings (1.6%). These relationships were similar 
+for serious violence and simple assault.
+
+************************************
+Domestic violence declined 
+from 1994 to 2012
+************************************
+
+The rate of domestic violence­ declined 63%, from 13.5 
+victimizations per 1,000 persons age 12 or older in 1994 to 
+5.0 per 1,000 in 2012 (appendix table 3). The overall pattern 
+and size of the decline were similar to the decline in the 
+overall violent crime rate. Total violence declined 67% from 
+a rate of 79.8 per 1,000 to 26.1 per 1,000 (not shown).
+
+From 1994 to 2012, violence committed by intimate partners 
+declined at a faster rate than violent crime committed by 
+immediate family members and other relatives. Violence 
+committed by intimate partners declined 67%, from 9.8 per 
+1,000 persons age 12 or older in 1994 to 3.2 per 1,000 in 
+2012 (figure 2). Violence committed by immediate family 
+members declined 52% during the same period, from 2.7 to 1.3 
+per 1,000. Violence committed by other relatives decreased 
+49%, from 1.1 to 0.6 per 1,000.
+
+Most of the decline in domestic violence occurred in the 
+first half of the period from 1994 to 2002. Rates of violent 
+crime committed by intimate partners and other relatives 
+continued to decline from 2003 to 2012, while violent crime 
+by immediate family members fluctuated between a rate of 0.9 
+per 1,000 and 1.3 per 1,000. From 2010 to 2012, violence 
+perpetrated by intimate partners and other relatives remained 
+relatively stable.
+
+Serious domestic violence (rape, sexual assault, robbery, and 
+aggravated assault) declined from 1994 to 2012. Serious 
+intimate partner violence declined at a faster rate than 
+serious violence committed by immediate family members and 
+other relatives. Rates of serious intimate partner violence 
+declined by over half, from 3.6 per 1,000 persons age 12 or 
+older in 1994 to 1.0 per 1,000 in 2012 (figure 3). During the 
+same period, the rate of serious violence by immediate family 
+members decreased from 0.7 to 0.3 per 1,000, and serious 
+violence by other relatives decreased from 0.4 to 0.2 per 
+1,000. Similar to the pattern in overall domestic violence, 
+most of the decline in these rates occurred from 1994 to 
+2002. Rates of serious intimate partner violence continued to 
+decline from 2003 to 2012. During the same time period, 
+serious violence by immediate family members fluctuated 
+between 0.3 and 0.6 per 1,000, and serious violence 
+perpetrated by other relatives varied between 0.1 and 0.5 per 
+1,000.
+
+Rates of simple assault by intimate partners, immediate 
+family members, and other relatives decreased from 1994 to 
+2012. The rate of simple assault by intimate partners 
+declined from 6.2 to 2.2 per 1,000 (figure 4). The rate of 
+simple assault by immediate family members decreased from 1.9 
+to 1.0 per 1,000, while the rate for other relatives declined 
+from 0.7 to 0.4 per 1,000. As in overall domestic violence, 
+the majority of the decline in these rates occurred from 1994 
+to 2002. Simple assaults by intimate partners remained 
+relatively stable from 2003 to 2012, fluctuating from 2.1 per 
+1,000 to 3.0 per 1,000. Simple assaults perpetrated by 
+immediate family members varied from a rate of 0.6 per 1,000 
+to 1.0 per 1,000, and the rate for other relatives fluctuated 
+from 0.3 per 1,000 to 0.5 per 1,000 during the same time 
+period.
+
+****************************************
+The rate of intimate partner violence
+was greater than the rate of violence 
+by immediate family members and 
+other relatives
+****************************************
+
+The rates of violence committed by acquaintances (8.4 
+victimizations per 1,000 persons age 12 or older) and 
+strangers (10.2 per 1,000) were greater than the rate of 
+domestic violence (5.6 per 1,000) in 2003–12. This was true 
+for both serious violence and simple assault. For total 
+violent crime and serious violent crime, the rate of violence 
+committed by strangers was greater than the rate of violence 
+by acquaintances.
+
+In 2003–12, the rate of intimate partner violence (3.9 per 
+1,000) was greater than the rate of violence by immediate 
+family members (1.1 per 1,000) and other relatives (0.6 per 
+1,000) (table 2). The rate of intimate partner violence by 
+boyfriends or girlfriends (2.1 per 1,000) was higher than 
+violence perpetrated by spouses (1.3 per 1,000) and ex-
+spouses (0.5 per 1,000). These patterns were similar for both 
+serious violence and simple assault. The rate of violence 
+committed by siblings (0.4 per 1,000) was greater than the 
+rate by parents (0.3 per 1,000), while the rate of violence 
+perpetrated by parents and children were similar.
+
+******************************************
+Domestic violence accounted for a greater 
+percentage of serious violent crime 
+against females than males
+******************************************
+
+In 2003–12, a greater percentage of serious violent crime 
+against females was committed by someone the victim knew 
+(65%) than by a stranger (29%) (table 3). In comparison, 
+more serious violent crime against males was committed 
+by a stranger (55%) than by someone the victim knew (34%). 
+A larger percentage of females (37%) were victims of serious 
+domestic violence than males (10%). Both male and female 
+victims were more likely to experience violence by an 
+intimate partner than a family member or other relative. 
+This was also true for simple assault.
+
+****************************************
+More domestic violence against victims 
+age 18 or older was committed by intimate 
+partners than by immediate family 
+members and other relatives
+****************************************
+
+In 2003–12, a greater percentage of serious violent crime 
+against victims ages 12 to 17 was committed by someone the 
+victim knew (55%) than by a stranger (37%) (table 4). This 
+pattern held for simple assault. For persons ages 18 to 49, 
+more than 45% of serious violent victimizations were 
+committed by a known offender and more than 43% by a 
+stranger. A larger percentage of simple assault against 
+persons ages 18 to 49 was committed by a known offender 
+(more than 50%) than a stranger (about 40%).
+
+Victims ages 12 to 17 and victims age 50 or older experienced 
+more serious violent victimizations and simple assaults 
+involving well-known or casual acquaintances than intimate 
+partners and family members. For victims ages 12 to 17, the 
+percentage of serious violence perpetrated by a family member 
+(7%) was slightly greater than serious violence perpetrated 
+by an intimate partner (5%). A similar pattern was evident 
+for simple assault. Persons age 18 or older experienced more 
+serious domestic violence and simple assault perpetrated by 
+intimate partners than by immediate family members and other 
+relatives.
+
+****************************************
+The majority of domestic violence was 
+committed against females compared 
+to males
+****************************************
+
+Among domestic violent victimizations, most were committed 
+against females (76%) compared to males (24%), although the 
+proportions varied by family relationship (figure 5). The 
+majority of intimate partner violence was committed against 
+females (82%), compared to males (18%). However, the 
+proportion of violence against males and females was more 
+evenly distributed for domestic violence perpetrated by 
+immediate family members or other relatives. About 60% of 
+violence by immediate family members and other relatives was 
+committed against females, compared to about 40% of violence 
+committed against males.
+
+****************************************
+Most domestic violence was committed 
+by the victim’s current or former 
+boyfriend or girlfriend
+****************************************
+
+In 2003–12, most domestic violence against females was 
+committed by the victim’s current or former boyfriend or 
+girlfriend (39%) or spouse (25%) (figure 6). Similarly, most 
+domestic violence against males was committed by the victim’s 
+current or former boyfriend or girlfriend (30%). Males 
+experienced somewhat similar percentages of domestic violence 
+perpetrated by a spouse (13%), sibling (14%), or other 
+relative (17%).
+
+****************************************
+Simple assault made up the majority 
+of domestic violence
+****************************************
+
+In 2003–12, the majority of domestic violence was simple 
+assault (64%), compared to serious violence (36%) (table 5). 
+This pattern held for all victim–offender relationship 
+categories. The majority of violence committed by 
+acquaintances (73%) and strangers (64%) was also simple 
+assault.
+
+Violence committed by intimate partners (36%), immediate 
+family members (35%), and other relatives (37%) had similar 
+percentages of serious violence. Current spouses (37%) and 
+current or former boyfriends or girlfriends (38%) committed a 
+higher percentage of serious intimate partner violence than 
+former spouses (22%).
+
+****************************************
+Intimate partner violence resulted in 
+injuries more often than other types 
+of domestic violence
+****************************************
+
+In 2003–12, about 45% of domestic violence resulted in 
+injury. Violence perpetrated by intimate partners (48%) 
+resulted in injuries more often than violence perpetrated by 
+immediate family (37%) and other relatives (36%) (table 6). 
+For all domestic violence categories, the majority of 
+physical injuries were bruises or cuts. An estimated 43% of 
+intimate partner violence, 32% of violence by immediate 
+family members, and 31% of violence by other relatives 
+resulted in bruises and cuts. Victims of intimate partner 
+violence (11%) were more likely to suffer serious injuries 
+(i.e., sexual violence injuries, gunshots, knife wounds, 
+internal injuries, unconciousness, and broken bones)  than 
+those victimized by immediate family members or other 
+relatives (4% each). Comparatively, more than 21% of violence 
+committed by acquaintances and strangers involved injuries 
+and about 4% involved serious injury. As with domestic 
+violence, when injuries were involved in violence committed 
+by acquaintances or strangers, the majority of these injuries 
+were bruises or cuts.
+
+Of the intimate partner violence victims who were injured, 
+34% received some type of medical care, which was slightly 
+less than the percentage of victims injured by immediate 
+family members (41%) and other relatives (50%). An estimated 
+49% of intimate partner violence victims and 54% of victims 
+of violence by immediate family members who were injured and 
+sought treatment received care in a hospital or medical 
+office. Of the victims who were injured by other relatives 
+and received care, a greater percentage received care in a 
+hospital or medical office (76%) than at the scene, someone’s 
+home, or another location (24%).
+
+In comparison, 37% of victims who were injured by 
+acquaintances received some type of medical care, with the 
+majority receiving that care in a hospital or medical office 
+(61%). A greater percentage of victims who were injured by 
+strangers received medical treatment, compared to victims of 
+intimate partner violence. An estimated 47% of victims who 
+were injured by strangers received treatment. Of those who 
+received treatment, an estimated 61% received care in a 
+hospital or medical office.
+
+****************************************
+A similar percentage of violence 
+committed by intimate partners and 
+immediate family members involved 
+weapons (19% each)
+****************************************
+
+In 2003–12, most domestic violence did not involve a weapon 
+(77%) (table 7). A weapon was involved in a larger percentage 
+of violence committed by other relatives (26%) than intimate 
+partners (19%) and immediate family members (19%). However, 
+there were more intimate partner violence victimizations 
+(about 967,700 annually) than victimizations by other 
+relatives (158,900 annually). Annually, about 184,800 
+intimate partner violent victimizations and about 41,800 
+victimizations by other relatives involved a weapon.
+
+When weapons were involved, firearms made up a smaller 
+percentage than knives and other weapons of domestic violence 
+overall and of intimate partner violence. An equal percentage 
+of domestic violence by other relatives involved firearms and 
+knives (10% each). Although a lower percentage of intimate 
+partner violence (3%) involved a firearm compared to violence 
+by other relatives, the average annual number of intimate 
+partner violence firearm victimizations was greater due to 
+the larger annual average size.
+
+As with domestic violence, most violence committed by 
+acquaintances (77%) and strangers (63%) did not involve a 
+weapon. When weapons were involved, a larger percentage of 
+violence committed by acquaintances involved other weapons 
+(7%), compared to firearms (4%) or knives (5%). Strangers 
+used firearms in about 10% of violent crimes, which was 
+similar to the percentage used by other relatives.
+
+****************************************
+About half of all domestic violence 
+was reported to police
+****************************************
+
+In 2003–12, about 55% of domestic violence was reported to 
+police (table 8). A similar percentage of intimate partner 
+violence and violence committed by immediate family members 
+was reported to police (56% each). An estimated 49% of 
+violence by other relatives was reported to police. For each 
+category of domestic violence, the percentages reported to 
+police were similar for both serious violence and simple 
+assault. A smaller percentage of violence committed by 
+acquaintances (39%) and strangers (49%) was reported to 
+police, compared to intimate partner violence and violence by 
+immediate family members.
+
+****************************************
+Victims of intimate partner violence 
+received more assistance from victim 
+service agencies than victims of 
+violence by immediate family members 
+and other relatives
+****************************************
+
+Victim service agencies are publicly or privately funded 
+organizations that provide victims with support and services 
+to aid their physical and emotional recovery, offer 
+protection from future victimizations, guide victims through 
+the criminal justice system process, and assist them in 
+obtaining restitution. In 2003–12, a greater percentage of 
+victims of intimate partner violence (24%) received 
+assistance from a victim service agency than victims of 
+violence by immediate family members (18%), other relatives 
+(9%), acquaintances (9%), or strangers (4%) (table 9). 
+Victims of serious intimate partner violence (28%) received 
+more assistance than victims of simple assault by an intimate 
+partner (22%). Similarly, victims of serious violence 
+committed by acquaintances (12%) and strangers (5%) received 
+more assistance than victims of simple assault by 
+acquaintances (8%) and strangers (4%). However, the 
+proportions of assistance received by victims of violence 
+committed by immediate family members or other relatives were 
+not statistically different for either serious violence or 
+simple assault.
+
+****************************************
+Most domestic violence occurred 
+at or near the victim’s home
+****************************************
+
+In 2003–12, 77% of domestic violence occurred at or near the 
+victim’s home (table 10). Violence by intimate partners (79%) 
+and immediate family members (78%) was more likely to occur 
+at or near the victim’s home than violence committed by other 
+relatives (66%). An estimated 23% of domestic violence 
+occurred in other locations, including a relative’s home, a 
+commercial area, or on public transportation.  Unlike 
+domestic violence, most violence committed by acquaintances 
+(61%) and strangers (75%) occurred in other locations, such 
+as commercial places, parking lots or garages, school, or 
+open areas.
+
+****************************************
+Females had higher rates of domestic 
+violence than males
+****************************************
+
+In 2003–12, females (6.2 per 1,000) had a higher rate of 
+intimate partner violence than males (1.4 per 1,000) (table 
+11). The rates of violence committed by immediate family 
+members and other relatives were also higher for females than 
+for males, although males had higher rates of violence by 
+strangers and acquaintances.
+
+As with overall violence, rates of domestic violence were 
+highest for persons ages 18 to 24 and lowest for persons age 
+65 or older. In 2003–12, persons ages 18 to 24 had the 
+highest rates of intimate partner violence (8.7 per 1,000), 
+and persons ages 12 to 17 had the highest rates of violence 
+by immediate family members (2.6 per 1,000). Persons ages 12 
+to 17 (1.2 per 1,000) and 18 to 24 (1.2 per 1,000) had the 
+highest rates of violence by other relatives. Persons age 65 
+or older had the lowest rates of violence perpetrated by 
+intimate partners (0.2 per 1,000), immediate family members 
+(0.2 per 1,000), and other relatives (0.1 per 1,000).
+
+These patterns held for violence by strangers and 
+acquaintances. Persons ages 12 to 17 had the highest rates of 
+violence committed by acquaintances (26.9 per 1,000), and 
+persons ages 18 to 24 had the highest rate of stranger 
+violence (19.9 per 1,000). Persons age 65 or older had the 
+lowest rates of violence perpetrated by acquaintances (1.3 
+per 1,000) and strangers (1.6 per 1,000).
+
+In 2003–12, non-Hispanic blacks (4.7 per 1,000) and non-
+Hispanic persons of two or more races (16.5 per 1,000) had 
+the highest rates of intimate partner violence, compared to 
+non-Hispanic whites (3.9 per 1,000), Hispanics (2.8 per 
+1,000), and non-Hispanic persons of other races (2.3 per 
+1,000). Persons of two or more races had the highest rate of 
+violence committed by immediate family members (4.4 per 
+1,000). Whites (1.2 per 1,000) experienced more violence 
+committed by immediate family members than blacks (0.7 per 
+1,000) and Hispanics (0.6 per 1,000). Blacks (1.2 per 1,000) 
+experienced more violence perpetrated by other relatives than 
+whites (0.6 per 1,000), Hispanics (0.6 per 1,000), and 
+persons of other races (0.2 per 1,000). In 2003–12, blacks 
+and persons of two or more races had the highest rates of 
+violence committed by acquaintances and strangers, compared 
+to whites and persons of other races.
+
+The NCVS collects information on a respondent’s marital 
+status at the time of the interview, but does not obtain 
+marital status at the time of the incident or whether a 
+change in marital status occurred after the incident. Rates 
+of intimate partner violence were greater for those persons 
+who were separated (44.7 per 1,000) or divorced (11.4 per 
+1,000), compared to those who were never married (4.4 per 
+1,000), married (1.0 per 1,000), or widowed (0.6 per 1,000). 
+Persons who were married or widowed had lower rates of 
+intimate partner violence than those who were never married. 
+Persons who were separated (2.8 per 1,000) also experienced 
+more violence committed by immediate family members than 
+persons in other marital statuses. Persons who were married 
+had lower rates of violence committed by immediate family 
+members (0.6 per 1,000) and other relatives (0.4 per 1,000) 
+than those who were never married, divorced, or separated. 
+Unlike patterns in domestic violence, persons who were never 
+married and separated had higher rates of violence 
+perpetrated by acquaintances and strangers than persons who 
+were married, widowed, or divorced.
+
+****************************************
+Violence by immediate family members 
+was highest in rural areas
+****************************************
+
+In 2003–12, the rate of intimate partner violence against 
+urban residents (5.1 per 1,000) was higher than the rate of 
+violence against suburban (3.0 per 1,000) and rural (4.3 per 
+1,000) residents (table 12). Rural residents had higher rates 
+of violence perpetrated by immediate family members (1.6 per 
+1,000) than urban (1.2 per 1,000) and suburban (1.0 per 
+1,000) residents. Rates of intimate partner violence were 
+higher than rates of violence committed by immediate family 
+and other relatives for residents in all areas. The rate of 
+violence committed by acquaintances was higher for victims 
+living in urban (8.8 per 1,000) and rural (9.5 per 1,000) 
+areas than in suburban areas (7.8 per 1,000). Urban areas had 
+the highest rate of stranger violence (14.2 per 1,000).
+
+**************
+Methodology
+**************
+
+Survey coverage
+*****************
+
+The National Crime Victimization Survey (NCVS) is an annual 
+data collection conducted by the U.S. Census Bureau for the 
+Bureau of Justice Statistics (BJS). The NCVS is a self-report 
+survey in which interviewed persons are asked about the 
+number and characteristics of victimizations experienced 
+during the prior 6 months. The NCVS collects information on 
+nonfatal personal crimes (rape or sexual assault, robbery, 
+aggravated and simple assault, and personal larceny) and 
+household property crimes (burglary, motor vehicle theft, 
+and other theft) both reported and not reported to police. 
+In addition to providing annual level and change estimates 
+on criminal victimization, the NCVS is the primary source
+of information on the nature of criminal victimization 
+incidents.
+
+Survey respondents provide information about themselves 
+(e.g., age, sex, race and Hispanic origin, marital status, 
+education level, and income) and whether they experienced a 
+victimization. The NCVS collects information for each 
+victimization incident about the offender (e.g., age, race 
+and Hispanic origin, sex, and victim–offender relationship), 
+characteristics of the crime (including time and place of 
+occurrence, use of weapons, nature of injury, and economic 
+consequences), whether the crime was reported to police, 
+reasons the crime was or was not reported, and victim 
+experiences with the criminal justice system.
+
+The NCVS is administered to persons age 12 or older from a 
+nationally representative sample of households in the United 
+States. The NCVS defines a household as a group of members 
+who all reside at a sampled address. Persons are considered 
+household members when the sampled address is their usual 
+place of residence at the time of the interview and when they 
+have no usual place of residence elsewhere. Once selected, 
+households remain in the sample for 3 years, and eligible 
+persons in these households are interviewed every 6 months 
+either in person or over the phone for a total of seven 
+interviews.
+
+Generally, all first interviews are conducted in person. New 
+households rotate into the sample on an ongoing basis to 
+replace outgoing households that have been in sample for the 
+3-year period. The sample includes persons living in group 
+quarters, such as dormitories, rooming houses, and religious 
+group dwellings, and excludes persons living in military 
+barracks and institutional settings, such as correctional or 
+hospital facilities, and the homeless.
+
+Nonresponse and weighting adjustments
+****************************************
+
+In 2012, 92,390 households and 162,940 persons age 12 or 
+older were interviewed for the NCVS. Each household was 
+interviewed twice during the year. The response rate was 87% 
+for households and 87% for eligible persons. Victimizations 
+that occurred outside of the United States were excluded from 
+this report. In 2012, less than 1% of the unweighted 
+victimizations occurred outside of the United States and were 
+excluded from the analyses.
+
+Estimates in this report use data from the 1993 to 2012 NCVS 
+data files, weighted to produce annual estimates of 
+victimization for persons age 12 or older living in U.S. 
+households. Since the NCVS relies on a sample rather than a 
+census of the entire U.S. population, weights are designed to 
+inflate sample point estimates to known population totals and 
+to compensate for survey nonresponse and other aspects of the 
+sample design.
+
+The NCVS data files include both person and household 
+weights. Person weights provide an estimate of the population 
+represented by each person in the sample. Household weights 
+provide an estimate of the U.S. household population 
+represented by each household in the sample. After proper 
+adjustment, both household and person weights are also 
+typically used to form the denominator in calculations of 
+crime rates.
+
+Victimization weights used in this analysis account for the 
+number of persons present during an incident and for high-
+frequency repeat victimizations (or series victimizations). 
+Series victimizations are similar in type but occur with such 
+frequency that a victim is unable to recall each individual 
+event or describe each event in detail. Survey procedures 
+allow NCVS interviewers to identify and classify these 
+similar victimizations as series victimizations and to 
+collect detailed information on only the most recent incident 
+in the series.
+
+The weight counts series incidents as the actual number of 
+incidents reported by the victim, up to a maximum of 10 
+incidents. Including series victimizations in national rates 
+results in large increases in the level of violent 
+victimization; however, trends in violence are generally 
+similar regardless of whether series victimizations are 
+included.
+
+In 2012, series incidents accounted for about 1% of all 
+victimizations and 4% of all violent victimizations. 
+Weighting series incidents as the number of incidents up to a 
+maximum of 10 incidents produces more reliable estimates of 
+crime levels, while the cap at 10 minimizes the effect of 
+extreme outliers on the rates. Additional information on the 
+series enumeration is detailed in the report Methods for 
+Counting High Frequency Repeat Victimizations in the National 
+Crime Victimization Survey, NCJ 237308, BJS web, April 2012.
+
+Standard error computations
+******************************
+
+When national estimates are derived from a sample, as with 
+the NCVS, it is important to use caution when comparing one 
+estimate to another estimate or when comparing estimates over 
+time. Although one estimate may be larger than another, 
+estimates based on a sample have some degree of sampling 
+error. The sampling error of an estimate depends on several 
+factors, including the amount of variation in the responses 
+and the size of the sample. When the sampling error around an 
+estimate is taken into account, the estimates that appear 
+different may not be statistically different.
+
+One measure of the sampling error associated with an estimate 
+is the standard error. The standard error can vary from one 
+estimate to the next. Generally, an estimate with a small 
+standard error provides a more reliable approximation of the 
+true value than an estimate with a large standard error. 
+Estimates with relatively large standard errors are 
+associated with less precision and reliability and should be 
+interpreted with caution.
+
+In order to generate standard errors around numbers and 
+estimates from the NCVS, the Census Bureau produced 
+generalized variance function (GVF) parameters for BJS. The 
+GVFs take into account aspects of the NCVS complex sample 
+design and represent the curve fitted to a selection of 
+individual standard errors based on the Jackknife Repeated 
+Replication technique. The GVF parameters were used to 
+generate standard errors for each point estimate (such as 
+counts, percentages, and rates) in this report.
+
+BJS conducted tests to determine whether differences in 
+estimated numbers and percentages in this report were 
+statistically significant once sampling error was taken into 
+account. Using statistical programs developed specifically 
+for the NCVS, all comparisons in the text were tested for 
+significance. The Student’s t-statistic was the primary test 
+procedure, which tests the difference between two sample 
+estimates.
+
+Data users can use the estimates and the standard errors of 
+the estimates provided in this report to generate a 
+confidence interval around the estimate as a measure of the 
+margin of error. The following example illustrates how 
+standard errors can be used to generate confidence intervals:
+
+* In 2003–12, according to the NCVS, 21.3% of all violent   
+victimization was domestic violence (see table 1). Using the 
+GVFs, it was determined that the estimated percentage has a 
+standard error of 0.5 (see appendix table 2). A confidence 
+interval around the estimate was generated by multiplying the 
+standard errors by ±1.96 (the t-score of a normal, two- 
+tailed distribution that excludes 2.5% at either end of the 
+distribution). Therefore, the 95% confidence interval around 
+the 21.3% estimate from 2012 is 21.3 ± (0.5 X 1.96) or (20.3 
+to 22.3). In others words, if different samples using the 
+same procedures were taken from the U.S. population in 2003–
+12, 95% of the time domestic violence would account for 20.3% 
+to 22.3% of all violent victimizations.
+
+In this report, BJS also calculated a coefficient of 
+variation (CV) for all estimates, representing the ratio of 
+the standard error to the estimate. CVs provide a measure of 
+reliability and a means to compare the precision of estimates 
+across measures with differing levels or metrics. In cases 
+where the CV was greater than 50%, or the unweighted sample 
+had 10 or fewer cases, the estimate was noted with a “!” 
+symbol (Interpret data with caution. Estimate based on 10 or 
+fewer sample cases, or the coefficient of variation is 
+greater than 50%).
+
+Domestic violence
+******************
+
+The NCVS defines domestic violence as rape or sexual assault, 
+robbery, aggravated assault, or simple assault committed by 
+an offender who is the victim’s current or former spouse, 
+boyfriend, girlfriend, parent, child, sibling, or other 
+relative. Intimate partner violence is violence committed by 
+the victim’s current or former spouse, boyfriend, or 
+girlfriend. Because the nature of the victim–offender 
+relationship is defined by the victim, the characteristics of 
+intimate partner violence as defined in this report may 
+differ based on how the respondent perceives their 
+relationship with the offender. To some victims, intimate 
+relationships with offenders may be primarily restricted to 
+current or former boyfriends or girlfriends. Others may 
+describe those offenders as friends or acquaintances rather 
+than boyfriends or girlfriends. This report examines intimate 
+partner violence, violence committed by immediate family 
+members (parents, children, or siblings), and violence 
+committed by all other relatives.
+
+Methodological changes to the NCVS in 2006
+********************************************
+
+Methodological changes implemented in 2006 may have affected 
+the crime estimates for that year to such an extent that they 
+are not comparable to estimates from other years. Evaluation 
+of 2007 and later data from the NCVS conducted by BJS and the 
+Census Bureau found a high degree of confidence that 
+estimates for 2007, 2008, 2009, 2010, 2011, and 2012 are 
+consistent with and comparable to estimates for 2005 and 
+previous years. The reports, Criminal Victimization, 2006, 
+NCJ 219413, December 2007; Criminal Victimization, 2007, NCJ 
+224390, December 2008; Criminal Victimization, 2008, NCJ 
+227777, September 2009; Criminal Victimization, 2009, NCJ 
+231327, October 2010; Criminal Victimization, 2010, NCJ 
+235508, September 2011; Criminal Victimization, 2011, NCJ 
+239437, October 2012; and Criminal Victimization, 2012, NCJ 
+243389, October 2013 are available on the BJS website. 
+Although caution is warranted when comparing data from 2006 
+to other years, the combination of 2-year rolling averages 
+and 10 years of aggregated data in this report diminishes the 
+potential variation between 2006 and later years. In general, 
+findings do not change significantly if the year 2006 is 
+excluded from the analysis.
+
+*******************************************************
+The Bureau of Justice Statistics, located in the Office 
+of Justice Programs, U.S. Department of Justice, collects, 
+analyzes, and disseminates statistical information on crime, 
+criminal offenders, victims of crime, and the operation of 
+justice systems at all levels of government. 
+William J. Sabol is acting director. 
+
+This report was written by Jennifer Truman and Rachel 
+Morgan. Erika Harrell verified the report.
+
+Vanessa Curto and Jill Thomas edited the report, and 
+Barbara Quinn produced the report.
+
+April 2014, NCJ 244697
+*******************************************************
+
+**************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+**************************************************
+
+***********************
+3/20/2014/JER/9:30am
+***********************

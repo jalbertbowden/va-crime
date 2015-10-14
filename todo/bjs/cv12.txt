@@ -1,0 +1,800 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+----------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4781
+
+This report is one in a series. More recent editions may be
+available. To view a list of all in the series go to
+http://www.bjs.gov/index.cfm?ty=pbse&sid=6
+---------------------------------------------------------
+
+***********
+Bulletin
+***********
+
+Criminal Victimization, 2012
+
+Jennifer Truman, Ph.D., Lynn Langton, Ph.D., and Michael 
+Planty, Ph.D., BJS Statisticians
+
+In 2012, for the second consecutive year, violent and 
+property crime rates increased for U.S. residents age 12 or 
+older, according to the Bureau of Justice Statistics’ (BJS) 
+National Crime Victimization Survey (NCVS). The overall 
+violent crime rate (which includes rape or sexual assault, 
+robbery, aggravated and simple assault) rose from 22.6 
+victimizations per 1,000 persons in 2011 to 26.1 in 2012 
+(figure 1). Violent victimizations that were not reported to 
+police increased from a rate of 10.8 per 1,000 persons in 
+2011 to 14.0 in 2012 and accounted for the majority of the 
+increase in total violence. The apparent increase in the rate 
+of violent crimes reported to police from 2011 to 2012 was 
+not statistically significant. 
+
+The overall property crime rate (which includes household 
+burglary, theft, and motor vehicle theft) increased from 
+138.7 per 1,000 households in 2011 to 155.8 per 1,000 in 
+2012. Similar to violent crime, the rate for property crime 
+not reported to police increased during the period, from 86.1 
+to 101.9 victimizations per 1,000 households. However, there 
+was no statistically significant change in the rate of 
+property crime victimization reported to police.
+
+*********************************************************
+************
+HIGHLIGHTS 
+************
+
+* The rate of violent victimization increased from 22.6 
+victimizations per 1,000 persons age 12 or older in 2011 
+to 26.1 in 2012. Crime not reported to police and simple 
+assault accounted for the majority of this increase.
+
+* Violent victimizations not reported police increased 
+from 10.8 per 1,000 persons in 2011 to 14.0 in 2012.
+
+* The apparent increase in the number and rate of serious 
+violent crime from 2011 to 2012 was not statistically 
+significant. 
+
+* The rate of property crime increased from 138.7 per 1,000 
+households in 2011 to 155.8 in 2012.
+
+* From 2011 to 2012, there were no statistically significant 
+changes in the rates of domestic violence, violence involving 
+an injury, or firearm violence.
+
+* In 2012, 44% of violent victimizations and 54% of serious 
+violent victimizations were reported to police. 
+
+* There was no significant change in the percentage of crime 
+victims receiving assistance from victim service agencies 
+from 2011 to 2012 (about 8%). 
+
+* Violent crime rates increased slightly in 2012 for blacks 
+but remained stable for whites and Hispanics. 
+
+* In 2012, residents in urban areas continued to experience 
+the highest rate of violent crime.
+
+*********************************************************
+
+***************************************
+Increase in simple assault accounted 
+for majority of the rise in total 
+violence from 2011 to 2012
+**************************************
+
+The rate of violent crime increased from 22.6 victimizations 
+per 1,000 persons age 12 or older in 2011 to 26.1 per 1,000 
+in 2012 (table 1). The number of violent victimizations rose 
+from 5.8 million in 2011 to 6.8 million in 2012. When 
+examined by crime type, this increase in the rate and number 
+of violent crimes was largely due to an increase in simple 
+assault. In 2012, the rate of simple assault was 18.2 per 
+1,000, up from 15.4 in 2011. The apparent increase in the 
+rate of serious violent crime--defined as rape or sexual 
+assault, robbery, and aggravated assault--to 8.0 per 1,000 
+was not statistically significant. In 2012, the rates of 
+serious violent crime and simple assault were lower than in 
+2003.
+
+**********************************************************
+
+*********************************
+The National Crime 
+Victimization Survey (NCVS)
+*********************************
+
+The NCVS collects information on nonfatal crimes reported and 
+not reported to the police against persons age 12 or older 
+from a nationally representative sample of U.S. households. 
+It produces national rates and levels of violent and property 
+victimization, as well as information on the characteristics 
+of crimes and victims, and the consequences of victimization. 
+Since the NCVS is based on interviews with victims, it does 
+not measure homicide. 
+
+The NCVS measures the violent crimes of rape or sexual 
+assault, robbery, aggravated assault, and simple assault. The 
+NCVS classifies rape, sexual assault, robbery, and aggravated 
+assault as serious violent crimes. Property crimes include 
+household burglary, motor vehicle theft, 
+and theft. The survey also measures personal larceny, 
+which includes pick pocketing and purse snatching. For 
+additional estimates not included in this report, see the 
+NCVS Victimization Analysis Tool (NVAT) on the BJS website. 
+
+Victimization is the basic unit of analysis used throughout 
+this report. Victimization is a crime as it affects one 
+person or household. For personal crimes, the number of 
+victimizations is equal to the number of victims present 
+during a criminal incident. The number of victimizations may 
+be greater than the number of incidents because more than one 
+person may be victimized during an incident. Each crime 
+against a household is counted as having a single victim, the 
+affected household. 
+
+The victimization rate is a measure of the occurrence of 
+victimizations among a specified population group. For 
+personal crimes, this is based on the number of 
+victimizations per 1,000 residents age 12 or older. For 
+household crimes, the victimization rate is calculated using 
+the number of incidents per 1,000 households.
+**********************************************************
+
+***************************************
+No significant change in the rate 
+of domestic violence from 2011 to 2012
+***************************************
+
+The rate of domestic violence--crime committed by intimate 
+partners and family members--remained stable from 2011 to 
+2012 (5 per 1,000) (table 1). No measurable change was 
+detected from 2011 to 2012 in rates of intimate partner 
+violence--victimizations committed by current or former 
+spouses, boyfriends, or girlfriends--(3 per 1,000) or rates 
+of serious violent crime involving weapons (5 per 1,000) or 
+injury to the victim (3 per 1,000). The rates of serious 
+violent crime involving weapons or injury to the victim in 
+2012 were lower than rates in 2003.
+
+***************************************
+No significant change in firearm 
+violence from 2011 to 2012
+***************************************
+
+There was no measurable change in the rate of firearm 
+violence from 2011 to 2012 and from 2003 to 2012 (table 2). 
+In 2003, 2011, and 2012, the rate of firearm violence was 
+approximately 2.0 victimizations per 1,000 persons age 12 or 
+older. In 2012, firearms were used in about 7% of all violent 
+crime incidents. This percentage has been relatively stable 
+over the past decade. In 2012, about 66% of all serious 
+violent crimes that involved a firearm were reported to 
+police. There was no measurable change in the rates of 
+firearm violence reported and not reported to police from 
+2011 to 2012. 
+
+********************************
+The homicide rate declined 48% 
+from 1993 to 2011
+********************************
+
+Since the NCVS interviews victims of crimes, homicide is not 
+included in nonfatal victimization estimates. Homicide rates 
+are based on data from the Center for Disease Control’s Vital 
+Statistics System.***Footnote 1 The CDC’s Vital Statistics re 
+one of two national sources of data on homicide 
+victimization. Rates of homicide are also available through 
+the FBI’s Supplemental Homicide Report (SHR). Rates of 
+homicide may differ slightly depending on which source is 
+used.*** From 1993 to 2011, the rate of homicide declined 
+48%, from 9.9 to 5.1 homicides per 100,000 persons (figure 
+2).  Over the past 10 years, from 2002 to 2011, the rate 
+declined from 6.1 to 5.1 homicides per 100,000, with the 
+majority of the decline occurring from 2008 to 2011. 
+
+**********************************
+Thefts accounted for majority of 
+increase in property crime
+**********************************
+
+The number and rate of property crime victimization increased 
+from 2011 to 2012 (table 3). In 2012, the number of property 
+crimes (19.6 million) rose to a similar level seen a decade 
+earlier in 2003 (19.8 million). The rate of property crime 
+victimization increased from 138.7 per 1,000 households in 
+2011 to 155.8 in 2012, and was driven primarily by an 
+increase in theft. The rate of theft victimization increased 
+from 104.2 per 1,000 households in 2011 to 120.9 in 2012, 
+while no measurable change occurred in the rates of burglary 
+and motor vehicle theft during the same period.
+
+***************************************
+In 2012, 44% of violent victimizations 
+were reported to police
+***************************************
+
+The NCVS allows for an examination of crimes reported and not 
+reported to police. Victims may not report the  
+victimization for a variety of reasons, including fear of 
+reprisal or getting the offender in trouble, believing  
+
+that police would not or could not do anything to help, and 
+believing the crime to be a personal issue or trivial.  
+Police notification can come from the victim, a third party 
+(including witnesses, other victims, household members, or 
+other officials, such as school officials or workplace 
+managers), or police being at the scene of the incident.  
+Police notification may occur during or immediately following 
+a criminal incident or at a later date. 
+
+From 2011 to 2012, there was no statistically significant 
+change in the percentage of violent and serious violent 
+victimizations reported to police (table 4). In 2012, 44% of 
+violent victimizations and about 54% of serious violent 
+victimizations were reported to police. A greater percentage 
+of robbery (56%) and aggravated assault (62%) victimizations 
+were reported to police, compared to simple assault (40%) and 
+rape or sexual assault (28%)  
+victimizations. The percentage of violence involving a weapon 
+that was reported to police decreased from 67% in 2011 to 56% 
+in 2012.
+
+From 2011 to 2012, the percentage of property victimizations 
+reported to police declined from 37% to 34%. The percentage 
+of reported thefts declined from 30% to 26% during the same 
+period, accounting for the majority of the decline in the 
+overall percentage of property victimizations that were 
+reported to police. No measurable change was detected in the 
+percentage of burglaries and motor vehicle thefts that were 
+reported to police from 2011 to 2012. Similar to previous 
+years, in 2012 a larger percentage of motor vehicle thefts 
+(79%) than burglaries (55%) and other thefts (26%) were 
+reported to police.
+
+***************************************
+Violent victimization rate for crimes 
+not reported to police increased
+***************************************
+
+From 2011 to 2012, no difference was detected in the rate of 
+violent victimization reported to police (table 5).  
+The violent victimization rate for crimes not reported to 
+police increased from 10.8 to 14.0 per 1,000 persons ages 12 
+or older. For serious violence, the rate of reported 
+victimizations remained stable from 2011 to 2012 (4 per 
+1,000), while the rate of unreported victimizations increased 
+slightly, from 2.6 per 1,000 persons in 2011 to 3.5 in 2012. 
+From 2011 to 2012, the rate of simple assault not reported to 
+police increased from 8.2 to 10.6 per 1,000 persons, but no 
+change was detected in the rate of simple assault reported to 
+police (approximately 7.0 per 1,000).
+
+From 2011 to 2012, no measurable change was observed in the 
+rate of total property crime victimization reported to 
+police. In 2012, victims reported to police about 52 property 
+crimes per 1,000 households. The rate of property crime not 
+reported to police increased from 86.1 per 1,000 households 
+in 2011 to 101.9 in 2012.
+ 
+There was no measurable change in the rate of theft 
+victimizations reported to police from 2011 to 2012. However, 
+among theft victimizations not reported to police, the rate 
+of victimization increased from 71.6 per 1,000 households in 
+2011 to 87.7 in 2012, accounting for the majority of the 
+overall increase in property crime. 
+
+***************************************
+In 2012, 8% of violent crime victims 
+received assistance from a victim 
+service agency
+***************************************
+
+Victim service agencies are publicly or privately funded 
+organizations that provide victims with support and services 
+to aid their physical and emotional recovery, offer 
+protection from future victimizations, guide them through the 
+criminal justice system process, and assist them in obtaining 
+restitution. From 2011 to 2012, there was no change in the 
+percentage of violent crime victims who received assistance 
+from a victim service agency (approximately 8%) (table 6). In 
+2012, a greater percentage of rape or sexual assault victims 
+(22%) received assistance than victims of robbery (6%), 
+aggravated assault (8%), or simple assault (8%).
+
+**********************************************************
+
+***************************************
+The composition of violent crime 
+remained stable from 1993 to 2012
+***************************************
+
+From 1993 to 2012, overall violent victimization declined 
+from a rate of 79.8 per 1,000 persons age 12 or older to 26.1 
+per 1,000. All types of violent crime (rape or sexual 
+assault, robbery, aggravated and simple assault) declined 
+during this period (figure 3). While the rates of violent 
+victimization have changed over time, the general composition 
+of violent victimization has remained relatively stable 
+(figure 4). 
+
+From 1993 to 2012, approximately 70% of all violent 
+victimizations were simple assaults. Serious violence 
+accounted for the remainder of violent victimizations, with 
+relative stability in the distributions of rape or sexual 
+assault, robbery, and aggravated assault from 1993 to 2012. 
+During this period, aggravated assault accounted for about 
+20% of all violent victimizations; robbery for 10%; and rape 
+or sexual assault for 5%. 
+**********************************************************
+
+***************************************
+Violent crime increased slightly for 
+blacks but remained stable for whites 
+and Hispanics 
+***************************************
+
+From 2011 to 2012, rates of violent and serious violent 
+victimization did not change significantly for either males 
+or females (table 7). In 2012, males had higher rates of 
+violent and serious violent victimization than females.
+
+The rate of violent victimization for non-Hispanic blacks 
+increased from 26.4 per 1,000 persons age 12 or older in 2011 
+to 34.2 per 1,000 in 2012. Both the rates for non-Hispanic 
+whites and Hispanics remained flat from 2011 to 2012. In 
+2011, there were no measurable differences in the violent 
+crime rates for blacks, whites, or Hispanics,  
+while in 2012, the rate for blacks (34.2 per 1,000) was 
+higher than the rates for whites (25.2 per 1,000) and  
+Hispanics (24.5 per 1,000).
+
+Rates of serious violent victimization for whites, blacks, 
+and Hispanics remained stable from 2011 to 2012. Similar to 
+2011, the rate of serious violence in 2012 for blacks (11.3 
+per 1,000) was higher than the rate for whites (6.8 per 
+1,000). 
+
+From 2011 to 2012, violent victimization rates increased for 
+persons ages 35 to 49, from 21.9 to 29.1 per 1,000.  
+Persons ages 12 to 17 and 25 to 34 experienced a slight 
+increase in violence in this same period, while the rates  
+of violent victimization for all other age groups remained 
+flat. There was no measurable change in the rates of serious 
+violence for any age groups from 2011 to 2012. Similar to 
+2011, persons ages 12 to 24 had higher rates of violent 
+victimization than persons age 35 or older in 2012.
+
+Rates of violent victimization remained flat from 2011 to 
+2012 for persons of all marital statuses other than those who 
+were widowed. Violent victimization rates for persons who 
+were widowed increased from 3.8 per 1,000 in 2011 to 8.3 in 
+2012. Married persons generally had the lowest rates of 
+violence compared to persons never married, divorced, or 
+separated, and this was also observed in 2012. Married 
+persons experienced 13.5 victimizations per 1,000 persons in 
+2012, compared to 37.0 for divorced, 40.7 for never married, 
+and 83.1 for separated persons. The NCVS collects information 
+on a respondent’s current marital status at the time of the 
+interview, but does not obtain marital status at the time of 
+the incident. For example, persons who are separated may have 
+experienced a victimization while married.
+
+***************************************
+Residents in urban areas continued 
+to experience the highest rate of 
+violent victimization
+***************************************
+
+From 2011 to 2012, the rates of violent and serious violent 
+victimization increased for persons residing in the West 
+(table 8). The rate of crime in the West increased from 27.1 
+violent victimizations per 1,000 persons to 35.5 per 1,000, 
+and from 8.4 serious violent victimizations per 1,000 persons 
+to 12.5 per 1,000. No measurable change was observed in the 
+rate of violent victimization for residents living in the 
+Northeast, Midwest, or South during this period. Residents 
+living in the West had higher rates of violent victimization 
+(35.5 per 1,000) than residents in other regions of the 
+country in 2012. 
+
+There was no measurable change from 2011 to 2012 in the rates 
+of violent victimization for urban, rural, or suburban areas. 
+The apparent increase in the rate of violence against urban 
+residents was not statistically significant. In 2012, the 
+rate of violent victimization was 32.4 per 1,000 in urban 
+areas, 23.8 per 1,000 in suburban areas, and 20.9 in rural 
+areas. As in prior years, urban residents had higher rates of 
+violent and serious violent victimization than suburban and 
+rural residents. 
+
+From 2011 to 2012, property crime rates increased in all 
+regions of the country. Households in the West had the 
+highest rate of property victimization at 210.5 per 1,000 
+households. Rates of property crime also increased for 
+households in urban, rural, and suburban areas. Similar to 
+violent crime, households in urban areas had higher rates of 
+property crime than households in suburban and rural areas. 
+
+**********************************************************
+
+***************************************
+The NCVS and UCR show somewhat different 
+change in crime from 2011 to 2012
+***************************************
+
+The annual increase in violent victimizations in 2012, based 
+on the Bureau of Justice Statistics’ (BJS) National  
+Crime Victimization Survey (NCVS), was consistent with the 
+overall increase in violent crime shown in the findings  
+from the FBI’s Uniform Crime Reporting (UCR) Program (table 
+9). The increase in property victimizations from the NCVS was 
+inconsistent with the FBI’s finding of a slight decline in 
+overall property crime. 
+
+Since the NCVS and UCR measure an overlapping, but not 
+identical, set of offenses and use different methodologies, 
+congruity between the estimates is not expected. Throughout 
+the 40-year history of the NCVS, both programs have generally 
+demonstrated similar year-to-year increases or decreases in 
+the levels of overall violent and property crimes. However, 
+this has not been the case for some years and for many 
+specific crime types. 
+
+As measured by the UCR, violent crime includes murder and 
+nonnegligent manslaughter, forcible rape, robbery, and  
+
+aggravated assault. Property crime includes burglary, 
+larceny-theft, arson, and motor vehicle theft. The UCR 
+measures crimes known to the police, occurring against both 
+persons and businesses. The FBI obtains data on crimes from 
+law enforcement agencies, while the NCVS collects data 
+through interviews with victims. Additional information about 
+the differences between the two programs can be found in The 
+Nation’s Two Crime Measures, NCJ 122705, BJS web, October 
+2004. 
+
+Significant methodological and definitional differences exist 
+between the NCVS and UCR:
+
+* The NCVS obtains estimates of crimes both reported and not 
+reported to the police, while the UCR collects data on crimes 
+known to and recorded by the police. 
+
+* The UCR includes homicide, arson, and commercial crimes, 
+while the NCVS excludes these crime types. 
+
+* The UCR excludes simple assault and sexual assault, which 
+are included in the NCVS.***Footnote 2 Simple assaults  
+include attacks or attempted attacks without a weapon 
+resulting in either no injury or minor injury. Sexual  
+assaults include attacks or attempted attacks generally 
+involving unwanted sexual contact between the victim and  
+offender that may or may not involve force.***
+
+* The NCVS data are estimates from a nationally 
+representative sample of U.S. households, whereas the UCR 
+data are based on the actual counts of offenses reported by 
+law enforcement jurisdictions. 
+
+* The NCVS excludes crimes against children age 11 or 
+younger, persons in institutions (e.g., nursing homes and 
+correctional institutions), and may exclude highly mobile 
+populations and the homeless; however, victimizations against 
+these persons may be included in the UCR. 
+Given these differences, the two measures of crime should be 
+considered to complement each other and provide a more 
+comprehensive picture of crime in the United States. 
+
+The number of violent crimes known to the police as measured 
+by the UCR increased by 0.7%, from 2011 to 2012, and the 
+number of property crimes declined by about 0.9%. During the 
+same period, the number of violent crimes in the  
+
+NCVS increased by 17.7% and the number of property crimes 
+increased by 15.0%. The UCR reported slight increases in the 
+number of homicides (up 1.1%), aggravated assaults (up 1.1%), 
+and motor vehicle theft (up 0.6%), and reported declines in 
+the number of robberies (down 0.1%) and burglaries (down 
+3.7%). The number of robberies reported in the  
+
+NCVS slightly increased by 33.1%. The NCVS did not measure a 
+statistically significant change in either the overall number 
+of victimizations or the number of victimizations reported to 
+police for other crime types.
+**********************************************************
+
+**************
+Methodology
+**************
+
+Survey coverage
+****************
+
+The National Crime Victimization Survey (NCVS) is an annual 
+data collection conducted by the U.S. Census Bureau for the 
+Bureau of Justice Statistics (BJS). The NCVS is a self-report 
+survey in which interviewed persons are asked about the 
+number and characteristics of victimizations experienced 
+during the prior 6 months. The NCVS collects information on 
+nonfatal personal crimes (rape or sexual assault, robbery, 
+aggravated and simple assault, and personal larceny) and 
+household property crimes (burglary, motor vehicle theft, and 
+other theft) both reported and not reported to police. In 
+addition to providing annual level and change estimates on 
+criminal victimization, the NCVS is the primary source of 
+information on the nature of criminal victimization 
+incidents.
+ 
+Survey respondents provide information about themselves 
+(e.g., age, sex, race and Hispanic origin, marital status, 
+education level, and income) and whether they experienced a 
+victimization. Information is collected for each 
+victimization incident, about the offender (e.g., age, race 
+and Hispanic origin, sex, and victim-offender relationship), 
+characteristics of the crime (including time and place of 
+occurrence, use of weapons, nature of injury, and economic 
+consequences), whether the crime was reported to police, 
+reasons the crime was or was not reported, and experiences 
+with the criminal justice system.
+
+The NCVS is administered to persons age 12 or older from a 
+nationally representative sample of households in the United 
+States. The NCVS defines a household as a group of members 
+who all reside at a sampled address. Persons are considered 
+household members when the sampled address is their usual 
+place of residence at the time of the interview and when they 
+have no usual place of residence elsewhere. Once selected, 
+households remain in the sample for 3 years, and eligible 
+persons in these households are interviewed every 6 months 
+either in person or over the phone for a total of seven 
+interviews. 
+
+
+Generally, all first interviews are conducted in-person. New 
+households rotate into the sample on an ongoing basis to 
+replace outgoing households that have been in sample for the 
+3-year period. The sample includes persons living in group 
+quarters, such as dormitories, rooming houses, and religious 
+group dwellings, and excludes persons living in military 
+barracks and institutional settings, such as correctional or 
+hospital facilities, and the homeless. (For more information, 
+see the Survey Methodology for Criminal Victimization in the 
+United States, 2008, NCJ 231173, BJS web, May 2011.)
+
+Nonresponse and weighting adjustments
+****************************************
+
+In 2012, 92,390 households and 162,940 persons age 12 or 
+older were interviewed for the NCVS. Each household was 
+interviewed twice during the year. The response rate was 87% 
+for households and 87% for eligible persons.  
+Victimizations that occurred outside of the United States 
+were excluded from this report. In 2012, less than 1% of the 
+unweighted victimizations occurred outside of the United 
+States and were excluded from the analyses. 
+
+Estimates in this report use data from the 1993 to 2012 NCVS 
+data files, weighted to produce annual estimates of 
+victimization for persons age 12 or older living in U.S. 
+households. Since the NCVS relies on a sample rather than a 
+census of the entire U.S. population, weights are designed to 
+inflate sample point estimates to known population totals and 
+to compensate for survey nonresponse and other aspects of the 
+sample design. 
+
+The NCVS data files include both person and household 
+weights. Person weights provide an estimate of the population 
+represented by each person in the sample. Household weights 
+provide an estimate of the U.S. household population 
+represented by each household in the sample. After proper 
+adjustment, both household and person weights are also 
+typically used to form the denominator in calculations of 
+crime rates.
+
+Victimization weights used in this analysis account for the 
+number of persons present during an incident and for high-
+frequency repeat victimizations (or series victimizations). 
+Series victimizations are similar in type but occur with such 
+frequency that a victim is unable to recall each individual 
+event or describe each event in detail.  
+
+Survey procedures allow NCVS interviewers to identify and 
+classify these similar victimizations as series 
+victimizations and to collect detailed information on only 
+the most recent incident in the series. 
+
+The weight counts series incidents as the actual number of 
+incidents reported by the victim, up to a maximum of 10 
+incidents. Including series victimizations in national rates 
+results in rather large increases in the level of violent 
+victimization; however, trends in violence are generally 
+similar regardless of whether series victimizations are 
+included. 
+
+In 2012, series incidents accounted for about 1% of all 
+victimizations and 4% of all violent victimizations.  
+Weighting series incidents as the number of incidents up to a 
+maximum of 10 incidents produces more reliable estimates of 
+crime levels, while the cap at 10 minimizes the effect of 
+extreme outliers on the rates. Additional information on the 
+series enumeration is detailed in the report Methods for 
+Counting High Frequency Repeat Victimizations in the National 
+Crime Victimization Survey, NCJ 237308, BJS web, April 2012.
+
+Standard error computations
+****************************
+
+When national estimates are derived from a sample, as with 
+the NCVS, caution must be taken when comparing one estimate 
+to another estimate or when comparing estimates over time. 
+Although one estimate may be larger than another, estimates 
+based on a sample have some degree of sampling error. The 
+sampling error of an estimate depends on several factors, 
+including the amount of variation in the responses, and the 
+size of the sample. When the sampling error around an 
+estimate is taken into account, the estimates that appear 
+different may not be statistically different.
+
+One measure of the sampling error associated with an estimate 
+is the standard error. The standard error can vary from one 
+estimate to the next. Generally, an estimate with a small 
+standard error provides a more reliable approximation of the 
+true value than an estimate with a large standard error. 
+Estimates with relatively large standard errors are 
+associated with less precision and reliability and should be 
+interpreted with caution. 
+
+In order to generate standard errors around numbers and 
+estimates from the NCVS, the Census Bureau produced 
+generalized variance function (GVF) parameters for BJS. The 
+GVFs take into account aspects of the NCVS complex sample 
+design and represent the curve fitted to a selection of 
+individual standard errors based on the Jackknife Repeated 
+Replication technique. The GVF parameters were used to 
+generate standard errors for each point estimate (such as 
+counts, percentages, and rates) in this report. 
+
+BJS conducted tests to determine whether differences in 
+estimated numbers and percentages in this report were 
+statistically significant once sampling error was taken into 
+account. Using statistical programs developed specifically 
+for the NCVS, all comparisons in the text were tested for 
+significance. The Student’s t-statistic was the primary test 
+procedure, which tests the difference between two sample 
+estimates.
+
+Data users can use the estimates and the standard errors of 
+the estimates provided in this report to generate a 
+confidence interval around the estimate as a measure of the 
+margin of error. The following example illustrates how 
+standard errors can be used to generate confidence intervals:
+
+* According to the NCVS, in 2012, the violent victimization 
+rate among persons age 12 or older was 26.1 per 1,000 persons 
+(see table 1). Using the GVFs, it was determined that the 
+estimated victimization rate estimate has a standard error of 
+1.2 (see appendix table 2). A confidence interval around the 
+estimate was generated by multiplying the standard errors by 
+±1.96 (the t-score of a normal, two- tailed distribution that 
+excludes 2.5% at either end of the distribution). Therefore, 
+the 95% confidence interval around the 26.1 estimate from 
+2012 is 26.1 ± (1.2 X 1.96) or (23.8 to 28.5). In others 
+words, if different samples using the same procedures were 
+taken from the U.S. population in 2012, 95% of the time the 
+violent victimization rate would fall between 23.8 and 28.5 
+per 1,000 persons.
+
+In this report, BJS also calculated a coefficient of 
+variation (CV) for all estimates, representing the ratio of 
+the standard error to the estimate. CVs provide a measure of 
+reliability and a means to compare the precision of estimates 
+across measures with differing levels or metrics. In cases 
+where the CV was greater than 50%, or the unweighted sample 
+had 10 or fewer cases, the estimate was noted with a “!” 
+symbol (Interpret data with caution. Estimate based on 10 or 
+fewer sample cases, or the coefficient of variation is 
+greater than 50%).
+
+
+National Crime Victimization Survey
+(NCVS) restoration and redesign
+*************************************
+
+In 1972, the Bureau of Justice Statistics (BJS) instituted 
+the National Crime Victimization Survey (NCVS), formerly 
+known as the National Crime Survey (NCS), to produce national 
+estimates of the levels and characteristics of criminal 
+victimization in the United States, including crime not 
+reported to police departments. Along with the FBI’s Uniform 
+Crime Reporting (UCR) Program, the NCVS constitutes a key 
+component of our nation’s system to measure the extent and 
+nature of crime in the United States.
+
+In 2008, BJS sponsored an expert panel study carried out by 
+the National Research Council of the National Academies to 
+review the survey’s methodology and provide guidelines for 
+options to redesign the NCVS. The panel’s recommendations are 
+contained in Surveying Victims: Options for Conducting the 
+National Crime Victimization Survey (National Research 
+Council, 2008). In response to these recommendations, BJS 
+initiated a two-prong approach to redesign and restore the 
+NCVS with the ultimate goals to improve the survey’s 
+methodology, contain costs, assure sustainability, increase 
+value to national and local stakeholders, and better meet the 
+challenges of measuring the extent, characteristics, and 
+consequences of criminal victimization. 
+
+To restore the quality of the NCVS data, BJS and the U.S. 
+Census Bureau implemented two large-scale interventions.  
+First, the number of sample cases was increased to improve 
+the stability and precision of national and subgroup 
+estimates of victimization. Second, in late 2011, refresher 
+training and performance monitoring of field  
+
+representatives (FR) were initiated to improve the quality 
+and costs associated with data collection. The effects of 
+these interventions have been monitored in an effort to 
+maintain consistent year-to-year comparisons. BJS continues 
+to evaluate the impact of each on-going intervention on 
+criminal victimization estimates and other estimates of data 
+quality, including response rates and measures of interview 
+quality.
+
+Methodological changes to the NCVS in 2006
+******************************************
+
+Methodological changes implemented in 2006 may have affected 
+the crime estimates for that year to such an extent that they 
+are not comparable to estimates from other years.
+
+Evaluation of 2007 and later data from the NCVS conducted by 
+BJS and the Census Bureau found a high degree of  
+confidence that estimates for 2007, 2008, 2009, 2010, 2011, 
+and 2012 are consistent with and comparable to  
+estimates for 2005 and previous years. The reports, Criminal 
+Victimization, 2006, NCJ 219413, December 2007;  
+Criminal Victimization, 2007, NCJ 224390, December 2008; 
+Criminal Victimization, 2008, NCJ 227777, September 2009;  
+Criminal Victimization, 2009, NCJ 231327, October 2010; 
+Criminal Victimization, 2010, NCJ 235508, September 2011;  
+and Criminal Victimization, 2011, NCJ 239437, 
+October 2012, are available on the BJS website.
+
+****************************************************
+The Bureau of Justice Statistics, located in the Office of 
+Justice Programs, U.S. Department of Justice, collects,  
+analyses, and disseminates statistical information on crime, 
+criminal offenders, victims of crime, and the  
+operation of justice systems at all levels of government. 
+William J. Sabol is acting director.
+
+This report was written by Jennifer L. Truman, Ph.D., Lynn 
+Langton, Ph.D., and Michael Planty, Ph.D. Rachel E.  
+Morgan, Ph.D., verified the report.
+
+Morgan Young edited the report, and Barbara Quinn and Morgan 
+Young produced the report.
+
+October 2013, NCJ 243389
+****************************************************
+
+***********************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+************************************************
+
+************************
+9/24/13/JER/9:30am
+************************
+

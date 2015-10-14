@@ -1,0 +1,38 @@
+Bureau of Justice Statistics,,
+filename:  cv0578.csv,,
+"Table 78. Percent of victimizations in which injured victims had health insurance coverage were eligible for public medical services, by selected characteristics of victims",,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,
+produced by:  Cathy Maston ,,
+authors:  Patsy Klaus and Cathy Maston,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,
+data of version:  12/08/06,,
+
+"Table 78. Personal crimes of violence, 2005: Percent of victimizations in which injured victims had health insurance coverage were eligible for public medical services, by selected characteristics of victims",,
+Characteristic,Percent of victimizations,
+Race,,
+All races/a,59,%
+White only,65.5,
+Black only,41.3,
+Annual family income/b,,
+"Less than $7,500",35.7,*
+"$7,500-$14,999",61,*
+"$15,000-$24,999",46.7,
+"$25,000-$34,999",78.9,
+"$35,000-$49,999",42.1,*
+"$50,000-$74,999",80.7,
+"$75,000 or more",79,
+Gender,,
+Male,51.6,
+Female,69.2,
+Age,,
+ 12-15,69.7,
+16-19,65.1,
+20-24,37,
+25-34,56.7,
+35-49,61.1,
+50-64,66.2,
+65 and over,100,*
+Note: Data includes only those victimizations in which the victim received medical attention.,,
+*Estimate is based on about 10 or fewer sample cases.,,
+"a/Includes data on persons of ""Other"" races, not shown separately.",,
+b/Excludes data on persons whose family income level was not ascertained.,,

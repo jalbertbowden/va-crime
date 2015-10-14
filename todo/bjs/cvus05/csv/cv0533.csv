@@ -1,0 +1,38 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,
+filename:  cv0533.csv,,,,,,,,,,,,,
+"Table 33. Number of victimizations, by type of crime and relationship to offender",,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,
+
+"Table 33. Family violence, 2005:  Number of victimizations, by type of crime and relationship to offender",,,,,,,,,,,,,
+,,,Number of victimizations,,,,,,,,,,
+,,,Related,,,,,,,,,,
+Type of crime,Total number of victimizations,,     Total,, Spouse,,Ex-spouse,,Parent,,Own child,,Other relatives
+Crimes of violence,"5,173,720",,"446,470",,"146,260",,"49,700",,"44,460",,"63,000",,"143,060"
+   Completed violence,"1,658,660",,"165,740",,"69,820",,"14,440",*,"19,350",*,"23,740",*,"38,380"
+   Attempted/threatened violence,"3,515,060",,"280,730",,"76,440",,"35,250",*,"25,110",*,"39,250",,"104,680"
+   Rape/Sexual assault/b,"191,670",,"7,240",*,0,*,0,*,0,*,0,*,"7,240",*
+   Robbery,"624,850",,"17,940",*,"2,990",*,"2,830",*,"2,560",*,"5,790",*,"3,760",*
+      Completed/property taken,"415,320",,"15,380",*,"2,990",*,"2,830",*,0,*,"5,790",*,"3,760",*
+      Attempted to take property,"209,530",,"2,560",*,0,*,0,*,"2,560",*,0,*,0,*
+   Assault,"4,357,190",,"421,290",,"143,270",,"46,860",,"41,900",,"57,200",,"132,060",
+      Aggravated,"1,052,260",,"91,160",,"13,890",*,"7,710",*,"9,260",*,"20,480",*,"39,830",
+      Simple,"3,304,930",,"330,130",,"129,380",,"39,160",,"32,640",*,"36,720",,"92,230",
+Type of crime, Well-known/a,,Casual acquaintances,,Don't know relationship,,  Strangers,,Don't know number of offenders,,,,,
+Crimes of violence,"1,213,090",,"724,730",,"287,320",,"2,369,150",,"132,950",,,,,
+   Completed violence,"368,230",,"236,950",,"112,490",,"733,010",,"42,230",,,,,
+   Attempted/threatened violence,"844,870",,"487,780",,"174,820",,"1,636,140",,"90,720",,,,,
+   Rape/Sexual assault/b,"59,980",,"55,790",,"5,440",*,"60,180",,"3,050",*,,,,
+   Robbery,"72,430",,"34,110",*,"65,570",,"415,250",,"19,550",*,,,,
+      Completed/property taken,"50,610",,"27,980",*,"39,610",,"265,670",,"16,070",*,,,,
+      Attempted to take property,"21,820",*,"6,130",*,"25,960",*,"149,580",,"3,480",*,,,,
+   Assault,"1,080,680",,"634,830",,"216,310",,"1,893,720",,"110,360",,,,,
+      Aggravated,"256,430",,"95,450",,"79,780",,"497,830",,"31,610",*
+      Simple,"824,250",,"539,380",,"136,530",,"1,395,890",,"78,740",
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,
+a/Includes data on offenders well known to the victims whose relationship to the victim could not be ascertained.,,,,,,,,,,
+b/Includes verbal threats of rape and threats of sexual assault.,,,,,,,,,,

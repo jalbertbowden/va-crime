@@ -1,0 +1,493 @@
+<div>
+	<table class="gridcontent" cellspacing="0" cellpadding="5" rules="all" bordercolor="#999999" border="1" id="exportgrid" style="border-color:#999999;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+		<tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<td align="center" colspan="5" style="color:Black;">Recreational Boating Statistics by Body of Water for VA 2005-2011</td>
+		</tr><tr align="left" valign="middle" style="color:#186187;background-color:#F0F0F0;font-family:Arial;font-size:10pt;font-weight:normal;height:40px;">
+			<th scope="col">Body of Water</th><th scope="col">Accidents</th><th scope="col">Vessels</th><th scope="col">Injuries</th><th scope="col">Deaths</th>
+		</tr><tr>
+			<td>ALBEMARLE CANAL  002</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>APPOMATTOX RIVER</td><td>7</td><td>10</td><td>4</td><td>2</td>
+		</tr><tr>
+			<td>AQUIA CREEK</td><td>7</td><td>9</td><td>6</td><td>0</td>
+		</tr><tr>
+			<td>AQUIA CREEK   005</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Aquia Creek  005</td><td>1</td><td>1</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>ASSATEAGUE CHANNEL</td><td>2</td><td>3</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>ASSATEAGUE CHANNEL   006</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>ASSATEAGUE CHANNEL  006</td><td>1</td><td>2</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>ASSEATEAGUE CHANNEL 006</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Atlantic Ocean</td><td>21</td><td>25</td><td>16</td><td>5</td>
+		</tr><tr>
+			<td>ATLANTIC OCEAN  007</td><td>2</td><td>2</td><td>1</td><td>1</td>
+		</tr><tr>
+			<td>Atlantic Ocean 007</td><td>3</td><td>3</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>BACK BAY</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>BACK BAY  008</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>BACK BAY 008</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>BACK RIVER</td><td>4</td><td>4</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>BACK RIVER  010</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>BACK RIVER 010</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>BEARTREE LAKE</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>BELMONT BAY</td><td>2</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>BLACKWATER RIVER</td><td>2</td><td>2</td><td>0</td><td>2</td>
+		</tr><tr>
+			<td>BROAD BAY</td><td>4</td><td>5</td><td>4</td><td>0</td>
+		</tr><tr>
+			<td>BROAD BAY 015</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Buggs Island</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>Buggs Island Lake</td><td>16</td><td>22</td><td>8</td><td>2</td>
+		</tr><tr>
+			<td>BUGGS ISLAND LAKE  017</td><td>5</td><td>6</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>Buggs Island Lake 017</td><td>10</td><td>14</td><td>6</td><td>1</td>
+		</tr><tr>
+			<td>CARTERS CREEK</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>chesapeake</td><td>1</td><td>3</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>Chesapeake Bay</td><td>73</td><td>91</td><td>43</td><td>12</td>
+		</tr><tr>
+			<td>Chesapeake Bay  023</td><td>7</td><td>8</td><td>1</td><td>2</td>
+		</tr><tr>
+			<td>Chesapeake Bay 023</td><td>20</td><td>22</td><td>14</td><td>2</td>
+		</tr><tr>
+			<td>CHICKAHOMINY  026</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>CHICKAHOMINY  RIVER 026</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>CHICKAHOMINY LAKE 025</td><td>2</td><td>2</td><td>4</td><td>0</td>
+		</tr><tr>
+			<td>Chickahominy River</td><td>7</td><td>10</td><td>7</td><td>0</td>
+		</tr><tr>
+			<td>CHICKAHOMINY RIVER  026</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Chickahominy RIVER 026</td><td>2</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>CHINCOTEAGUE BAY</td><td>3</td><td>3</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>CHINCOTEAGUE BAY   027</td><td>2</td><td>3</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>CHINCOTEAGUE BAY  027</td><td>1</td><td>1</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>CHINCOTEAGUE BAY 027</td><td>1</td><td>1</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>CHISMAN CREEK</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>CHISMAN CREEK 028</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Claytor Lake</td><td>23</td><td>31</td><td>17</td><td>2</td>
+		</tr><tr>
+			<td>CLAYTOR LAKE  030</td><td>9</td><td>11</td><td>7</td><td>0</td>
+		</tr><tr>
+			<td>Claytor Lake 030</td><td>8</td><td>11</td><td>8</td><td>0</td>
+		</tr><tr>
+			<td>COAN RIVER</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>COAN RIVER   032</td><td>2</td><td>3</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>CORROTOMAN RIVER</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>DAN RIVER</td><td>2</td><td>3</td><td>2</td><td>2</td>
+		</tr><tr>
+			<td>DAN RIVER  038</td><td>3</td><td>3</td><td>4</td><td>1</td>
+		</tr><tr>
+			<td>DEEP CREEK</td><td>2</td><td>3</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>DEEP CREEK  039</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Diascund RESERVOIR  041</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>DISMAL SWAMP CANAL</td><td>2</td><td>3</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>DYMER CREEK</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>EAST RIVER</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>EAST RIVER 045</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Elizabeth River</td><td>8</td><td>11</td><td>2</td><td>1</td>
+		</tr><tr>
+			<td>Elizabeth River 048</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER -EAST</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER RV. E 046</td><td>1</td><td>2</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>Elizabeth River S 047</td><td>1</td><td>2</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>Elizabeth River S.  047</td><td>1</td><td>4</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>Elizabeth River SOUTHERN</td><td>4</td><td>5</td><td>2</td><td>1</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER, EAST</td><td>2</td><td>3</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>Elizabeth River, S  047</td><td>2</td><td>2</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER, S 047</td><td>3</td><td>4</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER, S. 047</td><td>1</td><td>2</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER, SOUTH 047</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER, SOUTHERN</td><td>3</td><td>4</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER, SOUTHERN 047</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER, W  048</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER, WEST</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER, WEST.</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER, WESTERN</td><td>3</td><td>5</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER,EAST.</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Elizabeth River,SOUTHERN</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER/EASTERN</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>Elizabeth River-SOUTH 047</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>Elizabeth River-SOUTHERN</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>ELIZABETH RIVER-WESTERN</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>FLANNAGAN RESERVOIR</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Flannagan Resevoir 049</td><td>1</td><td>1</td><td>2</td><td>1</td>
+		</tr><tr>
+			<td>GASTON RESERVOIR</td><td>7</td><td>8</td><td>6</td><td>0</td>
+		</tr><tr>
+			<td>GASTON RESERVOIR 050</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>GREAT WICOMICO</td><td>3</td><td>4</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>GREAT WICOMICO  055</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>GREAT WICOMICO 055</td><td>2</td><td>4</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>GREAT WICOMICO RIVER</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>HAMPTON RIVER</td><td>2</td><td>3</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>HAMPTON RIVER  056</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>HAMPTON RIVER 056</td><td>2</td><td>2</td><td>3</td><td>1</td>
+		</tr><tr>
+			<td>HAMPTON ROADS</td><td>9</td><td>10</td><td>8</td><td>2</td>
+		</tr><tr>
+			<td>HAMPTON ROADS  057</td><td>4</td><td>5</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>HAMPTON ROADS 057</td><td>2</td><td>2</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>HATCHER CREEK WATERSHED</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>HOLSTON RESERVOIR  060</td><td>1</td><td>2</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>INTERCOASTAL WATERWAY</td><td>3</td><td>4</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>INTERCOASTAL WATERWAY  065</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>INTERCOASTAL WATERWAY 065</td><td>3</td><td>4</td><td>5</td><td>0</td>
+		</tr><tr>
+			<td>JACKSON RIVER</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>James River</td><td>67</td><td>79</td><td>35</td><td>17</td>
+		</tr><tr>
+			<td>James River   067</td><td>1</td><td>1</td><td>8</td><td>0</td>
+		</tr><tr>
+			<td>JAMES RIVER  067</td><td>9</td><td>11</td><td>7</td><td>1</td>
+		</tr><tr>
+			<td>JAMES RIVER 067</td><td>6</td><td>6</td><td>6</td><td>0</td>
+		</tr><tr>
+			<td>KENT LAKE/WOODHAVEN COMMUNITY</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>Lafayette River</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LAFAYETTE RIVER  068</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>LAGRANGE CREEK</td><td>1</td><td>2</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>Lake Anna</td><td>73</td><td>113</td><td>63</td><td>5</td>
+		</tr><tr>
+			<td>Lake Anna   070</td><td>4</td><td>5</td><td>5</td><td>0</td>
+		</tr><tr>
+			<td>Lake Anna  070</td><td>5</td><td>5</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Lake Anna 070</td><td>6</td><td>10</td><td>8</td><td>0</td>
+		</tr><tr>
+			<td>LAKE BARCROFT</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LAKE CAROLINE</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LAKE CHESDIN</td><td>4</td><td>4</td><td>2</td><td>1</td>
+		</tr><tr>
+			<td>LAKE CHESDIN  075</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LAKE CHESDIN 075</td><td>6</td><td>10</td><td>6</td><td>0</td>
+		</tr><tr>
+			<td>LAKE FREDERICK    077</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>Lake Gaston</td><td>6</td><td>8</td><td>8</td><td>0</td>
+		</tr><tr>
+			<td>LAKE GASTON  078</td><td>6</td><td>9</td><td>6</td><td>0</td>
+		</tr><tr>
+			<td>LAKE HOLIDAY  079</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LAKE LOUISA</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LAKE LOUISA  162</td><td>1</td><td>1</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>LAKE MONTCLAIR</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>LAKE MONTICELLO  162</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LAKE MOOMAW 080</td><td>2</td><td>2</td><td>1</td><td>1</td>
+		</tr><tr>
+			<td>LAKE MOORMAW</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LAKE OF THE WOODS</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LEESVILLE RESERVOIR</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LEESVILLE RESERVOIR 084</td><td>2</td><td>3</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Linkhorn Bay</td><td>4</td><td>4</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>Little Creek</td><td>5</td><td>8</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LITTLE CREEK 087</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>Little Creek Inlet  087</td><td>1</td><td>2</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>Little Wicomico River</td><td>3</td><td>4</td><td>1</td><td>1</td>
+		</tr><tr>
+			<td>LONG CREEK</td><td>5</td><td>8</td><td>4</td><td>0</td>
+		</tr><tr>
+			<td>LONG CREEK  090</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>LONG CREEK 090</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>LOWER MACHODOC  CK  091</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>LYNNHAVEN INLET</td><td>4</td><td>6</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>LYNNHAVEN INLET  092</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>LYNNHAVEN INLET 092</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>LYNNHAVEN RIVER</td><td>1</td><td>1</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>LYNNHAVEN RIVER - WEST</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>LYNNHAVEN RIVER -WEST</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>MATTAPONI RIVER</td><td>2</td><td>2</td><td>4</td><td>0</td>
+		</tr><tr>
+			<td>MAURY RIVER</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>MONROE BAY</td><td>2</td><td>3</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>Monroe Bay  100</td><td>1</td><td>2</td><td>1</td><td>1</td>
+		</tr><tr>
+			<td>Monroe BAY 100</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>NANSEMOND RIVER</td><td>4</td><td>5</td><td>2</td><td>1</td>
+		</tr><tr>
+			<td>New River</td><td>7</td><td>7</td><td>3</td><td>4</td>
+		</tr><tr>
+			<td>NEW RIVER   104</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>NEW RIVER  104</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>NOMINI CKEEK 106</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>NOMINI CREEK</td><td>2</td><td>2</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>NOMINI CREEK  106</td><td>2</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>NORTH LANDING RIVER</td><td>5</td><td>7</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>NORTH RIVER</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>NORTHWEST RIVER  110</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>NOTTOWAY RIVER 111</td><td>1</td><td>1</td><td>2</td><td>1</td>
+		</tr><tr>
+			<td>OCCOQUAN RESERVOIR 112</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>OCCOQUAN RIVER</td><td>6</td><td>7</td><td>2</td><td>1</td>
+		</tr><tr>
+			<td>OCCOQUAN RIVER  113</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>Occoquan River 113</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Occoquan River/RESERVOIR</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>OTHEER 162</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>OTHER</td><td>4</td><td>4</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>OTHER  162</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>OTHER - MORRIS CREEK</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>OTHER (PERRIN RIVER)</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>OTHER (STUTTS CREEK)</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>OTHER 162</td><td>8</td><td>13</td><td>8</td><td>2</td>
+		</tr><tr>
+			<td>OTHER/ WILLOUGHBY BAY</td><td>1</td><td>1</td><td>1</td><td>1</td>
+		</tr><tr>
+			<td>OTHER/LAKE OF THE WOODS</td><td>1</td><td>2</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>OTHER/PRIVATE POND</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>OYSTER INLET</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>PAGAN RIVER</td><td>2</td><td>3</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>Pagan River  115</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>PAMUNKEY RIVER</td><td>4</td><td>6</td><td>5</td><td>0</td>
+		</tr><tr>
+			<td>PAMUNKEY RIVER 116</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Philpott Reservoir</td><td>2</td><td>3</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>PHILPOTT RESERVOIR 117</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>PIANKATANK RIVER</td><td>2</td><td>2</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>PIANKATANK RIVER  118</td><td>1</td><td>2</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>Piankatank River 118</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>POHICK BAY</td><td>2</td><td>3</td><td>2</td><td>1</td>
+		</tr><tr>
+			<td>Poqouson River</td><td>2</td><td>2</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>POQUOSON RIVER</td><td>4</td><td>5</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>POQUOSON RIVER   120</td><td>1</td><td>1</td><td>1</td><td>1</td>
+		</tr><tr>
+			<td>POQUOSON RIVER  120</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Poquoson River 120</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>POTOMAC RIVER</td><td>7</td><td>9</td><td>3</td><td>1</td>
+		</tr><tr>
+			<td>POTOMAC RIVER   122</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>POTOMAC RIVER  122</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Potomac River 122</td><td>3</td><td>5</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>Private Pond</td><td>13</td><td>14</td><td>1</td><td>15</td>
+		</tr><tr>
+			<td>PRIVATE POND  161</td><td>7</td><td>8</td><td>5</td><td>4</td>
+		</tr><tr>
+			<td>PRIVATE POND 161</td><td>4</td><td>4</td><td>1</td><td>3</td>
+		</tr><tr>
+			<td>PRIVATE POND(KING&#39;S POND)</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>QUANTICO CREEK</td><td>1</td><td>1</td><td>1</td><td>1</td>
+		</tr><tr>
+			<td>Rappahannock River</td><td>33</td><td>44</td><td>22</td><td>4</td>
+		</tr><tr>
+			<td>RAPPAHANNOCK RIVER   130</td><td>1</td><td>1</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>Rappahannock River  130</td><td>4</td><td>4</td><td>3</td><td>0</td>
+		</tr><tr>
+			<td>Rappahannock River 130</td><td>4</td><td>5</td><td>10</td><td>1</td>
+		</tr><tr>
+			<td>Rappahanock River  130</td><td>1</td><td>1</td><td>0</td><td>2</td>
+		</tr><tr>
+			<td>Rappahanock River 130</td><td>4</td><td>4</td><td>3</td><td>1</td>
+		</tr><tr>
+			<td>RUDEE INLET</td><td>2</td><td>3</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>RUDEE INLET 136</td><td>2</td><td>3</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Rural Retreat Lake</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>SARAHS CREEK 139</td><td>1</td><td>4</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>SEVERN RIVER</td><td>1</td><td>2</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>SHENANDOAH - MAIN BRANCH</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>SHENANDOAH RIVER</td><td>3</td><td>3</td><td>5</td><td>0</td>
+		</tr><tr>
+			<td>SHENANDOAH RIVER - SOUTH 144</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Shenandoah River S. 144</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>SHENANDOAH RIVER -SOUTH</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Shenandoah River, South</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>SHENANDOAH RIVER/NORTH</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>SHENANDOAH RIVER/SOUTH</td><td>1</td><td>1</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>SHENANDOAH RIVER-SOUTH</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>SHENANDOAH-MAIN BRANCH</td><td>1</td><td>1</td><td>2</td><td>0</td>
+		</tr><tr>
+			<td>SHENANDOAY RIVER/SOUTH</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>SMITH MOUNTAIN  LAKE</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>SMITH MOUNTAIN LAKE</td><td>153</td><td>197</td><td>123</td><td>9</td>
+		</tr><tr>
+			<td>SMITH MOUNTAIN LAKE  148</td><td>9</td><td>15</td><td>14</td><td>0</td>
+		</tr><tr>
+			<td>Smith Mountain Lake 148</td><td>18</td><td>22</td><td>11</td><td>0</td>
+		</tr><tr>
+			<td>STAUNTON RIVER</td><td>1</td><td>1</td><td>0</td><td>1</td>
+		</tr><tr>
+			<td>SWIFT CREEK RESERVOIR</td><td>1</td><td>1</td><td>0</td><td>2</td>
+		</tr><tr>
+			<td>Warwick River</td><td>2</td><td>3</td><td>1</td><td>1</td>
+		</tr><tr>
+			<td>WARWICK RIVER  157</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>WESTERN BRANCH RESERVOIR</td><td>1</td><td>1</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>YEOCOMICO RIVER</td><td>1</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td>Yeocomico River 159</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>York</td><td>1</td><td>1</td><td>0</td><td>0</td>
+		</tr><tr>
+			<td>YORK RIVER</td><td>14</td><td>16</td><td>3</td><td>5</td>
+		</tr><tr>
+			<td>YORK RIVER   160</td><td>1</td><td>1</td><td>4</td><td>0</td>
+		</tr><tr>
+			<td>York River  160</td><td>2</td><td>2</td><td>1</td><td>0</td>
+		</tr><tr>
+			<td align="right" valign="middle" colspan="5" style="background-color:LightGrey;font-size:8pt;height:20px;">www.uscgboating.org &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/7/2015 3:36:53 AM</td>
+		</tr>
+	</table>
+</div>

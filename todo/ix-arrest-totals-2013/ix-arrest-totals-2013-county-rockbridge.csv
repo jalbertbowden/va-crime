@@ -1,0 +1,41 @@
+Arrests by Offense,Rockbridge,
+,Adult,Juvenile
+Murder,0,0
+Manslaughter,0,0
+Kidnaping,1,0
+"Sex Offenses, Forcible",5,0
+Robbery,1,0
+Aggravated Assault,8,0
+Simple Assault/Intimidation,75,11
+Arson,1,0
+Extortion/Blackmail,0,0
+Burglary,17,0
+Larceny,53,5
+Motor Vehicle Theft,6,1
+Counterfeiting/Forgery,1,0
+Fraud,13,0
+Embezzlement,3,0
+Stolen Property,1,0
+Vandalism,9,1
+Drug/Narcotic Offenses,139,3
+"Sex Offenses, Nonforcible",0,0
+Pornography,1,0
+Gambling,0,0
+Prostitution,0,0
+Bribery,0,0
+Weapon Law Violations,13,0
+TOTAL GROUP A,347,21
+Bad Checks,3,0
+Curfew/Loitering/Vagrancy,0,0
+Disorderly Conduct,1,4
+Driving Under Influence,74,1
+Drunkenness,52,0
+"Family Offenses, Nonforcible",0,0
+Liquor Laws Violations,21,3
+Peeping Tom,0,0
+Runaway,0,0
+Trespass of Real Property,16,2
+Conspiracy,1,0
+All Other (except Traffic),204,6
+TOTAL GROUP B,372,16
+GRAND TOTAL,719,37

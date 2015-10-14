@@ -1,0 +1,33 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  cv0551.csv,,,,,,,,,,,,,,,
+Table 51. Victimization rates by type of crime and number of years lived at current residence,,,,,,,,,,,,,,,
+"data source: National Criminal Victimization Survey, 2005  NCJ 215244",,,,,,,,,,,,,,,
+produced by:  Cathy Maston ,,,,,,,,,,,,,,,
+authors:  Patsy Klaus and Cathy Maston,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov  202-307-0765,,,,,,,,,,,,,,,
+data of version:  12/08/06,,,,,,,,,,,,,,,
+
+"Table 51. Property crimes, 2005:  Victimization rates by type of crime and number of years lived at current residence",,,,,,,,,,,,,,,
+,"Rate per 1,000 households",,,,,,,,,,,,,,
+Type of crime,Total,,Less than 6 months/a,,6 months to 1 year,,1 year,,2 years,,3 years,,4 years,,5 years or more
+Property crimes,167,,296.9,,253,,194.9,,184.4,,156.2,,142,,136.7
+  Household burglary,32,,57.9,,51.7,,37.9,,30.2,,26,,34.3,,26.2
+    Completed,26.8,,53.3,,38.7,,31.5,,25.5,,20.5,,29.3,,21.9
+      Forcible entry,9.8,,25.7,,12.6,,13.8,,8.9,,9.5,,13.7,,6.6
+      Unlawful entry without force,17,,27.6,,26.1,,17.7,,16.6,,11,,15.6,,15.3
+    Attempted forcible entry,5.2,,4.6,,12.9,,6.4,,4.7,,5.5,,5,*,4.3
+  Motor vehicle theft,9,,17.1,,16.7,,10.3,,12.2,,9.3,,4.8,*,6.7
+    Completed,7.2,,14.7,,14.1,,7.4,,9.9,,8.3,,3.9,*,5
+    Attempted,1.8,,2.4,*,2.6,*,2.9,*,2.2,*,1,*,0.9,*,1.7
+  Theft,126,,221.9,,184.6,,146.7,,142,,120.9,,102.8,,103.8
+    Completed,121.5,,216.5,,176.2,,142.8,,137.5,,115.9,,97.3,,99.8
+       Less than $50,37.8,,64.7,,51.6,,43.6,,37.3,,36.5,,30.4,,32.7
+       $50 - $249,43.1,,78.4,,67.2,,49.9,,51.1,,39,,33.3,,34.8
+       $250 or more,29.9,,68,,52.6,,36.9,,34.6,,27.6,,24.3,,21.3
+       Amount not available,10.6,,5.4,,4.8,*,12.3,,14.5,,12.8,,9.2,,11
+     Attempted,4.5,,5.4,,8.4,,3.9,*,4.5,,5,,5.5,*,4
+Total number of households,"107,552,740",,"8,744,040",,"6,703,990",,"7,538,670",,"9,621,230",,"7,587,880",,"5,846,450",,"61,510,490"
+Note: Detail may not add to total shown because of rounding.,,,,,,,,,,,,,,,
+Excludes data on persons whose mobility was not ascertained.,,,,,,,,,,,,,,,
+*Estimate is based on about 10 or fewer sample cases.,,,,,,,,,,,,,,,
+a/These numbers are unbounded estimates.

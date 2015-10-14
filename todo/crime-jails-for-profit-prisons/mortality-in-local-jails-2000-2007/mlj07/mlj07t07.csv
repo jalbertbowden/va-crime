@@ -1,0 +1,22 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: mlj07t07.csv,,,,,,,,,,,
+"Table 7. Number of jail inmate deaths, by cause and size of jail jurisdiction, 2000–2007",,,,,,,,,,,
+"Report title: Mortality in Local Jails, 2000-2007  NCJ 222988",,,,,,,,,,,
+Data source(s): Deaths in Custody Reporting Program,,,,,,,,,,,
+Author(s): Margaret E. Noonan,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov  (202) 307-0765,,,,,,,,,,,
+Date of version: 10-27-2010,,,,,,,,,,,
+,,,,,,,,,,,
+"Table 7. Number of jail inmate deaths, by cause and size of jail jurisdiction, 2000–2007",,,,,,,,,,,
+Size of jurisdiction/a,"Total number of deaths, 2000-2007",Suicide,Heart disease,AIDS,Cancer,Liver disease,All other illnesses/b,Drug/alcohol intoxication,Accident,Homicide,Other/unknown
+All deaths,"8,097","2,361","1,788",410,274,235,"1,574",566,229,171,489
+Less than 50 inmates,555,332,66,2,2,5,42,59,21,2,24
+50 to 99,512,224,108,2,2,8,60,55,19,8,26
+100 to 249,855,362,163,11,9,8,121,88,25,13,55
+250 to 499,873,335,194,11,17,23,145,74,22,6,46
+500 to 999,"1,060",335,250,33,32,31,192,65,28,21,73
+"1,000 or more (excluding 50 largest jails)","1,399",324,328,104,49,50,286,96,37,24,101
+50 largest jails,"2,841",448,678,247,163,110,728,129,77,97,164
+Note: Details may not sum to the total due to missing data.,,,,,,,,,,,
+"a/Number of inmates is based on the average daily population (ADP) for the years 2002 through 2007. In 2000 and 2001, ADP was estimated by taking the average of January 1 and December 31 one-day inmate population counts.",,,,,,,,,,,
+"b/Includes other specified (such as influenza, septicemia, diabetes, and hepatitis) and unspecified or unknown illnesses. See appendix tables 2 and 3 of this report for a list of the more than 50 illnesses reported to the program. See Methodology for details on illness classifications.",,,,,,,,,,,

@@ -1,0 +1,41 @@
+Race	Male 0 - 18	Male 19 - 35	Male 36+ 	Female 0 - 18	Female 19 - 35	Female 36+
+
+Day/Time	00:00-01:59	02:00-03:59	04:00-05:59	06:00-07:59	08:00-09:59	10:00-11:59	12:00-13:59	14:00-15:59	16:00-17:59	18:00-19:59	20:00-21:59	22:00-23:59	Unk
+
+Day/Time	00:00-03:59	04:00-07:59	08:00-11:59	12:00-15:59	16:00-19:59	20:00-23:59	Unk
+
+
+Drug Arrests
+
+Drug Type	Under 10	10 12	13 14	15	16	17	18	19	20	21	22	23	24	25 29	30 34	35 39	40 44	45 49	50 54	55 59	60 64	65 & Over	Total
+
+
+OFFENSES	UNDER 10	10 12	13 14	15	16	17	TOTAL
+
+Group A Adult Arrest Offenses	18	19	20	21	22	23	24	25-29	30-34	35-39	40-44	45-49	50-54	55-59	60-64	65 & Over	Total
+
+Group B Adult Arrest Offenses	18	19	20	21	22	23	24	25-29	30-34	35-39	40-44	45-49	50-54	55-59	60-64	65 & Over	Total
+
+Group A Arrest Offenses	Males Arrested	Females Arrested	Male % Crime Distribution	Female % Crime Distribution
+
+Group A Arrest Offenses	Total	White	Black	American Indian or Alaskan Native	Asian or Pacific Islander
+
+Group A Arrest Offenses	Number of Arrests	Percent Distribution	Rate per 100,000 Inhabitants
+
+Group B Offense Categories	Male	Female	Rate per 100,000 Inhabitants 
+
+Contributing Agencies and Full-Time Law Enforcement Employees January-December 2000
+Agency	Total Sworn Officers	Officers Male	Officers Female	Civilian
+
+COUNTY SHERIFFS & STATE POLICE	POPULATION 	INCIDENT RATE PER 100,000	TOTAL INCIDENTS 	Murder and Non-negligent Manslaughter 	Kidnaping/Abduction 	Forcible Rape 	Other Forcible Sex Offenses	Robbbery	Aggravated Assault	Simple Assault/Intimidation	Arson	Extortion/Blackmail	Burglary	Larceny	Motor Vehicle Theft	Counterfeiting/Forgery	Fraud	Embezzlement	Stolen Property	Destruction/Damage/Vandalism	Drug/Narcotic Offenses	Non-forcible Sex Offenses	Pornography	Gambling	Prostitution	Bribery	Weapon Law Violation
+
+COUNTY POLICE & STATE POLICE	POPULATION 	INCIDENT RATE PER 100,000	TOTAL INCIDENTS 	Murder and Non-negligent Manslaughter 	Kidnaping/Abduction 	Forcible Rape 	Other Forcible Sex Offenses	Robbbery	Aggravated Assault	Simple Assault/Intimidation	Arson	Extortion/Blackmail	Burglary	Larceny	Motor Vehicle Theft	Counterfeiting/Forgery	Fraud	Embezzlement	Stolen Property	Destruction/Damage/Vandalism	Drug/Narcotic Offenses	Non-forcible Sex Offenses	Pornography	Gambling	Prostitution	Bribery	Weapon Law Violation
+
+TOWNS	POPULATION 	INCIDENT RATE PER 100,000	TOTAL INCIDENTS 	Murder and Non-negligent Manslaughter 	Kidnaping/Abduction 	Forcible Rape 	Other Forcible Sex Offenses	Robbbery	Aggravated Assault	Simple Assault/Intimidation	Arson	Extortion/Blackmail	Burglary	Larceny	Motor Vehicle Theft	Counterfeiting/Forgery	Fraud	Embezzlement	Stolen Property	Destruction/Damage/Vandalism	Drug/Narcotic Offenses	Non-forcible Sex Offenses	Pornography	Gambling	Prostitution	Bribery	Weapon Law Violation
+
+Cities and State Police	POPULATION 	INCIDENT RATE PER 100,000	TOTAL INCIDENTS 	Murder and Non-negligent Manslaughter 	Kidnaping/Abduction 	Forcible Rape 	Other Forcible Sex Offenses	Robbbery	Aggravated Assault	Simple Assault/Intimidation	Arson	Extortion/Blackmail	Burglary	Larceny	Motor Vehicle Theft	Counterfeiting/Forgery	Fraud	Embezzlement	Stolen Property	Destruction/Damage/Vandalism	Drug/Narcotic Offenses	Non-forcible Sex Offenses	Pornography	Gambling	Prostitution	Bribery	Weapon Law Violation
+Other Agencies	POPULATION 	INCIDENT RATE PER 100,000	TOTAL INCIDENTS 	Murder and Non-negligent Manslaughter 	Kidnaping/Abduction 	Forcible Rape 	Other Forcible Sex Offenses	Robbbery	Aggravated Assault	Simple Assault/Intimidation	Arson	Extortion/Blackmail	Burglary	Larceny	Motor Vehicle Theft	Counterfeiting/Forgery	Fraud	Embezzlement	Stolen Property	Destruction/Damage/Vandalism	Drug/Narcotic Offenses	Non-forcible Sex Offenses	Pornography	Gambling	Prostitution	Bribery	Weapon Law Violation
+
+
+Alexandria		Bedford		Bristol		Buena Vista		Charlottesville		Chesapeake	Clifton Forge		Colonial Heights		Covington		Danville		Emporia		Fairfax		Falls Church		Franklin		Fredericksburg		Galax		Hampton		Harrisonburg		Hopewell		Lexington		Lynchburg		Manassas		Manassas Park		Martinsville		Newport News		Norfolk		Norton		Petersburg		Poquoson		Portsmouth		Radford		Richmond		Roanoke		Salem		Staunton		Suffolk		Virginia Beach		Waynesboro		Williamsburg		Winchester		Total City
+

@@ -1,0 +1,525 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+----------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4780
+------------------------------------------------------
+
+*******************
+Special Report
+*******************
+
+Requests for Police Assistance, 2011
+
+Matthew Durose and Lynn Langton, Ph.D., BJS Statisticians
+
+In 2011, an estimated 31.4 million U.S. residents age 16 or 
+older, or 13% of the population, requested assistance from 
+the police at least once. About 93% of persons who requested 
+police assistance thought the officers acted properly, 86% 
+felt the police were helpful, and 85% were satisfied with the 
+police response (figure 1). About 93% of persons who 
+requested police assistance reported that they were just as 
+likely or more likely to contact the police again for a 
+similar problem.
+
+The findings in this report are based on the Bureau of 
+Justice Statistics’ (BJS) 2011 Police-Public Contact Survey 
+(PPCS), a supplement to the National Crime Victimization 
+Survey (NCVS), which collects information from a nationally 
+representative sample of persons in U.S. households. The PPCS 
+collects information on contact with police during a 12-month 
+period. This report presents the characteristics and 
+experiences of persons who contacted law enforcement for 
+assistance in 2011, examining perceptions of officer behavior 
+and response during these encounters. It details requests for 
+police assistance to (1) report a crime, suspicious activity, 
+or neighborhood disturbance; (2) report a noncrime emergency; 
+and (3) seek help for a nonemergency or other reason.
+
+************************************************
+
+************
+Highlights
+************
+
+Among persons requesting assistance from the police in 2011:
+
+* An estimated 1 in 8 U.S. residents age 16 or older, or 31.4 
+million persons, requested assistance from police at least 
+once, most commonly to report a crime, suspicious activity, 
+or neighborhood disturbance.  
+
+* The majority of persons who requested police assistance 
+felt the officers acted properly (93%) and were helpful 
+(86%).
+
+* About 85% of persons who requested police assistance were 
+satisfied with the police response. 
+
+* No statistical differences were found between the 
+percentage of Hispanics (86%), blacks (85%), and whites (83%) 
+who reported a crime or neighborhood disturbance and felt the 
+police were helpful.
+
+* Most (93%) persons who requested police assistance felt the 
+officers spent an appropriate amount of time with them during 
+the contact.
+
+* About 9 in 10 persons who requested police assistance 
+reported that they were just as likely or more likely to 
+contact the police again for a similar problem.
+************************************************
+
+***************************************
+An estimated 1 in 8 persons 
+requested police assistance in 2011
+***************************************
+
+During 2011, an estimated 26% of the 241.4 million U.S. 
+residents age 16 or older had one or more contacts with 
+police, such as calling to report a crime, being stopped in a 
+moving vehicle, or being approached by an officer in a public 
+place (table 1). About 13% of the population requested 
+assistance from the police at least once in 2011. For 
+information on involuntary contacts with police that occurred 
+during a traffic or street stop, see Police Behavior during 
+Traffic and Street Stops, 2011, NCJ 242937, BJS web, 
+September 2013.
+
+The most common reason persons sought assistance from the 
+police in 2011 was to report a crime, suspicious activity, or 
+neighborhood disturbance (about 19.7 million persons or 8% of 
+the population), followed by reporting a noncrime emergency 
+(12.6 million or 5%), such as a medical issue or traffic 
+accident. About 3.9 million persons, or 2%, sought help from 
+the police for other reasons, such as having a problem with 
+an animal, returning a lost item, or nonemergency matters 
+(e.g., asking for directions.) 
+
+In 2011, a similar percentage of females (13%) and males 
+(13%) requested some type of assistance from the police 
+(table 2). A greater percentage of non-Hispanic white persons 
+(14%) than Hispanic persons (10%) contacted the police for 
+assistance. A slightly larger percentage of white persons 
+(14%) than black persons (12%) requested police assistance. 
+In 2011, persons ages 25 to 44 contacted the police to 
+request assistance at higher rates than younger persons (ages 
+16 to 24) and older persons (age 65 or older). The rates 
+among persons ages 25 to 44 and 45 to 64 were not 
+statistically different.
+ 
+A similar percentage of males (8%) and females (9%) contacted 
+the police to report a crime or neighborhood disturbance in 
+2011. Across all races and Hispanic origin, American Indians 
+and Alaska Natives (15%) and persons of two or more races 
+(15%) had the highest rates of reporting crime or 
+neighborhood disturbances to the police. No statistical 
+difference was observed between the percentage of white (9%) 
+and black (7%) persons reporting a crime or neighborhood 
+disturbance to police in 2011.
+
+***************************************
+About 6 in 10 requests for police 
+assistance involved face-to-face 
+contact with an officer
+***************************************
+
+In 2011, persons who requested assistance from law 
+enforcement were asked about the methods used to contact the 
+police and whether the contact was face-to-face. Persons who 
+reported more than one contact with police in 2011 were asked 
+to describe the most recent contact. About 24.2 million 
+persons reported that their most recent or only contact in 
+2011 was to request assistance from the police (table 3). 
+About 6 in 10 (62%) persons who requested police assistance 
+in 2011 had face-to-face interaction with an officer during 
+their most recent contact. Among persons who requested police 
+assistance and had face-to-face contact with an officer, 
+about 3 in 4 persons (75%) initiated the contact by telephone 
+(not in table). The other 25% of contacts were initiated by 
+the person approaching the police in public (e.g., the police 
+station or on the street), the police coming to the person’s 
+house, a third party (e.g., a company or another person 
+contacting the police), or another method. 
+
+***************************************
+The majority (93%) of persons who 
+requested police assistance felt the 
+officers acted properly 
+***************************************
+
+Persons who requested assistance from the police (either in-
+person or not in-person) for any reason were asked if they 
+felt police acted properly during the contact, were helpful, 
+spent an appropriate amount of time with them, and improved 
+the situation. In addition, persons were asked if they were 
+satisfied with the police response and if they were likely to 
+contact the police again for a similar problem. 
+
+During 2011, the majority of persons who requested assistance 
+from the police for any reason felt the responding officers 
+acted properly (93%) and were helpful (86%) (table 4). About 
+85% of persons who had contact with police to request 
+assistance were satisfied with how the police handled the 
+situation. The percentage of persons who were satisfied with 
+the police response was not statistically different among 
+requests for assistance that involved face-to-face contact 
+with an officer (85%) and contacts that were not in-person 
+(84%) (not in table).
+ 
+While most people who requested police assistance believed 
+the officers were helpful, a larger percentage of persons 
+reporting noncrime emergencies (93%) than persons reporting 
+crimes or neighborhood disturbances (84%) thought the police 
+were helpful. Similarly, a larger percentage of persons 
+reporting noncrime emergencies (91%) than persons reporting 
+crimes or neighborhood disturbances (82%) were satisfied with 
+the police response.
+
+Among persons reporting noncrime emergencies, Hispanics (96%) 
+and whites (94%) were more likely than blacks (83%) to feel 
+the police were helpful. Among persons reporting a crime or 
+neighborhood disturbance in 2011, no statistical differences 
+were found between the percentage of Hispanics (86%), blacks 
+(85%), and whites (83%) who felt the police were helpful. 
+ 
+While the large majority of white, black, and Hispanic 
+persons who reported noncrime emergencies to law enforcement 
+felt the officers provided a satisfactory response, blacks 
+(79%) were less likely than whites (93%) and somewhat less 
+likely than Hispanics (91%) to feel satisfied with the 
+response. Among persons reporting a crime or neighborhood 
+problem, a similar percentage of whites (83%), blacks (80%), 
+and Hispanics (79%) were satisfied with the police response.
+
+A similar percentage of males (86%) and females (86%) who 
+requested assistance from the police felt the officers were 
+helpful (table 5). No statistical differences were observed 
+across age groups of persons who believed the police were 
+helpful during requests for assistance.
+
+Among persons who requested assistance from the police in 
+2011, about 61% felt the police improved the situation, 21% 
+felt the police did not improve the situation, and 18% were 
+unable to say whether the situation did or did not improve 
+(table 6). A larger percentage of persons reporting noncrime 
+emergencies (70%) than persons reporting crimes or 
+neighborhood disturbances (58%) felt the police improved the 
+situation.
+
+***************************************
+About 9 in 10 persons who requested 
+police assistance felt the police 
+spent an appropriate amount of time 
+with them during the contact
+***************************************
+
+Overall, most (93%) persons who requested police assistance 
+in 2011 felt the officers spent an appropriate amount of time 
+with them during the contact (table 7). An estimated 2% of 
+persons felt the police spent too much time with them, and 6% 
+felt the police spent too little time with them. 
+
+Perceptions about whether police spent an appropriate amount 
+of time responding to requests for assistance were related to 
+views about the behavior and response of police during the 
+contact. Among persons who believed the police had not 
+behaved properly, about 37% thought the police spent an 
+appropriate amount of time with them. In comparison, among 
+persons who felt the police acted properly, 97% felt the 
+police spent an appropriate amount of time with them. Among 
+persons who felt the police did not provide a satisfactory 
+response during a request for assistance, about 59% believed 
+the officers spent an appropriate amount of time with them, 
+compared to about 98% of persons who were satisfied with the 
+police response.
+
+********************************************
+About 9 in 10 persons who requested police 
+assistance in 2011 stated they were just as 
+likely or more likely to contact police 
+again for a similar problem
+***************************************
+
+The large majority of persons who requested police assistance 
+to report a crime or neighborhood disturbance (93%) or a 
+noncrime emergency (96%) stated they were just as likely or 
+more likely to contact the police again for a similiar 
+problem (table 8). In addition, the majority of persons 
+reported being just as likely or more likely to contact the 
+police again for a similar problem, even when the police were 
+not helpful (65%), did not behave properly (53%), or did not 
+provide a satisfactory response (66%). However, negative 
+perceptions of police behavior were related to a lower 
+likelihood of persons contacting the police in the future. 
+For example, among persons requesting police assistance in 
+2011, about 47% of those who believed the police had not 
+acted properly reported that they were less likely to contact 
+the police again for a similar problem, compared to 4% of 
+persons who felt the police behaved properly (table 9). 
+
+*************
+Methodology
+*************
+
+Data collection
+******************
+
+The Police-Public Contact Survey (PPCS) is a supplement to 
+the National Crime Victimization Survey (NCVS). The NCVS 
+annually collects data on crimes reported and not reported to 
+the police against persons age 12 or older from a nationally 
+representative sample of U.S. households. The sample includes 
+persons living in group quarters (such as dormitories, 
+rooming houses, and religious group dwellings) and excludes 
+persons living in military barracks and institutional 
+settings (such as correctional or hospital facilities) and 
+the homeless. (For more information, see the Survey 
+Methodology in Criminal Victimization in the United States, 
+2008, NCJ 231173, BJS web, May 2011.)
+
+Since 1999, the PPCS has been administered every 3 years at 
+the end of the NCVS interview to persons age 16 or older 
+within households sampled for the NCVS. Proxy responders and 
+those who complete the NCVS interview in a language other 
+than English were not eligible to receive the PPCS. 
+
+The U.S. Census Bureau administered the 2011 PPCS 
+questionnaire between July 1, 2011, and December 31, 2011, 
+and processed the survey data. Respondents were provided a 
+list of specific reasons for having contact with police and 
+were asked if they had experienced any of those types of 
+contacts during the prior 12 months. For example, persons 
+interviewed in July 2011 were asked about contacts that 
+occurred between August 2010 and July 2011. Persons who said 
+they had a contact during 2011 were asked to describe the 
+nature of the contact, and those who had more than one 
+contact were asked about only their most recent contact 
+during the period. To simplify the discussion of the 
+findings, this report describes all contacts reported during 
+the 12 months prior to the interviews as 2011 contacts. 
+
+PPCS nonrespondents consisted of persons whose household did 
+not respond to the NCVS (NCVS household nonresponse), persons 
+within an interviewed NCVS household who did not respond to 
+the NCVS (NCVS person nonresponse), and persons who responded 
+to the NCVS but did not complete the PPCS (PPCS person 
+nonresponse). The NCVS household response rate was 89% and 
+the person response rate was 88%. In 2011, PPCS interviews 
+were obtained from 49,246 of the 62,280 individuals age 16 or 
+older in the NCVS sample (79%). A total of 13,034 
+nonrespondents were excluded from the 2011 PPCS as 
+noninterviews or as proxy interviews. Noninterviews (10,907) 
+included respondents who were not available for the 
+interview, those who refused to participate, and non-English-
+speaking respondents. (Unlike the NCVS interviews, PPCS 
+interviews were conducted only in English.) The remaining 
+2,127 were proxy interviews representing household members 
+who were unable to participate for physical, mental, or other 
+reasons.  
+
+To produce national estimates on police-public contacts, 
+sample weights were applied to the survey data so that the 
+respondents represented the entire population, including the 
+nonrespondents. After adjustment for nonresponse, the sample 
+cases in 2011 were weighted to produce a national population 
+estimate of 241,404,142 persons age 16 or older.
+
+Despite the nonresponse adjustments, low overall response 
+rates and response rates to particular survey items can still 
+increase variance in these estimates and produce bias when 
+the nonrespondents have characteristics that differ from the 
+respondents. The Office of Management and Budget guidelines 
+require a nonresponse bias study when the overall response 
+rate is below 80%. The Bureau of Justice Statistics (BJS) and 
+the Census Bureau compared the distributions of respondents 
+as well as nonrespondents and nonresponse estimates for 
+various household and demographic characteristics, and 
+examined their impact on the national estimates produced for 
+the 2011 PPCS. The study looked at household-level and 
+person-level response rates and found some evidence of bias 
+in the rates among blacks and persons of Hispanic origin. 
+Blacks accounted for 12% of the U.S. population in 2011 but 
+about 11% of PPCS respondents after weighting adjustments. 
+Hispanics accounted for 14% of the U.S. population but about 
+12% of the PPCS respondents after weighting adjustments. 
+Because the largest bias in person nonresponse was observed 
+in the Hispanic origin characteristics, future iterations of 
+the PPCS will address this issue by administering the survey 
+in languages other than English and including Hispanic origin 
+as a factor in the noninterview adjustment. Item nonresponse 
+statistics were also computed for key survey questions from 
+the PPCS, and no evidence of bias was found during the 
+analysis.
+
+Changes to the 2011 PPCS
+*************************
+
+Since its inception in 1999, the PPCS has captured 
+information about in-person (i.e., face-to-face) contacts 
+between police and the public. Telephone contacts were 
+previously not included. The survey has also excluded face-
+to-face interactions in which persons approached an officer 
+or an officer initiated contact with them in a social setting 
+or because their work brought them into regular contact. In 
+March of 2010, BJS hosted a series of meetings with subject-
+matter experts in the area of policing and police legitimacy 
+to initiate discussion and work on substantive changes to the 
+PPCS questionnaire. In 2011, based in part on these meetings, 
+the PPCS was revised to expand the scope of the survey and to 
+better capture contacts with police. 
+
+First, to determine if contact occurred and to enhance 
+individuals’ recollections about their interactions with 
+police over a 12-month period, BJS implemented new screening 
+procedures in the 2011 PPCS that describe a broad range of 
+situations known to bring people in contact with police. 
+Second, the scope of the PPCS was expanded to collect 
+information about interactions that people had with the 
+police that did not result in a face-to-face contact (e.g., 
+reporting a crime to the police by phone or email). 
+Additionally, a new set of questions was added to the 
+instrument to collect detailed information about requests for 
+police assistance (e.g., reporting a crime or noncrime 
+emergency) and contacts in which the police stopped someone 
+in a public place or on the street but not in a motor vehicle 
+(street stops).
+
+The effects of these revisions, which included adding new 
+questions and reordering existing questions, were significant 
+when compared to the 2008 version of the questionnaire. To 
+assess the impact of the survey redesign on trends in rates 
+and types of contact, BJS administered a split-sample design 
+in which a subset of the sample was interviewed using the 
+2008 version of the questionnaire, and the remaining sample 
+was interviewed using the 2011 version. Based on the 
+evaluation, it was determined that a 15/85 split would 
+provide sufficient power to measure a 15% change in contact 
+rate. In other words, about 85% of the 2011 sample was 
+randomly assigned the revised questionnaire and the other 15% 
+received the questionnaire designed for the 2008 survey. The 
+Census Bureau completed interviews for 41,408 (79%) of the 
+52,529 persons who received the revised questionnaire. 
+
+The findings in this report are based on data collected from 
+the revised questionnaire. An evaluation of the impact of the 
+changes to the 2011 PPCS instrument on trends in contacts 
+between the police and the public is underway, and the 
+results of that assessment will be made available through the 
+BJS website.
+
+Standard error computations 
+****************************
+
+When national estimates are derived from a sample, as is the 
+case with the PPCS, caution must be taken when comparing one 
+estimate to another estimate. Although one estimate may be 
+larger than another, estimates based on a sample have some 
+degree of sampling error. The sampling error of an estimate 
+depends on several factors, including the amount of variation 
+in the responses, the size of the sample, and the size of the 
+subgroup for which the estimate is computed. When the 
+sampling error around the estimates is taken into 
+consideration, the estimates that appear different may, in 
+fact, not be statistically different.
+
+One measure of the sampling error associated with an estimate 
+is the standard error. The standard error can vary from one 
+estimate to the next. In general, for a given metric, an 
+estimate with a smaller standard error provides a more 
+reliable approximation of the true value than an estimate 
+with a larger standard error. Estimates with relatively large 
+standard errors are associated with less precision and 
+reliability and should be interpreted with caution.
+
+In order to generate standard errors around estimates from 
+the PPCS, the Census Bureau produces generalized variance 
+function (GVF) parameters for BJS. The GVFs take into account 
+aspects of the NCVS complex sample design and represent the 
+curve fitted to a selection of individual standard errors 
+based on the Jackknife Repeated Replication technique. The 
+GVF parameters were used to generate standard errors for each 
+point estimate (i.e., numbers or percentages) in the report.
+
+In this report, BJS conducted tests to determine whether 
+differences in estimated numbers and percentages were 
+statistically significant once sampling error was taken into 
+account. Using statistical programs developed specifically 
+for the NCVS, all comparisons in the text were tested for 
+significance. The primary test procedure used was Student’s 
+t-statistic, which tests the difference between two sample 
+estimates. To ensure that the observed differences between 
+estimates were larger than might be expected due to sampling 
+variation, the significance level was set at the 95% 
+confidence level.
+
+Data users can use the estimates and the standard errors of 
+the estimates provided in this report to generate a 
+confidence interval around the estimate as a measure of the 
+margin of error. The following example illustrates how 
+standard errors can be used to generate confidence intervals:
+
+* According to the PPCS, an estimated 13% of persons age 16 
+or older requested assistance from the police in 2011 (see 
+table 1). Using the GVFs, BJS determined that the estimate 
+has a standard error of 0.5 (see appendix table 1). A 
+confidence interval around the estimate was generated by 
+multiplying the standard error by ±1.96 (the t-score of a 
+normal, two-tailed distribution that excludes 2.5% at either 
+end of the distribution). Thus, the confidence interval 
+around the estimate is 13% ± (0.5 X 1.96). In other words, if 
+different samples using the same procedures were taken from 
+the U.S. population in 2011, 95% of the time the percentage 
+of persons age 16 or older who requested police assistance 
+would be between 12% and 14%. 
+
+In this report, BJS also calculated a coefficient of 
+variation (CV) for all estimates, representing the ratio of 
+the standard error to the estimate. CVs provide a measure of 
+reliability and a means to compare the precision of estimates 
+across measures with differing levels or metrics. In cases 
+where the CV was greater than 50%, or the unweighted sample 
+had 10 or fewer cases, the estimate was noted with a “!” 
+symbol (interpret data with caution; estimate is based on 10 
+or fewer sample cases, or the coefficient of variation 
+exceeds 50%).
+
+Many of the variables examined in this report may be related 
+to one another and to other variables not included in the 
+analyses. Complex relationships among variables were not 
+fully explored in this report and warrant more extensive 
+analysis. Readers are cautioned not to draw causal inferences 
+based on the results presented.
+
+******************************************************
+The Bureau of Justice Statistics, located in the Office of 
+Justice Programs, U.S. Department of Justice, collects, 
+analyses, and disseminates statistical information on crime, 
+criminal offenders, victims of crime, and the operation of 
+justice systems at all levels of government. William J. Sabol 
+is acting director.
+
+This report was written by Matthew Durose and Lynn Langton. 
+Lynn Langton verified the report.
+
+Morgan Young edited the report. Tina Dorsey and Morgan Young 
+produced the report.
+
+September 2013, NCJ 242938
+******************************************************
+
+***********************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+************************************************
+
+************************
+9/18/13/JER/10:50am
+************************
