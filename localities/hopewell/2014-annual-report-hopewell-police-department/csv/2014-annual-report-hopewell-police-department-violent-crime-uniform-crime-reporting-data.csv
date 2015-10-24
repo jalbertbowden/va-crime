@@ -1,0 +1,13 @@
+Violent Crime,2013,2014,Cases +/-,% Change
+Homicide*,3,4,1,33%
+Rape*,4,0,-4,-100%
+Robbery,34,27,-7,-21%
+Aggravated Assault*,54,53,-1,-2%
+Total Violent Crime,95,84,-11,-12%
+Property Crime,2013,2014,Cases +/-,% Change
+Arson,0,3,3,N/A
+B&E,227,137,-90,-40%
+Larceny,509,487,-22,-4%
+Motor Vehicle Theft,47,44,-3,-6%
+Total Property Crime,783,671,-112,-14%
+Total Major Crime,878,755,-123,-14%
