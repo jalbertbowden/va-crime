@@ -1,0 +1,48 @@
+Offense Description,UCR CODE,1st,2nd,3rd,4th,Total
+Murder & Non-Negligent Manslaughter,09A,0,1,0,0,1
+Manslaughter by Negligence,09B,0,0,0,0,0
+Justifiable Homicide,09C,0,0,0,0,0
+Kidnapping/Abduction,100,0,0,1,1,2
+Forcible Rape,11A,0,4,1,0,5
+Forcible Sodomy,11B,0,2,2,1,5
+Sexual Assault with an object,11C,0,0,1,0,1
+Forcible Fondling,11D,0,5,7,6,18
+Robbery,120,0,1,0,1,2
+Aggravated Assault,13A,0,10,7,7,24
+Simple Assault,13B,20,156,177,140,493
+Intimidation,13C,96,21,21,12,63
+Arson,200,0,1,1,0,2
+Extortion/Blackmail,210,0,0,0,0,0
+Burglary/Breaking and Entering,220,21,57,51,96,225
+Pocket Picking,23A,1,0,0,0,1
+Purse Snatching,23B,0,0,0,0,0
+Shoplifting,23C,9,23,33,29,94
+Theft from buildings,23D,9,47,39,23,118
+Theft from coin-operated machine or device,23E,0,0,0,0,0
+Theft from motor vehicle,23F,4,14,14,46,78
+Theft of motor vehicle parts or accessories,23G,3,13,12,11,39
+All other larceny,23H,17,48,42,61,168
+Motor Vehicle Theft,240,4,10,12,5,31
+Forger/Counterfeiting,250,1,4,6,10,21
+False Pretense/Swindle/Confidence Game,26A,5,19,18,23,65
+Fraud Credit Card/Automated Teller Machines,26B,4,21,18,16,59
+Impersonation,26C,0,0,0,0,0
+Fraud Welfare,26D,0,0,0,1,1
+Wire/Computer/Other Electronic Manipulation,26E,0,0,0,1,1
+Embezzlement,270,1,2,2,2,7
+Stolen Property Offenses,280,0,0,0,0,0
+Destructive/Damage/Vandalism of Property,290,19,83,87,115,304
+Drug/Narcotic Violations,35A,6,58,60,87,211
+Drug Equipment Violations,35B,1,1,4,5,11
+Incest,36A,0,0,0,0,0
+Statutory Rape,36B,1,0,0,5,6
+Pornography/Obscene Material,370,0,2,3,9,14
+Betting and Wagering,39A,0,0,0,0,0
+Operating/Promoting Prostitution,39B,0,0,0,0,0
+Gambling Equipment Violations,39C,0,0,0,0,0
+Sports Tampering,39D,0,0,0,0,0
+Prostitution,40A,0,0,1,0,1
+Assisting/Promoting Prostitution,40B,0,0,0,0,0
+Bribery,510,0,0,0,0,0
+Weapon Law Violations,520,1,9,7,8,25
+TOTAL,,136,612,627,721,2096
