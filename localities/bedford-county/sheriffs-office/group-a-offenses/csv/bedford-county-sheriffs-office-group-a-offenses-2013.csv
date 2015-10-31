@@ -1,0 +1,48 @@
+Offense Description,UCR CODE,1st,2nd,3rd,4th,Total
+Murder & Non-Negligent Manslaughter,09A ,0,0,0,0,0
+Manslaughter by Negligence,09B ,0,0,0,0,0
+Justifiable Homicide,09C ,0,0,0,0,0
+Kidnapping/Abduction,100,0,1,0,0,1
+Forcible Rape,11A ,0,3,1,3,7
+Forcible Sodomy,11B ,1,0,1,0,2
+Sexual Assault with an object,11C ,1,0,0,0,1
+Forcible Fondling,11D ,1,6,2,4,13
+Robbery,120,1,1,0,0,2
+Aggravated Assault,13A ,3,5,1,2,11
+Simple Assault,13B ,61,119,94,83,357
+Intimidation,13C ,6,22,11,15,54
+Arson,200,0,2,0,3,5
+Extortion/Blackmail,210,0,0,0,0,0
+Burglary/Breaking and Entering,220,26,48,39,44,157
+Pocket Picking,23A ,0,0,0,0,0
+Purse Snatching,23B ,0,0,0,0,0
+Shoplifting,23C ,7,22,5,5,39
+Theft from buildings,23D ,20,53,32,32,137
+Theft from coin-operated machine or device,23E ,0,0,0,0,0
+Theft from motor vehicle,23F ,8,15,20,14,57
+Theft of motor vehicle parts or accessories,23G ,1,14,10,9,34
+All other larceny,23H ,22,47,45,27,141
+Motor Vehicle Theft,240,3,6,7,8,24
+Forger/Counterfeiting,250,2,4,4,9,19
+False Pretense/Swindle/Confidence Game,26A ,13,25,17,12,67
+Fraud Credit Card/Automated Teller Machines,26B ,10,30,20,21,81
+Impersonation,26C ,1,0,0,0,1
+Fraud Welfare,26D ,0,0,0,0,0
+Wire/Computer/Other Electronic Manipulation,26E ,0,0,0,0,0
+Embezzlement,270,0,6,0,3,9
+Stolen Property Offenses,280,0,0,0,0,0
+Destructive/Damage/Vandalism of Property,290,33,69,73,49,224
+Drug/Narcotic Violations,35A,28,81,47,54,210
+Drug Equipment Violations,35B,3,3,4,9,19
+Incest,36A,0,0,0,0,0
+Statutory Rape,36B,0,0,2,0,2
+Pornography/Obscene Material,370,0,2,5,6,13
+Betting and Wagering,39A,0,0,0,0,0
+Operating/Promoting Prostitution,39,0,0,0,0,0
+Gambling Equipment Violations,39C,0,0,0,0,0
+Sports Tampering,39D,0,0,0,0,0
+Prostitution,40A,0,0,0,0,0
+Assisting/Promoting Prostitution,40B,0,0,0,0,0
+Bribery,510,0,0,0,0,0
+Weapon Law Violations,520,7,8,6,9,30
+TOTAL,,258,592,446,421,1717
