@@ -1,0 +1,15 @@
+Offense Description,UCR CODE,1ST,2ND,3RD,4TH,Total
+Bad Checks,90A,6,5,5,3,19
+Curfew/Loitering/Vagrancy,90B,0,0,0,0,0
+Disorderly Conduct,90C,1,7,0,8,16
+Driving Under the Influence,90D,12,41,28,15,96
+Drunkeness,90E,11,28,14,11,64
+Familly Offense/Nonviolent,90F,0,4,0,3,7
+Liquor Law Violations,90G,6,16,8,3,33
+Peeping Tom,90H,0,0,1,0,1
+Runaway,90I,0,1,9,6,16
+Trespass,90J,2,3,9,7,21
+Conspiracy to Commit Group A Offenses,90X,0,0,0,0,0
+Conspiracy to Commit Group B Offenses,90Y,0,0,0,0,0
+All Other Offenses,90Z,32,144,40,76,292
+Total,,70,187,114,132,503
