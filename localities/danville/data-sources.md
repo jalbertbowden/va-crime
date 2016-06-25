@@ -1,0 +1,36 @@
+# City of Danville Criminal Justice Data  
+
+## [Performance - City of Danville Dashboard](https://performance.danvilleva.gov/)  
+[Grant Funding 2005-2014](https://performance.danvilleva.gov/dataset/Grant-Funding-2005-2014/j7fw-vchi)  
+[Property Crime Rate](https://performance.danvilleva.gov/dataset/Property-Crime-Rate/cyse-nc7i)  
+[Property Crimes - Arson](https://performance.danvilleva.gov/dataset/Property-Crimes-Arson/5cyg-45x7)  
+[Property Crimes - Burglary](https://performance.danvilleva.gov/dataset/Property-Crimes-Burglary/qecq-g9cg)  
+[Property Crimes - Larceny](https://performance.danvilleva.gov/dataset/Property-Crimes-Larceny/yhes-5s8j)  
+[Property Crimes - Motor Vehicle Theft](https://performance.danvilleva.gov/dataset/Property-Crimes-Motor-Vehicle-Theft/f8qq-ugyy)  
+[Violent Crimes - Rape](https://performance.danvilleva.gov/dataset/Violent-Crimes-Rape/66bz-bjpe)  
+[Violent Crimes - Robbery](https://performance.danvilleva.gov/dataset/Violent-Crimes-Robbery/4y4c-z8ye)  
+
+### Charts
+[Chart: Property Crime Rate](https://performance.danvilleva.gov/dataset/Chart-Property-Crime-Rate/cvkj-xkwu)  
+[Chart - Property Crime: Arson](https://performance.danvilleva.gov/dataset/Chart-Property-Crime-Arson/wk77-r8t9)  
+[Chart - Property Crime: Burglary](https://performance.danvilleva.gov/dataset/Chart-Property-Crime-Burglary/amup-sesh)  
+[Chart - Violent Crimes: Rape](https://performance.danvilleva.gov/dataset/Chart-Violent-Crimes-Rape/2x25-pcyk)  
+[Chart - Violent Crimes: Robberies](https://performance.danvilleva.gov/dataset/Chart-Violent-Crimes-Robberies/pqm7-ngkd)  
+[Chart - Property Crimes: Larcenies](https://performance.danvilleva.gov/dataset/Chart-Property-Crimes-Larcenies/ve37-ryjc)  
+[Chart - Property Crime: Motor Vehicle Theft](https://performance.danvilleva.gov/dataset/Chart-Property-Crime-Motor-Vehicle-Theft/76c7-6y8s)  
+
+### Feeds
+[Feed - Grant Funding](https://performance.danvilleva.gov/api/views/j7fw-vchi/rows.rss)  
+[Feed - Property Crimes - Larceny](https://performance.danvilleva.gov/api/views/yhes-5s8j/rows.rss)
+[Feed - Property Crimes - Motor Vehicle Theft](https://performance.danvilleva.gov/api/views/f8qq-ugyy/rows.rss)  
+[Feed - Property Crime Rate](https://performance.danvilleva.gov/api/views/cyse-nc7i/rows.rss)  
+[Feed - Property Crimes - Arson](https://performance.danvilleva.gov/api/views/5cyg-45x7/rows.rss)  
+[Feed - Violent Crimes - Rape](https://performance.danvilleva.gov/api/views/66bz-bjpe/rows.rss)  
+[Feed - Violent Crimes - Robbery](https://performance.danvilleva.gov/api/views/4y4c-z8ye/rows.rss)  
+[Feed - Chart - Violent Crimes: Robberies](https://performance.danvilleva.gov/api/views/pqm7-ngkd/rows.rss)  
+[Feed - Chart - Property Crimes: Larcenies](https://performance.danvilleva.gov/api/views/ve37-ryjc/rows.rss)  
+[Feed - Chart - Property Crime Rate](https://performance.danvilleva.gov/api/views/cvkj-xkwu/rows.rss)  
+[Feed - Chart - Property Crimes - Arson](https://performance.danvilleva.gov/api/views/wk77-r8t9/rows.rss)  
+[Feed - Chart - Property Crime; Motor Vehicle Theft](https://performance.danvilleva.gov/api/views/76c7-6y8s/rows.rss)  
+[Feed - Chart - Property Crime: Burglary](https://performance.danvilleva.gov/api/views/amup-sesh/rows.rss)  
+[Feed - Chart - Violent Crimes: Rape](https://performance.danvilleva.gov/api/views/2x25-pcyk/rows.rss)  
