@@ -1,0 +1,8 @@
+# Hampton Police Data  
+
+
+## Crime Reports - HamptonSchoolFacts.com  
+[Hampton Police Crime Report 2012-12](http://www.hamptonschoolfacts.com/uploads/Hampton_Dec_2012_Crime.pdf)  
+[Hampton Police Crime Report 2013-10](http://www.hamptonschoolfacts.com/uploads/Hampton_Crime_Stats_Oct_2013.pdf)  
+
+
