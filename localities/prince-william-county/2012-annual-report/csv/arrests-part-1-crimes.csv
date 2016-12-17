@@ -1,0 +1,8 @@
+PART I CRIMES,ADULT 2011,Adult 2012,Adult +/-,Juvenile 2011,Juvenile 2012,Juvenile +/-,Combined 2011,Combined 2012,Combined +/-
+Murder ,5,3,-2,0,0,0,5,3,-2
+Forcible Rape ,34,41,7,4,3,-1,38,44,6
+Aggravated Assault ,143,169,26,18,9,-9,161,178,17
+Robbery ,89,95,6,14,17,3,103,112,9
+Burglary ,175,147,-28,17,53,36,192,200,8
+Larceny ,"1,185","1,101",-84,197,136,-61,"1,382","1,237",-145
+Motor Vehicle Theft ,45,25,-20,10,4,-6,55,29,-26
