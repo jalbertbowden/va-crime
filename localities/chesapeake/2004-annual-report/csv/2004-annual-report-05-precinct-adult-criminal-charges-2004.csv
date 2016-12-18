@@ -1,0 +1,18 @@
+Adult Criminal Charge,511,512,513,514,515,Totals
+Homicide,0,0,0,0,0,0
+Rape,1,0,0,1,0,2
+Robbery,1,3,1,4,0,9
+Aggravated Assault,8,5,1,6,3,23
+Burglary,7,3,1,11,2,24
+Larceny,22,166,68,65,20,341
+Auto Theft,2,10,0,3,1,16
+Sex Offense (except forcible rape),1,0,1,1,2,5
+Simple Assault,65,60,20,67,33,245
+Drug Offenses,37,49,15,48,12,161
+DUI,41,61,31,51,47,231
+Vandalism/Destruction of Property,9,8,3,4,3,27
+Fraud,11,88,41,30,9,179
+Alcohol Offenses,33,54,20,33,19,159
+Weapons Violations,7,6,0,2,3,18
+Other,211,245,96,209,85,846
+Totals,456,758,298,535,239,"2,286"

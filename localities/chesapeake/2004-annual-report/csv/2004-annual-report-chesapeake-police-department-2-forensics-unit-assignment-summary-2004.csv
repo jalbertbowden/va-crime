@@ -1,0 +1,20 @@
+Call,# Responded To,Photographs,Fingerprints,Evidence,Follow-Ups
+Abduction,8,7,1,2,0
+Accident,258,257,8,42,4
+Arson,10,8,5,4,0
+Assault,160,155,3,21,2
+Auto Theft,233,53,194,91,10
+Burglary,723,666,611,213,37
+Child Abuse,22,21,0,2,0
+DOA,85,65,31,50,33
+Homicide,13,11,1,9,7
+Larceny,337,47,247,103,10
+Narcotics,26,13,13,13,1
+Robbery,82,67,59,41,4
+Sex Offense,20,17,3,12,2
+Shooting,54,51,8,38,3
+Suicide,22,20,6,15,6
+Vandalism,170,126,53,60,5
+Special Assignment,26,3,0,1,19
+Other,176,109,53,67,11
+Totals,"2,425","1,696","1,296",784,154
