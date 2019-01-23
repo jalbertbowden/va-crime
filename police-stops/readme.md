@@ -22,4 +22,8 @@ Search conducted: True
 Search type:   
 Contraband found:   
 Stop outcome:
+
+## Virginia's Police Stop Open Data Score  
+![Virginia's Police Stop Open Data Score.](https://raw.githubusercontent.com/jalbertbowden/va-crime/master/police-stops/virginia-data-open-policing-data-table-score-screenshot-w1200.png)  
+
 																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
