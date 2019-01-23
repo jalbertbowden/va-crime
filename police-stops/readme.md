@@ -1,5 +1,6 @@
 # Virginia Police Stops  
 
+! [The Stanford Open Policing Project](https://raw.githubusercontent.com/jalbertbowden/va-crime/master/police-stops/the-stanford-open-policing-project-map-narrow-logotype-title.png)  
 [Data - The Stanford Open Policing Project](https://openpolicing.stanford.edu/data/)  
 [Virginia Data - The Stanford Open Policing Project](https://stacks.stanford.edu/file/druid:py883nd2578/VA-clean.csv.gz)  
 [The Stanford Open Policing Project Repository](https://github.com/5harad/openpolicing)  
