@@ -1,0 +1,7 @@
+ID,State,Stop - Date,Stop - Time,Location - Raw,County Name,County FIPS,Fine Grained Location,Police Department,Driver Gender,Driver Age - Raw,Driver Age,Driver Race - Raw,Driver Race,Violation - Raw,Violation,Search Conducted,Search Type - Raw,Search Type,Contraband Found,Stop Outcome,Is Arrested,Officer ID,Officer Race
+VA-2010-144014,VA,2010-04-24,,132,Fairfax city,51600,,,,,,White,White,,,FALSE,,,FALSE,,,4879,White
+VA-2010-144015,VA,2010-04-24,,132,Fairfax city,51600,,,,,,White,White,,,FALSE,,,FALSE,,,4879,White
+VA-2010-144016,VA,2010-04-24,,132,Fairfax city,51600,,,,,,White,White,,,FALSE,,,FALSE,,,4879,White
+VA-2010-144017,VA,2010-04-24,,132,Fairfax city,51600,,,,,,White,White,,,FALSE,,,FALSE,,,4879,White
+VA-2010-146308,VA,2010-04-24,,132,Fairfax city,51600,,,,,,Black,Black,,,FALSE,,,FALSE,,,4879,White
+VA-2010-146309,VA,2010-04-24,,132,Fairfax city,51600,,,,,,Black,Black,,,FALSE,,,FALSE,,,4879,White

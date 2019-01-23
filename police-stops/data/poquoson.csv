@@ -1,0 +1,17 @@
+ID,State,Stop - Date,Stop - Time,Location - Raw,County Name,County FIPS,Fine Grained Location,Police Department,Driver Gender,Driver Age - Raw,Driver Age,Driver Race - Raw,Driver Race,Violation - Raw,Violation,Search Conducted,Search Type - Raw,Search Type,Contraband Found,Stop Outcome,Is Arrested,Officer ID,Officer Race
+VA-2007-023441,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-023442,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-023443,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-023444,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-023445,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-023446,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-023447,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-023448,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-023449,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-023450,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-023451,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-023452,VA,2007-01-20,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6205,White
+VA-2007-026489,VA,2007-01-20,,143,Poquoson city,51735,,,,,,Hispanic,Hispanic,,,FALSE,,,FALSE,,,6205,White
+VA-2007-026682,VA,2007-01-20,,143,Poquoson city,51735,,,,,,Asian,Asian,,,FALSE,,,FALSE,,,6205,White
+VA-2007-026973,VA,2007-01-20,,143,Poquoson city,51735,,,,,,,,,,FALSE,,,FALSE,,,6205,White
+VA-2008-022922,VA,2008-01-19,,143,Poquoson city,51735,,,,,,White,White,,,FALSE,,,FALSE,,,6873,White

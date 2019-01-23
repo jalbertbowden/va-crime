@@ -1,0 +1,20 @@
+ID,State,Stop - Date,Stop - Time,Location - Raw,County Name,County FIPS,Fine Grained Location,Police Department,Driver Gender,Driver Age - Raw,Driver Age,Driver Race - Raw,Driver Race,Violation - Raw,Violation,Search Conducted,Search Type - Raw,Search Type,Contraband Found,Stop Outcome,Is Arrested,Officer ID,Officer Race
+VA-2015-296958,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-296959,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-296960,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-296961,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-296962,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-296963,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-296964,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-296965,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-296966,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-296967,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-296968,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-296969,VA,2015-08-15,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,6382,White
+VA-2015-299140,VA,2015-08-15,,108,Falls Church city,51610,,,,,,Black,Black,,,FALSE,,,FALSE,,,6382,White
+VA-2015-299141,VA,2015-08-15,,108,Falls Church city,51610,,,,,,Black,Black,,,FALSE,,,FALSE,,,6382,White
+VA-2015-299142,VA,2015-08-15,,108,Falls Church city,51610,,,,,,Black,Black,,,FALSE,,,FALSE,,,6382,White
+VA-2015-299143,VA,2015-08-15,,108,Falls Church city,51610,,,,,,Black,Black,,,FALSE,,,FALSE,,,6382,White
+VA-2015-300243,VA,2015-08-15,,108,Falls Church city,51610,,,,,,Asian,Asian,,,FALSE,,,FALSE,,,6382,White
+VA-2015-300244,VA,2015-08-15,,108,Falls Church city,51610,,,,,,Asian,Asian,,,FALSE,,,FALSE,,,6382,White
+VA-2015-417490,VA,2015-11-28,,108,Falls Church city,51610,,,,,,White,White,,,FALSE,,,FALSE,,,8570,White

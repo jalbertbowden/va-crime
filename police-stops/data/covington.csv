@@ -1,0 +1,4 @@
+ID,State,Stop - Date,Stop - Time,Location - Raw,County Name,County FIPS,Fine Grained Location,Police Department,Driver Gender,Driver Age - Raw,Driver Age,Driver Race - Raw,Driver Race,Violation - Raw,Violation,Search Conducted,Search Type - Raw,Search Type,Contraband Found,Stop Outcome,Is Arrested,Officer ID,Officer Race
+VA-2010-296173,VA,2010-07-31,,106,Covington city,51580,,,,,,Other,Other,,,FALSE,,,FALSE,,,7301,White
+VA-2010-296174,VA,2010-07-31,,106,Covington city,51580,,,,,,Other,Other,,,FALSE,,,FALSE,,,7301,White
+VA-2010-296371,VA,2010-07-31,,106,Covington city,51580,,,,,,White,White,,,TRUE,,,,,,7301,White

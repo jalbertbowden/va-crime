@@ -1,0 +1,12 @@
+ID,State,Stop - Date,Stop - Time,Location - Raw,County Name,County FIPS,Fine Grained Location,Police Department,Driver Gender,Driver Age - Raw,Driver Age,Driver Race - Raw,Driver Race,Violation - Raw,Violation,Search Conducted,Search Type - Raw,Search Type,Contraband Found,Stop Outcome,Is Arrested,Officer ID,Officer Race
+VA-2009-005512,VA,2009-01-03,,130,Norton city,51720,,,,,,White,White,,,FALSE,,,FALSE,,,5824,White
+VA-2009-005513,VA,2009-01-03,,130,Norton city,51720,,,,,,White,White,,,FALSE,,,FALSE,,,5824,White
+VA-2009-005514,VA,2009-01-03,,130,Norton city,51720,,,,,,White,White,,,FALSE,,,FALSE,,,5824,White
+VA-2009-005515,VA,2009-01-03,,130,Norton city,51720,,,,,,White,White,,,FALSE,,,FALSE,,,5824,White
+VA-2009-007512,VA,2009-01-03,,130,Norton city,51720,,,,,,Black,Black,,,FALSE,,,FALSE,,,5824,White
+VA-2009-007513,VA,2009-01-03,,130,Norton city,51720,,,,,,Black,Black,,,FALSE,,,FALSE,,,5824,White
+VA-2009-007514,VA,2009-01-03,,130,Norton city,51720,,,,,,Black,Black,,,FALSE,,,FALSE,,,5824,White
+VA-2009-007515,VA,2009-01-03,,130,Norton city,51720,,,,,,Black,Black,,,FALSE,,,FALSE,,,5824,White
+VA-2009-008038,VA,2009-01-03,,130,Norton city,51720,,,,,,Hispanic,Hispanic,,,FALSE,,,FALSE,,,5824,White
+VA-2009-008613,VA,2009-01-03,,130,Norton city,51720,,,,,,Black,Black,,,TRUE,,,,,,5824,White
+VA-2009-008631,VA,2009-01-03,,130,Norton city,51720,,,,,,Hispanic,Hispanic,,,TRUE,,,,,,5824,White
