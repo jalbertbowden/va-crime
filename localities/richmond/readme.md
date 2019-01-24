@@ -1,7 +1,8 @@
 # [Richmond Police Department](http://www.richmondgov.com/Police/index.aspx)  
 
 [Crime Incident Information](http://www.richmondgov.com/Police/CrimeIncidentInfo.aspx)  
-[Crime Incident Information Center](http://eservices.ci.richmond.va.us/applications/crimeinfo/index.asp)  
+![Richmond Police Department Crime Incident Information Center](https://raw.githubusercontent.com/jalbertbowden/va-crime/master/localities/richmond/richmond-police-department-crime-information-incident-center-cii-header.gif)  
+[Crime Incident Information (CII) Center](http://eservices.ci.richmond.va.us/applications/crimeinfo/index.asp)  
 [Police Precincts & Sectors](http://eservices.ci.richmond.va.us/applications/MapLibrary/maps/general/Police_Areas_44x34.pdf)  
 [Unsolved Homicides](http://www.richmondgov.com/Police/unsolved/coldcases.aspx)  
 [Annual Reports](http://www.richmondgov.com/Police/AnnualReports.aspx)  
