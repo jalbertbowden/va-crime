@@ -1,0 +1,12 @@
+Crime,Number of Offenses,Cases Cleared,% Cleared
+Homicide,1,1,100%
+Rape,1,1,100%
+Robbery,14,7,50%
+Aggravated Assault,21,19,90%
+Total Violent Crimes,37,28,76%
+Break & Enter,82,34,41%
+Larceny,788,481,61%
+Vehicle Theft,16,7,44%
+Arson,10,3,30%
+Total Property Crimes,896,525,59%
+Total Part I Crimes,933,553,59%

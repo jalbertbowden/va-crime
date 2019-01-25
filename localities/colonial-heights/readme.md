@@ -1,0 +1,47 @@
+# [Colonial Heights](http://www.colonialheightsva.gov/) 
+
+## [Colonial Heights Police Department](http://www.colonialheightsva.gov/156/Police)  
+### [Police Crime & Traffic Statistics](http://www.colonialheightsva.gov/Archive.aspx?AMID=48)
+------------------------------------------------------------------------------------------
+
+1.  [2016 Crime and Traffic Statistics](http://www.colonialheightsva.gov/Archive.aspx?ADID=1120)
+2.  [(PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/1120)
+3.  [2015 Crime and Traffic Statistics](http://www.colonialheightsva.gov/Archive.aspx?ADID=956)
+4.  [(PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/956)
+5.  [2014 Crime and Traffic Statistics](http://www.colonialheightsva.gov/Archive.aspx?ADID=865)
+6.  [(PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/865)
+7.  [2013 Crime and Traffic Statistics](http://www.colonialheightsva.gov/Archive.aspx?ADID=1029)
+8.  [(PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/1029)
+9.  [2012 Crime and Traffic Statistics](http://www.colonialheightsva.gov/Archive.aspx?ADID=701)
+10.  [(PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/701)
+11.  [2011 Crime and Traffic Statistics](http://www.colonialheightsva.gov/Archive.aspx?ADID=679)
+12.  [(PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/679)
+13.  [2010 Crime and Traffic Statistics](http://www.colonialheightsva.gov/Archive.aspx?ADID=517)
+14.  [(PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/517)
+15.  [2009 Crime and Traffic Statistics](http://www.colonialheightsva.gov/Archive.aspx?ADID=518)
+16.  [(PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/518)
+
+### [Police Annual Reports](http://www.colonialheightsva.gov/Archive.aspx?AMID=54&Type=&ADID=)
+------------------------------------------------------------------------------------------
+
+1.  [2017 CHPD Annual Report](http://www.colonialheightsva.gov/Archive.aspx?ADID=1212)
+2.  [2017 CHPD Annual Report (PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/1212)
+3.  [2016 CHPD Annual Report](http://www.colonialheightsva.gov/Archive.aspx?ADID=1104)
+4.  [2016 CHPD Annual Report (PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/1104)
+5.  [2015 CHPD Annual Report](http://www.colonialheightsva.gov/Archive.aspx?ADID=1017)
+6.  [2015 CHPD Annual Report (PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/1017)
+7.  [2014 CHPD Annual Report](http://www.colonialheightsva.gov/Archive.aspx?ADID=1016)
+8.  [2014 CHPD Annual Report (PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/1016)
+9.  [2013 CHPD Annual Report](http://www.colonialheightsva.gov/Archive.aspx?ADID=1028)
+10.  [2013 CHPD Annual Report (PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/1028)
+11.  [2012 CHPD Annual Report](http://www.colonialheightsva.gov/Archive.aspx?ADID=1027)
+12.  [2012 CHPD Annual Report (PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/1027)
+13.  [2011 CHPD Annual Report](http://www.colonialheightsva.gov/Archive.aspx?ADID=1026)
+14.  [2011 CHPD Annual Report (PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/1026)
+15.  [2010 CHPD Annual Report](http://www.colonialheightsva.gov/Archive.aspx?ADID=1025)
+16.  [2010 CHPD Annual Report (PDF)](http://www.colonialheightsva.gov/ArchiveCenter/ViewFile/Item/1025)  
+
+## [Colonial Heights Sheriff’s Office](http://www.colonialheightsva.gov/266/Sheriff)  
+[2016 Annual Report - Colonial Heights Sheriff’s Office](http://www.colonialheightsva.gov/DocumentCenter/View/7507/2016-Annual-Report-?bidId=)   
+[CHPD Facebook](https://www.facebook.com/colonialheightspolice)   
+
