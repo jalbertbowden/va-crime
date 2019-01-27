@@ -1,4 +1,6 @@
-# [Richmond Police Department](http://www.richmondgov.com/Police/index.aspx)  
+# [City of Richmond, Virginia](http://www.richmondgov.com/)  
+
+## [Richmond Police Department](http://www.richmondgov.com/Police/index.aspx)  
 
 [Crime Incident Information](http://www.richmondgov.com/Police/CrimeIncidentInfo.aspx)  
 ![Richmond Police Department Crime Incident Information Center](https://raw.githubusercontent.com/jalbertbowden/va-crime/master/localities/richmond/richmond-police-department-crime-information-incident-center-cii-header.gif)  
@@ -22,3 +24,15 @@ Internal Affairs Complaints - IAD Complaints will be posted the first of each mo
 [2010 Homicides](http://www.richmondgov.com/Police/2010OpenHomicides.aspx)  
 [2009 Homicides](http://www.richmondgov.com/Police/2008OpenHomicides.aspx)  
 [Older Unsolved Homicides](http://www.richmondgov.com/Police/unsolved/coldcases.aspx) 
+
+### RPD Social Media  
+[Richmond Police on Facebook](https://www.facebook.com/RichmondPolice/)  
+
+## VCU Police Department  
+
+### VCUPD Social Media  
+[VCU PD on Facebook](https://www.facebook.com/VCUPD/)  
+
+
+## Community  
+[Richmond Crime Stoppers](http://www.crimestoppersrichmondvirginia.com/)
