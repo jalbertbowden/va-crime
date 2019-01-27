@@ -1,2 +1,19 @@
 # Virginia Criminal Justice Open Data Document Library  
 
+[Open Data Of Crime: A Review of Spanish Open Data Portals](https://github.com/jalbertbowden/va-crime/blob/master/lib/open-data-of-crime-a-review-of-spanish-open-data-portals.pdf)
+[Spatial analysis of police open data as a part of community policing – an example of Pardubice city (Czech Republic)](https://github.com/jalbertbowden/va-crime/blob/master/lib/spatial-analysis-of-police-open-data-as-a-part-of-community-policing--an-example-of-pardubice-city-czech-republic.pdf)  
+[Police Recorded Crime and Outcomes: Open Data Tables User Guide October 2016](https://github.com/jalbertbowden/va-crime/blob/master/lib/police-recorded-crime-and-outcomes-open-data-tables-user-guide-october-2016-pprc-user-guide-oct16.pdf)   
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/560132/pprc-user-guide-oct16.pdf
+[An Exploration of Crime Prediction Using Data Mining on Open Data](https://github.com/jalbertbowden/va-crime/blob/master/lib/an-exploration-of-crime-prediction-using-data-mining-on-open-data.pdf)
+[Open Data Policing](https://github.com/jalbertbowden/va-crime/blob/master/lib/open-data-policing.pdf)  
+[Reliability Analyses of Open Government Data](https://github.com/jalbertbowden/va-crime/blob/master/lib/reliability-analyses-of-open-government-data.pdf)  
+[How Law Enforcement Agencies Releasing Open Data Can Protect Victim Privacy & Safety](https://github.com/jalbertbowden/va-crime/blob/master/lib/how-law-enforcement-agencies-releasing-open-data-can-protect-victim-privacy-and-safety.pdf)  
+[Privacy in the Information Age: A Guide for Sharing Crime Maps and Spatial Dat](https://github.com/jalbertbowden/va-crime/blob/master/lib/privacy-in-the-information-age-a-guide-for-sharing-crime-maps-and-spatial-dat.pdf)  
+[Police Killings and Police Deaths Are Public Health Data and Can Be Counted](https://github.com/jalbertbowden/va-crime/blob/master/lib/police-killings-and-police-deaths-are-public-health-data-and-can-be-counted-pmed.1001915.pdf)  
+[Police Records A reporter’s state-by-state access guide to law enforcement records](https://github.com/jalbertbowden/va-crime/blob/master/lib/police-records-a-reporter%E2%80%99s-state-by-state-access-guide-to-law-enforcement-records.pdf)  
+[Improving Police Use of Force: A Closer Look at Data Collection - The National Association for Civilian Oversight of Law Enforcement (NACOLE)](https://github.com/jalbertbowden/va-crime/blob/master/lib/improving-police-use-of-force-a-closer-look-at-data-collection--the-national-association-for-civilian-oversight-of-law-enforcement-nacole.pdf)  
+[More COPS, Less Crime∗](https://github.com/jalbertbowden/va-crime/blob/master/lib/more-cops-less-crime.pdf)
+[Open crime and justice data in UK: a case study of Police.uk and Data.police.uk](https://github.com/jalbertbowden/va-crime/blob/master/lib/sharepsi-samosworkshoppolice.ukanddata.police.uk.pdf)  
+[Open Data, the Criminal Justice System, and the Police Data Initiative](https://github.com/jalbertbowden/va-crime/blob/master/lib/open-data-police-data-initiative.pdf)
+[Police.uk and Data.police.uk: Developing Open Crime and Justice Data for the UK](https://github.com/jalbertbowden/va-crime/blob/master/lib/police.uk-and-data.police.uk-developing-open-crime-and-justice-data-for-the-uk.pdf)  
+
