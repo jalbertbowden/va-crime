@@ -1,6 +1,13 @@
 Virginia Open Criminal Justice Data
 ========
 
+## Datasets  
+### [Police Shootings](https://github.com/jalbertbowden/va-crime/tree/master/shootings)  
+### [Localities]()  
+## [Colleges/Universities]()  
+
+
+
 Virginia Crime Data - parsed and converted into web consumable, open data formats  
 Sources consist of:  
   
