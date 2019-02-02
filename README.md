@@ -4,6 +4,7 @@ Virginia Open Criminal Justice Data
 ## Datasets  
 ### [Police Shootings](https://github.com/jalbertbowden/va-crime/tree/master/shootings)  
 ### [Police Crime Database](https://github.com/jalbertbowden/va-crime/tree/master/police-crime-database)  
+### [Police Stops - Open Policing](https://github.com/jalbertbowden/va-crime/tree/master/police-stops)  
 ### [Localities](https://github.com/jalbertbowden/va-crime/tree/master/localities)  
 ### [Colleges/Universities](https://github.com/jalbertbowden/va-crime/tree/master/colleges-universities)  
 
