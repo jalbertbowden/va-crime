@@ -1,3 +1,4 @@
+# ![FatalEncounters.org](https://raw.githubusercontent.com/jalbertbowden/va-crime/master/shootings/fatal-encounters/fe-fatal-encounters-logo-bw.jpg)  
 # [FatalEncounters.org](https://www.fatalencounters.org/)  
 
 [form-responses-virginia.csv]()  
