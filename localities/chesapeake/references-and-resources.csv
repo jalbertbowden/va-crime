@@ -1,0 +1,6 @@
+"Title","URL","NOTES (DELETE THIS BEFORE PUSHING LIVE)"
+"Chesapeake Crime Reports - Virginia Pilot","http://hamptonroads.com/newsdata/crime/chesapeake/all?page=0001","SCRAPE AND/OR REVISIT TO ENSURE THIS HAS BEEN COLLECTED"
+"VP Reports - last document (NOTE: this changes daily)","http://hamptonroads.com/newsdata/crime/chesapeake/all?page=10192","SCRAPE AND/OR REVISIT TO ENSURE THIS HAS BEEN COLLECTED"
+"Feed of Latest Crimes Reported in Chesapeake - Virginia Pilot","http://feeds.feedburner.com/LatestCrimesReportedInChesapeake","SCRAPE AND/OR REVISIT TO ENSURE THIS HAS BEEN COLLECTED"
+"Daily & Weekly Crime Reports - Chesapeake PD","http://web.archive.org/web/20100419000536/http://www.chesapeake.va.us/SERVICES/DEPART/police/police/dcr.shtml","SCRAPE AND/OR REVISIT TO ENSURE THIS HAS BEEN COLLECTED"
+"Monthly and Quarterly Incident Based Reports - Chesapeake PD","http://web.archive.org/web/20090312094923/http://www.chesapeake.va.us/services/depart/police/police/ibr.shtml","SCRAPE AND/OR REVISIT TO ENSURE THIS HAS BEEN COLLECTED"
