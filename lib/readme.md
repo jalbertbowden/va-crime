@@ -60,3 +60,7 @@
 [Virginia’s Peculiar System of Local and Regional Jails 2010 Spring DCJS Report](https://github.com/jalbertbowden/va-crime/blob/master/lib/virginias-peculiar-system-of-local-and-regional-jails-2010-spring-dcjs-jail-report-2.pdf)  
 [Virginia - NICS Improvement Amendments Act of 2007 Promising Practices for Improved Record Reporting](https://github.com/jalbertbowden/va-crime/blob/master/lib/virginia-nics-improvement-amendments-act-of-2007-promising-practices-for-improved-record-reporting.pdf)  
 [What the Cops Can't Do, Internet Service Providers Can: Preserving Privacy in Email Contents](https://github.com/jalbertbowden/va-crime/blob/master/lib/what-the-cops-cant-do-internet-service-providers-can-vjolt-morrison-2011.pdf)  
+
+## Directories  
+[Virginia Comprehensive Services Act](https://github.com/jalbertbowden/va-crime/blob/master/lib/virginia-comprehensive-services-act/readme.md)  
+
