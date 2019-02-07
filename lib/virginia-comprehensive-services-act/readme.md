@@ -3,3 +3,6 @@
 
 ## ![Connecting Connected Facts - Slide 7.](https://raw.githubusercontent.com/jalbertbowden/va-crime/master/lib/virginia-comprehensive-services-act/services-for-at-risk-youth-virginia-comprehensive-services-act-7-w1200.png)
 ## Connecting Connected Facts - Slide 7  
+
+## ![Social Network Visualize Cause/Effect - Slide 9.](https://raw.githubusercontent.com/jalbertbowden/va-crime/master/lib/virginia-comprehensive-services-act/services-for-at-risk-youth-virginia-comprehensive-services-act-9-w1200.png)  
+## Social Network Visualize Cause/Effect - Slide 9
