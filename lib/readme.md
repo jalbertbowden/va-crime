@@ -1,9 +1,12 @@
 # Virginia Criminal Justice Open Data Document Library  
 
+[An Exploration of Crime Prediction Using Data Mining on Open Data](https://github.com/jalbertbowden/va-crime/blob/master/lib/an-exploration-of-crime-prediction-using-data-mining-on-open-data.pdf)
+
+
 [Open Data Of Crime: A Review of Spanish Open Data Portals](https://github.com/jalbertbowden/va-crime/blob/master/lib/open-data-of-crime-a-review-of-spanish-open-data-portals.pdf)
 [Spatial analysis of police open data as a part of community policing – an example of Pardubice city (Czech Republic)](https://github.com/jalbertbowden/va-crime/blob/master/lib/spatial-analysis-of-police-open-data-as-a-part-of-community-policing--an-example-of-pardubice-city-czech-republic.pdf)  
 [Police Recorded Crime and Outcomes: Open Data Tables User Guide October 2016](https://github.com/jalbertbowden/va-crime/blob/master/lib/police-recorded-crime-and-outcomes-open-data-tables-user-guide-october-2016-pprc-user-guide-oct16.pdf)     
-[An Exploration of Crime Prediction Using Data Mining on Open Data](https://github.com/jalbertbowden/va-crime/blob/master/lib/an-exploration-of-crime-prediction-using-data-mining-on-open-data.pdf)
+
 [Open Data Policing](https://github.com/jalbertbowden/va-crime/blob/master/lib/open-data-policing.pdf)  
 [Reliability Analyses of Open Government Data](https://github.com/jalbertbowden/va-crime/blob/master/lib/reliability-analyses-of-open-government-data.pdf)  
 [How Law Enforcement Agencies Releasing Open Data Can Protect Victim Privacy & Safety](https://github.com/jalbertbowden/va-crime/blob/master/lib/how-law-enforcement-agencies-releasing-open-data-can-protect-victim-privacy-and-safety.pdf)  
