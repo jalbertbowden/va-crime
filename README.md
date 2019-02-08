@@ -8,6 +8,7 @@ Virginia Open Criminal Justice Data
 ### [Localities](https://github.com/jalbertbowden/va-crime/tree/master/localities)  
 ### [Colleges/Universities](https://github.com/jalbertbowden/va-crime/tree/master/colleges-universities)  
 
+## [Virginia Criminal Justice Open Data Document Library](lib/readme.md)  
 
 
 
