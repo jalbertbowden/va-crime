@@ -18,3 +18,4 @@ Virginia Crime Data - parsed and converted into web consumable, open data format
 Sources consist of:   
 [Virginia State Police (VSP) Annual Crime Reports](http://www.vsp.state.va.us/Crime_in_Virginia.shtm)  
 
+[Criminal Justice Databases @ VCU](https://apps.library.vcu.edu/dblist/category/133)  
