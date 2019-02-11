@@ -35,4 +35,9 @@ Internal Affairs Complaints - IAD Complaints will be posted the first of each mo
 
 
 ## Community  
-[Richmond Crime Stoppers](http://www.crimestoppersrichmondvirginia.com/)
+[Richmond Crime Stoppers](http://www.crimestoppersrichmondvirginia.com/)  
+[Be RPD](https://berpdrva.com/)  
+[Be RPD Feed](https://berpdrva.com/feed/)  
+
+
+
