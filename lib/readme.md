@@ -62,6 +62,7 @@
 [What the Cops Can't Do, Internet Service Providers Can: Preserving Privacy in Email Contents](https://github.com/jalbertbowden/va-crime/blob/master/lib/what-the-cops-cant-do-internet-service-providers-can-vjolt-morrison-2011.pdf)  
 
 ## Directories  
+[Modernizing Crime Statistics: Report 1: Defining and Classifying Crime (2016)](https://github.com/jalbertbowden/va-crime/tree/master/lib/modernizing-crime-statistics/readme.md)
 [Virginia Comprehensive Services Act](https://github.com/jalbertbowden/va-crime/blob/master/lib/virginia-comprehensive-services-act/readme.md)  
 [Recividism Studies](https://github.com/jalbertbowden/va-crime/tree/master/lib/recidivism-studies)  
 [Virginia Documents/Reports - National Criminal Justice Reference Service (NCJRS)](https://github.com/jalbertbowden/va-crime/tree/master/lib/ncjrs-va)  
