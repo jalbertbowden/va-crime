@@ -2,6 +2,7 @@ Virginia Open Criminal Justice Data
 ========
 
 ## Datasets  
+### [Virginia Bodycam Policies ACLUVA Study](https://github.com/jalbertbowden/virginia-bodycam-policies-acluva)   
 ### [Police Shootings](https://github.com/jalbertbowden/va-crime/tree/master/shootings)  
 ### [Police Crime Database](https://github.com/jalbertbowden/va-crime/tree/master/police-crime-database)  
 ### [Police Stops - Open Policing](https://github.com/jalbertbowden/va-crime/tree/master/police-stops)  
