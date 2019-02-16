@@ -8,7 +8,7 @@ Virginia Open Criminal Justice Data
 ### [Police Stops - Open Policing](https://github.com/jalbertbowden/va-crime/tree/master/police-stops)  
 ### [Localities](https://github.com/jalbertbowden/va-crime/tree/master/localities)  
 ### [Colleges/Universities](https://github.com/jalbertbowden/va-crime/tree/master/colleges-universities)  
-
+### [Police Data Initiative](https://github.com/jalbertbowden/va-crime/tree/master/police-data-initiative)
 ## [Virginia Criminal Justice Open Data Document Library](lib/readme.md)  
 
 
