@@ -1,0 +1,1 @@
+[Virginia Beach Police Precincts](https://services2.arcgis.com/CyVvlIiUfRBmMQuu/ArcGIS/rest/services/PolicePrecincts/FeatureServer/0)
