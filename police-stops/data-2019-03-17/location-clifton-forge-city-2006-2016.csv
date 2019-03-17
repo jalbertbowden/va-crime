@@ -1,0 +1,12 @@
+raw_row_number,date,location,county_name,subject_race,officer_id_hash,officer_race,type,search_conducted
+1421926,2009-12-05,Clifton Forge City,NA,white,13d5b9e67b,NA,vehicular,FALSE
+1421927,2009-12-05,Clifton Forge City,NA,white,13d5b9e67b,NA,vehicular,FALSE
+1421928,2009-12-05,Clifton Forge City,NA,white,13d5b9e67b,NA,vehicular,FALSE
+3732893,2009-12-05,Clifton Forge City,NA,black,13d5b9e67b,NA,vehicular,FALSE
+3732894,2009-12-05,Clifton Forge City,NA,black,13d5b9e67b,NA,vehicular,FALSE
+3732895,2009-12-05,Clifton Forge City,NA,black,13d5b9e67b,NA,vehicular,FALSE
+4552361,2009-12-05,Clifton Forge City,NA,hispanic,13d5b9e67b,NA,vehicular,FALSE
+4552362,2009-12-05,Clifton Forge City,NA,hispanic,13d5b9e67b,NA,vehicular,FALSE
+2146664,2012-06-16,Clifton Forge City,NA,white,0979e4dd7d,NA,vehicular,FALSE
+2146665,2012-06-16,Clifton Forge City,NA,white,0979e4dd7d,NA,vehicular,FALSE
+2146666,2012-06-16,Clifton Forge City,NA,white,0979e4dd7d,NA,vehicular,FALSE

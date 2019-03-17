@@ -1,0 +1,4 @@
+raw_row_number,date,location,county_name,subject_race,officer_id_hash,officer_race,type,search_conducted
+48135,2010-07-31,COVINGTON CITY,NA,white,669a6ecfb0,NA,vehicular,TRUE
+4882516,2010-07-31,COVINGTON CITY,NA,other/unknown,669a6ecfb0,NA,vehicular,FALSE
+4882517,2010-07-31,COVINGTON CITY,NA,other/unknown,669a6ecfb0,NA,vehicular,FALSE
