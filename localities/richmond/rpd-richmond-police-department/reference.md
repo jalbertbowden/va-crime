@@ -1,0 +1,10 @@
+# RPD Annual Reports    
+[2016 Annual Report](https://web.archive.org/web/20190330173739/http://www.richmondgov.com/Police/documents/2016AnnualReport.pdf)  
+[2015 Annual Report](https://web.archive.org/web/20190330154913/http://www.richmondgov.com/Police/documents/2015AnnualReport.pdf)  
+[2014 Annual Report](https://web.archive.org/web/20190330095251/http://www.richmondgov.com/Police/documents/2014AnnualReport.pdf)  
+[2013 Annual Report](https://web.archive.org/web/20190330120620/http://www.richmondgov.com/Police/documents/2013AnnualReport.pdf)  
+[2012 Annual Report](https://web.archive.org/web/20190330190511/http://www.richmondgov.com/Police/documents/2012AnnualReport.pdf)  
+[2011 Annual Report](https://web.archive.org/web/20190330144723/http://www.richmondgov.com/Police/documents/2011AnnualReport.pdf)  
+[2010 Annual Report](https://web.archive.org/web/20190330112246/http://www.richmondgov.com/Police/documents/2010AnnualReport.pdf)  
+[2009 Annual Report](https://web.archive.org/web/20190330110218/http://www.richmondgov.com/Police/documents/2009AR.pdf)  
+[2008 Annual Report](https://web.archive.org/web/20190330173530/http://www.richmondgov.com/Police/documents/2008AR.pdf)  
